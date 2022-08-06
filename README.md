@@ -18,8 +18,8 @@ awesome wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
 awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 awesome javascript es2015-es2022 [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript) 
- [🌐¹](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🌐²](https://yagmurcetintas.com/journal/whats-new-in-es2022) 
-[🌐³](https://dev.to/jasmin/whats-new-in-es2022-1de6)<br>
+ [🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) 
+[🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) [🧰](https://github.com/sudheerj/ECMAScript-features)<br>
 
 awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
