@@ -3,7 +3,7 @@
 
 [xrpl-hooks](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
-xrpl [r¹](https://github.com/stars/f1f47a23/lists/xrpl) [r²](https://github.com/topics/xrpl)<br>
+xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [r²](https://github.com/topics/xrpl)<br>
 
 xrp ripple [r¹](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [r²](https://github.com/topics/xrp)<br>
 
