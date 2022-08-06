@@ -1,7 +1,7 @@
 
 # AWESOME LIST OF RESOURCES
 
-xrpl-hooks [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
+xrpl-hooks🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
 xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
