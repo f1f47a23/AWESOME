@@ -19,7 +19,7 @@ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescr
 
 awesome javascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
-ecmascript-es2015-es2022 [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
+ecmascript es2015 es2022 [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
  [🧰](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)<br>
 
 awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
