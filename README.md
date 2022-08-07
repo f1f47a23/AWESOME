@@ -23,7 +23,6 @@ xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.c
 - [xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
 - [wietse-xrpl-accountlib](https://github.com/WietseWind/xrpl-accountlib)
 - [wietse-xrpl-stats](https://github.com/WietseWind/xrp-ledgerstats)
-
 - [richard-xrpl-base58-encoder](https://richardah.github.io/xrpl-base58-tool/)
 - [richard-xrpl-binary-visualizer](https://richardah.github.io/xrpl-binary-visualizer/)
 - [wietse-xrpl-secret-numbers](https://github.com/WietseWind/xrpl-secret-numbers)
