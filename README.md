@@ -3,14 +3,14 @@
 
 xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
-- [xrpl-hooks-testnet-explorer](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
-- [xrpl-hooks-testnet-faucet](https://hooks-testnet-v2.xrpl-labs.com/)
-- [hooks.xrpl.org](https://hooks.xrpl.org/)
-- [xrpl-hooks-docs](https://xrpl-hooks.readme.io/)
-- [xrpl-hooks-ide](https://hooks-builder.xrpl.org/develop)
-- [xrpl-hooks-forum](https://github.com/XRPLF/Hooks/discussions)
-- [richard-xrpl-hooks](https://github.com/RichardAH/xrpl.js)
-- [richard-xrpl-hookon-calculator](https://github.com/RichardAH/xrpl-hookon-calculator)
+- [xrpl-hooks-testnet-explorer🌐](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
+- [xrpl-hooks-testnet-faucet🌐](https://hooks-testnet-v2.xrpl-labs.com/)
+- [hooks.xrpl.org🌐](https://hooks.xrpl.org/)
+- [xrpl-hooks-docs🌐](https://xrpl-hooks.readme.io/)
+- [xrpl-hooks-ide🌐](https://hooks-builder.xrpl.org/develop)
+- [xrpl-hooks-forum🌐](https://github.com/XRPLF/Hooks/discussions)
+- [richard/xrpl-hooks](https://github.com/RichardAH/xrpl.js)
+- [richard/xrpl-hookon-calculator](https://github.com/RichardAH/xrpl-hookon-calculator)
 - []()
 - []()
 
@@ -18,13 +18,13 @@ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
 xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-- [xrpl-dev-portal](https://xrpl.org/)
-- [xrpl-explorer](https://explorer.xrplf.org/)
-- [livenet-xrpl-explorer](https://livenet.xrpl.org/)
+- [xrpl-dev-portal🌐](https://xrpl.org/)
+- [xrpl-explorer🌐](https://explorer.xrplf.org/)
+- [livenet-xrpl-explorer🌐](https://livenet.xrpl.org/)
 
 - xrp-paper-wallet
-  - [wietse-xrp-paper-wallet](https://www.xrpaddress.org/)
-  - [bithomp](https://bithomp.github.io/xrp-paper-wallet/)
+  - [wietse-xrp-paper-wallet🌐](https://www.xrpaddress.org/)
+  - [bithomp🌐](https://bithomp.github.io/xrp-paper-wallet/)
   - [wietse/XADDRESS](https://github.com/xrp-community/xrpl-tagged-address-codec)
     - [jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
 
