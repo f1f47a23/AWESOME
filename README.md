@@ -9,9 +9,9 @@ xrp ripple [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [
 
 smart contracts [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
-p2p [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
-
 awesome crypto [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
+
+p2p [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 awesome wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
 
