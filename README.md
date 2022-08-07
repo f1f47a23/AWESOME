@@ -1,7 +1,22 @@
 
 # AWESOME LIST OF RESOURCES
 
-xrpl-hooks🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
+xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
+
+- [richard-xrpl-hooks](https://github.com/RichardAH/xrpl.js)
+- [richard-xrpl-hookon-calculator](https://github.com/RichardAH/xrpl-hookon-calculator)
+- [hooks.xrpl.org](https://hooks.xrpl.org/)
+- [xrpl-hooks-docs](https://xrpl-hooks.readme.io/)
+- [xrpl-hooks-ide](https://hooks-builder.xrpl.org/develop)
+- [xrpl-hooks-forum](https://github.com/XRPLF/Hooks/discussions)
+- [xrpl-hooks-testnet-faucet](https://hooks-testnet-v2.xrpl-labs.com/)
+- [xrpl-hooks-testnet-explorer](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
+- []()
+- []()
+
+
+
+
 
 xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
@@ -15,7 +30,7 @@ xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.c
 - [wietse-fetch-xrpl-transactions](https://github.com/WietseWind/fetch-xrpl-transactions)
 - [richard-xrpl-tools](https://github.com/RichardAH/xrpl-tools)
 - [wietse-XRPL-MultiSignTool](https://github.com/WietseWind/XRPL-MultiSignTool)
-- []()
+- [xrpl-explorer](https://explorer.xrplf.org/)
 - []()
 
 
