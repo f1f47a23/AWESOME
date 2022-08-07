@@ -7,7 +7,7 @@ xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.c
 
 
 - [xrpl-base58-encoder](https://richardah.github.io/xrpl-base58-tool/)<br>
-- [xrpl-base58-encoder](https://richardah.github.io/xrpl-base58-tool/)<br>
+- [xrpl-binary-visualizer](https://richardah.github.io/xrpl-binary-visualizer/)<br>
 
 
 xrp ripple [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
@@ -23,6 +23,8 @@ awesome wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
 awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 awesome javascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+
+- [js.assert](https://github.com/browserify/commonjs-assert)
 
 ecmascript es2015 es2022 [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
  [🧰](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)<br>
