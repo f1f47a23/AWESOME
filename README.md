@@ -22,12 +22,10 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
 - [xrpl-dev-portal🌐](https://xrpl.org/)
 - [xrpl-explorer🌐](https://explorer.xrplf.org/)
 - [livenet-xrpl-explorer🌐](https://livenet.xrpl.org/)
-
 - xrp-paper-wallet
   - [wietse-xrp-paper-wallet🌐](https://www.xrpaddress.org/)
   - [bithomp🌐](https://bithomp.github.io/xrp-paper-wallet/)
   - [wietse/XADDRESS](https://github.com/xrp-community/xrpl-tagged-address-codec) [jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
-
 - [XRPLF/xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
   - [ripple-address-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
   - [ripple-binary-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
@@ -40,12 +38,10 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
 - [wietse/XRPL-MultiSignTool](https://github.com/WietseWind/XRPL-MultiSignTool)
 - [wietse/xrpl-tx](https://github.com/XRPL-Labs/XrplTxData)
 - [wietse/xrpl-accountinfo](https://github.com/WietseWind/fetch-xrpl-accounts)
-
 - [richard/xrpl-base58](https://richardah.github.io/xrpl-base58-tool/)
 - [richard/xrpl-binary-visualizer](https://richardah.github.io/xrpl-binary-visualizer/)
 - [richard/xrpl-tools](https://github.com/RichardAH/xrpl-tools)
 - [richard/xrpl-epoch](https://github.com/RichardAH/xrpl-epoch-converter) [🌐](https://richardah.github.io/xrpl-epoch-converter/index.html)
-
 - []()
 - []()
 
@@ -92,10 +88,6 @@ awesome javascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascr
 - [browserify/assert](https://github.com/browserify/commonjs-assert)
 - [tiliqua/assert](https://github.com/Tiliqua/assert-js)
 - [lodash](https://github.com/lodash/lodash)
-- []()
-- []()
-- []()
-- []()
 - []()
 - []()
 
