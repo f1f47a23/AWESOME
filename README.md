@@ -12,6 +12,7 @@ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 - [richard-xrpl-hooks](https://github.com/RichardAH/xrpl.js)
 - [richard-xrpl-hookon-calculator](https://github.com/RichardAH/xrpl-hookon-calculator)
 - []()
+- []()
 
 
 
@@ -30,6 +31,9 @@ xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.c
 - [wietse-fetch-xrpl-transactions](https://github.com/WietseWind/fetch-xrpl-transactions)
 - [richard-xrpl-tools](https://github.com/RichardAH/xrpl-tools)
 - [wietse-XRPL-MultiSignTool](https://github.com/WietseWind/XRPL-MultiSignTool)
+- 
+- [wietse-xrpl-tx](https://github.com/XRPL-Labs/XrplTxData)
+- []()
 - []()
 
 
@@ -48,7 +52,17 @@ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescr
 
 awesome javascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
-- [js.assert](https://github.com/browserify/commonjs-assert)
+- [browserify.assert](https://github.com/browserify/commonjs-assert)
+- [tiliqua.assert](https://github.com/Tiliqua/assert-js)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 
 ecmascript es2015 es2022 [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
  [🧰](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)<br>
