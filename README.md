@@ -32,6 +32,7 @@ xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.c
 - [richard-xrpl-tools](https://github.com/RichardAH/xrpl-tools)
 - [wietse-XRPL-MultiSignTool](https://github.com/WietseWind/XRPL-MultiSignTool)
 - [wietse-xrpl-tx](https://github.com/XRPL-Labs/XrplTxData)
+- [wietse-xrpl-accountinfo](https://github.com/WietseWind/fetch-xrpl-accounts)
 - []()
 - []()
 
