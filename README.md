@@ -26,9 +26,7 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
   - [wietse-xrp-paper-wallet](https://www.xrpaddress.org/)
   - [bithomp](https://bithomp.github.io/xrp-paper-wallet/)
   - [wietse/xrpl-Xaddress](https://github.com/xrp-community/xrpl-tagged-address-codec)
-    - [jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/)
-    - [runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)
-    - [🌐](https://xrpaddress.info/)
+    - [jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
 
 - [XRPLF/xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
   - [XRPLF/xrpl.js/ripple-address-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
