@@ -89,8 +89,8 @@ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescr
 
 awesome javascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
-- [browserify.assert](https://github.com/browserify/commonjs-assert)
-- [tiliqua.assert](https://github.com/Tiliqua/assert-js)
+- [browserify/assert](https://github.com/browserify/commonjs-assert)
+- [tiliqua/assert](https://github.com/Tiliqua/assert-js)
 - [lodash](https://github.com/lodash/lodash)
 - []()
 - []()
