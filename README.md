@@ -16,27 +16,32 @@ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
 
 
-xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
+- [xrpl-dev-portal](https://xrpl.org/)
 - [xrpl-explorer](https://explorer.xrplf.org/)
-- [xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
-- [wietse-xrpl-accountlib](https://github.com/WietseWind/xrpl-accountlib)
-- [wietse-xrpl-stats](https://github.com/WietseWind/xrp-ledgerstats)
-- [richard-xrpl-base58-encoder](https://richardah.github.io/xrpl-base58-tool/)
-- [richard-xrpl-binary-visualizer](https://richardah.github.io/xrpl-binary-visualizer/)
-- [wietse-xrpl-secret-numbers](https://github.com/WietseWind/xrpl-secret-numbers)
-- [wietse-secret-numbers-to-family-seed](https://github.com/WietseWind/secret-numbers-to-family-seed)
-- [wietse-fetch-xrpl-transactions](https://github.com/WietseWind/fetch-xrpl-transactions)
-- [richard-xrpl-tools](https://github.com/RichardAH/xrpl-tools)
-- [wietse-XRPL-MultiSignTool](https://github.com/WietseWind/XRPL-MultiSignTool)
-- [wietse-xrpl-tx](https://github.com/XRPL-Labs/XrplTxData)
-- [wietse-xrpl-accountinfo](https://github.com/WietseWind/fetch-xrpl-accounts)
+- [livenet-xrpl-explorer](https://livenet.xrpl.org/)
+- [XRPLF/xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
+-- [XRPLF/xrpl.js/ripple-address-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
+-- [XRPLF/xrpl.js/ripple-binary-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
+-- [XRPLF/xrpl.js/ripple-keypairs](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
+- [wietse/xrpl-accountlib](https://github.com/WietseWind/xrpl-accountlib)
+- [wietse/xrpl-stats](https://github.com/WietseWind/xrp-ledgerstats)
+- [richard/xrpl-base58-encoder](https://richardah.github.io/xrpl-base58-tool/)
+- [richard/xrpl-binary-visualizer](https://richardah.github.io/xrpl-binary-visualizer/)
+- [wietse/xrpl-secret-numbers](https://github.com/WietseWind/xrpl-secret-numbers)
+- [wietse/secret-numbers-to-family-seed](https://github.com/WietseWind/secret-numbers-to-family-seed)
+- [wietse/fetch-xrpl-transactions](https://github.com/WietseWind/fetch-xrpl-transactions)
+- [richard/xrpl-tools](https://github.com/RichardAH/xrpl-tools)
+- [wietse/XRPL-MultiSignTool](https://github.com/WietseWind/XRPL-MultiSignTool)
+- [wietse/xrpl-tx](https://github.com/XRPL-Labs/XrplTxData)
+- [wietse/xrpl-accountinfo](https://github.com/WietseWind/fetch-xrpl-accounts)
 - []()
 - []()
 
 
 
-xrp ripple [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 - []()
 - []()
@@ -49,6 +54,8 @@ smart contracts [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-da
 awesome crypto [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 
 - [brix-crypto-js](https://github.com/brix/crypto-js)
+- [cryptocoinjs-base-x](https://github.com/cryptocoinjs/base-x)
+- [indutny-elliptic](https://github.com/indutny/elliptic)
 - []()
 - []()
 
