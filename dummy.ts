@@ -2,11 +2,11 @@
 //
 // BEGINOF DUMMY CODE
 //
-
+//      Nothing to see here, move along
+//
 
 export { CDummy };
 
-// Nothing to see here, move along
 class CDummy {
 
     static async doNothingAtall(): Promise<CDummy> {
