@@ -19,7 +19,7 @@ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
 xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-- [xrpl-dev-portal🌐](https://xrpl.org/)
+- [xrpl-dev-portal{✘}](https://xrpl.org/)
 - [xrpl-explorer🌐](https://explorer.xrplf.org/)
 - [livenet-xrpl-explorer🌐](https://livenet.xrpl.org/)
 - xrp-paper-wallet
@@ -43,7 +43,7 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
 - [richard/xrpl-binary-visualizer](https://github.com/RichardAH/xrpl-binary-visualizer) [🌐](https://richardah.github.io/xrpl-binary-visualizer/)
 - [richard/xrpl-tools](https://github.com/RichardAH/xrpl-tools)
 - [richard/xrpl-epoch](https://github.com/RichardAH/xrpl-epoch-converter) [🌐](https://richardah.github.io/xrpl-epoch-converter/index.html)
-- [richard/xrpl-binary-codec](https://github.com/RichardAH/xrpl-binary-codec) [{❌}](https://xrpl.org/serialization.html)
+- [richard/xrpl-binary-codec](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
 - [ripple/explorer](https://github.com/ripple/explorer)
 - [bithomp/xrpl-api](https://github.com/Bithomp/xrpl-api)
 - []()
