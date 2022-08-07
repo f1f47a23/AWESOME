@@ -12,7 +12,6 @@ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 - [xrpl-hooks-testnet-faucet](https://hooks-testnet-v2.xrpl-labs.com/)
 - [xrpl-hooks-testnet-explorer](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
 - []()
-- []()
 
 
 
@@ -20,17 +19,18 @@ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
 xrpl [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
+- [xrpl-explorer](https://explorer.xrplf.org/)
+- [xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
+- [wietse-xrpl-accountlib](https://github.com/WietseWind/xrpl-accountlib)
+- [wietse-xrpl-stats](https://github.com/WietseWind/xrp-ledgerstats)
 
 - [richard-xrpl-base58-encoder](https://richardah.github.io/xrpl-base58-tool/)
 - [richard-xrpl-binary-visualizer](https://richardah.github.io/xrpl-binary-visualizer/)
-- [wietse-xrpl-accountlib](https://github.com/WietseWind/xrpl-accountlib)
 - [wietse-xrpl-secret-numbers](https://github.com/WietseWind/xrpl-secret-numbers)
 - [wietse-secret-numbers-to-family-seed](https://github.com/WietseWind/secret-numbers-to-family-seed)
-- [wietse-xrp-ledgerstats](https://github.com/WietseWind/xrp-ledgerstats)
 - [wietse-fetch-xrpl-transactions](https://github.com/WietseWind/fetch-xrpl-transactions)
 - [richard-xrpl-tools](https://github.com/RichardAH/xrpl-tools)
 - [wietse-XRPL-MultiSignTool](https://github.com/WietseWind/XRPL-MultiSignTool)
-- [xrpl-explorer](https://explorer.xrplf.org/)
 - []()
 
 
