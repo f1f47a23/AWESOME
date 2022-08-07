@@ -3,14 +3,14 @@
 
 xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
-- [richard-xrpl-hooks](https://github.com/RichardAH/xrpl.js)
-- [richard-xrpl-hookon-calculator](https://github.com/RichardAH/xrpl-hookon-calculator)
+- [xrpl-hooks-testnet-explorer](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
+- [xrpl-hooks-testnet-faucet](https://hooks-testnet-v2.xrpl-labs.com/)
 - [hooks.xrpl.org](https://hooks.xrpl.org/)
 - [xrpl-hooks-docs](https://xrpl-hooks.readme.io/)
 - [xrpl-hooks-ide](https://hooks-builder.xrpl.org/develop)
 - [xrpl-hooks-forum](https://github.com/XRPLF/Hooks/discussions)
-- [xrpl-hooks-testnet-faucet](https://hooks-testnet-v2.xrpl-labs.com/)
-- [xrpl-hooks-testnet-explorer](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
+- [richard-xrpl-hooks](https://github.com/RichardAH/xrpl.js)
+- [richard-xrpl-hookon-calculator](https://github.com/RichardAH/xrpl-hookon-calculator)
 - []()
 
 
