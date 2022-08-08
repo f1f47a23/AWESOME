@@ -50,6 +50,7 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
 - [🧰richard/xrpl-binary-codec](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
 - [🧰ripple/explorer](https://github.com/ripple/explorer)
 - [🧰bithomp/xrpl-api](https://github.com/Bithomp/xrpl-api)
+- [🧰ihomp/awesome-ripple](https://github.com/ihomp/awesome-ripple)
 - []()
 - []()
 
