@@ -33,9 +33,10 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
     - [🌐wietse-xrp-paper-wallet](https://www.xrpaddress.org/)
     - [🌐bithomp](https://bithomp.github.io/xrp-paper-wallet/)
     - [🧰wietse/XADDRESS](https://github.com/xrp-community/xrpl-tagged-address-codec) [🌐jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [🌐runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
-  - [🧰XRPLF/xrpl-client-lib/ripple-address-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
-  - [🧰XRPLF/xrpl-client-lib/ripple-binary-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
-  - [🧰XRPLF/xrpl-client-lib/ripple-keypairs](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
+  - XRPLF/xrpl-client-lib
+    - [🧰ripple-address-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
+    - [🧰ripple-binary-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
+    - [🧰ripple-keypairs](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
   - [🧰XRPL-Labs/ripple-keypairs](https://github.com/XRPL-Labs/ripple-keypairs)
   - [🧰XRPL-Labs/xrpl-sign-keypairs bip39,bip44](https://github.com/XRPL-Labs/xrpl-sign-keypairs)
   - [🧰XRPL-Labs/verify-xrpl-signature](https://github.com/XRPL-Labs/verify-xrpl-signature)
