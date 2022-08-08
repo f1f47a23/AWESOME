@@ -62,6 +62,8 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
 
 xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
+- [🧰flare-foundation/docs](https://github.com/flare-foundation/docs)
+  - [🧰DefiStandardXRP/flare-docs](https://github.com/DefiStandardXRP/docs)
 - []()
 - []()
 
