@@ -112,6 +112,11 @@ awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 - []()
 - []()
 
+awesome security [⭐](https://github.com/stars/f1f47a23/lists/awesome-security)<br>
+
+- []()
+- []()
+
 <br><br>
 
 
