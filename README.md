@@ -69,6 +69,12 @@ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ec
 
 smart contracts [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
+- [🧰ethereum/solidity](https://github.com/ethereum/solidity)
+- [🧰bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity)
+- [🧰bekatom/awesome-ethereum](https://github.com/bekatom/awesome-ethereum)
+- [🧰ethereumbook/mastering-ethereum](https://github.com/ethereumbook/ethereumbook)
+- [🧰smartcontractkit/solidity-course](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+- []()
 - []()
 - []()
 
