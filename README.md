@@ -25,8 +25,6 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
 - [🧰XRPLF/xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
 - [🧰XRPL-Labs/xrpl-client](https://github.com/XRPL-Labs/xrpl-client)
 - [🧰ripple/explorer](https://github.com/ripple/explorer)
-- [🧰bithomp/xrpl-api](https://github.com/Bithomp/xrpl-api)
-- [🧰ihomp/awesome-ripple](https://github.com/ihomp/awesome-ripple)
 - [🧰wietse/xrpl-stats](https://github.com/WietseWind/xrp-ledgerstats)
 - account-key/encode/sign
   - xrp-paper-wallet
@@ -64,6 +62,8 @@ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ec
 
 - [🧰flare-foundation/docs](https://github.com/flare-foundation/docs)
   - [🧰DefiStandardXRP/flare-docs](https://github.com/DefiStandardXRP/docs)
+- [🧰bithomp/xrpl-api](https://github.com/Bithomp/xrpl-api)
+- [🧰ihomp/awesome-ripple](https://github.com/ihomp/awesome-ripple)
 - []()
 - []()
 
