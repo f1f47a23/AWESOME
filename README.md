@@ -74,6 +74,8 @@ awesome crypto [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 - [🧰indutny/elliptic](https://github.com/indutny/elliptic)
 - [🌐base58](https://incoherency.co.uk/base58/)
 - [🧰davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs)
+- [🧰LazarSoft/jsqrcode](https://github.com/LazarSoft/jsqrcode)
+- [🧰jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
 - []()
 - []()
 
