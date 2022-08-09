@@ -45,7 +45,7 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
   - [🧰richard/xrpl-binary-visualizer](https://github.com/RichardAH/xrpl-binary-visualizer) [🌐](https://richardah.github.io/xrpl-binary-visualizer/)
   - [🧰richard/xrpl-binary-codec](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
   - [🧰richard/xrpl-epoch](https://github.com/RichardAH/xrpl-epoch-converter) [🌐](https://richardah.github.io/xrpl-epoch-converter/index.html)
-- xrpl-tx
+- xrpl-txn
   - [🧰XRPL-Labs/xrpl-tx](https://github.com/XRPL-Labs/XrplTxData)
   - [🧰XRPL-Labs/XRPL-Persist-Price-Oracle](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
   - [🧰wietse/fetch-xrpl-transactions](https://github.com/WietseWind/fetch-xrpl-transactions)
