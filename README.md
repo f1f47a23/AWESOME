@@ -94,6 +94,16 @@ awesome crypto [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 
 p2p [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
+- [🧰kgryte/p2p](https://github.com/kgryte/awesome-peer-to-peer)
+- [🧰mafintosh/p2p](https://github.com/mafintosh/awesome-p2p)
+- [🧰retrohacker/p2p](https://github.com/retrohacker/awesome-p2p)
+- [🧰croqaz/](https://github.com/croqaz/awesome-decentralized)
+- [🧰decentropy/](https://github.com/decentropy/awesome-decentralized)
+- [🧰danoctavian/](https://github.com/danoctavian/awesome-anti-censorship)
+- [🧰holochain/](https://github.com/holochain/holochain)
+- [🧰holochain/](https://github.com/holochain/happ-build-tutorial)
+- [🧰holochain/launcher](https://github.com/holochain/launcher)
+- [🧰Holo-Host/](https://github.com/Holo-Host/holo-nixpkgs)
 - []()
 - []()
 
