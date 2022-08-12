@@ -130,7 +130,7 @@
 - [🧰browserify/assert](https://github.com/browserify/commonjs-assert)
 - [🧰tiliqua/assert](https://github.com/Tiliqua/assert-js)
 - [🧰lodash](https://github.com/lodash/lodash)
-- ecmascript es2015 es2022 [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
+- es2015-es2022: [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
  [🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)
 - []()
 - []()
