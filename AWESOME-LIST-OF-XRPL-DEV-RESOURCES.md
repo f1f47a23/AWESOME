@@ -75,7 +75,7 @@
 - []()
 - []()
 
-🗝️ smart contracts [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+🗝️ smart-contracts / dapps [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 - [🧰ethereum/solidity](https://github.com/ethereum/solidity)
 - [🧰bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity)
@@ -100,7 +100,7 @@
 - []()
 
 
-🗝️ p2p [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+🗝️ p2p / holochain [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 - [🧰kgryte/p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [🧰mafintosh/p2p](https://github.com/mafintosh/awesome-p2p)
