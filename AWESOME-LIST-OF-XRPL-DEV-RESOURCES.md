@@ -20,7 +20,7 @@
 
 
 
-xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 - [{✘}xrpl-dev-portal](https://xrpl.org/)
 - [🌐xrpl-explorer](https://explorer.xrplf.org/)
@@ -66,7 +66,7 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
 
 
 
-xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 - [🧰flare-foundation/docs](https://github.com/flare-foundation/docs)
   - [🧰DefiStandardXRP/flare-docs](https://github.com/DefiStandardXRP/docs)
@@ -75,7 +75,7 @@ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ec
 - []()
 - []()
 
-smart contracts [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+🗝️ smart contracts [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 - [🧰ethereum/solidity](https://github.com/ethereum/solidity)
 - [🧰bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity)
@@ -86,7 +86,7 @@ smart contracts [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-da
 - []()
 - []()
 
-awesome crypto [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
+🗝️ awesome crypto [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 
 - [🧰brix/crypto-js](https://github.com/brix/crypto-js)
 - [🧰cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x)
@@ -100,7 +100,7 @@ awesome crypto [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 - []()
 
 
-p2p [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+🗝️ p2p [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 - [🧰kgryte/p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [🧰mafintosh/p2p](https://github.com/mafintosh/awesome-p2p)
@@ -115,38 +115,32 @@ p2p [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://
 - []()
 - []()
 
-awesome wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
+🗝️ awesome wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
 
 - []()
 - []()
 
-awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+🗝️ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 - []()
 - []()
 
-awesome javascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+🗝️ awesome javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 - [🧰browserify/assert](https://github.com/browserify/commonjs-assert)
 - [🧰tiliqua/assert](https://github.com/Tiliqua/assert-js)
 - [🧰lodash](https://github.com/lodash/lodash)
+- ecmascript es2015 es2022 [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
+ [🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)
 - []()
 - []()
 
-
-
-ecmascript es2015 es2022 [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
- [🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)<br>
-
-- []()
-- []()
-
-awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
+🗝️ awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 - []()
 - []()
 
-awesome security [⭐](https://github.com/stars/f1f47a23/lists/awesome-security)<br>
+🗝️ awesome security [⭐](https://github.com/stars/f1f47a23/lists/awesome-security)<br>
 
 - []()
 - []()
