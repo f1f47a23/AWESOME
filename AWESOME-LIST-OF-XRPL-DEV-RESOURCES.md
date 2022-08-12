@@ -55,6 +55,11 @@ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https
   - [🧰wietse/XRPL-MultiSignTool](https://github.com/WietseWind/XRPL-MultiSignTool)
   - [🧰wietse/xrpl-accountinfo](https://github.com/WietseWind/fetch-xrpl-accounts)
   - [🧰richard/xrpl-tools](https://github.com/RichardAH/xrpl-tools)
+- awesome-xrpl
+  - [🧰yyolk/awesome-xrpl](https://github.com/yyolk/awesome-xrpl)
+  - [🧰vhpoet/awesome-ripple](https://github.com/vhpoet/awesome-ripple)
+  - [🧰wietse/awesome-xrpl](https://github.com/WietseWind/awesome-xrpl)
+  - [🧰wietse/awesome-ripple](https://github.com/WietseWind/awesome-ripple)
 - []()
 - []()
 
