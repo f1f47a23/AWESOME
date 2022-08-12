@@ -86,7 +86,7 @@
 - []()
 - []()
 
-🗝️ awesome crypto [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
+🗝️ awesome cryptography / algorithms [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 
 - [🧰brix/crypto-js](https://github.com/brix/crypto-js)
 - [🧰cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x)
