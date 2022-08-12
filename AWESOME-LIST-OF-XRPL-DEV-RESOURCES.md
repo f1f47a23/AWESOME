@@ -1,7 +1,7 @@
 
 ## ☆꧁✬◦°˚°◦. 𝓐𝓦𝓔𝓢𝓞𝓜𝓔 𝓛𝓘𝓢𝓣 𝓞𝓕 𝓧𝓡𝓟𝓛 𝓓𝓔𝓥 𝓡𝓔𝓢𝓞𝓤𝓡𝓒𝓔𝓢 .◦°˚°◦✬꧂☆
 
-[#0000ff]AWESOME LIST OF XRPL DEV RESOURCES
+![#0000ff]AWESOME LIST OF XRPL DEV RESOURCES
 <br><br>
 
 xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
