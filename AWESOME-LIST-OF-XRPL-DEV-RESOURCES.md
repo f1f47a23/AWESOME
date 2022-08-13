@@ -32,8 +32,8 @@
 - account-key/encode/sign
   - xrp-paper-wallet
     - [🌐wietse-xrp-paper-wallet](https://www.xrpaddress.org/)
-    - [🌐bithomp](https://bithomp.github.io/xrp-paper-wallet/)
     - [🧰wietse/XADDRESS](https://github.com/xrp-community/xrpl-tagged-address-codec) [🌐jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [🌐runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
+    - [🌐bithomp & ...](https://bithomp.github.io/xrp-paper-wallet/)[🌐](bithomp.com/paperwallet/)[🌐](https://www.xrppaperwallet.com/)[🌐](https://ripplepaperwallet.com/)
   - XRPLF/xrpl-client-lib
     - [🧰ripple-address-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
     - [🧰ripple-binary-codec](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
