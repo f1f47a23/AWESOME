@@ -33,6 +33,7 @@
 - [{✘}xrpl-dev-portal](https://xrpl.org/)
 - [🌐xrpl-explorer](https://explorer.xrplf.org/)
 - [{✘}livenet-xrpl-explorer](https://livenet.xrpl.org/)
+- [{✘}xrpl-blog](https://xrpl.org/blog/)
 - [🧰XRPLF/xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
 - [🧰XRPL-Labs/xrpl-client](https://github.com/XRPL-Labs/xrpl-client)
 - [🧰ripple/explorer](https://github.com/ripple/explorer)
