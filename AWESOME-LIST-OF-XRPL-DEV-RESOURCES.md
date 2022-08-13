@@ -19,6 +19,14 @@
 - []()
 
 
+🗝️ xrpl-NFT &...<br>
+
+- [🌐xrpl.org/non-fungible-tokens](https://xrpl.org/non-fungible-tokens.html)
+- [🌐sidechain](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
+- []()
+- []()
+
+
 
 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
@@ -29,7 +37,12 @@
 - [🧰XRPL-Labs/xrpl-client](https://github.com/XRPL-Labs/xrpl-client)
 - [🧰ripple/explorer](https://github.com/ripple/explorer)
 - [🧰wietse/xrpl-stats](https://github.com/WietseWind/xrp-ledgerstats)
-- account-key/encode/sign
+- [🌐xrpl-tools](https://xrpl.org/dev-tools.html)
+  - [🌐xrp-ledger-rpc](https://xrpl.org/xrp-ledger-rpc-tool.html)
+  - [🌐websocket-api](https://xrpl.org/websocket-api-tool.html)
+  - [🌐xrp-testnet-faucet](https://xrpl.org/xrp-testnet-faucet.html)
+  - [🌐tx-sender](https://xrpl.org/tx-sender.html)
+- keypair/encode/sign
   - xrp-paper-wallet
     - [🧰wietse-xrp-paper-wallet](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
     - [🧰wietse/XADDRESS](https://github.com/xrp-community/xrpl-tagged-address-codec) [🌐jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [🌐runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
