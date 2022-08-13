@@ -43,6 +43,7 @@
   - [{✘}websocket-api](https://xrpl.org/websocket-api-tool.html)
   - [{✘}xrp-testnet-faucet](https://xrpl.org/xrp-testnet-faucet.html)
   - [{✘}tx-sender](https://xrpl.org/tx-sender.html)
+- [🌐xrpl-services](https://xrpl.services/)
 - keypair/encode/sign
   - xrp-paper-wallet
     - [🧰wietse-xrp-paper-wallet](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
