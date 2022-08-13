@@ -81,24 +81,24 @@
 
 
 
-🗝️ xrp ripple ecosystem / flare [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
-- [🧰flare-foundation/docs](https://github.com/flare-foundation/docs)
-  - [🧰DefiStandardXRP/flare-docs](https://github.com/DefiStandardXRP/docs)
 - [🧰bithomp/xrpl-api](https://github.com/Bithomp/xrpl-api)
 - [🧰ihomp/awesome-ripple](https://github.com/ihomp/awesome-ripple)
 - [🌐onxrp.com](https://onxrp.com/)
+- [🌐xrplgrants.org](https://xrplgrants.org/)
 - []()
 - []()
 
-🗝️ smart-contracts / dapps / ethereum-solidity [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+🗝️ smart-contracts / dapps / ethereum-solidity /flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
+- [🧰flare-foundation/docs](https://github.com/flare-foundation/docs)
+  - [🧰DefiStandardXRP/flare-docs](https://github.com/DefiStandardXRP/docs)
 - [🧰ethereum/solidity](https://github.com/ethereum/solidity)
 - [🧰bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity)
 - [🧰bekatom/awesome-ethereum](https://github.com/bekatom/awesome-ethereum)
 - [🧰ethereumbook/mastering-ethereum](https://github.com/ethereumbook/ethereumbook)
 - [🧰smartcontractkit/solidity-course](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
-- []()
 - []()
 - []()
 
