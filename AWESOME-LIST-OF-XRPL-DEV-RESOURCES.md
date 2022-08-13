@@ -90,7 +90,7 @@
 - []()
 - []()
 
-🗝️ smart-contracts / dapps / ethereum-solidity /flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 - [🧰flare-foundation/docs](https://github.com/flare-foundation/docs)
   - [🧰DefiStandardXRP/flare-docs](https://github.com/DefiStandardXRP/docs)
