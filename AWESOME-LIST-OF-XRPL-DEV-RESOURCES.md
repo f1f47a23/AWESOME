@@ -8,9 +8,9 @@
 
 - [🌐xrpl-hooks-testnet-explorer](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
 - [🌐xrpl-hooks-testnet-faucet](https://hooks-testnet-v2.xrpl-labs.com/)
-- [🌐hooks.xrpl.org](https://hooks.xrpl.org/)
+- [{✘}hooks.xrpl.org](https://hooks.xrpl.org/)
 - [🌐xrpl-hooks-docs](https://xrpl-hooks.readme.io/)
-- [🌐xrpl-hooks-ide](https://hooks-builder.xrpl.org/develop)
+- [{✘}xrpl-hooks-ide](https://hooks-builder.xrpl.org/develop)
 - [🧰XRPLF/hooks-forum](https://github.com/XRPLF/Hooks/discussions)
 - [🧰richard/xrpl-hooks](https://github.com/RichardAH/xrpl.js)
 - [🧰richard/xrpl-hookon-calculator](https://github.com/RichardAH/xrpl-hookon-calculator)
@@ -21,7 +21,7 @@
 
 🗝️ xrpl-NFT &...<br>
 
-- [🌐xrpl.org/non-fungible-tokens](https://xrpl.org/non-fungible-tokens.html)
+- [{✘}xrpl.org/non-fungible-tokens](https://xrpl.org/non-fungible-tokens.html)
 - [🌐sidechain](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
 - []()
 - []()
@@ -32,16 +32,16 @@
 
 - [{✘}xrpl-dev-portal](https://xrpl.org/)
 - [🌐xrpl-explorer](https://explorer.xrplf.org/)
-- [🌐livenet-xrpl-explorer](https://livenet.xrpl.org/)
+- [{✘}livenet-xrpl-explorer](https://livenet.xrpl.org/)
 - [🧰XRPLF/xrpl-client-lib](https://github.com/XRPLF/xrpl.js)
 - [🧰XRPL-Labs/xrpl-client](https://github.com/XRPL-Labs/xrpl-client)
 - [🧰ripple/explorer](https://github.com/ripple/explorer)
 - [🧰wietse/xrpl-stats](https://github.com/WietseWind/xrp-ledgerstats)
-- [🌐xrpl-tools](https://xrpl.org/dev-tools.html)
-  - [🌐xrp-ledger-rpc](https://xrpl.org/xrp-ledger-rpc-tool.html)
-  - [🌐websocket-api](https://xrpl.org/websocket-api-tool.html)
-  - [🌐xrp-testnet-faucet](https://xrpl.org/xrp-testnet-faucet.html)
-  - [🌐tx-sender](https://xrpl.org/tx-sender.html)
+- [{✘}xrpl-tools](https://xrpl.org/dev-tools.html)
+  - [{✘}xrp-ledger-rpc](https://xrpl.org/xrp-ledger-rpc-tool.html)
+  - [{✘}websocket-api](https://xrpl.org/websocket-api-tool.html)
+  - [{✘}xrp-testnet-faucet](https://xrpl.org/xrp-testnet-faucet.html)
+  - [{✘}tx-sender](https://xrpl.org/tx-sender.html)
 - keypair/encode/sign
   - xrp-paper-wallet
     - [🧰wietse-xrp-paper-wallet](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
