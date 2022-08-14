@@ -30,20 +30,22 @@
 
 ## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-- [xrpl-dev-portal{✘}](https://xrpl.org/)
-- [xrpl-explorer🌐](https://explorer.xrplf.org/)
-- [livenet-xrpl-explorer{✘}](https://livenet.xrpl.org/)
-- [xrpl-blog{✘}](https://xrpl.org/blog/)
-- [XRPLF/xrpl-client-lib🧰](https://github.com/XRPLF/xrpl.js)
-- [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
-- [ripple/explorer🧰](https://github.com/ripple/explorer)
-- [wietse/xrpl-stats🧰](https://github.com/WietseWind/xrp-ledgerstats)
-- [xrpl-tools{✘}](https://xrpl.org/dev-tools.html)
-  - [xrp-ledger-rpc{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
-  - [websocket-api{✘}](https://xrpl.org/websocket-api-tool.html)
-  - [xrp-testnet-faucet{✘}](https://xrpl.org/xrp-testnet-faucet.html)
-  - [tx-sender{✘}](https://xrpl.org/tx-sender.html)
-- [xrpl-services🌐](https://xrpl.services/)
+- xrpl-main
+  - [xrpl-dev-portal{✘}](https://xrpl.org/)
+  - [xrpl-explorer🌐](https://explorer.xrplf.org/)
+  - [livenet-xrpl-explorer{✘}](https://livenet.xrpl.org/)
+  - [xrpl-blog{✘}](https://xrpl.org/blog/)
+  - [XRPLF/xrpl-client-lib🧰](https://github.com/XRPLF/xrpl.js)
+  - [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
+  - [ripple/explorer🧰](https://github.com/ripple/explorer)
+  - [xrpl-services🌐](https://xrpl.services/)
+- xrpl-tools
+  - [wietse/xrpl-stats🧰](https://github.com/WietseWind/xrp-ledgerstats)
+  - [xrpl-tools{✘}](https://xrpl.org/dev-tools.html)
+    - [xrp-ledger-rpc{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
+    - [websocket-api{✘}](https://xrpl.org/websocket-api-tool.html)
+    - [xrp-testnet-faucet{✘}](https://xrpl.org/xrp-testnet-faucet.html)
+    - [tx-sender{✘}](https://xrpl.org/tx-sender.html)
 - keypair/encode/sign
   - xrp-paper-wallet
     - [wietse-xrp-paper-wallet🧰](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
@@ -73,10 +75,9 @@
 - awesome-xrpl
   - [yyolk/awesome-xrpl🧰](https://github.com/yyolk/awesome-xrpl)
     - [wietse/awesome-xrpl🧰⑂](https://github.com/WietseWind/awesome-xrpl)
-    - [?/awesome-xrpl🧰⑂](https://github.com/yyolk/awesome-xrpl/network/members)
   - [vhpoet/awesome-ripple🧰](https://github.com/vhpoet/awesome-ripple)
     - [wietse/awesome-ripple🧰⑂](https://github.com/WietseWind/awesome-ripple)
-    - [?/awesome-ripple🧰⑂](https://github.com/vhpoet/awesome-ripple/network/members)
+- []()
 - []()
 
 
@@ -91,45 +92,49 @@
 - []()
 
 ## 🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
-
-- [flare-foundation/docs🧰](https://github.com/flare-foundation/docs)
+- flare
+  - [flare-foundation/docs🧰](https://github.com/flare-foundation/docs)
   - [DefiStandardXRP/flare-docs🧰](https://github.com/DefiStandardXRP/docs)
-- [ethereum/solidity🧰](https://github.com/ethereum/solidity)
-- [bkrem/awesome-solidity🧰](https://github.com/bkrem/awesome-solidity)
-- [bekatom/awesome-ethereum🧰](https://github.com/bekatom/awesome-ethereum)
-- [ethereumbook/mastering-ethereum🧰](https://github.com/ethereumbook/ethereumbook)
-- [smartcontractkit/solidity-course🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+- solidity ethereum
+  - [ethereum/solidity🧰](https://github.com/ethereum/solidity)
+  - [bkrem/awesome-solidity🧰](https://github.com/bkrem/awesome-solidity)
+  - [smartcontractkit/solidity-course🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+  - [bekatom/awesome-ethereum🧰](https://github.com/bekatom/awesome-ethereum)
+  - [ethereumbook/mastering-ethereum🧰](https://github.com/ethereumbook/ethereumbook)
 - []()
 - []()
 
 ## 🗝️ awesome cryptography / algorithms [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 
-- [brix/crypto-js🧰](https://github.com/brix/crypto-js)
-- [cryptocoinjs/base-x🧰](https://github.com/cryptocoinjs/base-x)
-- [indutny/elliptic🧰](https://github.com/indutny/elliptic)
-- [base58🌐](https://incoherency.co.uk/base58/)
+- crypto & ...
+  - [brix/crypto-js🧰](https://github.com/brix/crypto-js)
+  - [cryptocoinjs/base-x🧰](https://github.com/cryptocoinjs/base-x)
+  - [indutny/elliptic🧰](https://github.com/indutny/elliptic)
+  - [base58🌐](https://incoherency.co.uk/base58/)
 - qrcode
   - [davidshimjs/qrcodejs🧰](https://github.com/davidshimjs/qrcodejs)
   - [LazarSoft/jsqrcode🧰](https://github.com/LazarSoft/jsqrcode)
   - [jeromeetienne/jquery-qrcode🧰](https://github.com/jeromeetienne/jquery-qrcode)
   - [SumiMakito/AwesomeQRCode🧰](https://github.com/SumiMakito/AwesomeQRCode)
-- [tayllan/awesome-algorithms🧰](https://github.com/tayllan/awesome-algorithms)
+- algorithms
+  - [tayllan/awesome-algorithms🧰](https://github.com/tayllan/awesome-algorithms)
 - []()
 - []()
 
 
 ## 🗝️ p2p / holochain [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
-
-- [kgryte/p2p🧰](https://github.com/kgryte/awesome-peer-to-peer)
-- [mafintosh/p2p🧰](https://github.com/mafintosh/awesome-p2p)
-- [retrohacker/p2p🧰](https://github.com/retrohacker/awesome-p2p)
-- [croqaz/🧰](https://github.com/croqaz/awesome-decentralized)
-- [decentropy/🧰](https://github.com/decentropy/awesome-decentralized)
-- [danoctavian/🧰](https://github.com/danoctavian/awesome-anti-censorship)
-- [holochain/🧰](https://github.com/holochain/holochain)
-- [holochain/🧰](https://github.com/holochain/happ-build-tutorial)
-- [holochain/launcher🧰](https://github.com/holochain/launcher)
-- [Holo-Host/🧰](https://github.com/Holo-Host/holo-nixpkgs)
+- p2p
+  - [kgryte/p2p🧰](https://github.com/kgryte/awesome-peer-to-peer)
+  - [mafintosh/p2p🧰](https://github.com/mafintosh/awesome-p2p)
+  - [retrohacker/p2p🧰](https://github.com/retrohacker/awesome-p2p)
+  - [croqaz/🧰](https://github.com/croqaz/awesome-decentralized)
+  - [decentropy/🧰](https://github.com/decentropy/awesome-decentralized)
+  - [danoctavian/🧰](https://github.com/danoctavian/awesome-anti-censorship)
+- holochain
+  - [holochain/🧰](https://github.com/holochain/holochain)
+  - [holochain/🧰](https://github.com/holochain/happ-build-tutorial)
+  - [holochain/launcher🧰](https://github.com/holochain/launcher)
+  - [Holo-Host/🧰](https://github.com/Holo-Host/holo-nixpkgs)
 - []()
 - []()
 
