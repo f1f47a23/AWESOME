@@ -75,6 +75,7 @@
   - [🧰vhpoet/awesome-ripple](https://github.com/vhpoet/awesome-ripple)
   - [🧰wietse/awesome-xrpl](https://github.com/WietseWind/awesome-xrpl)
   - [🧰wietse/awesome-ripple](https://github.com/WietseWind/awesome-ripple)
+  - [🧰ihomp/awesome-ripple](https://github.com/ihomp/awesome-ripple)
 - []()
 - []()
 
@@ -84,7 +85,6 @@
 🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 - [🧰bithomp/xrpl-api](https://github.com/Bithomp/xrpl-api)
-- [🧰ihomp/awesome-ripple](https://github.com/ihomp/awesome-ripple)
 - [🌐onxrp.com](https://onxrp.com/)
 - [🌐xrplgrants.org](https://xrplgrants.org/)
 - []()
