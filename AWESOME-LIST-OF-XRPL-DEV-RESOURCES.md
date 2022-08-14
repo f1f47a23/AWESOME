@@ -4,7 +4,7 @@
 
 <br><br>
 
-🗝️ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
+## 🗝️ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
 - [xrpl-hooks-testnet-explorer🌐](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
 - [xrpl-hooks-testnet-faucet🌐](https://hooks-testnet-v2.xrpl-labs.com/)
