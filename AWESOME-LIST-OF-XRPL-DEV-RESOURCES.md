@@ -19,7 +19,7 @@
 - []()
 
 
-🗝️ xrpl-NFT &...<br>
+## 🗝️ xrpl-NFT &...<br>
 
 - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
 - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
@@ -28,7 +28,7 @@
 
 
 
-🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 - [xrpl-dev-portal{✘}](https://xrpl.org/)
 - [xrpl-explorer🌐](https://explorer.xrplf.org/)
@@ -82,7 +82,7 @@
 
 
 
-🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+## 🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 - [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
 - [onxrp.com🌐](https://onxrp.com/)
@@ -90,7 +90,7 @@
 - []()
 - []()
 
-🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## 🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 - [flare-foundation/docs🧰](https://github.com/flare-foundation/docs)
   - [DefiStandardXRP/flare-docs🧰](https://github.com/DefiStandardXRP/docs)
@@ -102,7 +102,7 @@
 - []()
 - []()
 
-🗝️ awesome cryptography / algorithms [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
+## 🗝️ awesome cryptography / algorithms [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 
 - [brix/crypto-js🧰](https://github.com/brix/crypto-js)
 - [cryptocoinjs/base-x🧰](https://github.com/cryptocoinjs/base-x)
@@ -118,7 +118,7 @@
 - []()
 
 
-🗝️ p2p / holochain [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## 🗝️ p2p / holochain [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 - [kgryte/p2p🧰](https://github.com/kgryte/awesome-peer-to-peer)
 - [mafintosh/p2p🧰](https://github.com/mafintosh/awesome-p2p)
@@ -133,17 +133,17 @@
 - []()
 - []()
 
-🗝️ awesome wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
+## 🗝️ awesome wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
 
 - []()
 - []()
 
-🗝️ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+## 🗝️ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 - []()
 - []()
 
-🗝️ awesome javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+## 🗝️ awesome javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 - [browserify/assert🧰](https://github.com/browserify/commonjs-assert)
 - [tiliqua/assert🧰](https://github.com/Tiliqua/assert-js)
@@ -153,7 +153,7 @@
 - []()
 - []()
 
-🗝️ awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
+## 🗝️ awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 - [sindresorhus/awesome🧰](https://github.com/sindresorhus/awesome)
 - [sindresorhus/awesome-nodejs🧰](https://github.com/sindresorhus/awesome-nodejs)
@@ -175,7 +175,7 @@
 - []()
 
 
-🗝️ awesome systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-security)<br>
+## 🗝️ awesome systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-security)<br>
 
 - []()
 - []()
