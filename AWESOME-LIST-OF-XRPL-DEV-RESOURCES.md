@@ -112,6 +112,7 @@
   - [davidshimjs/qrcodejs🧰](https://github.com/davidshimjs/qrcodejs)
   - [LazarSoft/jsqrcode🧰](https://github.com/LazarSoft/jsqrcode)
   - [jeromeetienne/jquery-qrcode🧰](https://github.com/jeromeetienne/jquery-qrcode)
+  - [SumiMakito/AwesomeQRCode🧰](https://github.com/SumiMakito/AwesomeQRCode)
 - [tayllan/awesome-algorithms🧰](https://github.com/tayllan/awesome-algorithms)
 - []()
 - []()
