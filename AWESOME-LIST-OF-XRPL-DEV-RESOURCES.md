@@ -140,6 +140,11 @@
 
 ## 🗝️ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
+- design patterns
+  - [torokmark/design_patterns_in_typescript🧰](https://github.com/torokmark/design_patterns_in_typescript)
+  - [RefactoringGuru/design-patterns-typescript🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
+  - [gztchan/design-patterns-in-typescript🧰](https://github.com/gztchan/design-patterns-in-typescript)
+  - [SavjeeTutorials/typescript-design-patterns🧰](https://github.com/SavjeeTutorials/typescript-design-patterns)
 - []()
 - []()
 
@@ -148,18 +153,28 @@
 - [browserify/assert🧰](https://github.com/browserify/commonjs-assert)
 - [tiliqua/assert🧰](https://github.com/Tiliqua/assert-js)
 - [lodash🧰](https://github.com/lodash/lodash)
-- es2015-es2022: [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
+- ecmascript updates
+  - es2015-es2022: [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
  [🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)
+- design patterns
+  - [shichuan/javascript-patterns🧰](https://github.com/shichuan/javascript-patterns)
+  - [addyosmani/essential-js-design-patterns🧰](https://github.com/addyosmani/essential-js-design-patterns)
+  - [tcorral/Design-Patterns🧰](https://github.com/tcorral/Design-Patterns-in-Javascript)
+  - [fbeline/design-patterns🧰](https://github.com/fbeline/design-patterns-JS)
+  - [sohamkamani/javascript-design-patterns🧰](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+  - [mjavascript/mastering-modular-js🧰](https://github.com/mjavascript/mastering-modular-javascript)
 - []()
 - []()
 
 ## 🗝️ awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 - [sindresorhus/awesome🧰](https://github.com/sindresorhus/awesome)
-- [sindresorhus/awesome-nodejs🧰](https://github.com/sindresorhus/awesome-nodejs)
-- [sqreen/awesome-nodejs-projects🧰](https://github.com/sqreen/awesome-nodejs-projects)
-- [lirantal/awesome-nodejs-security🧰](https://github.com/lirantal/awesome-nodejs-security)
-- [bnb/awesome-awesome-nodejs🧰](https://github.com/bnb/awesome-awesome-nodejs)
+- nodejs
+  - [sindresorhus/awesome-nodejs🧰](https://github.com/sindresorhus/awesome-nodejs)
+  - [sqreen/awesome-nodejs-projects🧰](https://github.com/sqreen/awesome-nodejs-projects)
+  - [lirantal/awesome-nodejs-security🧰](https://github.com/lirantal/awesome-nodejs-security)
+  - [bnb/awesome-awesome-nodejs🧰](https://github.com/bnb/awesome-awesome-nodejs)
+  - [Packt/Node.js-Design-Patterns🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
 - [therebelrobot/awesome-bootstrap🧰](https://github.com/therebelrobot/awesome-bootstrap)
 - [markodenic/web-dev🧰](https://github.com/markodenic/web-development-resources)
 - [dypsilon/frontend🧰](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -167,10 +182,15 @@
 - [lorien/awesome-web🧰](https://github.com/lorien/awesome-web-scraping)
 - [lauragift21/awesome-learning🧰](https://github.com/lauragift21/awesome-learning-resources)
 - [sindresorhus/awesome-electron🧰](https://github.com/sindresorhus/awesome-electron)
-- [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
-- []()
-- []()
-- [fffaraz/awesome-cpp🧰](https://github.com/fffaraz/awesome-cpp)
+- design patterns
+  - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
+  - [kamranahmedse/design-patterns🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
+  - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
+  - [webpro/programming-principles🧰](https://github.com/webpro/programming-principles)
+  - []()
+- c++
+  - [fffaraz/awesome-cpp🧰](https://github.com/fffaraz/awesome-cpp)
+  - [JakubVojvoda/design-patterns-cpp🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
 - []()
 - []()
 
