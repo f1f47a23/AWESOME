@@ -190,9 +190,7 @@
 - design patterns
   - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
   - [kamranahmedse/design-patterns🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
-  - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
   - [webpro/programming-principles🧰](https://github.com/webpro/programming-principles)
-  - []()
 - c++
   - [fffaraz/awesome-cpp🧰](https://github.com/fffaraz/awesome-cpp)
   - [JakubVojvoda/design-patterns-cpp🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
