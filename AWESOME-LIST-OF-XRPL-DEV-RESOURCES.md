@@ -145,11 +145,17 @@
 
 ## 🗝️ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
+- [dzharii/awesome-typescript🧰](https://github.com/dzharii/awesome-typescript)
+- [semlinker/awesome-typescript🧰](https://github.com/semlinker/awesome-typescript)
+- [brookshi/awesome-typescript-projects🧰](https://github.com/brookshi/awesome-typescript-projects)
+- [ellerbrock/awesome-typescript🧰](https://github.com/ellerbrock/awesome-typescript)
+- [orta/awesome-typescript-derived-languages🧰](https://github.com/orta/awesome-typescript-derived-languages)
 - design patterns
   - [torokmark/design_patterns_in_typescript🧰](https://github.com/torokmark/design_patterns_in_typescript)
   - [RefactoringGuru/design-patterns-typescript🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
   - [gztchan/design-patterns-in-typescript🧰](https://github.com/gztchan/design-patterns-in-typescript)
   - [SavjeeTutorials/typescript-design-patterns🧰](https://github.com/SavjeeTutorials/typescript-design-patterns)
+- []()
 - []()
 - []()
 
