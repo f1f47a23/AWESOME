@@ -153,6 +153,13 @@
 
 🗝️ awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
+- [sindresorhus/awesome🧰](https://github.com/sindresorhus/awesome)
+- [sindresorhus/awesome-nodejs🧰](https://github.com/sindresorhus/awesome-nodejs)
+- [sqreen/awesome-nodejs-projects🧰](https://github.com/sqreen/awesome-nodejs-projects)
+- [lirantal/awesome-nodejs-security🧰](https://github.com/lirantal/awesome-nodejs-security)
+- [bnb/awesome-awesome-nodejs🧰](https://github.com/bnb/awesome-awesome-nodejs)
+- [therebelrobot/awesome-bootstrap🧰](https://github.com/therebelrobot/awesome-bootstrap)
+- []()
 - []()
 - []()
 
