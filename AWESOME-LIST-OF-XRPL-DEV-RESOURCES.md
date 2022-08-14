@@ -159,11 +159,19 @@
 - [lirantal/awesome-nodejs-security🧰](https://github.com/lirantal/awesome-nodejs-security)
 - [bnb/awesome-awesome-nodejs🧰](https://github.com/bnb/awesome-awesome-nodejs)
 - [therebelrobot/awesome-bootstrap🧰](https://github.com/therebelrobot/awesome-bootstrap)
+- [markodenic/web-dev](https://github.com/markodenic/web-development-resources)
+- [dypsilon/frontend](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
+- [lorien/awesome-web](https://github.com/lorien/awesome-web-scraping)
+- [lauragift21/awesome-learning](https://github.com/lauragift21/awesome-learning-resources)
+- []()
+- []()
 - []()
 - []()
 - []()
 
-🗝️ awesome security [⭐](https://github.com/stars/f1f47a23/lists/awesome-security)<br>
+
+🗝️ awesome systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-security)<br>
 
 - []()
 - []()
