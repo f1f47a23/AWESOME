@@ -72,11 +72,11 @@
   - [richard/xrpl-tools🧰](https://github.com/RichardAH/xrpl-tools)
 - awesome-xrpl
   - [yyolk/awesome-xrpl🧰](https://github.com/yyolk/awesome-xrpl)
+    - [wietse/awesome-xrpl🧰⑂](https://github.com/WietseWind/awesome-xrpl)
+    - [*/awesome-xrpl🧰⑂](https://github.com/yyolk/awesome-xrpl/network/members)
   - [vhpoet/awesome-ripple🧰](https://github.com/vhpoet/awesome-ripple)
-  - [wietse/awesome-xrpl🧰](https://github.com/WietseWind/awesome-xrpl)
-  - [wietse/awesome-ripple🧰](https://github.com/WietseWind/awesome-ripple)
-  - [ihomp/awesome-ripple🧰](https://github.com/ihomp/awesome-ripple)
-- []()
+    - [wietse/awesome-ripple🧰⑂](https://github.com/WietseWind/awesome-ripple)
+    - [*/awesome-ripple🧰⑂](https://github.com/vhpoet/awesome-ripple/network/members)
 - []()
 
 
