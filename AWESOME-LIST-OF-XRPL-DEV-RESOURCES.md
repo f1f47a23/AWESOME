@@ -30,7 +30,7 @@
 
 ## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-- xrpl-main
+### - xrpl-main
   - [xrpl-dev-portal{✘}](https://xrpl.org/)
   - [xrpl-explorer🌐](https://explorer.xrplf.org/)
   - [livenet-xrpl-explorer{✘}](https://livenet.xrpl.org/)
@@ -58,28 +58,6 @@
     - [wietse/awesome-xrpl🧰⑂](https://github.com/WietseWind/awesome-xrpl)
   - [vhpoet/awesome-ripple🧰](https://github.com/vhpoet/awesome-ripple)
     - [wietse/awesome-ripple🧰⑂](https://github.com/WietseWind/awesome-ripple)
-- []()
-- []()
-
-
-## 🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
-
-- [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
-- [onxrp.com🌐](https://onxrp.com/)
-- [xrplgrants.org🌐](https://xrplgrants.org/)
-- []()
-- []()
-
-## 🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
-- flare
-  - [flare-foundation/docs🧰](https://github.com/flare-foundation/docs)
-  - [DefiStandardXRP/flare-docs🧰](https://github.com/DefiStandardXRP/docs)
-- solidity ethereum
-  - [ethereum/solidity🧰](https://github.com/ethereum/solidity)
-  - [bkrem/awesome-solidity🧰](https://github.com/bkrem/awesome-solidity)
-  - [smartcontractkit/solidity-course🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
-  - [bekatom/awesome-ethereum🧰](https://github.com/bekatom/awesome-ethereum)
-  - [ethereumbook/mastering-ethereum🧰](https://github.com/ethereumbook/ethereumbook)
 - []()
 - []()
 
@@ -125,6 +103,29 @@
   - [tayllan/awesome-algorithms🧰](https://github.com/tayllan/awesome-algorithms)
 - []()
 - []()
+- 
+## 🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+
+- [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
+- [onxrp.com🌐](https://onxrp.com/)
+- [xrplgrants.org🌐](https://xrplgrants.org/)
+- []()
+- []()
+
+## 🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+- flare
+  - [flare-foundation/docs🧰](https://github.com/flare-foundation/docs)
+  - [DefiStandardXRP/flare-docs🧰](https://github.com/DefiStandardXRP/docs)
+- solidity ethereum
+  - [ethereum/solidity🧰](https://github.com/ethereum/solidity)
+  - [bkrem/awesome-solidity🧰](https://github.com/bkrem/awesome-solidity)
+  - [smartcontractkit/solidity-course🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+  - [bekatom/awesome-ethereum🧰](https://github.com/bekatom/awesome-ethereum)
+  - [ethereumbook/mastering-ethereum🧰](https://github.com/ethereumbook/ethereumbook)
+- []()
+- []()
+
+
 
 
 ## 🗝️ p2p / holochain [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
