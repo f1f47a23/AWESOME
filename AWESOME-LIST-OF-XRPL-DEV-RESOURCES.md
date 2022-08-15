@@ -30,7 +30,7 @@
 
 ## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-### - xrpl-main
+ ### - xrpl-main
   - [xrpl-dev-portal{✘}](https://xrpl.org/)
   - [xrpl-explorer🌐](https://explorer.xrplf.org/)
   - [livenet-xrpl-explorer{✘}](https://livenet.xrpl.org/)
