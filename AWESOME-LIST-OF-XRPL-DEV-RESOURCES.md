@@ -8,6 +8,7 @@
 
 - [xrpl-hooks-testnet-explorer🌐](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
 - [xrpl-hooks-testnet-faucet🌐](https://hooks-testnet-v2.xrpl-labs.com/)
+- [bithomp-hooks-explorer🌐](https://beta.bithomp.com/)
 - [hooks.xrpl.org{✘}](https://hooks.xrpl.org/)
 - [xrpl-hooks-docs🌐](https://xrpl-hooks.readme.io/)
 - [xrpl-hooks-ide{✘}](https://hooks-builder.xrpl.org/develop)
@@ -19,7 +20,7 @@
 - []()
 
 
-## 🗝️ xrpl-NFT &...<br>
+## 🗝️ xrpl-NFT TOKENS &...<br>
 
 - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
 - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
@@ -30,7 +31,7 @@
 
 ## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-### - xrpl-main
+### - xrpl-usertools
   - [xrpl-dev-portal{✘}](https://xrpl.org/)
   - [xrpl-explorer🌐](https://explorer.xrplf.org/)
   - [livenet-xrpl-explorer{✘}](https://livenet.xrpl.org/)
@@ -38,14 +39,16 @@
   - [XRPLF/xrpl-client-lib🧰](https://github.com/XRPLF/xrpl.js)
   - [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
+  - [bithomp-explorer🌐](https://bithomp.com/)
   - [xrpl-services🌐](https://xrpl.services/)
-### - xrpl-tools
+### - xrpl-devtools
   - [wietse/xrpl-stats🧰](https://github.com/WietseWind/xrp-ledgerstats)
   - [xrpl-tools{✘}](https://xrpl.org/dev-tools.html)
     - [xrp-ledger-rpc{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
     - [websocket-api{✘}](https://xrpl.org/websocket-api-tool.html)
     - [xrp-testnet-faucet{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - [tx-sender{✘}](https://xrpl.org/tx-sender.html)
+  - [nixer89/ledger-observer🧰](https://github.com/nixer89/ledger-observer)
 ### - xrpl-txn & ...
   - [XRPL-Labs/xrpl-tx🧰](https://github.com/XRPL-Labs/XrplTxData)
   - [XRPL-Labs/XRPL-Persist-Price-Oracle🧰](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
