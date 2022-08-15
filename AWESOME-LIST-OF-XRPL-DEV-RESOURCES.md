@@ -20,11 +20,11 @@
 - []()
 
 
-## 🗝️ xrpl-NFT TOKENS &...<br>
+## 🗝️ xrpl NFT TOKENS sidechain &...<br>
 
 - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
+- [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
 - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
-- []()
 - []()
 
 
@@ -41,7 +41,7 @@
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
   - [bithomp-explorer🌐](https://bithomp.com/)
   - [xrpl-services🌐](https://xrpl.services/)
-### - xrpl-devtools
+### - xrpl-devtools & examples
   - [wietse/xrpl-stats🧰](https://github.com/WietseWind/xrp-ledgerstats)
   - [xrpl-tools{✘}](https://xrpl.org/dev-tools.html)
     - [xrp-ledger-rpc{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
@@ -49,7 +49,6 @@
     - [xrp-testnet-faucet{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - [tx-sender{✘}](https://xrpl.org/tx-sender.html)
   - [nixer89/ledger-observer🧰](https://github.com/nixer89/ledger-observer)
-### - xrpl-txn & ...
   - [XRPL-Labs/xrpl-tx🧰](https://github.com/XRPL-Labs/XrplTxData)
   - [XRPL-Labs/XRPL-Persist-Price-Oracle🧰](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
   - [wietse/fetch-xrpl-transactions🧰](https://github.com/WietseWind/fetch-xrpl-transactions)
@@ -90,7 +89,8 @@
   - [bitcoinjs/bip39🧰](https://github.com/bitcoinjs/bip39)
   - [oipwg(bip44-wallet)🧰](https://github.com/oipwg/oip-hdmw)
   - [bitcoinjs/bip44-constants🧰](https://github.com/bitcoinjs/bip44-constants)
-  - [📚](https://github.com/topics/bip39) [📚](https://github.com/topics/bip39-wallet)[📚](https://github.com/topics/bip44)
+  - [bip39📚](https://github.com/topics/bip39)[📚](https://github.com/topics/bip39-wallet)
+  - [bip44📚](https://github.com/topics/bip44)
   - []()
   - []()
 ### - crypto encode & ...
