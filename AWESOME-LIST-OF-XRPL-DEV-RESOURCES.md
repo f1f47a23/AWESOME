@@ -64,7 +64,7 @@
 - []()
 - []()
 
-## 🗝️ awesome cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)[📚](https://github.com/topics/bip39) [📚](https://github.com/topics/bip39-wallet)[📚](https://github.com/topics/bip44)<br>
+## 🗝️ awesome cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 
 ### - xrpl
   - xrp-paper-wallet
@@ -90,6 +90,7 @@
   - [bitcoinjs/bip39🧰](https://github.com/bitcoinjs/bip39)
   - [oipwg(bip44-wallet)🧰](https://github.com/oipwg/oip-hdmw)
   - [bitcoinjs/bip44-constants🧰](https://github.com/bitcoinjs/bip44-constants)
+  - [📚](https://github.com/topics/bip39) [📚](https://github.com/topics/bip39-wallet)[📚](https://github.com/topics/bip44)
   - []()
   - []()
 ### - crypto encode & ...
