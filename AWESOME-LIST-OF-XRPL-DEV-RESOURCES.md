@@ -39,21 +39,21 @@
   - [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
   - [xrpl-services🌐](https://xrpl.services/)
-- xrpl-tools
+### - xrpl-tools
   - [wietse/xrpl-stats🧰](https://github.com/WietseWind/xrp-ledgerstats)
   - [xrpl-tools{✘}](https://xrpl.org/dev-tools.html)
     - [xrp-ledger-rpc{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
     - [websocket-api{✘}](https://xrpl.org/websocket-api-tool.html)
     - [xrp-testnet-faucet{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - [tx-sender{✘}](https://xrpl.org/tx-sender.html)
-- xrpl-txn & ...
+### - xrpl-txn & ...
   - [XRPL-Labs/xrpl-tx🧰](https://github.com/XRPL-Labs/XrplTxData)
   - [XRPL-Labs/XRPL-Persist-Price-Oracle🧰](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
   - [wietse/fetch-xrpl-transactions🧰](https://github.com/WietseWind/fetch-xrpl-transactions)
   - [wietse/XRPL-MultiSignTool🧰](https://github.com/WietseWind/XRPL-MultiSignTool)
   - [wietse/xrpl-accountinfo🧰](https://github.com/WietseWind/fetch-xrpl-accounts)
   - [richard/xrpl-tools🧰](https://github.com/RichardAH/xrpl-tools)
-- awesome-xrpl
+### - awesome-xrpl
   - [yyolk/awesome-xrpl🧰](https://github.com/yyolk/awesome-xrpl)
     - [wietse/awesome-xrpl🧰⑂](https://github.com/WietseWind/awesome-xrpl)
   - [vhpoet/awesome-ripple🧰](https://github.com/vhpoet/awesome-ripple)
