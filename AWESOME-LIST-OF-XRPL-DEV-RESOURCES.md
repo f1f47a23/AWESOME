@@ -46,25 +46,6 @@
     - [websocket-api{✘}](https://xrpl.org/websocket-api-tool.html)
     - [xrp-testnet-faucet{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - [tx-sender{✘}](https://xrpl.org/tx-sender.html)
-- keypair/encode/sign
-  - xrp-paper-wallet
-    - [wietse-xrp-paper-wallet🧰](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
-    - [wietse/XADDRESS🧰](https://github.com/xrp-community/xrpl-tagged-address-codec) [🌐jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [🌐runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
-    - [bithomp🧰](https://github.com/Bithomp/xrp-paper-wallet)[🌐](https://bithomp.github.io/xrp-paper-wallet/)[🌐](https://bithomp.com/paperwallet/) & ... [🌐](https://www.xrppaperwallet.com/)[🌐](https://ripplepaperwallet.com/)
-  - XRPLF/xrpl-client-lib
-    - [ripple-address-codec🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
-    - [ripple-binary-codec🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
-    - [ripple-keypairs🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
-  - [XRPL-Labs/ripple-keypairs🧰](https://github.com/XRPL-Labs/ripple-keypairs)
-  - [XRPL-Labs/xrpl-sign-keypairs bip39,bip44🧰](https://github.com/XRPL-Labs/xrpl-sign-keypairs)
-  - [XRPL-Labs/verify-xrpl-signature🧰](https://github.com/XRPL-Labs/verify-xrpl-signature)
-  - [wietse/xrpl-accountlib🧰](https://github.com/WietseWind/xrpl-accountlib)
-  - [wietse/xrpl-secret-numbers🧰](https://github.com/WietseWind/xrpl-secret-numbers)
-  - [wietse/secret-numbers-to-family-seed🧰](https://github.com/WietseWind/secret-numbers-to-family-seed)
-  - [richard/xrpl-base58🧰](https://github.com/RichardAH/xrpl-base58-tool) [🌐](https://richardah.github.io/xrpl-base58-tool/)
-  - [richard/xrpl-binary-visualizer🧰](https://github.com/RichardAH/xrpl-binary-visualizer) [🌐](https://richardah.github.io/xrpl-binary-visualizer/)
-  - [richard/xrpl-binary-codec🧰](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
-  - [richard/xrpl-epoch🧰](https://github.com/RichardAH/xrpl-epoch-converter) [🌐](https://richardah.github.io/xrpl-epoch-converter/index.html)
 - xrpl-txn & ...
   - [XRPL-Labs/xrpl-tx🧰](https://github.com/XRPL-Labs/XrplTxData)
   - [XRPL-Labs/XRPL-Persist-Price-Oracle🧰](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
@@ -79,8 +60,6 @@
     - [wietse/awesome-ripple🧰⑂](https://github.com/WietseWind/awesome-ripple)
 - []()
 - []()
-
-
 
 
 ## 🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
@@ -104,9 +83,35 @@
 - []()
 - []()
 
-## 🗝️ awesome cryptography / algorithms [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
+## 🗝️ awesome cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)[📚](https://github.com/topics/bip39) [📚](https://github.com/topics/bip39-wallet)[📚](https://github.com/topics/bip44)<br>
 
-- crypto & ...
+- xrpl
+  - xrp-paper-wallet
+    - [wietse-xrp-paper-wallet🧰](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
+    - [wietse/XADDRESS🧰](https://github.com/xrp-community/xrpl-tagged-address-codec) [🌐jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [🌐runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
+    - [bithomp🧰](https://github.com/Bithomp/xrp-paper-wallet)[🌐](https://bithomp.github.io/xrp-paper-wallet/)[🌐](https://bithomp.com/paperwallet/) & ... [🌐](https://www.xrppaperwallet.com/)[🌐](https://ripplepaperwallet.com/)
+  - XRPLF/xrpl-client-lib
+    - [ripple-address-codec🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
+    - [ripple-binary-codec🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
+    - [ripple-keypairs🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
+  - [XRPL-Labs/ripple-keypairs🧰](https://github.com/XRPL-Labs/ripple-keypairs)
+  - [XRPL-Labs/xrpl-sign-keypairs bip39,bip44🧰](https://github.com/XRPL-Labs/xrpl-sign-keypairs)
+  - [XRPL-Labs/verify-xrpl-signature🧰](https://github.com/XRPL-Labs/verify-xrpl-signature)
+  - [wietse/xrpl-accountlib🧰](https://github.com/WietseWind/xrpl-accountlib)
+  - [wietse/xrpl-secret-numbers🧰](https://github.com/WietseWind/xrpl-secret-numbers)
+  - [wietse/secret-numbers-to-family-seed🧰](https://github.com/WietseWind/secret-numbers-to-family-seed)
+  - [richard/xrpl-base58🧰](https://github.com/RichardAH/xrpl-base58-tool) [🌐](https://richardah.github.io/xrpl-base58-tool/)
+  - [richard/xrpl-binary-visualizer🧰](https://github.com/RichardAH/xrpl-binary-visualizer) [🌐](https://richardah.github.io/xrpl-binary-visualizer/)
+  - [richard/xrpl-binary-codec🧰](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
+  - [richard/xrpl-epoch🧰](https://github.com/RichardAH/xrpl-epoch-converter) [🌐](https://richardah.github.io/xrpl-epoch-converter/index.html)
+- bip39,bip44
+  - [iancoleman/bip39🧰](https://github.com/iancoleman/bip39)
+  - [bitcoinjs/bip39🧰](https://github.com/bitcoinjs/bip39)
+  - [oipwg(bip44-wallet)🧰](https://github.com/oipwg/oip-hdmw)
+  - [bitcoinjs/bip44-constants🧰](https://github.com/bitcoinjs/bip44-constants)
+  - []()
+  - []()
+- crypto encode & ...
   - [brix/crypto-js🧰](https://github.com/brix/crypto-js)
   - [cryptocoinjs/base-x🧰](https://github.com/cryptocoinjs/base-x)
   - [indutny/elliptic🧰](https://github.com/indutny/elliptic)
