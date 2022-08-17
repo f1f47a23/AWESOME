@@ -177,12 +177,16 @@
 
 ******
 
-## 🗝️ wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
+## 🗝️ wasm & c++ [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
 
-- [mbasso/awesome-wasm🧰](https://github.com/mbasso/awesome-wasm)
-- [appcypher/awesome-wasm-langs🧰](https://github.com/appcypher/awesome-wasm-langs)
-- [appcypher/awesome-wasm-runtimes🧰](https://github.com/appcypher/awesome-wasm-runtimes)
-- [vshymanskyy/awesome-wasm-tools🧰](https://github.com/vshymanskyy/awesome-wasm-tools)
+### - wasm
+    - [mbasso/awesome-wasm🧰](https://github.com/mbasso/awesome-wasm)
+    - [appcypher/awesome-wasm-langs🧰](https://github.com/appcypher/awesome-wasm-langs)
+    - [appcypher/awesome-wasm-runtimes🧰](https://github.com/appcypher/awesome-wasm-runtimes)
+    - [vshymanskyy/awesome-wasm-tools🧰](https://github.com/vshymanskyy/awesome-wasm-tools)
+### - c++
+  - [fffaraz/awesome-cpp🧰](https://github.com/fffaraz/awesome-cpp)
+  - [JakubVojvoda/design-patterns-cpp🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
 - []()
 - []()
 
@@ -253,9 +257,6 @@
   - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
   - [kamranahmedse/design-patterns🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
   - [webpro/programming-principles🧰](https://github.com/webpro/programming-principles)
-### - c++
-  - [fffaraz/awesome-cpp🧰](https://github.com/fffaraz/awesome-cpp)
-  - [JakubVojvoda/design-patterns-cpp🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
 - []()
 - []()
 
