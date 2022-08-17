@@ -72,7 +72,7 @@
 
 ******
 
-## 🗝️ awesome cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
+## 🗝️ cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
 
 ### - xrpl
   - xrp-paper-wallet
@@ -177,15 +177,19 @@
 
 ******
 
-## 🗝️ awesome wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
+## 🗝️ wasm [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
 
+- [mbasso/awesome-wasm🧰](https://github.com/mbasso/awesome-wasm)
+- [appcypher/awesome-wasm-langs🧰](https://github.com/appcypher/awesome-wasm-langs)
+- [appcypher/awesome-wasm-runtimes🧰](https://github.com/appcypher/awesome-wasm-runtimes)
+- [vshymanskyy/awesome-wasm-tools🧰](https://github.com/vshymanskyy/awesome-wasm-tools)
 - []()
 - []()
 
 
 ******
 
-## 🗝️ awesome typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+## 🗝️ typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 - [dzharii/awesome-typescript🧰](https://github.com/dzharii/awesome-typescript)
 - [semlinker/awesome-typescript🧰](https://github.com/semlinker/awesome-typescript)
@@ -205,7 +209,7 @@
 
 ******
 
-## 🗝️ awesome javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+## 🗝️ javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 - [browserify/assert🧰](https://github.com/browserify/commonjs-assert)
 - [tiliqua/assert🧰](https://github.com/Tiliqua/assert-js)
@@ -228,7 +232,7 @@
 
 ******
 
-## 🗝️ awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
+## 🗝️ webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 ### - nodejs
   - [sindresorhus/awesome-nodejs🧰](https://github.com/sindresorhus/awesome-nodejs)
@@ -259,7 +263,7 @@
 
 ******
 
-## 🗝️ awesome systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
+## 🗝️ systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 ### - Security
   - [sbilly/🧰](https://github.com/sbilly/awesome-security)
