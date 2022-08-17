@@ -148,6 +148,8 @@
   - [smartcontractkit/solidity-course🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - [bekatom/awesome-ethereum🧰](https://github.com/bekatom/awesome-ethereum)
   - [ethereumbook/mastering-ethereum🧰](https://github.com/ethereumbook/ethereumbook)
+### - codius (archived)
+  - [🌐](https://codius.org/)
 - []()
 - []()
 
