@@ -180,10 +180,10 @@
 ## 🗝️ wasm & c++ [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
-    - [mbasso/awesome-wasm🧰](https://github.com/mbasso/awesome-wasm)
-    - [appcypher/awesome-wasm-langs🧰](https://github.com/appcypher/awesome-wasm-langs)
-    - [appcypher/awesome-wasm-runtimes🧰](https://github.com/appcypher/awesome-wasm-runtimes)
-    - [vshymanskyy/awesome-wasm-tools🧰](https://github.com/vshymanskyy/awesome-wasm-tools)
+  - [mbasso/awesome-wasm🧰](https://github.com/mbasso/awesome-wasm)
+  - [appcypher/awesome-wasm-langs🧰](https://github.com/appcypher/awesome-wasm-langs)
+  - [appcypher/awesome-wasm-runtimes🧰](https://github.com/appcypher/awesome-wasm-runtimes)
+  - [vshymanskyy/awesome-wasm-tools🧰](https://github.com/vshymanskyy/awesome-wasm-tools)
 ### - c++
   - [fffaraz/awesome-cpp🧰](https://github.com/fffaraz/awesome-cpp)
   - [JakubVojvoda/design-patterns-cpp🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
