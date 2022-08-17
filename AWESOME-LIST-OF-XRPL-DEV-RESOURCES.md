@@ -177,7 +177,7 @@
 
 ******
 
-## 🗝️ wasm & c++ [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm)<br>
+## 🗝️ wasm & c++ [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
     - [mbasso/awesome-wasm🧰](https://github.com/mbasso/awesome-wasm)
