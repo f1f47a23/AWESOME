@@ -198,21 +198,21 @@
 
 ## 🗝️ awesome webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
-- [sindresorhus/awesome🧰](https://github.com/sindresorhus/awesome)
 ### - nodejs
   - [sindresorhus/awesome-nodejs🧰](https://github.com/sindresorhus/awesome-nodejs)
   - [sqreen/awesome-nodejs-projects🧰](https://github.com/sqreen/awesome-nodejs-projects)
   - [lirantal/awesome-nodejs-security🧰](https://github.com/lirantal/awesome-nodejs-security)
   - [bnb/awesome-awesome-nodejs🧰](https://github.com/bnb/awesome-awesome-nodejs)
   - [Packt/Node.js-Design-Patterns🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
-### - ...
-- [therebelrobot/awesome-bootstrap🧰](https://github.com/therebelrobot/awesome-bootstrap)
-- [markodenic/web-dev🧰](https://github.com/markodenic/web-development-resources)
-- [dypsilon/frontend🧰](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [TonnyL/Awesome_APIs🧰](https://github.com/TonnyL/Awesome_APIs)
-- [lorien/awesome-web🧰](https://github.com/lorien/awesome-web-scraping)
-- [lauragift21/awesome-learning🧰](https://github.com/lauragift21/awesome-learning-resources)
-- [sindresorhus/awesome-electron🧰](https://github.com/sindresorhus/awesome-electron)
+### - Misc
+  - [sindresorhus/awesome🧰](https://github.com/sindresorhus/awesome)
+  - [therebelrobot/awesome-bootstrap🧰](https://github.com/therebelrobot/awesome-bootstrap)
+  - [markodenic/web-dev🧰](https://github.com/markodenic/web-development-resources)
+  - [dypsilon/frontend🧰](https://github.com/dypsilon/frontend-dev-bookmarks)
+  - [TonnyL/Awesome_APIs🧰](https://github.com/TonnyL/Awesome_APIs)
+  - [lorien/awesome-web🧰](https://github.com/lorien/awesome-web-scraping)
+  - [lauragift21/awesome-learning🧰](https://github.com/lauragift21/awesome-learning-resources)
+  - [sindresorhus/awesome-electron🧰](https://github.com/sindresorhus/awesome-electron)
 ### - design patterns
   - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
   - [kamranahmedse/design-patterns🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
