@@ -224,7 +224,7 @@
 - []()
 
 
-## 🗝️ awesome systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-security)<br>
+## 🗝️ awesome systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 - []()
 - []()
