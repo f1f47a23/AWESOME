@@ -37,7 +37,7 @@
 
 ## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-### - xrpl-main
+### - main
   - [xrpl-dev-portal{✘}](https://xrpl.org/)
   - [xrpl-explorer🌐](https://explorer.xrplf.org/)
   - [livenet-xrpl-explorer{✘}](https://livenet.xrpl.org/)
@@ -128,7 +128,7 @@
   - [🌐](https://interledger.org/)
   - [interledger🧰](https://github.com/interledger)
   - [interledgerjs🧰](https://github.com/interledgerjs)
-### - 
+### - misc
   - [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
   - [onxrp.com🌐](https://onxrp.com/)
   - [xrplgrants.org🌐](https://xrplgrants.org/)
@@ -240,7 +240,7 @@
   - [lirantal/awesome-nodejs-security🧰](https://github.com/lirantal/awesome-nodejs-security)
   - [bnb/awesome-awesome-nodejs🧰](https://github.com/bnb/awesome-awesome-nodejs)
   - [Packt/Node.js-Design-Patterns🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
-### - Misc
+### - misc
   - [sindresorhus/awesome🧰](https://github.com/sindresorhus/awesome)
   - [therebelrobot/awesome-bootstrap🧰](https://github.com/therebelrobot/awesome-bootstrap)
   - [markodenic/web-dev🧰](https://github.com/markodenic/web-development-resources)
