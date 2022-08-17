@@ -226,6 +226,24 @@
 
 ## 🗝️ awesome systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
+- Security
+  - [](https://github.com/sbilly/awesome-security)
+  - [](https://github.com/qazbnm456/awesome-web-security)
+  - [](https://github.com/ashishb/android-security-awesome)
+- Hacking
+  - [](https://github.com/Hack-with-Github/Awesome-Hacking)
+  - [](https://github.com/infoslack/awesome-web-hacking)
+  - [](https://github.com/Igglybuff/awesome-piracy)
+  - [](https://github.com/carpedm20/awesome-hacking)
+  - [](https://github.com/vitalysim/Awesome-Hacking-Resources)
+  - [](https://github.com/jekil/awesome-hacking)
+- ....
+  - [](https://github.com/Awesome-Windows/Awesome)
+  - [](https://github.com/pingcap/awesome-database-learning)
+- ....
+  - [](https://github.com/t3chnoboy/awesome-awesome-awesome)
+  - [](https://github.com/emijrp/awesome-awesome)
+  - [](https://github.com/lukasz-madon/awesome-remote-job)
 - []()
 - []()
 
