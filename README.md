@@ -283,14 +283,24 @@
   - [vitalysim/🧰](https://github.com/vitalysim/Awesome-Hacking-Resources)
   - [jekil/🧰](https://github.com/jekil/awesome-hacking)
   - [Igglybuff/🧰](https://github.com/Igglybuff/awesome-piracy)
+### - Linux
+  - [luong-komorebi/Awesome-Linux-Software🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
+  - [inputsh/awesome-linux🧰](https://github.com/inputsh/awesome-linux)
+  - [itech001/awesome-linux-resources🧰](https://github.com/itech001/awesome-linux-resources)
+  - [madbob/awesome-linux-dev🧰](https://github.com/madbob/awesome-linux-dev)
+  - [sirredbeard/Awesome-WSL🧰](https://github.com/sirredbeard/Awesome-WSL)
+  - [WillPower3309/awesome-dotfiles🧰](https://github.com/WillPower3309/awesome-dotfiles)
+  - []()
+  - []()
 ### - Misc
   - [Awesome-Windows🧰](https://github.com/Awesome-Windows/Awesome)
+  - [sirredbeard/Awesome-UNIX🧰](https://github.com/sirredbeard/Awesome-UNIX)
   - [pingcap/awesome-database-learning🧰](https://github.com/pingcap/awesome-database-learning)
   - [t3chnoboy/awesome-awesome-awesome🧰](https://github.com/t3chnoboy/awesome-awesome-awesome)
   - [emijrp/awesome-awesome🧰](https://github.com/emijrp/awesome-awesome)
   - [lukasz-madon/awesome-remote-job🧰](https://github.com/lukasz-madon/awesome-remote-job)
-- []()
-- []()
+  - []()
+  - []()
 
 ******
 
