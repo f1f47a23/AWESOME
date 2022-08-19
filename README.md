@@ -73,7 +73,8 @@
 
 ******
 
-## 🗝️ cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)<br>
+## 🗝️ cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+### Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ
 
 ### - xrpl
   - xrp-paper-wallet
@@ -137,7 +138,8 @@
 - []()
 
 ******
-## ▞▞▞▞▞▖🅳🅴🅲🅴🅽🆃🆁🅰🅻🅸🆉🅴 🅴🆅🅴🆁🆈🆃🅷🅸🅽🅶▝▞▞▞▞▞ Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ
+## ▞▞▞▞▞▖🅳🅴🅲🅴🅽🆃🆁🅰🅻🅸🆉🅴 🅴🆅🅴🆁🆈🆃🅷🅸🅽🅶▝▞▞▞▞▞ 
+### Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ
 ******
 
 ## 🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
