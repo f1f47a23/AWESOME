@@ -74,7 +74,7 @@
 ******
 
 ## 🗝️ cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
-### Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ
+Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ
 
 ### - xrpl
   - xrp-paper-wallet
