@@ -272,6 +272,13 @@
 
 ## 🗝️ systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
+### - Linux
+  - [luong-komorebi/Awesome-Linux-Software🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
+  - [inputsh/awesome-linux🧰](https://github.com/inputsh/awesome-linux)
+  - [itech001/awesome-linux-resources🧰](https://github.com/itech001/awesome-linux-resources)
+  - [madbob/awesome-linux-dev🧰](https://github.com/madbob/awesome-linux-dev)
+  - [sirredbeard/Awesome-WSL🧰](https://github.com/sirredbeard/Awesome-WSL)
+  - [WillPower3309/awesome-dotfiles🧰](https://github.com/WillPower3309/awesome-dotfiles)
 ### - Security
   - [sbilly/🧰](https://github.com/sbilly/awesome-security)
   - [qazbnm456/🧰](https://github.com/qazbnm456/awesome-web-security)
@@ -283,15 +290,6 @@
   - [vitalysim/🧰](https://github.com/vitalysim/Awesome-Hacking-Resources)
   - [jekil/🧰](https://github.com/jekil/awesome-hacking)
   - [Igglybuff/🧰](https://github.com/Igglybuff/awesome-piracy)
-### - Linux
-  - [luong-komorebi/Awesome-Linux-Software🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
-  - [inputsh/awesome-linux🧰](https://github.com/inputsh/awesome-linux)
-  - [itech001/awesome-linux-resources🧰](https://github.com/itech001/awesome-linux-resources)
-  - [madbob/awesome-linux-dev🧰](https://github.com/madbob/awesome-linux-dev)
-  - [sirredbeard/Awesome-WSL🧰](https://github.com/sirredbeard/Awesome-WSL)
-  - [WillPower3309/awesome-dotfiles🧰](https://github.com/WillPower3309/awesome-dotfiles)
-  - []()
-  - []()
 ### - Misc
   - [Awesome-Windows🧰](https://github.com/Awesome-Windows/Awesome)
   - [sirredbeard/Awesome-UNIX🧰](https://github.com/sirredbeard/Awesome-UNIX)
