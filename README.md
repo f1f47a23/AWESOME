@@ -2,10 +2,11 @@
 ## ☆꧁✬◦°˚°◦. AWESOME LIST OF XRPL DEV RESOURCES .◦°˚°◦✬꧂☆
 
 <br><br>
+```
 ******
 ```
 ## ▞▞▞▞▞▖🅵🆁🅾🅽🆃🅻🅸🅽🅴 🆇🆁🅿🅻▝▞▞▞▞▞
-```
+
 ******
 
 ## 🗝️ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
