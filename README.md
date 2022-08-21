@@ -9,7 +9,7 @@
 ## ▞▞▞▞▞▖🅵🆁🅾🅽🆃🅻🅸🅽🅴 🆇🆁🅿🅻▝▞▞▞▞▞
 
 ******
-
+`#0969DA`
 ## 🗝️ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
 - [xrpl-hooks-testnet-explorer🌐](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
