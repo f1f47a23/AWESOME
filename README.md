@@ -244,10 +244,11 @@
 
 ## 🗝️ javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
-### - overall
+### - misc
   - [browserify/assert🧰](https://github.com/browserify/commonjs-assert)
   - [tiliqua/assert🧰](https://github.com/Tiliqua/assert-js)
   - [lodash🧰](https://github.com/lodash/lodash)
+  - [selfrefactor/useful-javascript-libraries🧰](https://github.com/selfrefactor/useful-javascript-libraries)
 ### - concurrency
   - [wbinnssmith/awesome-promises🧰](https://github.com/wbinnssmith/awesome-promises)
   - [taylonr/async-programming-promises🧰](https://github.com/taylonr/async-programming-promises)
