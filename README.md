@@ -226,10 +226,10 @@
 - [orta/awesome-typescript-derived-languages🧰](https://github.com/orta/awesome-typescript-derived-languages)
 - [madou/awesome-typescript-ecosystem🧰](https://github.com/madou/awesome-typescript-ecosystem)
 ### - design patterns
-  - [torokmark/design_patterns_in_typescript🧰](https://github.com/torokmark/design_patterns_in_typescript)
-  - [RefactoringGuru/design-patterns-typescript🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
-  - [gztchan/design-patterns-in-typescript🧰](https://github.com/gztchan/design-patterns-in-typescript)
-  - [SavjeeTutorials/typescript-design-patterns🧰](https://github.com/SavjeeTutorials/typescript-design-patterns)
+   - [torokmark/design_patterns_in_typescript🧰](https://github.com/torokmark/design_patterns_in_typescript)
+   - [RefactoringGuru/design-patterns-typescript🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
+   - [gztchan/design-patterns-in-typescript🧰](https://github.com/gztchan/design-patterns-in-typescript)
+   - [SavjeeTutorials/typescript-design-patterns🧰](https://github.com/SavjeeTutorials/typescript-design-patterns)
 - []()
 - []()
 
