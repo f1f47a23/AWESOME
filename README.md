@@ -9,28 +9,32 @@
 
 ## 🗝️ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
-- [xrpl-hooks-testnet-explorer🌐](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
-- [xrpl-hooks-testnet-faucet🌐](https://hooks-testnet-v2.xrpl-labs.com/)
-- [bithomp-hooks-explorer🌐](https://beta.bithomp.com/)
-- [hooks.xrpl.org{✘}](https://hooks.xrpl.org/)
-- [xrpl-hooks-docs🌐](https://xrpl-hooks.readme.io/)
-- [xrpl-hooks-ide{✘}](https://hooks-builder.xrpl.org/develop)
-- [XRPLF/hooks-forum🧰](https://github.com/XRPLF/Hooks/discussions)
-- [richard/xrpl-hooks🧰](https://github.com/RichardAH/xrpl.js)
-- [richard/xrpl-hookon-calculator🧰](https://github.com/RichardAH/xrpl-hookon-calculator)
-- [richard/xrpl-hooks-faucet🧰](https://github.com/RichardAH/hooks-faucet)
-- [muzam1l/gist-hooks-examples🧱](https://gist.github.com/muzam1l)
-- []()
-- []()
+  - [xrpl-hooks-testnet-explorer🌐](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
+  - [xrpl-hooks-testnet-faucet🌐](https://hooks-testnet-v2.xrpl-labs.com/)
+  - [bithomp-hooks-explorer🌐](https://beta.bithomp.com/)
+  - [hooks.xrpl.org{✘}](https://hooks.xrpl.org/)
+  - [xrpl-hooks-docs🌐](https://xrpl-hooks.readme.io/)
+  - [xrpl-hooks-ide{✘}](https://hooks-builder.xrpl.org/develop)
+  - [XRPLF/hooks-forum🧰](https://github.com/XRPLF/Hooks/discussions)
+  - [richard/xrpl-hooks🧰](https://github.com/RichardAH/xrpl.js)
+  - [richard/xrpl-hookon-calculator🧰](https://github.com/RichardAH/xrpl-hookon-calculator)
+  - [richard/xrpl-hooks-faucet🧰](https://github.com/RichardAH/hooks-faucet)
+  - [muzam1l/gist-hooks-examples🧱](https://gist.github.com/muzam1l)
+  - []()
+  - []()
 
 
 ******
 
 ## 🗝️ xrpl NFT TOKENS sidechain &...<br>
 
-- [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
-- [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
-- [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
+### - NFT
+  - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
+### - tokens
+  - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
+### - sidechain
+  - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
+- []()
 - []()
 
 <br>
@@ -83,16 +87,16 @@
 ## 🗝️ cryptography / algorithms / keypairs encode sign bip39 bip44 wallets [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ
 
-### - xrpl
+### - xrpl algorithms
   - xrp-paper-wallet
     - [wietse-xrp-paper-wallet🧰](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
     - [wietse/XADDRESS🧰](https://github.com/xrp-community/xrpl-tagged-address-codec) [🌐jsfiddle](https://jsfiddle.net/WietseWind/05rpvbag/) [🌐runkit](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59) [🌐](https://xrpaddress.info/)
     - [bithomp🧰](https://github.com/Bithomp/xrp-paper-wallet)[🌐](https://bithomp.github.io/xrp-paper-wallet/)[🌐](https://bithomp.com/paperwallet/)
     - others [🌐](https://www.xrppaperwallet.com/)[🌐](https://ripplepaperwallet.com/)
   - XRPLF/xrpl-client-lib
-    - [ripple-address-codec🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
-    - [ripple-binary-codec🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
-    - [ripple-keypairs🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
+    - [XRPLF/ripple-address-codec🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
+    - [XRPLF/ripple-binary-codec🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
+    - [XRPLF/ripple-keypairs🧰](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
   - [XRPL-Labs/ripple-keypairs🧰](https://github.com/XRPL-Labs/ripple-keypairs)
   - [XRPL-Labs/xrpl-sign-keypairs bip39,bip44🧰](https://github.com/XRPL-Labs/xrpl-sign-keypairs)
   - [XRPL-Labs/verify-xrpl-signature🧰](https://github.com/XRPL-Labs/verify-xrpl-signature)
@@ -227,10 +231,10 @@
   - [orta/awesome-typescript-derived-languages🧰](https://github.com/orta/awesome-typescript-derived-languages)
   - [madou/awesome-typescript-ecosystem🧰](https://github.com/madou/awesome-typescript-ecosystem)
 ### - design patterns
-   - [torokmark/design_patterns_in_typescript🧰](https://github.com/torokmark/design_patterns_in_typescript)
-   - [RefactoringGuru/design-patterns-typescript🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
-   - [gztchan/design-patterns-in-typescript🧰](https://github.com/gztchan/design-patterns-in-typescript)
-   - [SavjeeTutorials/typescript-design-patterns🧰](https://github.com/SavjeeTutorials/typescript-design-patterns)
+  - [torokmark/design_patterns_in_typescript🧰](https://github.com/torokmark/design_patterns_in_typescript)
+  - [RefactoringGuru/design-patterns-typescript🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
+  - [gztchan/design-patterns-in-typescript🧰](https://github.com/gztchan/design-patterns-in-typescript)
+  - [SavjeeTutorials/typescript-design-patterns🧰](https://github.com/SavjeeTutorials/typescript-design-patterns)
 - []()
 - []()
 
@@ -240,11 +244,13 @@
 
 ## 🗝️ javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
-- [browserify/assert🧰](https://github.com/browserify/commonjs-assert)
-- [tiliqua/assert🧰](https://github.com/Tiliqua/assert-js)
-- [lodash🧰](https://github.com/lodash/lodash)
-- [wbinnssmith/awesome-promises🧰](https://github.com/wbinnssmith/awesome-promises)
-- [taylonr/async-programming-promises🧰](https://github.com/taylonr/async-programming-promises)
+### - overall
+  - [browserify/assert🧰](https://github.com/browserify/commonjs-assert)
+  - [tiliqua/assert🧰](https://github.com/Tiliqua/assert-js)
+  - [lodash🧰](https://github.com/lodash/lodash)
+### - concurrency
+  - [wbinnssmith/awesome-promises🧰](https://github.com/wbinnssmith/awesome-promises)
+  - [taylonr/async-programming-promises🧰](https://github.com/taylonr/async-programming-promises)
 ### - ecmascript updates
   - es2015-es2022: [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
  [🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)
@@ -269,6 +275,10 @@
   - [lirantal/awesome-nodejs-security🧰](https://github.com/lirantal/awesome-nodejs-security)
   - [bnb/awesome-awesome-nodejs🧰](https://github.com/bnb/awesome-awesome-nodejs)
   - [Packt/Node.js-Design-Patterns🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
+### - design patterns
+  - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
+  - [kamranahmedse/design-patterns🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
+  - [webpro/programming-principles🧰](https://github.com/webpro/programming-principles)
 ### - misc
   - [sindresorhus/awesome🧰](https://github.com/sindresorhus/awesome)
   - [therebelrobot/awesome-bootstrap🧰](https://github.com/therebelrobot/awesome-bootstrap)
@@ -278,10 +288,6 @@
   - [lorien/awesome-web🧰](https://github.com/lorien/awesome-web-scraping)
   - [lauragift21/awesome-learning🧰](https://github.com/lauragift21/awesome-learning-resources)
   - [sindresorhus/awesome-electron🧰](https://github.com/sindresorhus/awesome-electron)
-### - design patterns
-  - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
-  - [kamranahmedse/design-patterns🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
-  - [webpro/programming-principles🧰](https://github.com/webpro/programming-principles)
 - []()
 - []()
 
