@@ -56,8 +56,7 @@
 
 ### - main
   - xrpl-dev-portal [{✘}](https://xrpl.org/)[🧰](https://github.com/XRPLF/xrpl-dev-portal)
-     - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
-       - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
+     - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
   - [xrpl-explorer🌐](https://explorer.xrplf.org/)
   - [livenet-xrpl-explorer{✘}](https://livenet.xrpl.org/)
   - [xrpl-blog{✘}](https://xrpl.org/blog/)
