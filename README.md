@@ -32,7 +32,7 @@
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
       - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
   - [DEX{✘}](https://xrpl.org/decentralized-exchange.html)
-  - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https:
+  - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
 ### - sidechain
   - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
 - []()
