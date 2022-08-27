@@ -28,10 +28,10 @@
 
 ## 🗝️ xrpl NFT TOKENS sidechain &...<br>
 
-### - NFT
-  - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
-### - tokens
+### - TOKENS NFT TRUSTLINE
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
+      - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
+  - [DEX{✘}](https://xrpl.org/decentralized-exchange.html)
 ### - sidechain
   - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
 - []()
