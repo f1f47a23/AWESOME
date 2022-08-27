@@ -26,7 +26,7 @@
 
 ******
 
-## 🗝️ xrpl NFT TOKENS sidechain &...<br>
+## 🗝️ xrpl NFT TOKENS DEX sidechain &...<br>
 
 ### - TOKENS NFT TRUSTLINE
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
