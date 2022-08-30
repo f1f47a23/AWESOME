@@ -70,6 +70,7 @@
   - [ripple▶️](https://www.youtube.com/c/Ripple/videos)
   - [DavidSchwartz▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
   - [bankxrp▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)
+  - [xrpdev](https://www.youtube.com/c/XRPDEV/videos)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
   - [bithomp-explorer🌐](https://bithomp.com/)
   - [xrpl-services🌐](https://xrpl.services/)
