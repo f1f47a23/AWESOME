@@ -180,6 +180,7 @@
   - [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
   - [onxrp.com🌐](https://onxrp.com/)
   - [xrplgrants.org🌐](https://xrplgrants.org/)
+  - [checksum🧰](https://github.com/checksumso/) open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts
 - []()
 - []()
 
