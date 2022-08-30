@@ -20,6 +20,7 @@
   - [richard/xrpl-hookon-calculator🧰](https://github.com/RichardAH/xrpl-hookon-calculator)
   - [richard/xrpl-hooks-faucet🧰](https://github.com/RichardAH/hooks-faucet)
   - [muzam1l/gist-hooks-examples🧱](https://gist.github.com/muzam1l)
+  - [XRPL-Labs/xrpld-hooks/issues🧱](https://github.com/XRPL-Labs/xrpld-hooks/issues)
   - []()
   - []()
 
