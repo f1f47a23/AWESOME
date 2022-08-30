@@ -22,7 +22,6 @@
   - [muzam1l/gist-hooks-examples🧱](https://gist.github.com/muzam1l)
   - [XRPL-Labs/xrpld-hooks/issues🧱](https://github.com/XRPL-Labs/xrpld-hooks/issues)
   - []()
-  - []()
 
 
 ******
@@ -64,6 +63,12 @@
   - [xrpl-blog{✘}](https://xrpl.org/blog/)
   - [XRPLF/xrpl-client-lib🧰](https://github.com/XRPLF/xrpl.js)
   - [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
+  - [rippled-source-doc{✘}](https://xrplf.github.io/rippled/)
+  - [xrplf▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
+  - [xrplf▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
+  - [wietse▶️](https://www.youtube.com/c/WietseWind/videos)
+  - [ripple▶️](https://www.youtube.com/c/Ripple/videos)
+  - [DavidSchwartz▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
   - [bithomp-explorer🌐](https://bithomp.com/)
   - [xrpl-services🌐](https://xrpl.services/)
@@ -125,6 +130,8 @@
   - []()
   - []()
 ### - crypto encode & ...
+  - [floodyberry/ed25519-donna🧰](https://github.com/floodyberry/ed25519-donna)
+  - [bitcoin-core/secp256k1(ECDSA)🧰](https://github.com/bitcoin-core/secp256k1)
   - [brix/crypto-js🧰](https://github.com/brix/crypto-js)
   - [cryptocoinjs/base-x🧰](https://github.com/cryptocoinjs/base-x)
   - [indutny/elliptic🧰](https://github.com/indutny/elliptic)
@@ -134,6 +141,9 @@
   - [LazarSoft/jsqrcode🧰](https://github.com/LazarSoft/jsqrcode)
   - [jeromeetienne/jquery-qrcode🧰](https://github.com/jeromeetienne/jquery-qrcode)
   - [SumiMakito/AwesomeQRCode🧰](https://github.com/SumiMakito/AwesomeQRCode)
+### - compression
+  - [lz4🧰](https://github.com/lz4/lz4)
+  - [snappy🧰](https://github.com/google/snappy)
 ### - algorithms
   - [tayllan/awesome-algorithms🧰](https://github.com/tayllan/awesome-algorithms)
 - []()
