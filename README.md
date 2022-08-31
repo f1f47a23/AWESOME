@@ -118,7 +118,7 @@
     - [wietse/awesome-xrpl🧰⑂](https://github.com/WietseWind/awesome-xrpl)
   - [vhpoet/awesome-ripple🧰](https://github.com/vhpoet/awesome-ripple)
     - [wietse/awesome-ripple🧰⑂](https://github.com/WietseWind/awesome-ripple)
-    - [TusharPardhe/xrpl-cheat-sheet🧰](https://github.com/TusharPardhe/xrpl-cheat-sheet)
+  - [TusharPardhe/xrpl-cheat-sheet🧰](https://github.com/TusharPardhe/xrpl-cheat-sheet)
 - []()
 - []()
 
