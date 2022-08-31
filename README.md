@@ -21,7 +21,6 @@
       - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
   - [DEX{✘}](https://xrpl.org/decentralized-exchange.html)
   - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
-  - [xrpdev▶️](https://www.youtube.com/watch?v=wRZOiPN5kDU)
 ### - federated sidechains
   - [ripplexdev🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
   - [xrpl.org{✘}](https://xrpl.org/federated-sidechains.html)
