@@ -9,7 +9,7 @@
 
 
 
-## 🗝️ xrpl NFT TOKENS DEX sidechain &...<br>
+## 🗝️ xrpl NFT TOKENS DEX sidechains &...<br>
 
 ### - main
   - XRPLF/XRPL-Standards[🧰](https://github.com/XRPLF/XRPL-Standards)[🧰](https://github.com/XRPLF/XRPL-Standards/discussions)
@@ -21,9 +21,9 @@
   - [DEX{✘}](https://xrpl.org/decentralized-exchange.html)
   - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
   - []()
-### - sidechain
+### - federated sidechains
   - [sidechain🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
-  - []()
+  - [{✘}](https://xrpl.org/federated-sidechains.html)
 - []()
 - []()
 
@@ -35,8 +35,8 @@
 
 ## 🗝️ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
-  - [xrpl-hooks-testnet-explorer🌐](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
-  - [xrpl-hooks-testnet-faucet🌐](https://hooks-testnet-v2.xrpl-labs.com/)
+  - [betanet{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
+  - [betanet-faucet{✘}](https://hooks-testnet-v2.xrpl-labs.com/)
   - [bithomp-hooks-explorer🌐](https://beta.bithomp.com/)
   - [hooks.xrpl.org{✘}](https://hooks.xrpl.org/)
   - [xrpl-hooks-docs🌐](https://xrpl-hooks.readme.io/)
@@ -90,7 +90,8 @@
   - [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
   - [rippled-source-doc{✘}](https://xrplf.github.io/rippled/)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
-  - [xrpl-services🌐](https://xrpl.services/)
+  - [testnet.xrpl.org{✘}](https://testnet.xrpl.org/)
+  - [devnet.xrpl.org{✘}](https://devnet.xrpl.org/)
   - ▶️
     - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
     - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
@@ -192,13 +193,17 @@
   - [threexrp🌐](https://threexrp.dev/dex)
   - [xrpintel🌐](https://xrpintel.com/)
   - [xrplorer🌐](https://xrplorer.com/)
-  - [🌐]()
-  - [🌐]()
-  - [🌐]()
-  - [🌐]()
-  - [🌐]()
-   
-   
+  - [xrpl-services🌐](https://xrpl.services/)
+  - [xrplcoins🌐](https://xrplcoins.com/dex)
+  - [xrptoolkit🌐](https://www.xrptoolkit.com/)
+  - [xdex🌐](https://xdex.com/)
+  - [theworldexchange🌐](https://www.theworldexchange.net/)
+  - [xpmarket(tokens)🌐](https://xpmarket.io/)
+  - [onthedex🌐](https://onthedex.live/)
+  - [zerpcraft🌐](https://www.zerpcraft.com/)
+  - [paystring🌐](https://paystring.org/)
+  - [xptxrpl🌐](https://xptxrpl.com/)
+  - [radynamics/Iso20022🧰](https://github.com/radynamics/CryptoIso20022Interop)
   - [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
   - [onxrp.com🌐](https://onxrp.com/)
   - [xrplgrants.org🌐](https://xrplgrants.org/)
