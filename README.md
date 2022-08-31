@@ -15,6 +15,7 @@
   - XLS{n}[🧰](https://github.com/XRPLF/XRPL-Standards/discussions)[🧰](https://github.com/XRPLF/XRPL-Standards)
   - [ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - [ripple-insight🌐](https://ripple.com/insights/)
+  - [reddit/ripple🌐](https://www.reddit.com/r/Ripple/)
 ### - tokens NFT trustline
   - [XLS20🧰](https://github.com/XRPLF/XRPL-Standards/discussions/46)
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
@@ -205,7 +206,7 @@
   - [xptxrpl🌐](https://xptxrpl.com/)
   - [radynamics/Iso20022🧰](https://github.com/radynamics/CryptoIso20022Interop)
   - [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
-  - [onxrp.com🌐](https://onxrp.com/)
+  - [onxrp.com🌐](https://onxrp.com/about)
   - [xrplgrants.org🌐](https://xrplgrants.org/)
   - [TusharPardhe/XPT-Extension🧰](https://github.com/TusharPardhe/XPT-Extension)
   - [checksum🧰](https://github.com/checksumso/) open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts
@@ -413,7 +414,7 @@
 
 <br><br>
 
-##  ▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓
+###  ▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓
 
 <br><br>
 
