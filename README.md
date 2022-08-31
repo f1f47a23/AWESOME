@@ -13,6 +13,7 @@
 
 ### - main
   - XRPLF/XRPL-Standards[🧰](https://github.com/XRPLF/XRPL-Standards)[🧰](https://github.com/XRPLF/XRPL-Standards/discussions)
+  - [dev.to/ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - []()
 ### - TOKENS NFT TRUSTLINE
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
@@ -21,7 +22,7 @@
   - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
   - []()
 ### - sidechain
-  - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
+  - [sidechain🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
   - []()
 - []()
 - []()
@@ -117,6 +118,7 @@
     - [wietse/awesome-xrpl🧰⑂](https://github.com/WietseWind/awesome-xrpl)
   - [vhpoet/awesome-ripple🧰](https://github.com/vhpoet/awesome-ripple)
     - [wietse/awesome-ripple🧰⑂](https://github.com/WietseWind/awesome-ripple)
+    - [TusharPardhe/xrpl-cheat-sheet🧰](https://github.com/TusharPardhe/xrpl-cheat-sheet)
 - []()
 - []()
 
@@ -189,6 +191,7 @@
   - [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
   - [onxrp.com🌐](https://onxrp.com/)
   - [xrplgrants.org🌐](https://xrplgrants.org/)
+  - [TusharPardhe/XPT-Extension🧰](https://github.com/TusharPardhe/XPT-Extension)
   - [checksum🧰](https://github.com/checksumso/) open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts
 - []()
 - []()
