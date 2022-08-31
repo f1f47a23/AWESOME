@@ -13,8 +13,8 @@
 
 ### - main
   - XRPLF/XRPL-Standards[🧰](https://github.com/XRPLF/XRPL-Standards)[🧰](https://github.com/XRPLF/XRPL-Standards/discussions)
-  - [dev.to/ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
-  - []()
+  - [ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
+  - [ripple-insight🌐](https://ripple.com/insights/)
 ### - TOKENS NFT TRUSTLINE
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
       - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
@@ -22,8 +22,8 @@
   - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
   - []()
 ### - federated sidechains
-  - [dev.to/ripplexdev🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
-  - [{✘}](https://xrpl.org/federated-sidechains.html)
+  - [ripplexdev🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
+  - [xrpl.org{✘}](https://xrpl.org/federated-sidechains.html)
 - []()
 - []()
 
