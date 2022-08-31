@@ -93,6 +93,8 @@
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
   - [testnet.xrpl.org{✘}](https://testnet.xrpl.org/)
   - [devnet.xrpl.org{✘}](https://devnet.xrpl.org/)
+  - xrptoolkit.com [testnet🌐](https://test.xrptoolkit.com/)[mainnet🌐](https://www.xrptoolkit.com/)
+
   - ▶️
     - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
     - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
@@ -196,7 +198,6 @@
   - [xrplorer🌐](https://xrplorer.com/)
   - [xrpl-services🌐](https://xrpl.services/)
   - [xrplcoins🌐](https://xrplcoins.com/dex)
-  - [xrptoolkit🌐](https://www.xrptoolkit.com/)
   - [xdex🌐](https://xdex.com/)
   - [theworldexchange🌐](https://www.theworldexchange.net/)
   - [xpmarket(tokens)🌐](https://xpmarket.io/)
