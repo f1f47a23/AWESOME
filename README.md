@@ -22,7 +22,7 @@
   - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
   - []()
 ### - federated sidechains
-  - [sidechain🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
+  - [dev.to/ripplexdev🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
   - [{✘}](https://xrpl.org/federated-sidechains.html)
 - []()
 - []()
