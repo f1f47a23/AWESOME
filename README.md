@@ -7,6 +7,26 @@
 ## ▞▞▞▞▞▖🅵🆁🅾🅽🆃🅻🅸🅽🅴 🆇🆁🅿🅻▝▞▞▞▞▞
 ******
 
+
+
+## 🗝️ xrpl NFT TOKENS DEX sidechain &...<br>
+
+### - TOKENS NFT TRUSTLINE
+  - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
+      - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
+  - [DEX{✘}](https://xrpl.org/decentralized-exchange.html)
+  - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
+### - sidechain
+  - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
+- []()
+- []()
+
+
+
+******
+
+
+
 ## 🗝️ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
   - [xrpl-hooks-testnet-explorer🌐](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
@@ -22,22 +42,6 @@
   - [muzam1l/gist-hooks-examples🧱](https://gist.github.com/muzam1l)
   - [XRPL-Labs/xrpld-hooks/issues🧱](https://github.com/XRPL-Labs/xrpld-hooks/issues)
   - []()
-
-
-******
-
-## 🗝️ xrpl NFT TOKENS DEX sidechain &...<br>
-
-### - TOKENS NFT TRUSTLINE
-  - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
-      - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
-  - [DEX{✘}](https://xrpl.org/decentralized-exchange.html)
-  - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
-### - sidechain
-  - [sidechain🌐](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
-- []()
-- []()
-
 
 
 ******
