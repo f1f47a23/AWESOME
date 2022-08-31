@@ -11,7 +11,7 @@
 
 ## 🗝️ xrpl NFT TOKENS DEX sidechains &...<br>
 
-### - main
+### - main XLS{n}
   - XRPLF/XRPL-Standards[🧰](https://github.com/XRPLF/XRPL-Standards)[🧰](https://github.com/XRPLF/XRPL-Standards/discussions)
   - [ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - [ripple-insight🌐](https://ripple.com/insights/)
