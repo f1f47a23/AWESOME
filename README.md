@@ -83,27 +83,28 @@
 
 ### - main
   - xrpl-dev-portal [{✘}](https://xrpl.org/)[🧰](https://github.com/XRPLF/xrpl-dev-portal)
-     - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
   - [xrpl-blog{✘}](https://xrpl.org/blog/)
   - [XRPLF/xrpl-client-lib🧰](https://github.com/XRPLF/xrpl.js)
   - [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
   - [rippled-source-doc{✘}](https://xrplf.github.io/rippled/)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
+
 ### - devnet/testnet/mainnet explorer/services
-  - [xrplf.org🌐](https://xrplf.org/)[xrpl.org{✘}](https://xrpl.org/)
-    - xrplf-explorer[🌐](https://explorer.xrplf.org/)
-    - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
-    - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
-    - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
+  - xrplf-explorer[🌐](https://explorer.xrplf.org/)
+  - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
+  - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
+  - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
   - [more services below👇](#--more-devnettestnetmainnet-explorerservices)
 
-  - ▶️
-    - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
-    - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
-    - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
-    - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
-    - bankxrp[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)
-    - xrpdev[▶️](https://www.youtube.com/c/XRPDEV/videos)
+### - tutorials 
+   - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
+  - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
+  - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
+  - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
+  - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
+  - bankxrp[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)
+  - xrpdev[▶️](https://www.youtube.com/c/XRPDEV/videos)
+
 ### - xrpl-devtools & examples
   - [wietse/xrpl-stats🧰](https://github.com/WietseWind/xrp-ledgerstats)
   - [xrpl-tools{✘}](https://xrpl.org/dev-tools.html)
@@ -118,6 +119,7 @@
   - [wietse/XRPL-MultiSignTool🧰](https://github.com/WietseWind/XRPL-MultiSignTool)
   - [wietse/xrpl-accountinfo🧰](https://github.com/WietseWind/fetch-xrpl-accounts)
   - [richard/xrpl-tools🧰](https://github.com/RichardAH/xrpl-tools)
+
 ### - awesome-xrpl
   - [yyolk/awesome-xrpl🧰](https://github.com/yyolk/awesome-xrpl)
     - [wietse/awesome-xrpl🧰⑂](https://github.com/WietseWind/awesome-xrpl)
