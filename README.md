@@ -16,7 +16,7 @@
   - [ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - [ripple-insight🌐](https://ripple.com/insights/)
   - [reddit/ripple🌐](https://www.reddit.com/r/Ripple/)
-### - tokens NFT trustline
+### - tokens NFT trustline DEX
   - [XLS20🧰](https://github.com/XRPLF/XRPL-Standards/discussions/46)
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
       - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
@@ -90,17 +90,13 @@
   - [rippled-source-doc{✘}](https://xrplf.github.io/rippled/)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
 ### - devnet/testnet/mainnet explorer/services
-  - xrplf-explorer[🌐](https://explorer.xrplf.org/)
-  - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
-  - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
-  - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
+  - [xrplf.org🌐](https://xrplf.org/)[xrpl.org{✘}](https://xrpl.org/)
+    - xrplf-explorer[🌐](https://explorer.xrplf.org/)
+    - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
+    - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
+    - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
   - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
-  - xrptoolkit.com [testnet🌐](https://test.xrptoolkit.com/)[mainnet🌐](https://www.xrptoolkit.com/)
-  - xrpl-services[🌐](https://xrpl.services/)[🧰](https://github.com/nixer89)
-  - blockexplorer [testnet🌐](https://blockexplorer.one/xrp/testnet)[mainnet🌐](https://blockexplorer.one/xrp/mainnet)
-  - testnet-faucet[🌐](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧰](https://github.com/yusufsahinhamza/xrp-testnet-faucet)[🌐](https://testnet.help/en/xrpfaucet/testnet)
-  - gatehub explorer [🌐](https://gatehub.net/explorer)
-  - getblock mainnet testnet [🌐](https://getblock.io/nodes/xrp/)
+
   - ▶️
     - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
     - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
@@ -196,7 +192,14 @@
   - [🌐](https://interledger.org/)
   - [interledger🧰](https://github.com/interledger)
   - [interledgerjs🧰](https://github.com/interledgerjs)
-### - misc
+### - MORE devnet/testnet/mainnet explorer/services
+  - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
+  - xrptoolkit.com [testnet🌐](https://test.xrptoolkit.com/)[mainnet🌐](https://www.xrptoolkit.com/)
+  - xrpl-services[🌐](https://xrpl.services/)[🧰](https://github.com/nixer89)
+  - blockexplorer [testnet🌐](https://blockexplorer.one/xrp/testnet)[mainnet🌐](https://blockexplorer.one/xrp/mainnet)
+  - testnet-faucet[🌐](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧰](https://github.com/yusufsahinhamza/xrp-testnet-faucet)[🌐](https://testnet.help/en/xrpfaucet/testnet)
+  - gatehub explorer [🌐](https://gatehub.net/explorer)
+  - getblock mainnet testnet [🌐](https://getblock.io/nodes/xrp/)
   - [bithomp🌐](https://bithomp.com/)
   - [xrpscan🌐](https://xrpscan.com/)
   - [threexrp🌐](https://threexrp.dev/dex)
@@ -210,6 +213,7 @@
   - [zerpcraft🌐](https://www.zerpcraft.com/)
   - [paystring🌐](https://paystring.org/)
   - [xptxrpl🌐](https://xptxrpl.com/)
+### - misc
   - [radynamics/Iso20022🧰](https://github.com/radynamics/CryptoIso20022Interop)
   - [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
   - [onxrp.com🌐](https://onxrp.com/about)
