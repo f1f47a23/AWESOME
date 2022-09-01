@@ -11,13 +11,13 @@
 
 ## 🗝️ xrpl NFT TOKENS DEX sidechains &...<br>
 
-### - main XLS{n}
-  - XLS{n}[🧰](https://github.com/XRPLF/XRPL-Standards/discussions)[🧰](https://github.com/XRPLF/XRPL-Standards)
+### - main XLS-#.#d
+  - XLS-#.#d[🧰](https://github.com/XRPLF/XRPL-Standards/discussions)[🧰](https://github.com/XRPLF/XRPL-Standards)
   - [ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - [ripple-insight🌐](https://ripple.com/insights/)
   - [reddit/ripple🌐](https://www.reddit.com/r/Ripple/)
 ### - tokens NFT trustline DEX
-  - [XLS20🧰](https://github.com/XRPLF/XRPL-Standards/discussions/46)
+  - [XLS-20🧰](https://github.com/XRPLF/XRPL-Standards/discussions/46)
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
       - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
   - [DEX{✘}](https://xrpl.org/decentralized-exchange.html)
