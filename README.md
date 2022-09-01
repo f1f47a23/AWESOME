@@ -95,7 +95,7 @@
     - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
     - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
     - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
-  - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
+  - more services[🧰](https://github.com/f1f47a23/AWESOME/blob/main/README.md#--more-devnettestnetmainnet-explorerservices)
 
   - ▶️
     - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
