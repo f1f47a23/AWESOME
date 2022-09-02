@@ -12,7 +12,7 @@
 ## 🗝️ xrpl NFT TOKENS DEX sidechains &...<br>
 
 ### - main XLS-#.#d
-  - XLS-#.#d[🧰](https://github.com/XRPLF/XRPL-Standards/discussions)[🧰](https://github.com/XRPLF/XRPL-Standards)
+  - XLS-#.#d[forum🧰](https://github.com/XRPLF/XRPL-Standards/discussions)[🧰](https://github.com/XRPLF/XRPL-Standards)
   - [ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - [ripple-insight🌐](https://ripple.com/insights/)
   - [reddit/ripple🌐](https://www.reddit.com/r/Ripple/)
@@ -34,7 +34,7 @@
 
 
 
-## 🗝️ xrpl-hooks-v2🪝 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
+## 🗝️ xrpl-hooks-v2🪝 (smart-contracts) [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
   - [betanet{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
   - [betanet-faucet{✘}](https://hooks-testnet-v2.xrpl-labs.com/)
@@ -85,7 +85,7 @@
 ### - main
   - xrpl-dev-portal [{✘}](https://xrpl.org/)[🧰](https://github.com/XRPLF/xrpl-dev-portal)
   - [xrpl-blog{✘}](https://xrpl.org/blog/)
-  - [XRPLF/xrpl-client-lib🧰](https://github.com/XRPLF/xrpl.js)
+  - XRPLF/xrpl-client-lib[🧰](https://github.com/XRPLF/xrpl.js)[releases🧰](https://github.com/XRPLF/xrpl.js/releases)
   - [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
   - [rippled-source-doc{✘}](https://xrplf.github.io/rippled/)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
