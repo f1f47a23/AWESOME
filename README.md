@@ -9,19 +9,19 @@
 
 
 
-## 🗝️ xrpl NFT TOKENS DEX sidechains &...<br>
+## 🗝️ xrpl NFT TOKENS DEX sidechains &... 🚧<br>
 
 ### - main XLS-#.#d
-  - XLS-#.#d[forum🧰](https://github.com/XRPLF/XRPL-Standards/discussions)[🧰](https://github.com/XRPLF/XRPL-Standards)
+  - XLS-#.#d[forum🧱](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards)
   - [ripplexdev🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - [ripple-insight🌐](https://ripple.com/insights/)
   - [reddit/ripple🌐](https://www.reddit.com/r/Ripple/)
 ### - tokens NFT trustline DEX
-  - [XLS-20🧰](https://github.com/XRPLF/XRPL-Standards/discussions/46)
+  - [XLS-20🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)
   - [xrpl.org/tokens{✘}](https://xrpl.org/tokens.html)
       - [xrpl.org/non-fungible-tokens{✘}](https://xrpl.org/non-fungible-tokens.html)
   - [DEX{✘}](https://xrpl.org/decentralized-exchange.html)
-  - tutorials[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
+  - tutorials[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)
 ### - federated sidechains
   - [ripplexdev🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
   - [xrpl.org{✘}](https://xrpl.org/federated-sidechains.html)
@@ -34,7 +34,7 @@
 
 
 
-## 🗝️ xrpl-hooks-v2🪝 (smart-contracts) [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
+## 🗝️ xrpl-hooks-v2🪝 (smart-contracts) 🚧 [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
   - [betanet{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
   - [betanet-faucet{✘}](https://hooks-testnet-v2.xrpl-labs.com/)
@@ -42,13 +42,12 @@
   - [hooks.xrpl.org{✘}](https://hooks.xrpl.org/)
   - [xrpl-hooks-docs🌐](https://xrpl-hooks.readme.io/)
   - [xrpl-hooks-ide{✘}](https://hooks-builder.xrpl.org/develop)
-  - XRPLF/hooks [forum🧰](https://github.com/XRPLF/Hooks/discussions)
-  - XRPL-Labs/xrpld-hooks [issues🧰](https://github.com/XRPL-Labs/xrpld-hooks/issues)[forum🧰](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
-  - [richard/xrpl-hooks🧰](https://github.com/RichardAH/xrpl.js)
-  - [richard/xrpl-hookon-calculator🧰](https://github.com/RichardAH/xrpl-hookon-calculator)
-  - [richard/xrpl-hooks-faucet🧰](https://github.com/RichardAH/hooks-faucet)
-  - [muzam1l/gist-hooks-examples🧱](https://gist.github.com/muzam1l)
-  - [XRPL-Labs/xrpld-hooks/issues🧱](https://github.com/XRPL-Labs/xrpld-hooks/issues)
+  - XRPLF/hooks [forum🧱](https://github.com/XRPLF/Hooks/discussions)
+  - XRPL-Labs/xrpld-hooks [issues🚧](https://github.com/XRPL-Labs/xrpld-hooks/issues)[forum🚧](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
+  - [richard/xrpl-hooks🚧](https://github.com/RichardAH/xrpl.js)
+  - [richard/xrpl-hookon-calculator🚧](https://github.com/RichardAH/xrpl-hookon-calculator)
+  - [richard/xrpl-hooks-faucet🚧](https://github.com/RichardAH/hooks-faucet)
+  - [muzam1l/gist-hooks-examples🚧](https://gist.github.com/muzam1l)
   - []()
 
 
@@ -83,9 +82,9 @@
 ## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
-  - xrpl-dev-portal [{✘}](https://xrpl.org/)[🧰](https://github.com/XRPLF/xrpl-dev-portal)
+  - xrpl-dev-portal [{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)
   - [xrpl-blog{✘}](https://xrpl.org/blog/)
-  - XRPLF/xrpl-client-lib[🧰](https://github.com/XRPLF/xrpl.js)[releases🧰](https://github.com/XRPLF/xrpl.js/releases)
+  - XRPLF/xrpl-client-lib[🧱](https://github.com/XRPLF/xrpl.js)[releases🧱](https://github.com/XRPLF/xrpl.js/releases)
   - [XRPL-Labs/xrpl-client🧰](https://github.com/XRPL-Labs/xrpl-client)
   - [rippled-source-doc{✘}](https://xrplf.github.io/rippled/)
   - [ripple/explorer🧰](https://github.com/ripple/explorer)
@@ -98,7 +97,7 @@
   - [more services below👇](#--more-devnettestnetmainnet-explorerservices)
 
 ### - tutorials 
-   - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧰](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
+   - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
   - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
