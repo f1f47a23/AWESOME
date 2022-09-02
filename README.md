@@ -42,8 +42,9 @@
   - [hooks.xrpl.org{✘}](https://hooks.xrpl.org/)
   - [xrpl-hooks-docs🌐](https://xrpl-hooks.readme.io/)
   - [xrpl-hooks-ide{✘}](https://hooks-builder.xrpl.org/develop)
-  - XRPLF/hooks [forum🧱](https://github.com/XRPLF/Hooks/discussions)
-  - XRPL-Labs/xrpld-hooks [issues🚧](https://github.com/XRPL-Labs/xrpld-hooks/issues)[forum🚧](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
+  - forum
+    - XRPLF/hooks [forum🧱](https://github.com/XRPLF/Hooks/discussions)
+    - XRPL-Labs/xrpld-hooks [issues🚧](https://github.com/XRPL-Labs/xrpld-hooks/issues)[forum🚧](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
   - [richard/xrpl-hooks🚧](https://github.com/RichardAH/xrpl.js)
   - [richard/xrpl-hookon-calculator🚧](https://github.com/RichardAH/xrpl-hookon-calculator)
   - [richard/xrpl-hooks-faucet🚧](https://github.com/RichardAH/hooks-faucet)
