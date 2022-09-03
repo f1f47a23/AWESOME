@@ -109,7 +109,7 @@
   - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
   - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
   - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
-  - ***more services below***[👇](#--more-devnettestnetmainnet-explorerservices)
+  - `***more services below***`[👇](#--more-devnettestnetmainnet-explorerservices)
   - []()
 
 ### - tutorials 
