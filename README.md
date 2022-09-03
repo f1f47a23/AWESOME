@@ -52,7 +52,7 @@
   - bithomp-hooks-explorer[🌐]https://hooks.bithomp.com/)
     - faucet[🌐](https://hooks.bithomp.com/faucet/)
   - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
-  - xrpl-hooks-docs[🌐](https://xrpl-hooks.readme.io/)
+  - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
   - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
   - forum
     - XRPLF/hooks forum[🧱](https://github.com/XRPLF/Hooks/discussions)
