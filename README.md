@@ -467,7 +467,7 @@
   - pingcap/awesome-database-learning[🧰](https://github.com/pingcap/awesome-database-learning)
   - t3chnoboy/awesome-awesome-awesome[🧰](https://github.com/t3chnoboy/awesome-awesome-awesome)
   - emijrp/awesome-awesome[🧰](https://github.com/emijrp/awesome-awesome)
-  - lukasz-madon/awesome-remote-job🧰](https://github.com/lukasz-madon/awesome-remote-job)
+  - lukasz-madon/awesome-remote-job[🧰](https://github.com/lukasz-madon/awesome-remote-job)
   - []()
 
 
