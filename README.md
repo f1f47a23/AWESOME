@@ -4,12 +4,12 @@
 <br><br>
 
 ******
-## `▞▞▞▞▞▖🚧 🅵🆁🅾🅽🆃🅻🅸🅽🅴 🆇🆁🅿🅻 🚧▝▞▞▞▞▞
+## ▞▞▞▞▞▖🚧 🅵🆁🅾🅽🆃🅻🅸🅽🅴 🆇🆁🅿🅻 🚧▝▞▞▞▞▞
 ******
 
 
 
-## 🗝️ xrpl NFT TOKENS DEX sidechains &... <br>
+## `🗝️ xrpl NFT TOKENS DEX sidechains &... `<br>
 
 ### - main XLS-#.#d
   - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards)
@@ -43,7 +43,7 @@
 
 
 
-## 🗝️ xrpl-hooks-v2🪝 (smart-contracts) [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
+## `🗝️ xrpl-hooks-v2🪝 (smart-contracts) `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
   - betanet [{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
     - faucet[{✘}](https://hooks-testnet-v2.xrpl-labs.com/)
@@ -68,7 +68,7 @@
 
 
 
-## 🗝️ XUMM <br>
+## `🗝️ XUMM `<br>
 
 - xumm.app[🌐](https://xumm.app/)
 - docs[🌐](https://xumm.readme.io/)
@@ -93,7 +93,7 @@
 ## ▞▞▞▞▞▖🆇🆁🅿🅻 & 🅲🆁🆈🅿🆃🅾 🅰🅻🅶🅾🆁🅸🆃🅷🅼🆂▝▞▞▞▞▞
 ******
 
-## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+## `🗝️ xrp xrpl ripple `[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
   - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[🧱](https://github.com/XRPLF/xrpl-dev-portal/issues)
@@ -212,7 +212,7 @@
 
 ******
 
-## 🗝️ xrp ripple ecosystem [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+## `🗝️ xrp ripple ecosystem `[⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 ### - MORE devnet/testnet/mainnet explorer/services
   - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
@@ -271,7 +271,7 @@
 Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ
 ******
 
-## 🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `🗝️ smart-contracts / dapps / ethereum-solidity / flare `[⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 ### - flare
   - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
@@ -295,7 +295,7 @@
 
 ******
 
-## 🗝️ p2p / holochain [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## `🗝️ p2p / holochain `[⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - p2p
   - kgryte/p2p[🧰](https://github.com/kgryte/awesome-peer-to-peer)
@@ -330,7 +330,7 @@
 ## ▞▞▞▞▞▖🆆🅴🅱 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃▝▞▞▞▞▞
 ******
 
-## 🗝️ wasm & c++ [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
+## `🗝️ wasm & c++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
   - mbasso/awesome-wasm[🧰](https://github.com/mbasso/awesome-wasm)
@@ -348,7 +348,7 @@
 
 ******
 
-## 🗝️ typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+## `🗝️ typescript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 ### - overall
   - dzharii/awesome-typescript[🧰](https://github.com/dzharii/awesome-typescript)
@@ -371,7 +371,7 @@
 
 ******
 
-## 🗝️ javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+## `🗝️ javascript ecmascript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 ### - misc
   - browserify/assert[🧰](https://github.com/browserify/commonjs-assert)
@@ -403,7 +403,7 @@
 
 ******
 
-## 🗝️ webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
+## `🗝️ webdev `[⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 ### - nodejs
   - sindresorhus/awesome-nodejs[🧰](https://github.com/sindresorhus/awesome-nodejs)
@@ -435,7 +435,7 @@
 
 ******
 
-## 🗝️ systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
+## `🗝️ systems, tools & security `[⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 ### - Linux
   - luong-komorebi/Awesome-Linux-Software[🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
