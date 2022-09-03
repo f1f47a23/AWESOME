@@ -275,6 +275,9 @@
 ******
 ## ▞▞▞▞▞▖🅳🅴🅲🅴🅽🆃🆁🅰🅻🅸🆉🅴 🅴🆅🅴🆁🆈🆃🅷🅸🅽🅶▝▞▞▞▞▞
 Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=DECENTRALIZE-ALL🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+
 ******
 
 ## `🗝️ smart-contracts / dapps / ethereum-solidity / flare `[⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
