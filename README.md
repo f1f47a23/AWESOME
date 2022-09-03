@@ -95,7 +95,7 @@
 ******
 ## ▞▞▞▞▞▖🆇🆁🅿🅻 & 🅲🆁🆈🅿🆃🅾 🅰🅻🅶🅾🆁🅸🆃🅷🅼🆂▝▞▞▞▞▞
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=XRPL-&-CRYPTO-ALGORITHMS🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=XRPL-n-CRYPTO-ALGORITHMS🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 ******
 
