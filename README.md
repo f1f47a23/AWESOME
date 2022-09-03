@@ -27,7 +27,7 @@
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
       - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
   - bithomp-xls20-explorer[🌐](https://xls20.bithomp.com/)
-    - faucet[🌐](https://xls20.bithomp.com/faucet/)
+    - 🚰[🌐](https://xls20.bithomp.com/faucet/)
   - DEX[{✘}](https://xrpl.org/decentralized-exchange.html)
   - tutorials
     - samples[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) 
@@ -49,11 +49,11 @@
 ## `🗝️ xrpl-hooks-v2🪝 (smart-contracts) `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
   - betanet [{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)
-    - faucet[{✘}](https://hooks-testnet-v2.xrpl-labs.com/)
+    - 🚰[{✘}](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌐](https://beta.bithomp.com/)
-    - faucet[🌐](https://beta.bithomp.com/faucet/)
+    - 🚰[🌐](https://beta.bithomp.com/faucet/)
   - bithomp-hooks-explorer[🌐](https://hooks.bithomp.com/)
-    - faucet[🌐](https://hooks.bithomp.com/faucet/)
+    - 🚰[🌐](https://hooks.bithomp.com/faucet/)
   - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
   - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
   - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
