@@ -135,9 +135,9 @@
 
 ### - awesome-xrpl
   - yyolk/[🧰](https://github.com/yyolk/awesome-xrpl)
-    - wietse/[🧱⑂](https://github.com/WietseWind/awesome-xrpl)
+    - wietse/[⑂](https://github.com/WietseWind/awesome-xrpl)
   - vhpoet/[🧰](https://github.com/vhpoet/awesome-ripple)
-    - wietse/[🧱⑂](https://github.com/WietseWind/awesome-ripple)
+    - wietse/[⑂](https://github.com/WietseWind/awesome-ripple)
   - TusharPardhe/[🧰](https://github.com/TusharPardhe/xrpl-cheat-sheet)
   - []()
 
