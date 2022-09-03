@@ -178,7 +178,7 @@
 ### - bip39,bip44
   - iancoleman/bip39[🧰](https://github.com/iancoleman/bip39)
   - bitcoinjs/bip39[🧰](https://github.com/bitcoinjs/bip39)
-  - oipwg(bip44-wallet)[🧰](https://github.com/oipwg/oip-hdmw)
+  - oipwg *(bip44-wallet)*[🧰](https://github.com/oipwg/oip-hdmw)
   - bitcoinjs/bip44-constants[🧰](https://github.com/bitcoinjs/bip44-constants)
   - bip39[📚](https://github.com/topics/bip39)[📚](https://github.com/topics/bip39-wallet)
   - bip44[📚](https://github.com/topics/bip44)
@@ -186,7 +186,7 @@
 
 ### - crypto encode & ...
   - floodyberry/ed25519-donna[🧰](https://github.com/floodyberry/ed25519-donna)
-  - bitcoin-core/secp256k1(ECDSA)[🧰](https://github.com/bitcoin-core/secp256k1)
+  - bitcoin-core/secp256k1 *(ECDSA)*[🧰](https://github.com/bitcoin-core/secp256k1)
   - brix/crypto-js[🧰](https://github.com/brix/crypto-js)
   - cryptocoinjs/base-x[🧰](https://github.com/cryptocoinjs/base-x)
   - indutny/elliptic[🧰](https://github.com/indutny/elliptic)
@@ -230,7 +230,7 @@
   - xrplcoins[🌐](https://xrplcoins.com/dex)
   - xdex[🌐](https://xdex.com/)
   - theworldexchange[🌐](https://www.theworldexchange.net/)
-  - xpmarket(tokens)[🌐](https://xpmarket.io/)
+  - xpmarket *(tokens)*[🌐](https://xpmarket.io/)
   - onthedex[🌐](https://onthedex.live/)
   - zerpcraft[🌐](https://www.zerpcraft.com/)
   - paystring[🌐](https://paystring.org/)
@@ -250,7 +250,7 @@
   - onxrp.com[🌐](https://onxrp.com/about)
   - xrplgrants.org[🌐](https://xrplgrants.org/)
   - TusharPardhe/XPT-Extension[🧰](https://github.com/TusharPardhe/XPT-Extension)
-  - checksum[🧰](https://github.com/checksumso/) open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts
+  - checksum[🧰](https://github.com/checksumso/) *open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*
   - []()
 
 
@@ -333,15 +333,15 @@
 ## 🗝️ wasm & c++ [⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
-  - [mbasso/awesome-wasm🧰](https://github.com/mbasso/awesome-wasm)
-  - [appcypher/awesome-wasm-langs🧰](https://github.com/appcypher/awesome-wasm-langs)
-  - [appcypher/awesome-wasm-runtimes🧰](https://github.com/appcypher/awesome-wasm-runtimes)
-  - [vshymanskyy/awesome-wasm-tools🧰](https://github.com/vshymanskyy/awesome-wasm-tools)
+  - mbasso/awesome-wasm[🧰](https://github.com/mbasso/awesome-wasm)
+  - appcypher/awesome-wasm-langs[🧰](https://github.com/appcypher/awesome-wasm-langs)
+  - appcypher/awesome-wasm-runtimes[🧰](https://github.com/appcypher/awesome-wasm-runtimes)
+  - vshymanskyy/awesome-wasm-tools[🧰](https://github.com/vshymanskyy/awesome-wasm-tools)
   - []()
 
-### - c++
-  - [fffaraz/awesome-cpp🧰](https://github.com/fffaraz/awesome-cpp)
-  - [JakubVojvoda/design-patterns-cpp🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
+### - c & c++
+  - fffaraz/awesome-cpp[🧰](https://github.com/fffaraz/awesome-cpp)
+  - JakubVojvoda/design-patterns-cpp[🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
   - []()
 
 
@@ -351,19 +351,19 @@
 ## 🗝️ typescript [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 ### - overall
-  - [dzharii/awesome-typescript🧰](https://github.com/dzharii/awesome-typescript)
-  - [semlinker/awesome-typescript🧰](https://github.com/semlinker/awesome-typescript)
-  - [brookshi/awesome-typescript-projects🧰](https://github.com/brookshi/awesome-typescript-projects)
-  - [ellerbrock/awesome-typescript🧰](https://github.com/ellerbrock/awesome-typescript)
-  - [orta/awesome-typescript-derived-languages🧰](https://github.com/orta/awesome-typescript-derived-languages)
-  - [madou/awesome-typescript-ecosystem🧰](https://github.com/madou/awesome-typescript-ecosystem)
+  - dzharii/awesome-typescript[🧰](https://github.com/dzharii/awesome-typescript)
+  - semlinker/awesome-typescript[🧰](https://github.com/semlinker/awesome-typescript)
+  - brookshi/awesome-typescript-projects[🧰](https://github.com/brookshi/awesome-typescript-projects)
+  - ellerbrock/awesome-typescript[🧰](https://github.com/ellerbrock/awesome-typescript)
+  - orta/awesome-typescript-derived-languages[🧰](https://github.com/orta/awesome-typescript-derived-languages)
+  - madou/awesome-typescript-ecosystem[🧰](https://github.com/madou/awesome-typescript-ecosystem)
   - []()
 
 ### - design patterns
-  - [torokmark/design_patterns_in_typescript🧰](https://github.com/torokmark/design_patterns_in_typescript)
-  - [RefactoringGuru/design-patterns-typescript🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
-  - [gztchan/design-patterns-in-typescript🧰](https://github.com/gztchan/design-patterns-in-typescript)
-  - [SavjeeTutorials/typescript-design-patterns🧰](https://github.com/SavjeeTutorials/typescript-design-patterns)
+  - torokmark/design_patterns_in_typescript[🧰](https://github.com/torokmark/design_patterns_in_typescript)
+  - RefactoringGuru/design-patterns-typescript[🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
+  - gztchan/design-patterns-in-typescript[🧰](https://github.com/gztchan/design-patterns-in-typescript)
+  - SavjeeTutorials/typescript-design-patterns[🧰](https://github.com/SavjeeTutorials/typescript-design-patterns)
   - []()
 
 
@@ -374,15 +374,15 @@
 ## 🗝️ javascript ecmascript [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 ### - misc
-  - [browserify/assert🧰](https://github.com/browserify/commonjs-assert)
-  - [tiliqua/assert🧰](https://github.com/Tiliqua/assert-js)
-  - [lodash🧰](https://github.com/lodash/lodash)
-  - [selfrefactor/useful-javascript-libraries🧰](https://github.com/selfrefactor/useful-javascript-libraries)
+  - browserify/assert[🧰](https://github.com/browserify/commonjs-assert)
+  - tiliqua/assert[🧰](https://github.com/Tiliqua/assert-js)
+  - lodash[🧰](https://github.com/lodash/lodash)
+  - selfrefactor/useful-javascript-libraries[🧰](https://github.com/selfrefactor/useful-javascript-libraries)
   - []()
 
 ### - concurrency
-  - [wbinnssmith/awesome-promises🧰](https://github.com/wbinnssmith/awesome-promises)
-  - [taylonr/async-programming-promises🧰](https://github.com/taylonr/async-programming-promises)
+  - wbinnssmith/awesome-promises[🧰](https://github.com/wbinnssmith/awesome-promises)
+  - taylonr/async-programming-promises[🧰](https://github.com/taylonr/async-programming-promises)
   - []()
 
 ### - ecmascript updates
@@ -391,12 +391,12 @@
   - []()
 
 ### - design patterns
-  - [shichuan/javascript-patterns🧰](https://github.com/shichuan/javascript-patterns)
-  - [addyosmani/essential-js-design-patterns🧰](https://github.com/addyosmani/essential-js-design-patterns)
-  - [tcorral/Design-Patterns🧰](https://github.com/tcorral/Design-Patterns-in-Javascript)
-  - [fbeline/design-patterns🧰](https://github.com/fbeline/design-patterns-JS)
-  - [sohamkamani/javascript-design-patterns🧰](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
-  - [mjavascript/mastering-modular-js🧰](https://github.com/mjavascript/mastering-modular-javascript)
+  - shichuan/javascript-patterns[🧰](https://github.com/shichuan/javascript-patterns)
+  - addyosmani/essential-js-design-patterns[🧰](https://github.com/addyosmani/essential-js-design-patterns)
+  - tcorral/Design-Patterns[🧰](https://github.com/tcorral/Design-Patterns-in-Javascript)
+  - fbeline/design-patterns[🧰](https://github.com/fbeline/design-patterns-JS)
+  - sohamkamani/javascript-design-patterns[🧰](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+  - mjavascript/mastering-modular-js[🧰](https://github.com/mjavascript/mastering-modular-javascript)
   - []()
 
 
@@ -406,28 +406,28 @@
 ## 🗝️ webdev [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 ### - nodejs
-  - [sindresorhus/awesome-nodejs🧰](https://github.com/sindresorhus/awesome-nodejs)
-  - [sqreen/awesome-nodejs-projects🧰](https://github.com/sqreen/awesome-nodejs-projects)
-  - [lirantal/awesome-nodejs-security🧰](https://github.com/lirantal/awesome-nodejs-security)
-  - [bnb/awesome-awesome-nodejs🧰](https://github.com/bnb/awesome-awesome-nodejs)
-  - [Packt/Node.js-Design-Patterns🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
+  - sindresorhus/awesome-nodejs[🧰](https://github.com/sindresorhus/awesome-nodejs)
+  - sqreen/awesome-nodejs-projects[🧰](https://github.com/sqreen/awesome-nodejs-projects)
+  - lirantal/awesome-nodejs-security[🧰](https://github.com/lirantal/awesome-nodejs-security)
+  - bnb/awesome-awesome-nodejs[🧰](https://github.com/bnb/awesome-awesome-nodejs)
+  - Packt/Node.js-Design-Patterns[🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
   - []()
 
 ### - design patterns
-  - [DovAmir/awesome-design-patterns🧰](https://github.com/DovAmir/awesome-design-patterns)
-  - [kamranahmedse/design-patterns🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
-  - [webpro/programming-principles🧰](https://github.com/webpro/programming-principles)
+  - DovAmir/awesome-design-patterns[🧰](https://github.com/DovAmir/awesome-design-patterns)
+  - kamranahmedse/design-patterns[🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
+  - webpro/programming-principles[🧰](https://github.com/webpro/programming-principles)
   - []()
 
 ### - misc
-  - [sindresorhus/awesome🧰](https://github.com/sindresorhus/awesome)
-  - [therebelrobot/awesome-bootstrap🧰](https://github.com/therebelrobot/awesome-bootstrap)
-  - [markodenic/web-dev🧰](https://github.com/markodenic/web-development-resources)
-  - [dypsilon/frontend🧰](https://github.com/dypsilon/frontend-dev-bookmarks)
-  - [TonnyL/Awesome_APIs🧰](https://github.com/TonnyL/Awesome_APIs)
-  - [lorien/awesome-web🧰](https://github.com/lorien/awesome-web-scraping)
-  - [lauragift21/awesome-learning🧰](https://github.com/lauragift21/awesome-learning-resources)
-  - [sindresorhus/awesome-electron🧰](https://github.com/sindresorhus/awesome-electron)
+  - sindresorhus/awesome[🧰](https://github.com/sindresorhus/awesome)
+  - therebelrobot/awesome-bootstrap[🧰](https://github.com/therebelrobot/awesome-bootstrap)
+  - markodenic/web-dev[🧰](https://github.com/markodenic/web-development-resources)
+  - dypsilon/frontend[🧰](https://github.com/dypsilon/frontend-dev-bookmarks)
+  - TonnyL/Awesome_APIs[🧰](https://github.com/TonnyL/Awesome_APIs)
+  - lorien/awesome-web[🧰](https://github.com/lorien/awesome-web-scraping)
+  - lauragift21/awesome-learning[🧰](https://github.com/lauragift21/awesome-learning-resources)
+  - sindresorhus/awesome-electron[🧰](https://github.com/sindresorhus/awesome-electron)
   - []()
 
 
@@ -438,36 +438,36 @@
 ## 🗝️ systems, tools & security [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 ### - Linux
-  - [luong-komorebi/Awesome-Linux-Software🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
-  - [inputsh/awesome-linux🧰](https://github.com/inputsh/awesome-linux)
-  - [itech001/awesome-linux-resources🧰](https://github.com/itech001/awesome-linux-resources)
-  - [madbob/awesome-linux-dev🧰](https://github.com/madbob/awesome-linux-dev)
-  - [sirredbeard/Awesome-WSL🧰](https://github.com/sirredbeard/Awesome-WSL)
-  - [WillPower3309/awesome-dotfiles🧰](https://github.com/WillPower3309/awesome-dotfiles)
+  - luong-komorebi/Awesome-Linux-Software[🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
+  - inputsh/awesome-linux[🧰](https://github.com/inputsh/awesome-linux)
+  - itech001/awesome-linux-resources[🧰](https://github.com/itech001/awesome-linux-resources)
+  - madbob/awesome-linux-dev[🧰](https://github.com/madbob/awesome-linux-dev)
+  - sirredbeard/Awesome-WSL[🧰](https://github.com/sirredbeard/Awesome-WSL)
+  - WillPower3309/awesome-dotfiles[🧰](https://github.com/WillPower3309/awesome-dotfiles)
   - []()
 
 ### - Security
-  - [sbilly/🧰](https://github.com/sbilly/awesome-security)
-  - [qazbnm456/🧰](https://github.com/qazbnm456/awesome-web-security)
-  - [ashishb/🧰](https://github.com/ashishb/android-security-awesome)
+  - sbilly/[🧰](https://github.com/sbilly/awesome-security)
+  - qazbnm456/[🧰](https://github.com/qazbnm456/awesome-web-security)
+  - ashishb/[🧰](https://github.com/ashishb/android-security-awesome)
   - []()
 
 ### - Hacking
-  - [Hack-with-Github/🧰](https://github.com/Hack-with-Github/Awesome-Hacking)
-  - [infoslack/🧰](https://github.com/infoslack/awesome-web-hacking)
-  - [carpedm20/🧰](https://github.com/carpedm20/awesome-hacking)
-  - [vitalysim/🧰](https://github.com/vitalysim/Awesome-Hacking-Resources)
-  - [jekil/🧰](https://github.com/jekil/awesome-hacking)
-  - [Igglybuff/🧰](https://github.com/Igglybuff/awesome-piracy)
+  - Hack-with-Github/[🧰](https://github.com/Hack-with-Github/Awesome-Hacking)
+  - infoslack/[🧰](https://github.com/infoslack/awesome-web-hacking)
+  - carpedm20/[🧰](https://github.com/carpedm20/awesome-hacking)
+  - vitalysim/[🧰](https://github.com/vitalysim/Awesome-Hacking-Resources)
+  - jekil/[🧰](https://github.com/jekil/awesome-hacking)
+  - Igglybuff/[🧰](https://github.com/Igglybuff/awesome-piracy)
   - []()
 
 ### - Misc
-  - [Awesome-Windows🧰](https://github.com/Awesome-Windows/Awesome)
-  - [sirredbeard/Awesome-UNIX🧰](https://github.com/sirredbeard/Awesome-UNIX)
-  - [pingcap/awesome-database-learning🧰](https://github.com/pingcap/awesome-database-learning)
-  - [t3chnoboy/awesome-awesome-awesome🧰](https://github.com/t3chnoboy/awesome-awesome-awesome)
-  - [emijrp/awesome-awesome🧰](https://github.com/emijrp/awesome-awesome)
-  - [lukasz-madon/awesome-remote-job🧰](https://github.com/lukasz-madon/awesome-remote-job)
+  - Awesome-Windows[🧰](https://github.com/Awesome-Windows/Awesome)
+  - sirredbeard/Awesome-UNIX[🧰](https://github.com/sirredbeard/Awesome-UNIX)
+  - pingcap/awesome-database-learning[🧰](https://github.com/pingcap/awesome-database-learning)
+  - t3chnoboy/awesome-awesome-awesome[🧰](https://github.com/t3chnoboy/awesome-awesome-awesome)
+  - emijrp/awesome-awesome[🧰](https://github.com/emijrp/awesome-awesome)
+  - lukasz-madon/awesome-remote-job🧰](https://github.com/lukasz-madon/awesome-remote-job)
   - []()
 
 
