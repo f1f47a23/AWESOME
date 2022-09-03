@@ -276,7 +276,7 @@
 ## ▞▞▞▞▞▖🅳🅴🅲🅴🅽🆃🆁🅰🅻🅸🆉🅴 🅴🆅🅴🆁🆈🆃🅷🅸🅽🅶▝▞▞▞▞▞
 Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=DECENTRALIZE-ALL🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=DECENTRALIZE-EVERYTHING🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 ******
 
