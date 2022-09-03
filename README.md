@@ -136,6 +136,7 @@
   - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
+  - xrpl-bounties[🧰](https://github.com/XRPLBounties)
   - []()
 
 ### - awesome-xrpl
@@ -175,37 +176,37 @@
   - []()
   
 ### - bip39,bip44
-  - [iancoleman/bip39🧰](https://github.com/iancoleman/bip39)
-  - [bitcoinjs/bip39🧰](https://github.com/bitcoinjs/bip39)
-  - [oipwg(bip44-wallet)🧰](https://github.com/oipwg/oip-hdmw)
-  - [bitcoinjs/bip44-constants🧰](https://github.com/bitcoinjs/bip44-constants)
-  - [bip39📚](https://github.com/topics/bip39)[📚](https://github.com/topics/bip39-wallet)
-  - [bip44📚](https://github.com/topics/bip44)
+  - iancoleman/bip39[🧰](https://github.com/iancoleman/bip39)
+  - bitcoinjs/bip39[🧰](https://github.com/bitcoinjs/bip39)
+  - oipwg(bip44-wallet)[🧰](https://github.com/oipwg/oip-hdmw)
+  - bitcoinjs/bip44-constants[🧰](https://github.com/bitcoinjs/bip44-constants)
+  - bip39[📚](https://github.com/topics/bip39)[📚](https://github.com/topics/bip39-wallet)
+  - bip44[📚](https://github.com/topics/bip44)
   - []()
 
 ### - crypto encode & ...
-  - [floodyberry/ed25519-donna🧰](https://github.com/floodyberry/ed25519-donna)
-  - [bitcoin-core/secp256k1(ECDSA)🧰](https://github.com/bitcoin-core/secp256k1)
-  - [brix/crypto-js🧰](https://github.com/brix/crypto-js)
-  - [cryptocoinjs/base-x🧰](https://github.com/cryptocoinjs/base-x)
-  - [indutny/elliptic🧰](https://github.com/indutny/elliptic)
-  - [base58🌐](https://incoherency.co.uk/base58/)
+  - floodyberry/ed25519-donna[🧰](https://github.com/floodyberry/ed25519-donna)
+  - bitcoin-core/secp256k1(ECDSA)[🧰](https://github.com/bitcoin-core/secp256k1)
+  - brix/crypto-js[🧰](https://github.com/brix/crypto-js)
+  - cryptocoinjs/base-x[🧰](https://github.com/cryptocoinjs/base-x)
+  - indutny/elliptic[🧰](https://github.com/indutny/elliptic)
+  - base58[🌐](https://incoherency.co.uk/base58/)
   - []()
 
 ### - qrcode
-  - [davidshimjs/qrcodejs🧰](https://github.com/davidshimjs/qrcodejs)
-  - [LazarSoft/jsqrcode🧰](https://github.com/LazarSoft/jsqrcode)
-  - [jeromeetienne/jquery-qrcode🧰](https://github.com/jeromeetienne/jquery-qrcode)
-  - [SumiMakito/AwesomeQRCode🧰](https://github.com/SumiMakito/AwesomeQRCode)
+  - davidshimjs/qrcodejs[🧰](https://github.com/davidshimjs/qrcodejs)
+  - LazarSoft/jsqrcode[🧰](https://github.com/LazarSoft/jsqrcode)
+  - jeromeetienne/jquery-qrcode[🧰](https://github.com/jeromeetienne/jquery-qrcode)
+  - SumiMakito/AwesomeQRCode[🧰](https://github.com/SumiMakito/AwesomeQRCode)
   - []()
 
 ### - compression
-  - [lz4🧰](https://github.com/lz4/lz4)
-  - [snappy🧰](https://github.com/google/snappy)
+  - lz4[🧰](https://github.com/lz4/lz4)
+  - snappy[🧰](https://github.com/google/snappy)
   - []()
 
 ### - algorithms
-  - [tayllan/awesome-algorithms🧰](https://github.com/tayllan/awesome-algorithms)
+  - tayllan/awesome-algorithms[🧰](https://github.com/tayllan/awesome-algorithms)
   - []()
 
 
@@ -215,41 +216,41 @@
 
 ### - MORE devnet/testnet/mainnet explorer/services
   - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
-  - xrptoolkit.com [testnet🌐](https://test.xrptoolkit.com/)[mainnet🌐](https://www.xrptoolkit.com/)
+  - xrptoolkit.com testnet[🌐](https://test.xrptoolkit.com/)mainnet[🌐](https://www.xrptoolkit.com/)
   - xrpl-services[🌐](https://xrpl.services/)[🧰](https://github.com/nixer89)
-  - blockexplorer [testnet🌐](https://blockexplorer.one/xrp/testnet)[mainnet🌐](https://blockexplorer.one/xrp/mainnet)
+  - blockexplorer testnet[🌐](https://blockexplorer.one/xrp/testnet)mainnet[🌐](https://blockexplorer.one/xrp/mainnet)
   - testnet-faucet[🌐](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧰](https://github.com/yusufsahinhamza/xrp-testnet-faucet)[🌐](https://testnet.help/en/xrpfaucet/testnet)
   - gatehub explorer [🌐](https://gatehub.net/explorer)
   - getblock mainnet testnet [🌐](https://getblock.io/nodes/xrp/)
-  - [bithomp🌐](https://bithomp.com/)
-  - [xrpscan🌐](https://xrpscan.com/)
-  - [threexrp🌐](https://threexrp.dev/dex)
-  - [xrpintel🌐](https://xrpintel.com/)
-  - [xrplorer🌐](https://xrplorer.com/)
-  - [xrplcoins🌐](https://xrplcoins.com/dex)
-  - [xdex🌐](https://xdex.com/)
-  - [theworldexchange🌐](https://www.theworldexchange.net/)
-  - [xpmarket(tokens)🌐](https://xpmarket.io/)
-  - [onthedex🌐](https://onthedex.live/)
-  - [zerpcraft🌐](https://www.zerpcraft.com/)
-  - [paystring🌐](https://paystring.org/)
-  - [xptxrpl🌐](https://xptxrpl.com/)
+  - bithomp[🌐](https://bithomp.com/)
+  - xrpscan[🌐](https://xrpscan.com/)
+  - threexrp[🌐](https://threexrp.dev/dex)
+  - xrpintel[🌐](https://xrpintel.com/)
+  - xrplorer[🌐](https://xrplorer.com/)
+  - xrplcoins[🌐](https://xrplcoins.com/dex)
+  - xdex[🌐](https://xdex.com/)
+  - theworldexchange[🌐](https://www.theworldexchange.net/)
+  - xpmarket(tokens)[🌐](https://xpmarket.io/)
+  - onthedex[🌐](https://onthedex.live/)
+  - zerpcraft[🌐](https://www.zerpcraft.com/)
+  - paystring[🌐](https://paystring.org/)
+  - xptxrpl[🌐](https://xptxrpl.com/)
   - []()
 
 ### - interledger-protocol (ILP)
-  - [vhpoet/awesome-ilp🧰](https://github.com/vhpoet/awesome-ilp)
+  - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
   - [🌐](https://interledger.org/)
-  - [interledger🧰](https://github.com/interledger)
-  - [interledgerjs🧰](https://github.com/interledgerjs)
+  - interledger[🧰](https://github.com/interledger)
+  - interledgerjs[🧰](https://github.com/interledgerjs)
   - []()
 
 ### - misc
-  - [radynamics/Iso20022🧰](https://github.com/radynamics/CryptoIso20022Interop)
-  - [bithomp/xrpl-api🧰](https://github.com/Bithomp/xrpl-api)
-  - [onxrp.com🌐](https://onxrp.com/about)
-  - [xrplgrants.org🌐](https://xrplgrants.org/)
-  - [TusharPardhe/XPT-Extension🧰](https://github.com/TusharPardhe/XPT-Extension)
-  - [checksum🧰](https://github.com/checksumso/) open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts
+  - radynamics/Iso20022[🧰](https://github.com/radynamics/CryptoIso20022Interop)
+  - bithomp/xrpl-api[🧰](https://github.com/Bithomp/xrpl-api)
+  - onxrp.com[🌐](https://onxrp.com/about)
+  - xrplgrants.org[🌐](https://xrplgrants.org/)
+  - TusharPardhe/XPT-Extension[🧰](https://github.com/TusharPardhe/XPT-Extension)
+  - checksum[🧰](https://github.com/checksumso/) open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts
   - []()
 
 
@@ -273,16 +274,16 @@
 ## 🗝️ smart-contracts / dapps / ethereum-solidity / flare [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 ### - flare
-  - [flare-foundation/docs🧰](https://github.com/flare-foundation/docs)
-  - [DefiStandardXRP/flare-docs🧰](https://github.com/DefiStandardXRP/docs)
+  - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
+  - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
   - []()
 
 ### - solidity ethereum
-  - [ethereum/solidity🧰](https://github.com/ethereum/solidity)
-  - [bkrem/awesome-solidity🧰](https://github.com/bkrem/awesome-solidity)
-  - [smartcontractkit/solidity-course🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
-  - [bekatom/awesome-ethereum🧰](https://github.com/bekatom/awesome-ethereum)
-  - [ethereumbook/mastering-ethereum🧰](https://github.com/ethereumbook/ethereumbook)
+  - ethereum/solidity[🧰](https://github.com/ethereum/solidity)
+  - bkrem/awesome-solidity[🧰](https://github.com/bkrem/awesome-solidity)
+  - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+  - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
+  - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
   - []()
 
 ### - codius (archived)
@@ -297,19 +298,19 @@
 ## 🗝️ p2p / holochain [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - p2p
-  - [kgryte/p2p🧰](https://github.com/kgryte/awesome-peer-to-peer)
-  - [mafintosh/p2p🧰](https://github.com/mafintosh/awesome-p2p)
-  - [retrohacker/p2p🧰](https://github.com/retrohacker/awesome-p2p)
-  - [croqaz/🧰](https://github.com/croqaz/awesome-decentralized)
-  - [decentropy/🧰](https://github.com/decentropy/awesome-decentralized)
-  - [danoctavian/🧰](https://github.com/danoctavian/awesome-anti-censorship)
+  - kgryte/p2p[🧰](https://github.com/kgryte/awesome-peer-to-peer)
+  - mafintosh/p2p[🧰](https://github.com/mafintosh/awesome-p2p)
+  - retrohacker/p2p[🧰](https://github.com/retrohacker/awesome-p2p)
+  - croqaz/[🧰](https://github.com/croqaz/awesome-decentralized)
+  - decentropy/[🧰](https://github.com/decentropy/awesome-decentralized)
+  - danoctavian/[🧰](https://github.com/danoctavian/awesome-anti-censorship)
   - []()
 
 ### - holochain
-  - [holochain/🧰](https://github.com/holochain/holochain)
-  - [holochain/🧰](https://github.com/holochain/happ-build-tutorial)
-  - [holochain/launcher🧰](https://github.com/holochain/launcher)
-  - [Holo-Host/🧰](https://github.com/Holo-Host/holo-nixpkgs)
+  - holochain/[🧰](https://github.com/holochain/holochain)
+  - holochain/[🧰](https://github.com/holochain/happ-build-tutorial)
+  - holochain/launcher[🧰](https://github.com/holochain/launcher)
+  - Holo-Host/[🧰](https://github.com/Holo-Host/holo-nixpkgs)
   - []()
 
 
