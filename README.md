@@ -65,10 +65,10 @@
 
 ## 🗝️ XUMM <br>
 
-- [xumm.app🌐](https://xumm.app/)
-- [docs🌐](https://xumm.readme.io/)
-- [XRPL-Labs/XUMM-App🧱](https://github.com/XRPL-Labs/XUMM-App)
-- [XRPL-Labs/XUMM-SDK🧱](https://github.com/XRPL-Labs/XUMM-SDK)
+- xumm.app[🌐](https://xumm.app/)
+- docs[🌐](https://xumm.readme.io/)
+- XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
+- XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
 - []()
 
 
@@ -91,12 +91,12 @@
 ## 🗝️ xrp xrpl ripple [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
-  - xrpl-dev-portal [{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)[issues🧱](https://github.com/XRPLF/xrpl-dev-portal/issues)
-  - [xrpl-blog{✘}](https://xrpl.org/blog/)
-  - XRPLF/xrpl-client-lib[🧱](https://github.com/XRPLF/xrpl.js)[releases🧱](https://github.com/XRPLF/xrpl.js/releases)
-  - [XRPL-Labs/xrpl-client🧱](https://github.com/XRPL-Labs/xrpl-client)
-  - [rippled-source-doc{✘}](https://xrplf.github.io/rippled/)
-  - [ripple/explorer🧰](https://github.com/ripple/explorer)
+  - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[🧱](https://github.com/XRPLF/xrpl-dev-portal/issues)
+  - xrpl-blog[{✘}](https://xrpl.org/blog/)
+  - XRPLF/xrpl-client-lib[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases)
+  - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client)
+  - rippled-source-doc[{✘}](https://xrplf.github.io/rippled/)
+  - ripple/explorer[🧰](https://github.com/ripple/explorer)
   - []()
 
 ### - devnet/testnet/mainnet explorer/services
@@ -104,7 +104,7 @@
   - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
   - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
   - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
-  - [more services below👇](#--more-devnettestnetmainnet-explorerservices)
+  - more services below[👇](#--more-devnettestnetmainnet-explorerservices)
   - []()
 
 ### - tutorials 
@@ -118,27 +118,27 @@
   - []()
 
 ### - xrpl-devtools & examples
-  - [wietse/xrpl-stats🧱](https://github.com/WietseWind/xrp-ledgerstats)
-  - [xrpl-tools{✘}](https://xrpl.org/dev-tools.html)
-    - [xrp-ledger-rpc{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
-    - [websocket-api{✘}](https://xrpl.org/websocket-api-tool.html)
-    - [xrp-testnet-faucet{✘}](https://xrpl.org/xrp-testnet-faucet.html)
-    - [tx-sender{✘}](https://xrpl.org/tx-sender.html)
-  - [nixer89/ledger-observer🧰](https://github.com/nixer89/ledger-observer)
-  - [XRPL-Labs/xrpl-tx🧱](https://github.com/XRPL-Labs/XrplTxData)
-  - [XRPL-Labs/XRPL-Persist-Price-Oracle🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
-  - [wietse/fetch-xrpl-transactions🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
-  - [wietse/XRPL-MultiSignTool🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
-  - [wietse/xrpl-accountinfo🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
-  - [richard/xrpl-tools🧱](https://github.com/RichardAH/xrpl-tools)
+  - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
+  - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
+    - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
+    - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
+    - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
+    - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
+  - nixer89/ledger-observer[🧰](https://github.com/nixer89/ledger-observer)
+  - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
+  - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
+  - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
+  - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
+  - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
+  - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - []()
 
 ### - awesome-xrpl
-  - [yyolk/awesome-xrpl🧰](https://github.com/yyolk/awesome-xrpl)
-    - [wietse/awesome-xrpl🧱⑂](https://github.com/WietseWind/awesome-xrpl)
-  - [vhpoet/awesome-ripple🧰](https://github.com/vhpoet/awesome-ripple)
-    - [wietse/awesome-ripple🧱⑂](https://github.com/WietseWind/awesome-ripple)
-  - [TusharPardhe/xrpl-cheat-sheet🧰](https://github.com/TusharPardhe/xrpl-cheat-sheet)
+  - yyolk/[🧰](https://github.com/yyolk/awesome-xrpl)
+    - wietse/[🧱⑂](https://github.com/WietseWind/awesome-xrpl)
+  - vhpoet/[🧰](https://github.com/vhpoet/awesome-ripple)
+    - wietse/[🧱⑂](https://github.com/WietseWind/awesome-ripple)
+  - TusharPardhe/[🧰](https://github.com/TusharPardhe/xrpl-cheat-sheet)
   - []()
 
 
