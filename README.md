@@ -109,7 +109,7 @@
   - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
   - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
   - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
-  - more services below[👇](#--more-devnettestnetmainnet-explorerservices)
+  - ***more services below***[👇](#--more-devnettestnetmainnet-explorerservices)
   - []()
 
 ### - tutorials 
@@ -136,7 +136,7 @@
   - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
-  - xrpl-bounties[🧰](https://github.com/XRPLBounties)
+  - xrpl-bounties *(rewards)*[🧰](https://github.com/XRPLBounties)
   - []()
 
 ### - awesome-xrpl
