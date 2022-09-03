@@ -49,7 +49,7 @@
     - faucet[{✘}](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌐](https://beta.bithomp.com/)
     - faucet[🌐](https://beta.bithomp.com/faucet/)
-  - bithomp-hooks-explorer[🌐]https://hooks.bithomp.com/)
+  - bithomp-hooks-explorer[🌐](https://hooks.bithomp.com/)
     - faucet[🌐](https://hooks.bithomp.com/faucet/)
   - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
   - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
