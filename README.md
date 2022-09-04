@@ -70,11 +70,10 @@
 
 ## `🗝️ XUMM `<br>
 
-- xumm.app[🌐](https://xumm.app/)
-- docs[🌐](https://xumm.readme.io/)
+- xumm.app[🌐](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
 - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
 - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
-- []()
+- 
 
 
 
