@@ -3,7 +3,7 @@
 
 <br><br>
 
-![Image](https://github.com/f1f47a23/AWESOME/img/xrp-investor-casino.jpg)
+![Image](https://github.com/f1f47a23/AWESOME/tree/main/img/xrp-investor-casino.jpg)
 
 <br><br>
 
