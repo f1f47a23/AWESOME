@@ -35,7 +35,7 @@
   - []()
 
 ### - sidechains
-  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)
+  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧰](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[{✘}](https://xrpl.org/federated-sidechains.html)
   - []()
 
