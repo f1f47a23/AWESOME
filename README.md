@@ -20,6 +20,7 @@
   - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - ripple-insight[🌐](https://ripple.com/insights/)
   - reddit/ripple[🌐](https://www.reddit.com/r/Ripple/)
+  - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧰](https://github.com/XRPLBounties)
   - []()
 
 ### - tokens NFT trustline DEX
@@ -138,7 +139,6 @@
   - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
-  - xrpl-bounties *(rewards)*[🧰](https://github.com/XRPLBounties)
   - []()
 
 ### - awesome-xrpl
