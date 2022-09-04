@@ -36,7 +36,7 @@
 
 ### - sidechains
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)
-  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o){✘}](https://xrpl.org/federated-sidechains.html)
+  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[{✘}](https://xrpl.org/federated-sidechains.html)
   - []()
 
 
