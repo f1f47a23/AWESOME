@@ -14,15 +14,19 @@
 
 ## `🗝️ xrpl NFT TOKENS DEX sidechains &... `<br>
 
-### - main XLS-#.#d
-  - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
-    - forum[🧱](https://github.com/XRPLF/XRPL-Standards/discussions)
+### - main
   - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - ripple-insight[🌐](https://ripple.com/insights/)
   - reddit/ripple[🌐](https://www.reddit.com/r/Ripple/)
   - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧰](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
   - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
+  - stedas guides & infographics[🐦](https://twitter.com/stedas)
   - []()
+  - []()
+  - []()
+  - []()
+
+### - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
 
 ### - tokens NFT trustline DEX
   - XLS-20[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)
