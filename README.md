@@ -29,7 +29,7 @@
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
   - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
-  - stedas guides & infographics[🐦](https://twitter.com/stedas)
+  - stedas guides & infographics[🌐](https://www.stedas.hr/)[🐦](https://twitter.com/stedas)
   - bankxrp[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)
   - []()
   - []()
