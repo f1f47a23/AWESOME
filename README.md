@@ -14,22 +14,21 @@
 
 ## `🗝️ xrpl NFT TOKENS DEX sidechains &... `<br>
 
+### - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
+
 ### - main
   - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - ripple-insight[🌐](https://ripple.com/insights/)
   - reddit/ripple[🌐](https://www.reddit.com/r/Ripple/)
   - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧰](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
-  - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
-  - stedas guides & infographics[🐦](https://twitter.com/stedas)
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
+  - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
+  - stedas guides & infographics[🐦](https://twitter.com/stedas)
   - bankxrp[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)
   - []()
   - []()
-  - []()
-  - []()
 
-### - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
 
 ### - tokens NFT trustline DEX
   - XLS-20[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)
