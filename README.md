@@ -21,6 +21,7 @@
   - ripple-insight[🌐](https://ripple.com/insights/)
   - reddit/ripple[🌐](https://www.reddit.com/r/Ripple/)
   - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧰](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
+  - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
   - []()
 
 ### - tokens NFT trustline DEX
@@ -68,12 +69,12 @@
 
 
 
-## `🗝️ XUMM `<br>
+## `🗝️ XUMM APP`<br>
 
 - xumm.app[🌐](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
 - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
 - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
-- 
+- []()
 
 
 
