@@ -34,9 +34,9 @@
     - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart) *token samples*
   - []()
 
-### - federated sidechains
-  - ripplexdev[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
-  - xrpl.org[{✘}](https://xrpl.org/federated-sidechains.html)
+### - sidechains
+  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)
+  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o){✘}](https://xrpl.org/federated-sidechains.html)
   - []()
 
 
