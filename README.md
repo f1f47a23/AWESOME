@@ -21,7 +21,7 @@
 ### - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
 
 ### - main
-  - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
+  - ripplexdev bulletin[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - ripple-insight[🌐](https://ripple.com/insights/)
   - reddit/ripple[🌐](https://www.reddit.com/r/Ripple/)
   - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧰](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
@@ -35,15 +35,19 @@
   - []()
 
 
-### - tokens NFT trustline DEX
-  - XLS-20[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)
+### - tokens NFT trustline
+  - XLS-20
+    - [🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)
+    - bithomp-xls20-explorer[🌐](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
       - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
-  - bithomp-xls20-explorer[🌐](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
-  - DEX[{✘}](https://xrpl.org/decentralized-exchange.html)
   - tutorials
     - samples[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) 
     - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart) *token samples*
+  - []()
+
+### - DEX
+  - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - []()
 
 ### - sidechains
