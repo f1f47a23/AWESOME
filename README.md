@@ -27,7 +27,7 @@
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌐](https://ripple.com/insights/)
   - reddit/ripple[🌐](https://www.reddit.com/r/Ripple/)
-  - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧰](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
+  - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
@@ -53,7 +53,7 @@
   - []()
 
 ### - sidechains
-  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧰](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
+  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)
   - []()
 
@@ -121,7 +121,7 @@
   - XRPLF/xrpl-client-lib[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases)
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client)
   - rippled-source-doc[{✘}](https://xrplf.github.io/rippled/)
-  - ripple/explorer[🧰](https://github.com/ripple/explorer)
+  - ripple/explorer[🧱](https://github.com/ripple/explorer)
   - []()
 
 ### - devnet/testnet/mainnet explorer/services
@@ -146,7 +146,7 @@
     - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
     - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
-  - nixer89/ledger-observer[🧰](https://github.com/nixer89/ledger-observer)
+  - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
   - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
@@ -156,9 +156,9 @@
   - []()
 
 ### - awesome-xrpl
-  - yyolk/[🧰](https://github.com/yyolk/awesome-xrpl)[🌵](https://github.com/WietseWind/awesome-xrpl)
-  - vhpoet/[🧰](https://github.com/vhpoet/awesome-ripple)[🌵](https://github.com/WietseWind/awesome-ripple)
-  - TusharPardhe/[🧰](https://github.com/TusharPardhe/xrpl-cheat-sheet)
+  - yyolk/[🧱](https://github.com/yyolk/awesome-xrpl)[🌵](https://github.com/WietseWind/awesome-xrpl)
+  - vhpoet/[🧱](https://github.com/vhpoet/awesome-ripple)[🌵](https://github.com/WietseWind/awesome-ripple)
+  - TusharPardhe/[🧱](https://github.com/TusharPardhe/xrpl-cheat-sheet)
   - f1f47a23[🌐](https://f1f47a23.github.io/)
   - []()
 
@@ -172,7 +172,7 @@
   - xrp-paper-wallet
     - wietse-xrp-paper-wallet[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
     - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌐](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌐](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌐](https://xrpaddress.info/)
-    - bithomp[🧰](https://github.com/Bithomp/xrp-paper-wallet)[🌐](https://bithomp.github.io/xrp-paper-wallet/)[🌐](https://bithomp.com/paperwallet/)
+    - bithomp[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌐](https://bithomp.github.io/xrp-paper-wallet/)[🌐](https://bithomp.com/paperwallet/)
     - others [🌐](https://www.xrppaperwallet.com/)[🌐](https://ripplepaperwallet.com/)
   - XRPLF/xrpl-client-lib
     - XRPLF/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
@@ -236,9 +236,9 @@
 ### - MORE devnet/testnet/mainnet explorer/services
   - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
   - xrptoolkit.com testnet[🌐](https://test.xrptoolkit.com/)mainnet[🌐](https://www.xrptoolkit.com/)
-  - xrpl-services[🌐](https://xrpl.services/)[🧰](https://github.com/nixer89)
+  - xrpl-services[🌐](https://xrpl.services/)[🧱](https://github.com/nixer89)
   - blockexplorer testnet[🌐](https://blockexplorer.one/xrp/testnet)mainnet[🌐](https://blockexplorer.one/xrp/mainnet)
-  - testnet-faucet[🌐](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧰](https://github.com/yusufsahinhamza/xrp-testnet-faucet)[🌐](https://testnet.help/en/xrpfaucet/testnet)
+  - testnet-faucet[🌐](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧱](https://github.com/yusufsahinhamza/xrp-testnet-faucet)[🌐](https://testnet.help/en/xrpfaucet/testnet)
   - gatehub explorer [🌐](https://gatehub.net/explorer)
   - getblock mainnet testnet [🌐](https://getblock.io/nodes/xrp/)
   - bithomp[🌐](https://bithomp.com/)
@@ -265,10 +265,10 @@
 
 ### - misc
   - radynamics/Iso20022[🧰](https://github.com/radynamics/CryptoIso20022Interop)
-  - bithomp/xrpl-api[🧰](https://github.com/Bithomp/xrpl-api)
+  - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
   - onxrp.com[🌐](https://onxrp.com/about)
   - xrplgrants.org[🌐](https://xrplgrants.org/)
-  - TusharPardhe/XPT-Extension[🧰](https://github.com/TusharPardhe/XPT-Extension)
+  - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
   - checksum[🧰](https://github.com/checksumso/) *open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*
   - []()
 
