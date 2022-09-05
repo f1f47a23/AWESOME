@@ -22,6 +22,8 @@
 
 ### - main
   - bulletin[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
+  - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[🧱](https://github.com/XRPLF/xrpl-dev-portal/issues)
+  - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌐](https://ripple.com/insights/)
   - reddit/ripple[🌐](https://www.reddit.com/r/Ripple/)
   - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧰](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
@@ -113,8 +115,6 @@
 ## `🗝️ xrp xrpl ripple `[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
-  - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[🧱](https://github.com/XRPLF/xrpl-dev-portal/issues)
-  - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - XRPLF/xrpl-client-lib[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases)
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client)
   - rippled-source-doc[{✘}](https://xrplf.github.io/rippled/)
