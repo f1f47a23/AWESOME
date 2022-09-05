@@ -217,6 +217,9 @@
 ### - compression
   - lz4[🧰](https://github.com/lz4/lz4)
   - snappy[🧰](https://github.com/google/snappy)
+  - madler/zlib[🧰](https://github.com/madler/zlib)
+  - imaya/zlib.js[🧰](https://github.com/imaya/zlib.js)
+  - nodeca/pako[🧰](https://github.com/nodeca/pako) *high speed zlib port to javascript, works in browser & node.js*
   - []()
 
 ### - algorithms
