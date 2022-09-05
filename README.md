@@ -19,7 +19,7 @@
 ## `🗝️ xrpl NFT TOKENS DEX sidechains &... `<br>
 
 
-### - bulletin news updates
+### - forum bulletin news updates
   - ripplexdev newsletter[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
   - Amendments [{✘}](https://xrpl.org/known-amendments.html)[🌐](https://xrpscan.com/amendments)
@@ -72,7 +72,8 @@
   - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
   - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
   - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
-  - forum
+  - forum blog newsletter
+    - wietse/hooked[🌎](https://dev.to/search?q=hooked%20xrpl&filters=class_name:Article)
     - XRPLF/hooks forum[🧱](https://github.com/XRPLF/Hooks/discussions)
     - XRPL-Labs/xrpld-hooks issues[🧱](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[🧱](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
   - richard/xrpl-hooks[🧱](https://github.com/RichardAH/xrpl.js)
