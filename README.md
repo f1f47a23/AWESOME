@@ -20,7 +20,7 @@
 
 ### - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
 
-### - main
+### - bulletin news updates
   - bulletin[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[🧱](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
