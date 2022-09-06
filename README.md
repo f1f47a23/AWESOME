@@ -21,13 +21,13 @@
 
 ### - forum bulletin news updates
   - newsletter[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
-  - XLS-#.#d [🧱](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
+  - XLS-#.#d [👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
   - Amendments [{✘}](https://xrpl.org/known-amendments.html)[🌐](https://xrpscan.com/amendments)
-  - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[🧱](https://github.com/XRPLF/xrpl-dev-portal/issues)
+  - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌎](https://ripple.com/insights/)
   - reddit/ripple[🌎](https://www.reddit.com/r/Ripple/)
-  - xrpl-bounties *($$$ rewards $$$)*[🌎](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
+  - xrpl-bounties *($$$ rewards $$$)*[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
@@ -75,8 +75,8 @@
   - forum blog newsletter
     - amendment[🧱](https://github.com/XRPLF/rippled/pull/4225)
     - wietse/hooked[🌎](https://dev.to/search?q=hooked%20xrpl&filters=class_name:Article)[🌎](https://dev.to/t/xrplhooks/)
-    - XRPLF/hooks forum[🧱](https://github.com/XRPLF/Hooks/discussions)
-    - XRPL-Labs/xrpld-hooks issues[🧱](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[🧱](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
+    - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
+    - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
   - richard/xrpl-hooks[🧱](https://github.com/RichardAH/xrpl.js)
   - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
