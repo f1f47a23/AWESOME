@@ -25,9 +25,9 @@
   - Amendments [{✘}](https://xrpl.org/known-amendments.html)[🌐](https://xrpscan.com/amendments)
   - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[🧱](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
-  - ripple-insight[🌐](https://ripple.com/insights/)
-  - reddit/ripple[🌐](https://www.reddit.com/r/Ripple/)
-  - xrpl-bounties *($$$ rewards $$$)*[🌐](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
+  - ripple-insight[🌎](https://ripple.com/insights/)
+  - reddit/ripple[🌎](https://www.reddit.com/r/Ripple/)
+  - xrpl-bounties *($$$ rewards $$$)*[🌎](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
@@ -125,7 +125,7 @@
   - []()
 
 ### - devnet/testnet/mainnet explorer/services
-  - xrplf-explorer[🌐](https://explorer.xrplf.org/)
+  - xrplf-explorer[🌎](https://explorer.xrplf.org/)
   - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
   - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
   - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
@@ -170,8 +170,8 @@
 
 ### - xrpl algorithms
   - xrp-paper-wallet
-    - wietse-xrp-paper-wallet[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌐](https://www.xrpaddress.org/)
-    - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌐](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌐](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌐](https://xrpaddress.info/)
+    - wietse-xrp-paper-wallet[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌎](https://www.xrpaddress.org/)
+    - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
     - bithomp[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌐](https://bithomp.github.io/xrp-paper-wallet/)[🌐](https://bithomp.com/paperwallet/)
     - others [🌐](https://www.xrppaperwallet.com/)[🌐](https://ripplepaperwallet.com/)
   - XRPLF/xrpl-client-lib
@@ -185,10 +185,10 @@
   - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib)
   - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
   - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)
-  - richard/xrpl-base58[🧱](https://github.com/RichardAH/xrpl-base58-tool) [🌐](https://richardah.github.io/xrpl-base58-tool/)
-  - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌐](https://richardah.github.io/xrpl-binary-visualizer/)
+  - richard/xrpl-base58[🧱](https://github.com/RichardAH/xrpl-base58-tool) [🌎](https://richardah.github.io/xrpl-base58-tool/)
+  - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
   - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
-  - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌐](https://richardah.github.io/xrpl-epoch-converter/index.html)
+  - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
   - []()
   
 ### - bip39,bip44
