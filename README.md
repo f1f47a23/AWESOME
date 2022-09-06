@@ -254,7 +254,7 @@
   - zerpcraft[🌐](https://www.zerpcraft.com/)
   - paystring[🌐](https://paystring.org/)
   - xptxrpl[🌐](https://xptxrpl.com/)
-  - []()
+  - xrp.co[🌐](https://www.xrp.co/))
 
 ### - interledger-protocol (ILP)
   - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
