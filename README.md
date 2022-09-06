@@ -22,7 +22,7 @@
 ### - forum bulletin news updates
   - newsletter[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - XLS-#.#d [👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
-  - Amendments [{✘}](https://xrpl.org/known-amendments.html)[🌐](https://xrpscan.com/amendments)
+  - Amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments)
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌎](https://ripple.com/insights/)
@@ -32,15 +32,15 @@
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
   - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
-  - stedas guides & infographics[🌐](https://www.stedas.hr/)[🐦](https://twitter.com/stedas)
+  - stedas guides & infographics[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas)
   - bankxrp[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)
-  - []()
+  - xrparcade[🌎](https://www.xrparcade.com/blog/)
   - []()
 
 
 ### - tokens NFT trustline
   - XLS-20d[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)
-    - bithomp-xls20-explorer[🌐](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
+    - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
       - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
   - tutorials
@@ -67,8 +67,8 @@
 ## `🗝️ xrpl-hooks-v2🪝 (smart-contracts) `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
-  - bithomp-beta-explorer[🌐](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
-  - bithomp-hooks-explorer[🌐](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
+  - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
+  - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
   - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
   - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
   - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
@@ -90,7 +90,7 @@
 
 ## `🗝️ XUMM APP`<br>
 
-- xumm.app[🌐](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
+- xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
 - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
 - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
 - []()
@@ -159,7 +159,7 @@
   - yyolk/[🧱](https://github.com/yyolk/awesome-xrpl)[🌵](https://github.com/WietseWind/awesome-xrpl)
   - vhpoet/[🧱](https://github.com/vhpoet/awesome-ripple)[🌵](https://github.com/WietseWind/awesome-ripple)
   - TusharPardhe/[🧱](https://github.com/TusharPardhe/xrpl-cheat-sheet)
-  - f1f47a23[🌐](https://f1f47a23.github.io/)
+  - f1f47a23[🌎](https://f1f47a23.github.io/)
   - []()
 
 
@@ -172,8 +172,8 @@
   - xrp-paper-wallet
     - wietse-xrp-paper-wallet[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌎](https://www.xrpaddress.org/)
     - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
-    - bithomp[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌐](https://bithomp.github.io/xrp-paper-wallet/)[🌐](https://bithomp.com/paperwallet/)
-    - others [🌐](https://www.xrppaperwallet.com/)[🌐](https://ripplepaperwallet.com/)
+    - bithomp[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌎](https://bithomp.github.io/xrp-paper-wallet/)[🌎](https://bithomp.com/paperwallet/)
+    - others [🌎](https://www.xrppaperwallet.com/)[🌎](https://ripplepaperwallet.com/)
   - XRPLF/xrpl-client-lib
     - XRPLF/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
     - XRPLF/ripple-binary-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
