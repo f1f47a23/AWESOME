@@ -251,7 +251,7 @@
 
 ### - MORE forums[👨](https://www.xrparcade.com/xrp-social-groups/)
 
-  - reddit[👨]https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/)
+  - reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/)
   - xrpchat[👨](https://www.xrpchat.com/)
   - misc[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
   
