@@ -27,9 +27,7 @@
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌎](https://ripple.com/insights/)
-  - reddit[👨]https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/)
-  - xrpchat[👨](https://www.xrpchat.com/)
-  - misc[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
+  - ***`more forums below`***[👇](#--more-forums)
   - xrpl-bounties *($$$ rewards $$$)*[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
