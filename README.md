@@ -31,11 +31,8 @@
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
-  - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
   - stedas guides & infographics[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas)
-  - bankxrp[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)
-  - xrparcade[🌎](https://www.xrparcade.com/blog/)
-  - ***`more forums & news below`***[👇](#--more-forums)
+  - ***`more forums & news below`***[👇](#--more-forums-and-news)
   - []()
 
 
@@ -247,11 +244,14 @@
 
 ## `🗝️ xrp ripple ecosystem `[⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
-### - MORE forums and news[👨](https://www.xrparcade.com/xrp-social-groups/)
+### - MORE forums and news
 
+  - xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/)
   - reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/)
   - xrpchat[👨](https://www.xrpchat.com/)
-  - misc[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
+  - fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
+  - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
+  - misc[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)[▶️](https://www.youtube.com/c/AnthonyEdward/videos)[▶️](https://www.youtube.com/c/ExtraVOD/videos)[▶️](https://www.youtube.com/user/bradboomboom/videos)[▶️](https://www.youtube.com/c/JungleInc/videos)[▶️](https://www.youtube.com/c/3TWarriorAcademy/videos)[▶️](https://www.youtube.com/c/WorkingMoneyChannel/videos)[▶️](https://www.youtube.com/channel/UCtQycmSrKdJ0zE0bWumO4vA/videos)[▶️](https://www.youtube.com/c/KingSolomon123/videos)[▶️](https://www.youtube.com/channel/UCf3Vlkhhxrwr3A8IYN8KVkw/videos)[▶️](https://www.youtube.com/c/JamesRuleXRP/videos)[▶️](https://www.youtube.com/user/erichanintokyo/videos)[▶️](https://www.youtube.com/c/TheBearableBull/videos)[▶️](https://www.youtube.com/c/KevinCage/videos)[▶️](https://www.youtube.com/channel/UC8WzUvBsq9hiZeFmvA_amVA/videos)[▶️](https://www.youtube.com/channel/UCQ2LRJE8UR6j92f1gL3u6VQ/videos)[▶️](https://www.youtube.com/user/CrazymonkeyMBS/videos)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/videos)[▶️]()[▶️]()
   
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
