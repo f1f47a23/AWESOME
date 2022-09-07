@@ -27,7 +27,6 @@
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌎](https://ripple.com/insights/)
-  - ***`more forums below`***[👇](#--more-forums)
   - xrpl-bounties *($$$ rewards $$$)*[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html) *funds software developers and teams for the completion of specific ideas and projects*
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
@@ -36,6 +35,7 @@
   - stedas guides & infographics[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas)
   - bankxrp[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/videos)
   - xrparcade[🌎](https://www.xrparcade.com/blog/)
+  - ***`more forums & news below`***[👇](#--more-forums)
   - []()
 
 
@@ -247,7 +247,7 @@
 
 ## `🗝️ xrp ripple ecosystem `[⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
-### - MORE forums[👨](https://www.xrparcade.com/xrp-social-groups/)
+### - MORE forums and news[👨](https://www.xrparcade.com/xrp-social-groups/)
 
   - reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/)
   - xrpchat[👨](https://www.xrpchat.com/)
