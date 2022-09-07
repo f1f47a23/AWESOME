@@ -20,6 +20,7 @@
 
 
 ### - forum bulletin news updates
+
   - newsletter[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - XLS-#.#d [👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *XRP Ledger Standards / Drafts*
   - Amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments)
@@ -39,6 +40,7 @@
 
 
 ### - tokens NFT trustline
+
   - XLS-20d[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)
     - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
@@ -49,10 +51,12 @@
   - []()
 
 ### - DEX
+
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - []()
 
 ### - sidechains
+
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)
   - []()
@@ -118,6 +122,7 @@
 ## `🗝️ xrp xrpl ripple `[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
+
   - XRPLF/xrpl.js[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) *A JS/TS API for interacting with the XRP Ledger in Node.js & browser*
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) *Connect to the XRP Ledger using WebSockets*
   - rippled-source-doc[{✘}](https://xrplf.github.io/rippled/)
@@ -125,6 +130,7 @@
   - []()
 
 ### - devnet/testnet/mainnet explorer/services
+
   - xrplf-explorer[🌎](https://explorer.xrplf.org/)
   - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
   - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
@@ -133,6 +139,7 @@
   - []()
 
 ### - tutorials 
+
    - quickstart & samples [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
   - xrplf Intro to the XRP Ledger[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
   - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
@@ -140,6 +147,7 @@
   - []()
 
 ### - xrpl-devtools & examples
+
   - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
   - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
     - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
@@ -156,6 +164,7 @@
   - []()
 
 ### - awesome-xrpl
+
   - yyolk/[🧱](https://github.com/yyolk/awesome-xrpl)[🌵](https://github.com/WietseWind/awesome-xrpl)
   - vhpoet/[🧱](https://github.com/vhpoet/awesome-ripple)[🌵](https://github.com/WietseWind/awesome-ripple)
   - TusharPardhe/[🧱](https://github.com/TusharPardhe/xrpl-cheat-sheet)
@@ -169,6 +178,7 @@
 Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ
 
 ### - xrpl algorithms
+
   - xrp-paper-wallet
     - wietse-xrp-paper-wallet[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌎](https://www.xrpaddress.org/)
     - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
@@ -192,6 +202,7 @@
   - []()
   
 ### - bip39,bip44
+
   - iancoleman/bip39[🧰](https://github.com/iancoleman/bip39)
   - bitcoinjs/bip39[🧰](https://github.com/bitcoinjs/bip39)
   - oipwg *(bip44-wallet)*[🧰](https://github.com/oipwg/oip-hdmw)
@@ -201,6 +212,7 @@
   - []()
 
 ### - crypto encode & ...
+
   - floodyberry/ed25519-donna[🧰](https://github.com/floodyberry/ed25519-donna)
   - bitcoin-core/secp256k1 *(ECDSA)*[🧰](https://github.com/bitcoin-core/secp256k1)
   - brix/crypto-js[🧰](https://github.com/brix/crypto-js)
@@ -210,6 +222,7 @@
   - []()
 
 ### - qrcode
+
   - davidshimjs/qrcodejs[🧰](https://github.com/davidshimjs/qrcodejs)
   - LazarSoft/jsqrcode[🧰](https://github.com/LazarSoft/jsqrcode)
   - jeromeetienne/jquery-qrcode[🧰](https://github.com/jeromeetienne/jquery-qrcode)
@@ -217,6 +230,7 @@
   - []()
 
 ### - compression
+
   - lz4[🧰](https://github.com/lz4/lz4)
   - snappy[🧰](https://github.com/google/snappy)
   - madler/zlib[🧰](https://github.com/madler/zlib)
@@ -266,6 +280,7 @@
   - []()
 
 ### - misc
+
   - radynamics/Iso20022[🧰](https://github.com/radynamics/CryptoIso20022Interop)
   - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
   - onxrp.com[🌐](https://onxrp.com/about)
@@ -298,11 +313,13 @@
 ## `🗝️ smart-contracts / dapps / ethereum-solidity / flare `[⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 ### - flare
+
   - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
   - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
   - []()
 
 ### - solidity ethereum
+
   - ethereum/solidity[🧰](https://github.com/ethereum/solidity)
   - bkrem/awesome-solidity[🧰](https://github.com/bkrem/awesome-solidity)
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
@@ -311,6 +328,7 @@
   - []()
 
 ### - codius (archived)
+
   - [🌐](https://codius.org/)
   - []()
 
@@ -322,6 +340,7 @@
 ## `🗝️ p2p / holochain `[⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - p2p
+
   - kgryte/p2p[🧰](https://github.com/kgryte/awesome-peer-to-peer)
   - mafintosh/p2p[🧰](https://github.com/mafintosh/awesome-p2p)
   - retrohacker/p2p[🧰](https://github.com/retrohacker/awesome-p2p)
@@ -331,6 +350,7 @@
   - []()
 
 ### - holochain
+
   - holochain/[🧰](https://github.com/holochain/holochain)
   - holochain/[🧰](https://github.com/holochain/happ-build-tutorial)
   - holochain/launcher[🧰](https://github.com/holochain/launcher)
@@ -360,6 +380,7 @@
 ## `🗝️ wasm & c++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
+
   - mbasso/awesome-wasm[🧰](https://github.com/mbasso/awesome-wasm)
   - appcypher/awesome-wasm-langs[🧰](https://github.com/appcypher/awesome-wasm-langs)
   - appcypher/awesome-wasm-runtimes[🧰](https://github.com/appcypher/awesome-wasm-runtimes)
@@ -367,6 +388,7 @@
   - []()
 
 ### - c & c++
+
   - fffaraz/awesome-cpp[🧰](https://github.com/fffaraz/awesome-cpp)
   - JakubVojvoda/design-patterns-cpp[🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
   - []()
@@ -378,6 +400,7 @@
 ## `🗝️ typescript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 ### - overall
+
   - dzharii/awesome-typescript[🧰](https://github.com/dzharii/awesome-typescript)
   - semlinker/awesome-typescript[🧰](https://github.com/semlinker/awesome-typescript)
   - brookshi/awesome-typescript-projects[🧰](https://github.com/brookshi/awesome-typescript-projects)
@@ -387,6 +410,7 @@
   - []()
 
 ### - design patterns
+
   - torokmark/design_patterns_in_typescript[🧰](https://github.com/torokmark/design_patterns_in_typescript)
   - RefactoringGuru/design-patterns-typescript[🧰](https://github.com/RefactoringGuru/design-patterns-typescript)
   - gztchan/design-patterns-in-typescript[🧰](https://github.com/gztchan/design-patterns-in-typescript)
@@ -401,6 +425,7 @@
 ## `🗝️ javascript ecmascript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 ### - misc
+
   - browserify/assert[🧰](https://github.com/browserify/commonjs-assert)
   - tiliqua/assert[🧰](https://github.com/Tiliqua/assert-js)
   - lodash[🧰](https://github.com/lodash/lodash)
@@ -408,16 +433,19 @@
   - []()
 
 ### - concurrency
+
   - wbinnssmith/awesome-promises[🧰](https://github.com/wbinnssmith/awesome-promises)
   - taylonr/async-programming-promises[🧰](https://github.com/taylonr/async-programming-promises)
   - []()
 
 ### - ecmascript updates
+
   - es2015-es2022: [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022) [🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6) 
  [🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) [🧰](https://github.com/sudheerj/ECMAScript-features) [🧰](https://github.com/tc39/proposals) [🧰](https://github.com/daumann/ECMAScript-new-features-list)
   - []()
 
 ### - design patterns
+
   - shichuan/javascript-patterns[🧰](https://github.com/shichuan/javascript-patterns)
   - addyosmani/essential-js-design-patterns[🧰](https://github.com/addyosmani/essential-js-design-patterns)
   - tcorral/Design-Patterns[🧰](https://github.com/tcorral/Design-Patterns-in-Javascript)
@@ -433,6 +461,7 @@
 ## `🗝️ webdev `[⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 ### - nodejs
+
   - sindresorhus/awesome-nodejs[🧰](https://github.com/sindresorhus/awesome-nodejs)
   - sqreen/awesome-nodejs-projects[🧰](https://github.com/sqreen/awesome-nodejs-projects)
   - lirantal/awesome-nodejs-security[🧰](https://github.com/lirantal/awesome-nodejs-security)
@@ -441,12 +470,14 @@
   - []()
 
 ### - design patterns
+
   - DovAmir/awesome-design-patterns[🧰](https://github.com/DovAmir/awesome-design-patterns)
   - kamranahmedse/design-patterns[🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
   - webpro/programming-principles[🧰](https://github.com/webpro/programming-principles)
   - []()
 
 ### - misc
+
   - sindresorhus/awesome[🧰](https://github.com/sindresorhus/awesome)
   - therebelrobot/awesome-bootstrap[🧰](https://github.com/therebelrobot/awesome-bootstrap)
   - markodenic/web-dev[🧰](https://github.com/markodenic/web-development-resources)
