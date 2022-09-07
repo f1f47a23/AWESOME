@@ -281,9 +281,7 @@
 ### - interledger-protocol (ILP)
 
   - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
-  - [🌐](https://interledger.org/)
-  - interledger[🧰](https://github.com/interledger)
-  - interledgerjs[🧰](https://github.com/interledgerjs)
+  - interledger[🌐](https://interledger.org/)[🧰](https://github.com/interledger)[🧰](https://github.com/interledgerjs)
   - []()
 
 ### - misc
