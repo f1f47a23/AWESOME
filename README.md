@@ -233,8 +233,8 @@
 
 ## `🗝️ xrp ripple ecosystem `[⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
-### - MORE devnet/testnet/mainnet explorer/services
-  - xrparcade/xrpecosystem[🌐](https://www.xrparcade.com/xrpecosystem/)
+### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
+
   - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
   - xrptoolkit.com testnet[🌐](https://test.xrptoolkit.com/)mainnet[🌐](https://www.xrptoolkit.com/)
   - xrpl-services[🌐](https://xrpl.services/)[🧱](https://github.com/nixer89)
@@ -258,6 +258,7 @@
   - xrp.co[🌐](https://www.xrp.co/)
 
 ### - interledger-protocol (ILP)
+
   - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
   - [🌐](https://interledger.org/)
   - interledger[🧰](https://github.com/interledger)
@@ -464,6 +465,7 @@
 ## `🗝️ systems, tools & security `[⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 ### - Linux
+
   - luong-komorebi/Awesome-Linux-Software[🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
   - inputsh/awesome-linux[🧰](https://github.com/inputsh/awesome-linux)
   - itech001/awesome-linux-resources[🧰](https://github.com/itech001/awesome-linux-resources)
@@ -473,12 +475,14 @@
   - []()
 
 ### - Security
+
   - sbilly/[🧰](https://github.com/sbilly/awesome-security)
   - qazbnm456/[🧰](https://github.com/qazbnm456/awesome-web-security)
   - ashishb/[🧰](https://github.com/ashishb/android-security-awesome)
   - []()
 
 ### - Hacking
+
   - Hack-with-Github/[🧰](https://github.com/Hack-with-Github/Awesome-Hacking)
   - infoslack/[🧰](https://github.com/infoslack/awesome-web-hacking)
   - carpedm20/[🧰](https://github.com/carpedm20/awesome-hacking)
@@ -488,6 +492,7 @@
   - []()
 
 ### - Misc
+
   - Awesome-Windows[🧰](https://github.com/Awesome-Windows/Awesome)
   - sirredbeard/Awesome-UNIX[🧰](https://github.com/sirredbeard/Awesome-UNIX)
   - pingcap/awesome-database-learning[🧰](https://github.com/pingcap/awesome-database-learning)
