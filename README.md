@@ -268,6 +268,7 @@
   - xrpintel[🌐](https://xrpintel.com/)
   - xrplorer[🌐](https://xrplorer.com/)
   - xrplcoins[🌐](https://xrplcoins.com/dex)
+  - richlist[🌐](https://rich-list.info)
   - xdex[🌐](https://xdex.com/)
   - theworldexchange[🌐](https://www.theworldexchange.net/)
   - xpmarket *(tokens)*[🌐](https://xpmarket.io/)
