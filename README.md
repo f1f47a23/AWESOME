@@ -3,7 +3,7 @@
 
 <br><br>
 
-[![Image](https://f1f47a23.github.io/img/xrp-investor-casino.jpg)](youtu.be/JpvW1T7hXjo)
+[![Image](https://f1f47a23.github.io/img/xrp-investor-casino.jpg)](https://youtu.be/JpvW1T7hXjo)
 <br><br>
 
 ******
