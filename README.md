@@ -52,7 +52,7 @@
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
   - XLS-30d: *amm on xrpl*[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)
-  - info around: *amm pools, users provide liquidity and also earn profits from AMM, impermanent loss, * 
+  - info around: *amm pools, users provide liquidity and also earn profits from AMM, impermanent loss* 
     - u.today[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)
     - amm apex2022[▶️](youtu.be/m3xqLNJmPfw)
     - order-book-vs-amm[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
