@@ -46,7 +46,7 @@
     - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart) *token samples*
   - []()
 
-### - DEX AMM
+### - DEX & AMM
 
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
