@@ -15,7 +15,7 @@
 
 
 
-## `🗝️ xrpl NFT TOKENS DEX sidechains &... `<br>
+## `🗝️ xrpl NFT TOKENS DEX AMM sidechains &... `<br>
 
 
 ### - forum bulletin news updates
@@ -46,10 +46,15 @@
     - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart) *token samples*
   - []()
 
-### - DEX
+### - DEX AMM
 
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
+  - autobridging[{✘}](https://xrpl.org/autobridging.html)
+  - info around *AMM: users provide liquidity and also earn profits from AMM* 
+    - order-book-vs-amm[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)
+    - what-is-amm[🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)
   - []()
+
 
 ### - sidechains
 
