@@ -346,7 +346,7 @@
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
-  - *ethereum mining[▶️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)*
+  - *mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)*
 
 ### - codius (archived)
 
