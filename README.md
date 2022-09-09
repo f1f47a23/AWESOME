@@ -31,6 +31,7 @@
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
   - stedas guides & infographics[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas)
+  - xrpchat-tech-forum[👨](https://www.xrpchat.com/forum/16-technical-discussion/)
   - ***`more forums & news below`***[👇](#--more-forums-and-news)
   - []()
 
@@ -50,7 +51,12 @@
 
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
-  - info around *AMM: users provide liquidity and also earn profits from AMM* 
+  - XLS-30d: *amm on xrpl*[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)
+  - info around: *amm pools, users provide liquidity and also earn profits from AMM, impermanent loss, * 
+    - u.today[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)
+    - amm apex2022[▶️](youtu.be/m3xqLNJmPfw)
+    - order-book-vs-amm[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
+    - amm proposal[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)
     - order-book-vs-amm[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)
     - what-is-amm[🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)
   - []()
