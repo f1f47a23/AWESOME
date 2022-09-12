@@ -72,9 +72,10 @@
 
 ### - clio server *can help reduce the load on rippled servers running in p2p mode*
 
-- inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)
+- inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
+- docs[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)
 - XRPLF/clio[🧱](https://github.com/XRPLF/clio)
-  - []()
+- []()
 
 
 
