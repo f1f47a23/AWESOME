@@ -55,7 +55,7 @@
   - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) *XRPL Hooks project that contains liquidity pool and AMM hooks*
   - info around: *amm pools, users provide liquidity and also earn profits from AMM, impermanent loss* 
     - u.today[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)
-    - amm apex2022[▶️](youtu.be/m3xqLNJmPfw)
+    - amm d.schwartz[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/U0vHwuYER5Q)
     - order-book-vs-amm[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
     - amm proposal[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)
     - order-book-vs-amm[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)
