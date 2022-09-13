@@ -276,8 +276,8 @@
     - [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/channel/UCtQycmSrKdJ0zE0bWumO4vA/)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/channel/UCf3Vlkhhxrwr3A8IYN8KVkw/)
     - [▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/user/erichanintokyo/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/AlexCobbXRP/)
     - [▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/)[▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/)
-    - [▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/)
-  - others[▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/channel/UCjemQfjaXAzA-95RKoy9n_g/)[▶️](https://www.youtube.com/user/CrazymonkeyMBS/)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/)
+    - [▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/)[▶️](https://www.youtube.com/user/CrazymonkeyMBS/)
+  - others[▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/channel/UCjemQfjaXAzA-95RKoy9n_g/)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/)
   
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
