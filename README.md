@@ -85,7 +85,7 @@
 
 
 ## `🗝️ xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
-*bespoke-light-smart-contracts*
+*bespoke-light-smart-contracts[▶️](https://youtu.be/MK_n4ToccWM)*
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
   - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
@@ -178,6 +178,11 @@
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - []()
+
+### - misc-topics
+  - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
+  - []()
+
 
 ### - awesome-xrpl
 
