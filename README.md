@@ -310,6 +310,7 @@
   - checksum[🧰](https://github.com/checksumso/) *open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*
   - talentchain[🌐](https://www.talentchain.io/)[🧰](https://github.com/TalentChainXRPL/xrpl-lib) *platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*
+  - gemwallet[🌐](https://gemwallet.app/)[🧰](https://github.com/GemWallet/gemwallet-extension)
   - []()
 
 
