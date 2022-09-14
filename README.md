@@ -52,7 +52,7 @@
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
-  - burkebrunson/[🧱](https://github.com/burkebrunson/xrpWalletPrepDEXTrade) *A guide to enabling trading through xrpl dex*
+  - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) *A guide to enabling trading through xrpl dex*
   - XLS-30d: *amm on xrpl*[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)
   - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
   - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) *XRPL Hooks project that contains liquidity pool and AMM hooks*
