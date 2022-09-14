@@ -143,7 +143,7 @@
 
   - XRPLF/xrpl.js[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) *A JS/TS API for interacting with the XRP Ledger in Node.js & browser*
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) *Connect to the XRP Ledger using WebSockets*
-  - rippled-source-doc[{✘}](https://xrplf.github.io/rippled/) *server software for the XRP Ledger - written in c++ - runs on linux/mac/windows*
+  - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) *for the XRP Ledger - written in c++ - runs on linux/mac/windows*
   - ripple/explorer[🧱](https://github.com/ripple/explorer)
   - []()
 
