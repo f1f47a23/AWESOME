@@ -188,8 +188,8 @@
 
 ### - awesome-xrpl
 
-  - yyolk/[🧱](https://github.com/yyolk/awesome-xrpl)[🌵](https://github.com/WietseWind/awesome-xrpl)
-  - vhpoet/[🧱](https://github.com/vhpoet/awesome-ripple)[🌵](https://github.com/WietseWind/awesome-ripple)
+  - yyolk/[🧱](https://github.com/yyolk/awesome-xrpl)
+  - vhpoet/[🧱](https://github.com/vhpoet/awesome-ripple)
   - TusharPardhe/[🧱](https://github.com/TusharPardhe/xrpl-cheat-sheet)
   - f1f47a23[🌎](https://f1f47a23.github.io/)
   - []()
