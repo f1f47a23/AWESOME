@@ -222,6 +222,7 @@
   - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
   - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
   - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
+  - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
   - []()
   
 ### - bip39,bip44
