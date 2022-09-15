@@ -14,12 +14,13 @@
 
 ******
 
+## `🗝️`
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=XRPL-FRONTLINE🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 ******
 
 
-## `🗝️`
 ## `xrpl NFT TOKENS DEX AMM sidechains &... `
 
 
@@ -139,10 +140,12 @@
 
 ******
 
+## `🗝️`
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=XRPL-and-CRYPTO-ALGORITHMS🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 ******
-## `🗝️`
+
 ## `xrp xrpl ripple `[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
@@ -344,10 +347,12 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ******
 
+## `🗝️`
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=DECENTRALIZE-EVERYTHING🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 ******
-## `🗝️`
+
 ## `smart-contracts / dapps / ethereum-solidity / flare `[⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 ### - flare
@@ -419,10 +424,12 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ******
 
+## `🗝️`
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WEB-DEVELOPMENT🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 ******
-## `🗝️`
+
 ## `wasm & c++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
