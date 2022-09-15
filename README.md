@@ -428,8 +428,6 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WEB-DEVELOPMENT🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
-[▶️](https://youtu.be/VA4e0NqyYMw)
-
 ******
 
 ## `wasm & c++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
@@ -593,6 +591,8 @@ It enables “Talents” - creators or makers, to launch their own token*
 <br>
 
 ### ENDOF ▞▞▞▞▞▖🆆🅴🅱 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃▝▞▞▞▞▞
+
+[▶️](https://youtu.be/VA4e0NqyYMw)
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
