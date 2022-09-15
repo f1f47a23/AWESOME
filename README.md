@@ -7,7 +7,7 @@
 <br><br>
 
 
-## [XRPL FRONTLINE](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F)
+## [XRPL FRONTLINE 🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F)
 
 ******
 
@@ -139,8 +139,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=XRPL-and-CRYPTO-ALGORITHMS🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 ******
-
-## `🗝️ xrp xrpl ripple `[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+## `🗝️`
+## `xrp xrpl ripple `[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
 
