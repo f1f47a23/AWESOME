@@ -428,7 +428,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ******
 
-## `wasm & c++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
+## `wasm, c & c++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
 
