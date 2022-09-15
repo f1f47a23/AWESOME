@@ -359,14 +359,14 @@ It enables “Talents” - creators or makers, to launch their own token*
   - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
   - []()
 
-### - solidity ethereum
+### - solidity ethereum[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)
 
   - ethereum/solidity[🧰](https://github.com/ethereum/solidity)
   - bkrem/awesome-solidity[🧰](https://github.com/bkrem/awesome-solidity)
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
-  - *mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)*
+  - []()
 
 ### - codius (archived)
 
