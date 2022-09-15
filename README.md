@@ -8,9 +8,9 @@
 
 
 ## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F)
-## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-1)
-## DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-2)
-## WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-3)
+## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-1) *Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ*
+## DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-2) *Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ*
+## WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-3) 
 
 ******
 
