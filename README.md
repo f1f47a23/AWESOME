@@ -8,6 +8,7 @@
 
 
 ## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F)
+## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-1)
 
 ******
 
