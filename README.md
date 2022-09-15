@@ -7,7 +7,7 @@
 <br><br>
 
 
-## [XRPL FRONTLINE 🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F)
+## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F)
 
 ******
 
