@@ -92,7 +92,7 @@
 
 
 
-## `🗝️ xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
+## `xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 *bespoke-light-smart-contracts[▶️](https://youtu.be/MK_n4ToccWM)*
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
@@ -116,7 +116,7 @@
 
 
 
-## `🗝️ XUMM APP`<br>
+## `XUMM APP`<br>
 
 - xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
 - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
@@ -203,7 +203,7 @@
 
 ******
 
-## `🗝️ cryptography / algorithms / keypairs encode sign bip39 bip44 wallets `[⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `cryptography / algorithms / keypairs encode sign bip39 bip44 wallets `[⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ
 
 ### - xrpl algorithms
@@ -275,7 +275,7 @@
 
 ******
 
-## `🗝️ xrp ripple ecosystem `[⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+## `xrp ripple ecosystem `[⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 ### - MORE forums and news
 
@@ -375,7 +375,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ******
 
-## `🗝️ p2p / holochain `[⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## `p2p / holochain `[⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - p2p
 
@@ -443,7 +443,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ******
 
-## `🗝️ typescript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+## `typescript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 ### - overall
 
@@ -468,7 +468,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ******
 
-## `🗝️ javascript ecmascript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+## `javascript ecmascript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 ### - misc
 
@@ -504,7 +504,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ******
 
-## `🗝️ webdev `[⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
+## `webdev `[⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 ### - nodejs
 
@@ -539,7 +539,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ******
 
-## `🗝️ systems, tools & security `[⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
+## `systems, tools & security `[⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 ### - Linux
 
