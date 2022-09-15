@@ -13,8 +13,8 @@
 ******
 
 
-
-## `🗝️ xrpl NFT TOKENS DEX AMM sidechains &... `<br>
+## `🗝️`
+## `xrpl NFT TOKENS DEX AMM sidechains &... `
 
 
 ### - forum bulletin news updates
