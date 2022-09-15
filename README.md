@@ -192,6 +192,8 @@
 
 ### - misc-topics
   - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
+  - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)
+  - multisigning[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)
   - []()
 
 
