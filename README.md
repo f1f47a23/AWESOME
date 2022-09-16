@@ -6,6 +6,7 @@
 [![Image](https://f1f47a23.github.io/img/xrp-investor-casino.jpg)](https://youtu.be/JpvW1T7hXjo)
 <br><br>
 
+![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
 ## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F) <sup>*SɹƎƎNOIԀ Ǝ┴∩˥OSq∀*</sup>
 ## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-1) <sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ*</sup>
@@ -20,7 +21,7 @@
 
 ******
 
-![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
+
 ## `xrpl NFT TOKENS DEX AMM sidechains &... `
 
 
