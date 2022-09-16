@@ -21,7 +21,7 @@
 ******
 
 
-## `xrpl NFT TOKENS DEX AMM sidechains &... `
+## `xrpl NFT TOKENS DEX AMM sidechains &... `![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
 
 ### - forum bulletin news updates
