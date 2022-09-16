@@ -308,7 +308,7 @@
   - bithomp[🌐](https://bithomp.com/)xrpscan[🌐](https://xrpscan.com/)threexrp[🌐](https://threexrp.dev/dex)xrpintel[🌐](https://xrpintel.com/)xrplorer[🌐](https://xrplorer.com/)
   - xrplcoins[🌐](https://xrplcoins.com/dex)richlist[🌐](https://rich-list.info)xdex[🌐](https://xdex.com/)theworldexchange[🌐](https://www.theworldexchange.net/)xpmarket *(tokens)*[🌐](https://xpmarket.io/)
   - onthedex[🌐](https://onthedex.live/)zerpcraft[🌐](https://www.zerpcraft.com/)paystring[🌐](https://paystring.org/)xptxrpl[🌐](https://xptxrpl.com/)xrp.co[🌐](https://www.xrp.co/)
-  - blockchair[🌐](https://blockchair.com/ripple)xrpl-metrics[🌐](https://xrpl-metrics.com/)
+  - blockchair[🌐](https://blockchair.com/ripple)xrpl-metrics[🌐](https://xrpl-metrics.com/)xrplstatus[🌐](https://xrplstatus.com/)
   - []()
 
 ### - interledger-protocol (ILP)
