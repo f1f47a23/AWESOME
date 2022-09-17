@@ -212,7 +212,7 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
 
 ******
 
-## `cryptography / algorithms / keypairs encode sign bip39 bip44 wallets `[⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `cryptography / algorithms / keypairs encode sign bip39 bip44 paper-wallets `[⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
 ### - xrpl algorithms
 
