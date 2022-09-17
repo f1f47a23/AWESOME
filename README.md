@@ -632,7 +632,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 <br><br>
 
-![Image](https://f1f47a23.github.io/img/eth20.jpg)
+[![Image](https://github.com/f1f47a23/AWESOME/blob/main/img/eth20.jpg)](https://youtu.be/j7MeJionPMA)
 
 <br><br>
 
