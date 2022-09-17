@@ -181,7 +181,7 @@
     - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
     - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
-  - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)
+  - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)[🧱](https://github.com/nixer89/)
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
   - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
