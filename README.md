@@ -8,10 +8,10 @@
 
 ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F) <sup>*SɹƎƎNOIԀ Ǝ┴∩˥OSq∀*</sup>
-## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-1) <sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ*</sup>
-## DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-2) <sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ*</sup>
-## WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-3) <sup>*ƎNIHƆ∀W ƎH┴ NI S┴SOHפ*</sup>
+## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F)
+## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-1)
+## DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-2)
+## WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-3)
 
 ******
 
@@ -130,6 +130,8 @@
 
 ### ENDOF ▞▞▞▞▞▖🚧 🆇🆁🅿🅻 🅵🆁🅾🅽🆃🅻🅸🅽🅴 🚧▝▞▞▞▞▞
 
+SɹƎƎNOIԀ Ǝ┴∩˥OSq∀
+
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
@@ -209,7 +211,6 @@
 ******
 
 ## `cryptography / algorithms / keypairs encode sign bip39 bip44 wallets `[⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
-Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ
 
 ### - xrpl algorithms
 
@@ -337,6 +338,8 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ### ENDOF ▞▞▞▞▞▖🆇🆁🅿🅻 & 🅲🆁🆈🅿🆃🅾 🅰🅻🅶🅾🆁🅸🆃🅷🅼🆂▝▞▞▞▞▞
 
+Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ
+
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
@@ -428,7 +431,8 @@ It enables “Talents” - creators or makers, to launch their own token*
 <br>
 
 ### ENDOF ▞▞▞▞▞▖🅳🅴🅲🅴🅽🆃🆁🅰🅻🅸🆉🅴 🅴🆅🅴🆁🆈🆃🅷🅸🅽🅶▝▞▞▞▞▞
-Ǝ⊥∀˥OO⊥SIƎᴚOℲƎᙠ[▶️](https://youtu.be/nNpvWBuTfrc)
+
+Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ[▶️](https://youtu.be/nNpvWBuTfrc)
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
@@ -615,7 +619,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ### ENDOF ▞▞▞▞▞▖🆆🅴🅱 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃▝▞▞▞▞▞
 
-[▶️](https://youtu.be/VA4e0NqyYMw)
+ƎNIHƆ∀W ƎH┴ NI S┴SOHפ[▶️](https://youtu.be/VA4e0NqyYMw)
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
