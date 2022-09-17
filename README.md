@@ -442,11 +442,16 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ### - c & c++
 
+  - oz123/awesome-c[🧰](https://github.com/oz123/awesome-c)
+  - inputsh/awesome-c[🧰](https://github.com/inputsh/awesome-c)
+  - uhub/awesome-c[🧰](https://github.com/uhub/awesome-c)
+  - uhub/awesome-cpp[🧰](https://github.com/uhub/awesome-cpp)
   - fffaraz/awesome-cpp[🧰](https://github.com/fffaraz/awesome-cpp)
   - JakubVojvoda/design-patterns-cpp[🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
+  - p-ranav/awesome-hpp[🧰](https://github.com/p-ranav/awesome-hpp)
   - []()
 
-
+uhub/awesome-c
 
 ******
 
@@ -531,6 +536,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 ### - misc
 
+  - LeCoupa/awesome-cheatsheets[🧰](https://github.com/LeCoupa/awesome-cheatsheets)
   - sindresorhus/awesome[🧰](https://github.com/sindresorhus/awesome)
   - therebelrobot/awesome-bootstrap[🧰](https://github.com/therebelrobot/awesome-bootstrap)
   - markodenic/web-dev[🧰](https://github.com/markodenic/web-development-resources)
