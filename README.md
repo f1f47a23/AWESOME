@@ -254,6 +254,7 @@
   - cryptocoinjs/base-x[🧰](https://github.com/cryptocoinjs/base-x)
   - indutny/elliptic[🧰](https://github.com/indutny/elliptic)
   - base58[🌐](https://incoherency.co.uk/base58/)
+  - RustCrypto/signatures[🧰](https://github.com/RustCrypto/signatures) *Cryptographic signature algorithms DSA ECDSA Ed25519*
   - []()
 
 ### - qrcode
@@ -399,6 +400,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 - ipfs/awesome-ipfs[🧰](https://github.com/ipfs/awesome-ipfs)[🌐](https://awesome.ipfs.tech/)
   - ipfs/[🧰](https://github.com/ipfs/ipfs)js[🧰](https://github.com/ipfs/js-ipfs)webui[🧰](https://github.com/ipfs/ipfs-webui)docs[📖](https://github.com/ipfs/ipfs-docs)desktop[🧰](https://github.com/ipfs/ipfs-desktop)
   - JoinColony/awesome-web3[🧰](https://github.com/JoinColony/awesome-web3)
+  - []()
 
 ### - holochain
 
@@ -408,7 +410,13 @@ It enables “Talents” - creators or makers, to launch their own token*
   - Holo-Host/[🧰](https://github.com/Holo-Host/holo-nixpkgs)
   - []()
 
+### - blockchain
 
+  - yjjnls/awesome-blockchain[🧰](https://github.com/yjjnls/awesome-blockchain)
+  - []()
+
+  
+  
 <br>
 
 ### ENDOF ▞▞▞▞▞▖🅳🅴🅲🅴🅽🆃🆁🅰🅻🅸🆉🅴 🅴🆅🅴🆁🆈🆃🅷🅸🅽🅶▝▞▞▞▞▞
@@ -452,7 +460,7 @@ It enables “Talents” - creators or makers, to launch their own token*
   - p-ranav/awesome-hpp[🧰](https://github.com/p-ranav/awesome-hpp)
   - []()
 
-uhub/awesome-c
+
 
 ******
 
