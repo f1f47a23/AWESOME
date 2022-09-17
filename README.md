@@ -329,6 +329,7 @@
 It enables “Talents” - creators or makers, to launch their own token*
   - gemwallet[🌐](https://gemwallet.app/)[🧰](https://github.com/GemWallet/gemwallet-extension)
   - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧰](https://github.com/thebettermint) *open-source B2B platform that can enable NFT functionality for your business.*
+  - xdvlabs/[🧰](https://github.com/orgs/xdvlabs/repositories)
 
 
 <br>
