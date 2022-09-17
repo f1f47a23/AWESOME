@@ -632,7 +632,7 @@ It enables “Talents” - creators or makers, to launch their own token*
 
 <br><br>
 
-[![Image](https://f1f47a23.github.io/img/eth20.jpg)](youtu.be/j7MeJionPMA)
+[![Image](https://f1f47a23.github.io/img/xrp-investor-casino.jpg)](youtu.be/j7MeJionPMA)
 
 <br><br>
 
