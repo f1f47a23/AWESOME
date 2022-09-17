@@ -413,6 +413,14 @@ It enables “Talents” - creators or makers, to launch their own token*
 ### - blockchain
 
   - yjjnls/awesome-blockchain[🧰](https://github.com/yjjnls/awesome-blockchain)
+  - openblockchains/awesome-blockchains[🧰](https://github.com/openblockchains/awesome-blockchains)
+  - imbaniac/awesome-blockchain[🧰](https://github.com/imbaniac/awesome-blockchain)
+  - Xel/Blockchain-stuff[🧰](https://github.com/Xel/Blockchain-stuff)
+  - igorbarinov/awesome-blockchain[🧰](https://github.com/igorbarinov/awesome-blockchain)
+  - hylinux1024/awesome-blockchain-articles[🧰](https://github.com/hylinux1024/awesome-blockchain-articles)
+  - coderplex-org/awesome-blockchain[🧰](https://github.com/coderplex-org/awesome-blockchain)
+  - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)
+  - Jeiwan/awesome-blockchain[🧰](https://github.com/Jeiwan/awesome-blockchain)
   - []()
 
   
