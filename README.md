@@ -258,6 +258,17 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - indutny/elliptic[🧰](https://github.com/indutny/elliptic)
   - base58[🌐](https://incoherency.co.uk/base58/)
   - RustCrypto/signatures[🧰](https://github.com/RustCrypto/signatures) *Cryptographic signature algorithms DSA ECDSA Ed25519*
+  - B-Con/crypto-algorithms[🧰](https://github.com/B-Con/crypto-algorithms)
+  - vishwas1/crypto[🌐](https://vishwas1.github.io/crypto/index.html#/crypto)
+  - bcrypt[🌐](http://bcrypt.sourceforge.net/) *Cross-platform file encryption utility*
+  - jedisct1/libsodium[🧰](https://github.com/jedisct1/libsodium) *library for encryption, decryption, signatures, password hashing and more*
+  - libtom/libtomcrypt[🧰](https://github.com/libtom/libtomcrypt) *comprehensive modular and portable cryptographic toolkit 4 developers*
+  - apache/incubator-milagro-crypto-c[🧰](https://github.com/apache/incubator-milagro-crypto-c) *crypto lib RSA ECDSA AES-GCM SHA2 SHA3 pair-cryptogr*
+  - NilFoundation/crypto3[🧰](https://github.com/NilFoundation/crypto3) *Modern Cryptography Suite*
+  - gnupg[🌐](https://www.gnupg.org/) *complete and free implementation of the OpenPGP standard*
+  - gpg4win[🌐](https://www.gpg4win.org/) *free encryption tool to sign and encrypt files*
+  - veracrypt[🌐](https://veracrypt.fr/) *free open source disk encryption for win/mac/linux*
+  - sobolevn/awesome-cryptography[🧰](https://github.com/sobolevn/awesome-cryptography)
   - []()
 
 ### - qrcode
