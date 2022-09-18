@@ -19,7 +19,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=XRPL-FRONTLINE🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
-### [🚧](https://youtu.be/Zn8b3MDMjQ4) 𓆩ⱲꝊꞦҞ ĪꞤ ꝐꞦꝊ₲ꞦɆꞨꞨ𓆪 [![ds](https://f1f47a23.github.io/img/ds32.png)](https://youtu.be/qQB2NXfJev0)
+### [![ds](https://f1f47a23.github.io/img/ds32.png)](https://youtu.be/Zn8b3MDMjQ4) 𓆩ⱲꝊꞦҞ ĪꞤ ꝐꞦꝊ₲ꞦɆꞨꞨ𓆪 [![ds](https://f1f47a23.github.io/img/ds32.png)](https://youtu.be/qQB2NXfJev0)
 
 ******
 
