@@ -268,7 +268,10 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - gnupg[🌐](https://www.gnupg.org/) *complete and free implementation of the OpenPGP standard*
   - gpg4win[🌐](https://www.gpg4win.org/) *free encryption tool to sign and encrypt files*
   - veracrypt[🌐](https://veracrypt.fr/) *free open source disk encryption for win/mac/linux*
+  - gabrielizalo/Awesome-JavaScript-Crypto-Libraries[🧰](https://github.com/gabrielizalo/Awesome-JavaScript-Crypto-Libraries)
+  - pFarb/awesome-crypto-papers[🧰](https://github.com/pFarb/awesome-crypto-papers)
   - sobolevn/awesome-cryptography[🧰](https://github.com/sobolevn/awesome-cryptography)
+  - veorq/awesome-post-quantum[🧰](https://github.com/veorq/awesome-post-quantum)
   - []()
 
 ### - qrcode
@@ -437,6 +440,7 @@ It enables “Talents” - creators or makers, to launch their own token*
   - coderplex-org/awesome-blockchain[🧰](https://github.com/coderplex-org/awesome-blockchain)
   - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)
   - Jeiwan/awesome-blockchain[🧰](https://github.com/Jeiwan/awesome-blockchain)
+  - [🧰]() **
   - []()
 
   
