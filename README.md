@@ -144,7 +144,7 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
 
 ******
 
-## `🗝️`
+## `🚪`
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=XRPL-and-CRYPTO-ALGORITHMS🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
@@ -367,7 +367,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `🗝️`
+## `🚪`
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=DECENTRALIZE-EVERYTHING🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
@@ -462,7 +462,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `🗝️`
+## `🚪`
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WEB-DEVELOPMENT🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
