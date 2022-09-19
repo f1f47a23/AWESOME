@@ -30,12 +30,12 @@
 ### - forum bulletin news updates
 
   - newsletter[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
-  - XLS-#.#d [👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) *Xrp Ledger Standards / drafts*
+  - XLS-#.#d [👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) <sub>*Xrp Ledger Standards / drafts*</sub>
   - Amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments)
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌎](https://ripple.com/insights/)
-  - xrpl-bounties *($$$ rewards $$$)*[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)*funds developers for ideas and projects*[▶️](https://youtu.be/00y8Oajzjs0)
+  - xrpl-bounties <sub>*($$$ rewards $$$)*</sub>[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*funds developers for ideas and projects*</sub>[▶️](https://youtu.be/00y8Oajzjs0)
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
@@ -61,11 +61,11 @@
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
-  - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) *A guide to enabling trading through xrpl dex*
-  - XLS-30d: *amm on xrpl*[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)
+  - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
+  - XLS-30d: <sub>*amm on xrpl*</sub>[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)
   - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
-  - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) *XRPL Hooks project that contains liquidity pool and AMM hooks*
-  - info around: *amm pools, users provide liquidity and also earn profits from AMM, impermanent loss* 
+  - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
+  - info around: <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - u.today[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)
     - amm d.schwartz[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/U0vHwuYER5Q)
     - order-book-vs-amm[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
@@ -83,7 +83,7 @@
 
 
 ### - clio server 
-*can help reduce the load on rippled servers running in p2p mode*
+<sub>*can help reduce the load on rippled servers running in p2p mode*</sub>
 - inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
 - docs[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)
 - XRPLF/clio[🧱](https://github.com/XRPLF/clio)
@@ -96,7 +96,7 @@
 
 
 ## `xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
-*bespoke-light-smart-contracts[▶️](https://youtu.be/MK_n4ToccWM)*
+<sub>*bespoke-light-smart-contracts*</sub>[▶️](https://youtu.be/MK_n4ToccWM)
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
   - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
@@ -154,9 +154,9 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
 
 ### - main
 
-  - XRPLF/xrpl.js[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) *A JS/TS API for interacting with the XRP Ledger in Node.js & browser*
-  - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) *Connect to the XRP Ledger using WebSockets*
-  - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) *for the XRP Ledger - written in c++ - runs on linux/mac/windows*
+  - XRPLF/xrpl.js[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
+  - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
+  - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - ripple/explorer[🧱](https://github.com/ripple/explorer)
   - []()
 
@@ -260,14 +260,14 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - RustCrypto/signatures[🧰](https://github.com/RustCrypto/signatures) <sub>*Cryptographic signature algorithms DSA ECDSA Ed25519*</sub>
   - B-Con/crypto-algorithms[🧰](https://github.com/B-Con/crypto-algorithms)
   - vishwas1/crypto[🌐](https://vishwas1.github.io/crypto/index.html#/crypto)
-  - bcrypt[🌐](http://bcrypt.sourceforge.net/) *Cross-platform file encryption utility*
-  - jedisct1/libsodium[🧰](https://github.com/jedisct1/libsodium) *library for encryption, decryption, signatures, password hashing and more*
-  - libtom/libtomcrypt[🧰](https://github.com/libtom/libtomcrypt) *comprehensive modular and portable cryptographic toolkit 4 developers*
-  - apache/incubator-milagro-crypto-c[🧰](https://github.com/apache/incubator-milagro-crypto-c) *crypto lib RSA ECDSA AES-GCM SHA2 SHA3 pair-cryptogr*
-  - NilFoundation/crypto3[🧰](https://github.com/NilFoundation/crypto3) *Modern Cryptography Suite*
-  - gnupg[🌐](https://www.gnupg.org/) *complete and free implementation of the OpenPGP standard*
-  - gpg4win[🌐](https://www.gpg4win.org/) *free encryption tool to sign and encrypt files*
-  - veracrypt[🌐](https://veracrypt.fr/) *free open source disk encryption for win/mac/linux*
+  - bcrypt[🌐](http://bcrypt.sourceforge.net/) <sub>*Cross-platform file encryption utility*</sub>
+  - jedisct1/libsodium[🧰](https://github.com/jedisct1/libsodium) <sub>*library for encryption, decryption, signatures, password hashing and more*</sub>
+  - libtom/libtomcrypt[🧰](https://github.com/libtom/libtomcrypt) <sub>*comprehensive modular and portable cryptographic toolkit 4 developers*</sub>
+  - apache/incubator-milagro-crypto-c[🧰](https://github.com/apache/incubator-milagro-crypto-c) <sub>*crypto lib RSA ECDSA AES-GCM SHA2 SHA3 pair-cryptogr*</sub>
+  - NilFoundation/crypto3[🧰](https://github.com/NilFoundation/crypto3) <sub>*Modern Cryptography Suite*</sub>
+  - gnupg[🌐](https://www.gnupg.org/) <sub>*complete and free implementation of the OpenPGP standard*</sub>
+  - gpg4win[🌐](https://www.gpg4win.org/) <sub>*free encryption tool to sign and encrypt files*</sub>
+  - veracrypt[🌐](https://veracrypt.fr/) <sub>*free open source disk encryption for win/mac/linux*</sub>
   - gabrielizalo/Awesome-JavaScript-Crypto-Libraries[🧰](https://github.com/gabrielizalo/Awesome-JavaScript-Crypto-Libraries)
   - pFarb/awesome-crypto-papers[🧰](https://github.com/pFarb/awesome-crypto-papers)
   - sobolevn/awesome-cryptography[🧰](https://github.com/sobolevn/awesome-cryptography)
@@ -288,7 +288,7 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - snappy[🧰](https://github.com/google/snappy)
   - madler/zlib[🧰](https://github.com/madler/zlib)
   - imaya/zlib.js[🧰](https://github.com/imaya/zlib.js)
-  - nodeca/pako[🧰](https://github.com/nodeca/pako) *high speed zlib port to javascript, works in browser & node.js*
+  - nodeca/pako[🧰](https://github.com/nodeca/pako) <sub>*high speed zlib port to javascript, works in browser & node.js*</sub>
   - []()
 
 ### - algorithms
@@ -307,7 +307,7 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - xrpchat[👨](https://www.xrpchat.com/)
   - fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
   - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
-  - xrpcommunity.blog[🌎](https://xrpcommunity.blog/) *archived*
+  - xrpcommunity.blog[🌎](https://xrpcommunity.blog/) <sub>*archived*</sub>
   - ytb news channels
     - [▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/channel/UCtQycmSrKdJ0zE0bWumO4vA/)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/channel/UCf3Vlkhhxrwr3A8IYN8KVkw/) 🔥 [▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/user/erichanintokyo/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/AlexCobbXRP/) 🔥 
     - [▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/)[▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/) 🔥 [▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/)[▶️](https://www.youtube.com/channel/UChXTjLrHpuPi4zjPdYM2erA/)[▶️](https://www.youtube.com/c/NotoriousXRP) 🔥 
@@ -342,11 +342,11 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - onxrp.com[🌐](https://onxrp.com/about)
   - xrplgrants.org[🌐](https://xrplgrants.org/)
   - TusharPardhe/XPT-Extension[🧰](https://github.com/TusharPardhe/XPT-Extension)
-  - checksum[🧰](https://github.com/checksumso/) *open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*
-  - talentchain[🌐](https://www.talentchain.io/)[🧰](https://github.com/TalentChainXRPL/xrpl-lib) *platform for self-monetization.
-It enables “Talents” - creators or makers, to launch their own token*
+  - checksum[🧰](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
+  - talentchain[🌐](https://www.talentchain.io/)[🧰](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
+It enables “Talents” - creators or makers, to launch their own token*</sub>
   - gemwallet[🌐](https://gemwallet.app/)[🧰](https://github.com/GemWallet/gemwallet-extension)
-  - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧰](https://github.com/thebettermint) *open-source B2B platform that can enable NFT functionality for your business.*
+  - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧰](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business.*</sub>
   - xdvlabs/[🧰](https://github.com/orgs/xdvlabs/repositories)
 
 
@@ -388,7 +388,7 @@ It enables “Talents” - creators or makers, to launch their own token*
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
-  - mining [⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[▶️](https://youtu.be/5-gzWUErIJI)
+  - <sub>*mining*</sub>[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[▶️](https://youtu.be/5-gzWUErIJI)
   - []()
 
 ### - codius (archived)
