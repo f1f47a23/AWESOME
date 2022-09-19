@@ -82,8 +82,8 @@
   - []()
 
 
-### - clio server 
-<sub>*can help reduce the load on rippled servers running in p2p mode*</sub>
+### - clio server <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>
+
 - inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
 - docs[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)
 - XRPLF/clio[🧱](https://github.com/XRPLF/clio)
@@ -95,8 +95,8 @@
 
 
 
-## `xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
-<sub>*bespoke-light-smart-contracts[▶️](https://youtu.be/MK_n4ToccWM)*</sub>
+## `xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks) <sub>*bespoke-light-smart-contracts[▶️](https://youtu.be/MK_n4ToccWM)*</sub>
+
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
   - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
