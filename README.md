@@ -62,7 +62,7 @@
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
   - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
-  - XLS-30d: <sub>*amm on xrpl*</sub>[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)
+  - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
   - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
   - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
   - info around: <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
@@ -243,7 +243,7 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
 
   - iancoleman/bip39[🧰](https://github.com/iancoleman/bip39)
   - bitcoinjs/bip39[🧰](https://github.com/bitcoinjs/bip39)
-  - oipwg *(bip44-wallet)*[🧰](https://github.com/oipwg/oip-hdmw)
+  - oipwg/[🧰](https://github.com/oipwg/oip-hdmw) <sub>*bip44 wallet*</sub>
   - bitcoinjs/bip44-constants[🧰](https://github.com/bitcoinjs/bip44-constants)
   - bip39[📚](https://github.com/topics/bip39)[📚](https://github.com/topics/bip39-wallet)
   - bip44[📚](https://github.com/topics/bip44)
@@ -261,9 +261,9 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - B-Con/crypto-algorithms[🧰](https://github.com/B-Con/crypto-algorithms)
   - vishwas1/crypto[🌐](https://vishwas1.github.io/crypto/index.html#/crypto)
   - bcrypt[🌐](http://bcrypt.sourceforge.net/) <sub>*Cross-platform file encryption utility*</sub>
-  - jedisct1/libsodium[🧰](https://github.com/jedisct1/libsodium) <sub>*library for encryption, decryption, signatures, password hashing and more*</sub>
+  - jedisct1/libsodium[🧰](https://github.com/jedisct1/libsodium) <sub>*library for encryption decryption signatures password hashing and more*</sub>
   - libtom/libtomcrypt[🧰](https://github.com/libtom/libtomcrypt) <sub>*comprehensive modular and portable cryptographic toolkit 4 developers*</sub>
-  - apache/incubator-milagro-crypto-c[🧰](https://github.com/apache/incubator-milagro-crypto-c) <sub>*crypto lib RSA ECDSA AES-GCM SHA2 SHA3 pair-cryptogr*</sub>
+  - apache/incubator-milagro-crypto-c[🧰](https://github.com/apache/incubator-milagro-crypto-c) <sub>*crypto lib RSA ECDSA AES-GCM SHA2 SHA3 pairing-cryptography*</sub>
   - NilFoundation/crypto3[🧰](https://github.com/NilFoundation/crypto3) <sub>*Modern Cryptography Suite*</sub>
   - gnupg[🌐](https://www.gnupg.org/) <sub>*complete and free implementation of the OpenPGP standard*</sub>
   - gpg4win[🌐](https://www.gpg4win.org/) <sub>*free encryption tool to sign and encrypt files*</sub>
@@ -346,7 +346,7 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - talentchain[🌐](https://www.talentchain.io/)[🧰](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
   - gemwallet[🌐](https://gemwallet.app/)[🧰](https://github.com/GemWallet/gemwallet-extension)
-  - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧰](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business.*</sub>
+  - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧰](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
   - xdvlabs/[🧰](https://github.com/orgs/xdvlabs/repositories)
 
 
@@ -388,7 +388,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
-  - <sub>*mining*</sub>[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[▶️](https://youtu.be/5-gzWUErIJI)
+  - <sub>*mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[▶️](https://youtu.be/5-gzWUErIJI)*</sub>
   - []()
 
 ### - codius (archived)
