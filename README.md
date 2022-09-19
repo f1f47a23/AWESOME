@@ -440,7 +440,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - coderplex-org/awesome-blockchain[🧰](https://github.com/coderplex-org/awesome-blockchain)
   - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)
   - Jeiwan/awesome-blockchain[🧰](https://github.com/Jeiwan/awesome-blockchain)
-  - [🧰]() **
+  - bitcoin <sub>*[▶️](https://www.youtube.com/shorts/IJlm3q-ZDsI)*</sub>
   - []()
 
   
