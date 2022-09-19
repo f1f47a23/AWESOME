@@ -8,10 +8,10 @@
 
 ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#)
-## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#-1)
-## DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-2)
-## WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#%EF%B8%8F-3)
+## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
+## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#2)
+## DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
+## WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#4)
 
 ******
 
@@ -144,7 +144,7 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
 
 ******
 
-## `🚪`
+## `2🚪`
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=XRPL-and-CRYPTO-ALGORITHMS🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
@@ -367,7 +367,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `🚪`
+## `3🚪`
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=DECENTRALIZE-EVERYTHING🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
@@ -462,7 +462,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `🚪`
+## `4🚪`
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WEB-DEVELOPMENT🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
