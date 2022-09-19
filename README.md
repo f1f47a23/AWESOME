@@ -8,10 +8,10 @@
 
 ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-## XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
-## XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#2)
-## DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
-## WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#4)
+## 1. XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
+## 2. XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#2)
+## 3. DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
+## 4. WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#4)
 
 ******
 
