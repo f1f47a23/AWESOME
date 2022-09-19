@@ -257,7 +257,7 @@ SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)
   - cryptocoinjs/base-x[🧰](https://github.com/cryptocoinjs/base-x)
   - indutny/elliptic[🧰](https://github.com/indutny/elliptic)
   - base58[🌐](https://incoherency.co.uk/base58/)
-  - RustCrypto/signatures[🧰](https://github.com/RustCrypto/signatures) *Cryptographic signature algorithms DSA ECDSA Ed25519*
+  - RustCrypto/signatures[🧰](https://github.com/RustCrypto/signatures) <sup>*Cryptographic signature algorithms DSA ECDSA Ed25519*</sup>
   - B-Con/crypto-algorithms[🧰](https://github.com/B-Con/crypto-algorithms)
   - vishwas1/crypto[🌐](https://vishwas1.github.io/crypto/index.html#/crypto)
   - bcrypt[🌐](http://bcrypt.sourceforge.net/) *Cross-platform file encryption utility*
