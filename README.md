@@ -442,7 +442,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - coderplex-org/awesome-blockchain[🧰](https://github.com/coderplex-org/awesome-blockchain)
   - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)
   - Jeiwan/awesome-blockchain[🧰](https://github.com/Jeiwan/awesome-blockchain)
-  - <sub>*bitcoin morons[▶️](https://youtu.be/J9hClX7WENM)*</sub>
+  - <sub>*investing*</sub>
+    - <sub>*[▶️](https://youtu.be/J9hClX7WENM)[▶️](https://youtu.be/SRFRCAQX-XA)[▶️](https://youtu.be/H5e5LoVf96I)[▶️](https://youtu.be/-AivV1CgWHc)[▶️](https://youtu.be/61Q6wWu5ziY)[▶️](https://youtu.be/7gvogsnkjdc)*</sub>
   - []()
 
   
