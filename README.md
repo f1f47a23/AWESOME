@@ -356,7 +356,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### ENDOF ▞▞▞▞▞▖🆇🆁🅿🅻 & 🅲🆁🆈🅿🆃🅾 🅰🅻🅶🅾🆁🅸🆃🅷🅼🆂▝▞▞▞▞▞
 
-Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ[▶️](https://youtu.be/MvEXkd3O2ow)
+<sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ[▶️](https://youtu.be/MvEXkd3O2ow)*</sup>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
@@ -451,7 +451,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### ENDOF ▞▞▞▞▞▖🅳🅴🅲🅴🅽🆃🆁🅰🅻🅸🆉🅴 🅴🆅🅴🆁🆈🆃🅷🅸🅽🅶▝▞▞▞▞▞
 
-Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ[▶️](https://youtu.be/nNpvWBuTfrc)
+<sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ[▶️](https://youtu.be/nNpvWBuTfrc)*</sup>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
@@ -638,7 +638,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### ENDOF ▞▞▞▞▞▖🆆🅴🅱 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃▝▞▞▞▞▞
 
-ƎNIHƆ∀W ƎH┴ NI S┴SOHפ[▶️](https://youtu.be/VA4e0NqyYMw)
+<sup>*ƎNIHƆ∀W ƎH┴ NI S┴SOHפ[▶️](https://youtu.be/VA4e0NqyYMw)*</sup>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
