@@ -37,7 +37,7 @@
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌎](https://ripple.com/insights/)
-  - xrpl-bounties <sub>*($$$ rewards $$$)*</sub>[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*funds developers for ideas and projects[▶️](https://youtu.be/00y8Oajzjs0)*</sub>
+  - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and projects[▶️](https://youtu.be/00y8Oajzjs0)*</sub>
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
