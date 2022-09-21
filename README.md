@@ -21,7 +21,7 @@
 
 ### [![ds](https://f1f47a23.github.io/img/ds32.png)](https://youtu.be/Zn8b3MDMjQ4) 𓆩ⱲꝊꞦҞ ĪꞤ ꝐꞦꝊ₲ꞦɆꞨꞨ𓆪 [![ds](https://f1f47a23.github.io/img/ds32.png)](https://youtu.be/qQB2NXfJev0)
 
-*[meanwhile while the herd is busy with other toy-coins projects...](https://youtu.be/ShB9ZONCITE)*
+*[meanwhile ... while the herd is busy with other toy-coins projects...](https://youtu.be/ShB9ZONCITE)*
 
 ******
 
