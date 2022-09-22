@@ -329,7 +329,8 @@
   - xrplcoins[🌐](https://xrplcoins.com/dex)richlist[🌐](https://rich-list.info)xdex[🌐](https://xdex.com/)theworldexchange[🌐](https://www.theworldexchange.net/)xpmarket *(tokens)*[🌐](https://xpmarket.io/)
   - onthedex[🌐](https://onthedex.live/)zerpcraft[🌐](https://www.zerpcraft.com/)paystring[🌐](https://paystring.org/)xptxrpl[🌐](https://xptxrpl.com/)xrp.co[🌐](https://www.xrp.co/)
   - blockchair[🌐](https://blockchair.com/ripple)xrpl-metrics[🌐](https://xrpl-metrics.com/)xrplstatus[🌐](https://xrplstatus.com/)
-  - onxrp ecosystem[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
+  - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
+  - xrpl.to *launch*[🌐](https://xrpl.to/)
   - []()
 
 ### - interledger-protocol (ILP)
