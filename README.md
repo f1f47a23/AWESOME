@@ -308,12 +308,13 @@
   - reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/)
   - xrpchat[👨](https://www.xrpchat.com/)
   - fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
-  - MackAttackXRP news & bears[🐦](https://twitter.com/MackAttackXRP)[🐦](https://twitter.com/bearableguy123)[🐦](https://twitter.com/321yugelbaraeb)[🐦](https://twitter.com/IooP_rM311_7211)
+  - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
   - xrpcommunity.blog[🌎](https://xrpcommunity.blog/) <sub>*archived*</sub>
   - ytb news channels
     - <sub>[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/channel/UCtQycmSrKdJ0zE0bWumO4vA/)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/channel/UCf3Vlkhhxrwr3A8IYN8KVkw/) 🔥 [▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/user/erichanintokyo/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/AlexCobbXRP/) 🔥 </sub>
     - <sub>[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/)[▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/) 🔥 [▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/)[▶️](https://www.youtube.com/channel/UChXTjLrHpuPi4zjPdYM2erA/)[▶️](https://www.youtube.com/c/NotoriousXRP) 🔥 </sub>
   - others <sub>[▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/channel/UCjemQfjaXAzA-95RKoy9n_g/)[▶️](https://www.youtube.com/user/CrazymonkeyMBS/)[▶️](https://www.youtube.com/c/amtv)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/) 🔥 </sub>
+  - <suv>*bears[🐻](https://twitter.com/bearableguy123)[🐻](https://twitter.com/321yugelbaraeb)[🐻](https://twitter.com/IooP_rM311_7211)*</sub>
   
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
