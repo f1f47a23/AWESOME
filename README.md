@@ -447,7 +447,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - coderplex-org/awesome-blockchain[🧰](https://github.com/coderplex-org/awesome-blockchain)
   - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)
   - Jeiwan/awesome-blockchain[🧰](https://github.com/Jeiwan/awesome-blockchain)
-  - <sub>*investing[▶️](https://youtu.be/xbiDrzTd8fE)[▶️](https://youtu.be/J9hClX7WENM)[▶️](https://youtu.be/SRFRCAQX-XA)[▶️](https://youtu.be/H5e5LoVf96I)[▶️](https://youtu.be/-AivV1CgWHc)[▶️](https://youtu.be/61Q6wWu5ziY)[▶️](https://youtu.be/7gvogsnkjdc)[▶️](https://youtu.be/VrV59W87NSY)[▶️](https://youtu.be/s_wEhhFoUcw)*</sub>
+  - <sub>*investing[▶️](https://youtu.be/xbiDrzTd8fE)[▶️](https://youtu.be/J9hClX7WENM)[▶️](https://youtu.be/SRFRCAQX-XA)[▶️](https://youtu.be/H5e5LoVf96I)[▶️](https://youtu.be/-AivV1CgWHc)[▶️](https://youtu.be/61Q6wWu5ziY)[▶️](https://youtu.be/7gvogsnkjdc)[▶️](https://youtu.be/VrV59W87NSY)[▶️](https://youtu.be/s_wEhhFoUcw)[▶️](https://youtu.be/W3Vis7Ujh30)*</sub>
   - []()
 
   
