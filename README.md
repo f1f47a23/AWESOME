@@ -37,7 +37,7 @@
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
   - ripple-insight[🌎](https://ripple.com/insights/)
-  - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and projects[▶️](https://youtu.be/00y8Oajzjs0)*</sub>
+  - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and projects[🔼](https://youtu.be/00y8Oajzjs0)*</sub>
   - ripple[▶️](https://www.youtube.com/c/Ripple/videos)
   - xrplf[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)
   - DavidSchwartz[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
@@ -97,7 +97,7 @@
 
 
 
-## `xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks) <sub>*bespoke-light-smart-contracts[▶️](https://youtu.be/MK_n4ToccWM)*</sub>
+## `xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks) <sub>*bespoke-light-smart-contracts[🔼](https://youtu.be/MK_n4ToccWM)*</sub>
 
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
@@ -134,7 +134,7 @@
 
 ### ENDOF ▞▞▞▞▞▖🚧 🆇🆁🅿🅻 🅵🆁🅾🅽🆃🅻🅸🅽🅴 🚧▝▞▞▞▞▞
 
-<sup>*SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[▶️](https://youtu.be/8bh8lRjn-DU)*</sup>
+<sup>*SɹƎƎNOIԀ Ǝ┴∩˥OSq∀[🔼](https://youtu.be/8bh8lRjn-DU)*</sup>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
@@ -361,7 +361,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### ENDOF ▞▞▞▞▞▖🆇🆁🅿🅻 & 🅲🆁🆈🅿🆃🅾 🅰🅻🅶🅾🆁🅸🆃🅷🅼🆂▝▞▞▞▞▞
 
-<sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ[▶️](https://youtu.be/MvEXkd3O2ow)*</sup>
+<sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ ⅁NIH⊥⅄ᴚƎΛƎ ⊥Ԁ⅄ᴚƆNƎ[🔼](https://youtu.be/MvEXkd3O2ow)*</sup>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
@@ -395,7 +395,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
-  - <sub>*mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[▶️](https://youtu.be/5-gzWUErIJI)*</sub>
+  - <sub>*mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[🔼](https://youtu.be/5-gzWUErIJI)*</sub>
   - []()
 
 ### - codius (archived)
@@ -447,7 +447,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - coderplex-org/awesome-blockchain[🧰](https://github.com/coderplex-org/awesome-blockchain)
   - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)
   - Jeiwan/awesome-blockchain[🧰](https://github.com/Jeiwan/awesome-blockchain)
-  - <sub>*MoronInvesting[▶️](https://youtu.be/xbiDrzTd8fE)[▶️](https://youtu.be/J9hClX7WENM)[▶️](https://youtu.be/SRFRCAQX-XA)[▶️](https://youtu.be/H5e5LoVf96I)[▶️](https://youtu.be/-AivV1CgWHc) 🔥 [▶️](https://youtu.be/61Q6wWu5ziY)[▶️](https://youtu.be/7gvogsnkjdc)[▶️](https://youtu.be/VrV59W87NSY)[▶️](https://youtu.be/s_wEhhFoUcw)[▶️](https://youtu.be/W3Vis7Ujh30) 🔥 [▶️](https://youtu.be/s8n5jCuPS3E)[▶️](https://youtu.be/ROaGKETvMg0)[▶️](https://youtu.be/bTpt5JH4TWs)[▶️](https://youtu.be/c-v3iw4JH44)[▶️](https://youtu.be/nv56u-t_Fc4)[▶️](https://youtu.be/kYMBF8jEU28)*</sub>
+  - <sub>*MoronInvesting[🔼](https://youtu.be/xbiDrzTd8fE)[🔼](https://youtu.be/J9hClX7WENM)[🔼](https://youtu.be/SRFRCAQX-XA)[🔼](https://youtu.be/H5e5LoVf96I)[🔼](https://youtu.be/-AivV1CgWHc) 🔥 [🔼](https://youtu.be/61Q6wWu5ziY)[🔼](https://youtu.be/7gvogsnkjdc)[🔼](https://youtu.be/VrV59W87NSY)[🔼](https://youtu.be/s_wEhhFoUcw)[🔼](https://youtu.be/W3Vis7Ujh30) 🔥 [🔼](https://youtu.be/s8n5jCuPS3E)[🔼](https://youtu.be/ROaGKETvMg0)[🔼](https://youtu.be/bTpt5JH4TWs)[🔼](https://youtu.be/c-v3iw4JH44)[🔼](https://youtu.be/nv56u-t_Fc4)[🔼](https://youtu.be/kYMBF8jEU28)*</sub>
   - []()
 
   
@@ -456,7 +456,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### ENDOF ▞▞▞▞▞▖🅳🅴🅲🅴🅽🆃🆁🅰🅻🅸🆉🅴 🅴🆅🅴🆁🆈🆃🅷🅸🅽🅶▝▞▞▞▞▞
 
-<sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ[▶️](https://youtu.be/nNpvWBuTfrc)*</sup>
+<sup>*Ǝ⊥∀˥ OO⊥ SI ƎᴚOℲƎᙠ[🔼](https://youtu.be/nNpvWBuTfrc)*</sup>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
@@ -643,7 +643,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### ENDOF ▞▞▞▞▞▖🆆🅴🅱 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃▝▞▞▞▞▞
 
-<sup>*ƎNIHƆ∀W ƎH┴ NI S┴SOHפ[▶️](https://youtu.be/VA4e0NqyYMw)*</sup>
+<sup>*ƎNIHƆ∀W ƎH┴ NI S┴SOHפ[🔼](https://youtu.be/VA4e0NqyYMw)*</sup>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
