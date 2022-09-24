@@ -396,7 +396,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
-  - <sub>*mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[🔼](https://youtu.be/s8n5jCuPS3E)[🔼](https://youtu.be/5-gzWUErIJI)*</sub>
+  - <sub>*mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[🔼](https://youtu.be/s8n5jCuPS3E)[🔼](https://youtu.be/5-gzWUErIJI)[🔼](https://youtu.be/3avgtqPKVc8)*</sub>
   - []()
 
 ### - codius (archived)
