@@ -396,7 +396,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
-  - <sub>*mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[🔼](https://youtu.be/s8n5jCuPS3E)[🔼](https://youtu.be/5-gzWUErIJI)[🔼](https://youtu.be/3avgtqPKVc8)*</sub>
+  - <sub>*mining[⛏️](https://www.magicalquote.com/wp-content/uploads/2013/09/You-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-who-dig.-You-dig.jpg)[🔼](https://youtu.be/s8n5jCuPS3E)[🔼](https://youtu.be/5-gzWUErIJI)*</sub>
   - []()
 
 ### - codius (archived)
@@ -448,7 +448,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - coderplex-org/awesome-blockchain[🧰](https://github.com/coderplex-org/awesome-blockchain)
   - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)
   - Jeiwan/awesome-blockchain[🧰](https://github.com/Jeiwan/awesome-blockchain)
-  - <sub>*Moron👣Investing[🔼](https://youtu.be/xbiDrzTd8fE)[🔼](https://youtu.be/J9hClX7WENM)[🔼](https://youtu.be/SRFRCAQX-XA)[🔼](https://youtu.be/H5e5LoVf96I)[🔼](https://youtu.be/-AivV1CgWHc) 🔥 [🔼](https://youtu.be/61Q6wWu5ziY)[🔼](https://youtu.be/7gvogsnkjdc)[🔼](https://youtu.be/VrV59W87NSY)[🔼](https://youtu.be/s_wEhhFoUcw)[🔼](https://youtu.be/W3Vis7Ujh30) 🔥 [🔼](https://youtu.be/ROaGKETvMg0)[🔼](https://youtu.be/bTpt5JH4TWs)[🔼](https://youtu.be/c-v3iw4JH44)[🔼](https://youtu.be/nv56u-t_Fc4)[🔼](https://youtu.be/kYMBF8jEU28) 🔥 [🔼](https://youtu.be/AZwjMAs4WbQ)[🔼](https://youtu.be/fI16ylFLLz8)[🔼](https://youtu.be/dfi-2cw_gTw)*</sub>
+  - <sub>*Moron👣Investing[🔼](https://youtu.be/xbiDrzTd8fE)[🔼](https://youtu.be/J9hClX7WENM)[🔼](https://youtu.be/SRFRCAQX-XA)[🔼](https://youtu.be/H5e5LoVf96I)[🔼](https://youtu.be/-AivV1CgWHc) 🔥 [🔼](https://youtu.be/61Q6wWu5ziY)[🔼](https://youtu.be/7gvogsnkjdc)[🔼](https://youtu.be/VrV59W87NSY)[🔼](https://youtu.be/s_wEhhFoUcw)[🔼](https://youtu.be/W3Vis7Ujh30) 🔥 [🔼](https://youtu.be/ROaGKETvMg0)[🔼](https://youtu.be/bTpt5JH4TWs)[🔼](https://youtu.be/c-v3iw4JH44)[🔼](https://youtu.be/nv56u-t_Fc4)[🔼](https://youtu.be/kYMBF8jEU28) 🔥 [🔼](https://youtu.be/AZwjMAs4WbQ)[🔼](https://youtu.be/fI16ylFLLz8)[🔼](https://youtu.be/dfi-2cw_gTw)[🔼](https://youtu.be/3avgtqPKVc8)[🔼](https://youtu.be/YgJpV2DEQVA)*</sub>
   - []()
 
   
