@@ -160,7 +160,7 @@
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - ripple/explorer[🧱](https://github.com/ripple/explorer)
-  - []()
+  - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
 
 ### - devnet/testnet/mainnet explorer/services
 
