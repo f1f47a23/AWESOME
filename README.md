@@ -107,8 +107,8 @@
     - wietse/hooked[🌎](https://dev.to/search?q=hooked%20xrpl&filters=class_name:Article)[🌎](https://dev.to/t/xrplhooks/)
     - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
     - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
-  - **XRPL-Labs/xrpld-hooks**[🧱](https://github.com/XRPL-Labs/xrpld-hooks)
-  - **richard/xrpl.js**[🧱🌵](https://github.com/RichardAH/xrpl.js) *richard xrpl-hooks fork*
+  - **XRPL-Labs/xrpld-hooks**[🧱](https://github.com/XRPL-Labs/xrpld-hooks)[🌵](https://github.com/XRPLF/rippled)
+  - **richard/xrpl.js**[🧱](https://github.com/RichardAH/xrpl.js)[🌵](https://github.com/XRPLF/xrpl.js)
   - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
