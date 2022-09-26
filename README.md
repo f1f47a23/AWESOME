@@ -26,7 +26,7 @@
 ## `xrpl NFT TOKENS DEX AMM sidechains &... `
 
 
-### - forum bulletin news updates
+### - forums bulletins news updates
 
   - newsletter[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) <sub>*Xrp Ledger Standards / drafts*</sub>
