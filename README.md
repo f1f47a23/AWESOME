@@ -29,7 +29,7 @@
 ### - forum bulletin news updates
 
   - newsletter[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
-  - **XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) <sub>*Xrp Ledger Standards / drafts*</sub>
+  - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) <sub>*Xrp Ledger Standards / drafts*</sub>
   - Amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments)
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)
