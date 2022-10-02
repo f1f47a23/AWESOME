@@ -62,7 +62,7 @@
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
   - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
   - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
-  - info around: <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
+  - [info around:](https://www.youtube.com/shorts/EYEDD2l0YUw) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - [🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/U0vHwuYER5Q)
   - []()
 
