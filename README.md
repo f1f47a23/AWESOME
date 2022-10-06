@@ -176,11 +176,12 @@
     - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
   - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)[🧱](https://github.com/nixer89/)
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
-  - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle)
-  - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader)
+  - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) *(Oracle) Persist XRP-USD price(s) on the xrpl*
+  - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) *Parse XRPL Order Book results into effective liquidity based exchange prices *
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
   - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
+  - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) *Exchange XRP using Text Messages* 
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - []()
 
