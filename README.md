@@ -177,7 +177,7 @@
   - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)[🧱](https://github.com/nixer89/)
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
   - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*(Oracle) Persist XRP-USD price(s) on the xrpl*</sub>
-  - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices *</sub>
+  - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
   - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
