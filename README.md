@@ -182,6 +182,7 @@
   - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
+  - xrp.fans[🌐](https://xrp.fans/)[🧰](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - []()
 
@@ -322,7 +323,6 @@
   - blockchair[🌐](https://blockchair.com/ripple)xrpl-metrics[🌐](https://xrpl-metrics.com/)xrplstatus[🌐](https://xrplstatus.com/)
   - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - xrpl.to *launch*[🌐](https://xrpl.to/)
-  - xrp.fans[🌐](https://xrp.fans/)[🧰](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
   - []()
 
