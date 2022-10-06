@@ -321,6 +321,8 @@
   - blockchair[🌐](https://blockchair.com/ripple)xrpl-metrics[🌐](https://xrpl-metrics.com/)xrplstatus[🌐](https://xrplstatus.com/)
   - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - xrpl.to *launch*[🌐](https://xrpl.to/)
+  - xrp.fans[🌐](https://xrp.fans/)[🧰](https://github.com/WietseWind/rippled-ws-client-dashboard) *Dashboard Debugging & Development 4 xrpl*
+  - XRPL Composer[🌐](https://graph.trustline.co/) *Create visualize and validate complex payment paths on xrpl*
   - []()
 
 ### - interledger-protocol (ILP)
