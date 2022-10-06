@@ -49,9 +49,7 @@
     - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
-  - tutorials
-    - samples[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) 
-    - quickstart[{✘}](https://xrpl.org/xrpl-quickstart.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart) <sub>*token samples*</sub>
+  - ***`tutorials and samples`***[👇](#--tutorials--samples)
   - []()
 
 ### - DEX & AMM
