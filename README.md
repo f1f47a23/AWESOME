@@ -3,9 +3,6 @@
 
 <br><br>
 
-[![Image](https://f1f47a23.github.io/img/xrp-investor-casino.jpg)](https://youtu.be/JpvW1T7hXjo)
-<br><br>
-
 ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
 ## 1. XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
@@ -642,8 +639,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 <br><br>
 
-[![Image](https://f1f47a23.github.io/img/eth20.jpg)](https://youtu.be/j7MeJionPMA)
 
-<br><br>
 
 
