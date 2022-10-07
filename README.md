@@ -93,7 +93,7 @@
   - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
   - forum blog newsletter
     - amendment[🧱](https://github.com/XRPLF/rippled/pull/4225)
-    - wietse/hooked[🌎](https://dev.to/search?q=hooked%20xrpl&filters=class_name:Article)[🌎](https://dev.to/t/xrplhooks/)
+    - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
     - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
     - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
   - **XRPL-Labs/xrpld-hooks**[🧱](https://github.com/XRPL-Labs/xrpld-hooks)[🌵](https://github.com/XRPLF/rippled)
