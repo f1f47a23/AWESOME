@@ -414,9 +414,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - holochain
 
-  - holochain/[🧰](https://github.com/holochain/holochain)
-  - holochain/[🧰](https://github.com/holochain/happ-build-tutorial)
-  - holochain/launcher[🧰](https://github.com/holochain/launcher)
+  - holochain/[🧰](https://github.com/holochain/holochain)[🧰](https://github.com/holochain/happ-build-tutorial)[🧰](https://github.com/holochain/launcher)
   - Holo-Host/[🧰](https://github.com/Holo-Host/holo-nixpkgs)
   - []()
 
