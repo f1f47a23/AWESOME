@@ -77,7 +77,10 @@
 - XRPLF/clio[🧱](https://github.com/XRPLF/clio)
 - []()
 
+### - MINOR UPGRADES <sub>**</sub>
 
+- ExpandedSignerList(32)[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator)
+- []()
 
 ******
 
