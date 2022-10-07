@@ -538,9 +538,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - mjavascript/mastering-modular-js[🧰](https://github.com/mjavascript/mastering-modular-javascript)
   - []()
   
-### - spa security
-  - info around [🌐](https://iteo.com/blog/post/security-for-single-page-applications/)[🌐](https://developer.okta.com/blog/2022/07/06/spa-web-security)[🌐](https://damienbod.com/2019/01/20/is-a-spa-less-secure-than-a-server-rendered-web-application/)[🌐](https://www.helpnetsecurity.com/2022/03/08/spas-security/)[🌐](https://securityboulevard.com/2021/06/securing-single-page-web-applications/) 🔥 [▶️](https://youtu.be/kD1bb73-SL0)[🌐](https://levelup.gitconnected.com/best-oauth-security-practices-for-single-page-applications-2bb6b44d2890)
-
 
 
 
@@ -599,7 +596,10 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - sbilly/[🧰](https://github.com/sbilly/awesome-security)
   - qazbnm456/[🧰](https://github.com/qazbnm456/awesome-web-security)
   - ashishb/[🧰](https://github.com/ashishb/android-security-awesome)
+  - spa security
+     - info around [🌐](https://iteo.com/blog/post/security-for-single-page-applications/)[🌐](https://developer.okta.com/blog/2022/07/06/spa-web-security)[🌐](https://damienbod.com/2019/01/20/is-a-spa-less-secure-than-a-server-rendered-web-application/)[🌐](https://www.helpnetsecurity.com/2022/03/08/spas-security/)[🌐](https://securityboulevard.com/2021/06/securing-single-page-web-applications/) 🔥 [▶️](https://youtu.be/kD1bb73-SL0)[🌐](https://levelup.gitconnected.com/best-oauth-security-practices-for-single-page-applications-2bb6b44d2890)
   - []()
+
 
 ### - Hacking
 
