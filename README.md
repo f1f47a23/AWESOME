@@ -58,7 +58,7 @@
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
   - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
   - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
-  - [🖕 around:](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
+  - [🖕around:](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - [🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/U0vHwuYER5Q)
   - []()
 
@@ -595,7 +595,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - qazbnm456/[🧰](https://github.com/qazbnm456/awesome-web-security)
   - ashishb/[🧰](https://github.com/ashishb/android-security-awesome)
   - spa security
-     - 🖕 around [🌐](https://iteo.com/blog/post/security-for-single-page-applications/)[🌐](https://developer.okta.com/blog/2022/07/06/spa-web-security)[🌐](https://damienbod.com/2019/01/20/is-a-spa-less-secure-than-a-server-rendered-web-application/)[🌐](https://www.helpnetsecurity.com/2022/03/08/spas-security/)[🌐](https://securityboulevard.com/2021/06/securing-single-page-web-applications/) 🔥 [▶️](https://youtu.be/kD1bb73-SL0)[🌐](https://levelup.gitconnected.com/best-oauth-security-practices-for-single-page-applications-2bb6b44d2890)
+     - 🖕around [🌐](https://iteo.com/blog/post/security-for-single-page-applications/)[🌐](https://developer.okta.com/blog/2022/07/06/spa-web-security)[🌐](https://damienbod.com/2019/01/20/is-a-spa-less-secure-than-a-server-rendered-web-application/)[🌐](https://www.helpnetsecurity.com/2022/03/08/spas-security/)[🌐](https://securityboulevard.com/2021/06/securing-single-page-web-applications/) 🔥 [▶️](https://youtu.be/kD1bb73-SL0)[🌐](https://levelup.gitconnected.com/best-oauth-security-practices-for-single-page-applications-2bb6b44d2890)
   - []()
 
 
