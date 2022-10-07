@@ -74,7 +74,7 @@
 
 - inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
 - docs[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)
-- XRPLF/clio[🧱](https://github.com/XRPLF/clio)
+- XRPLF/clio[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages)
 - []()
 
 ### - Minor Upgrades
@@ -184,6 +184,7 @@
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
   - xrp.fans[🌐](https://xrp.fans/)[🧰](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
+  - XRPLF/xrpl-py[🧱](https://github.com/XRPLF/xrpl-py)[🌐](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sub>*A Python library to interact with XRPL*</sub>
   - []()
 
 ### - misc-topics
