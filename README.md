@@ -79,7 +79,7 @@
 
 ### - Minor Upgrades
 
-- ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*32 signers*</sub>
+- ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
 - []()
 
 ******
