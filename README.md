@@ -49,7 +49,7 @@
   - ***`tutorials and samples`***[👇](#--tutorials--samples)
   - []()
 
-### - DEX & AMM
+### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pools*</sub>
 
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
