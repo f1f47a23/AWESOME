@@ -148,6 +148,7 @@
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - ripple/explorer[🧱](https://github.com/ripple/explorer)
   - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
+  - validators [🌎](https://xrpscan.com/validators)
 
 ### - devnet/testnet/mainnet explorer/services
 
