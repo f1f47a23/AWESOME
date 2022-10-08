@@ -60,7 +60,7 @@
   - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
   - [🖕around:](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - articles[🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
-    - clips[▶️](https://youtu.be/uxcqp31DCik)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/U0vHwuYER5Q)[▶️](https://youtu.be/9cPGeLaiCfg)[▶️](https://youtu.be/MKaov0KxqVc) 🔥 [▶️](https://youtu.be/7MqZKVHSaxc)[▶️](https://youtu.be/yJR1ZzW9mbk)[▶️](https://youtu.be/e228p2Q36Vw)[▶️](https://youtu.be/cSqQ4bv5iyw)[▶️](https://youtu.be/5njKFYdxFxo) 🔥 [▶️](https://youtu.be/pikm4AD77oI)
+    - clips[▶️](https://youtu.be/uxcqp31DCik)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/U0vHwuYER5Q)[▶️](https://youtu.be/9cPGeLaiCfg) 🔥 [▶️](https://youtu.be/7MqZKVHSaxc)[▶️](https://youtu.be/yJR1ZzW9mbk)[▶️](https://youtu.be/e228p2Q36Vw)[▶️](https://youtu.be/cSqQ4bv5iyw)[▶️](https://youtu.be/5njKFYdxFxo) 🔥 [▶️](https://youtu.be/pikm4AD77oI)[▶️](https://youtu.be/MKaov0KxqVc)
   - []()
 
 
