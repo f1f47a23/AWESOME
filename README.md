@@ -51,11 +51,11 @@
 
 ### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pools*</sub>
 
+  - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
   - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
-  - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
   - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
   - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
   - [🖕around:](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
