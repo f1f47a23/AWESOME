@@ -48,7 +48,7 @@
     - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
-  - ***`tutorials and samples`***[👇](#--tutorials--samples)
+  - ***`tutorials and samples`***[👇](#--learning-resources)
   - []()
 
 ### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pools*</sub>
