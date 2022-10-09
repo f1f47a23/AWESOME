@@ -20,7 +20,7 @@
 ******
 
 
-## `xrpl NFT TOKENS DEX AMM sidechains &... `
+## `main overall`
 
 
 ### - forums bulletins news updates
@@ -39,6 +39,8 @@
   - ***`more forums & news below`***[👇](#--more-forums-and-news)
   - []()
 
+
+## `New Hot Features`
 
 ### - tokens NFT trustline
 
