@@ -73,7 +73,7 @@
   - []()
 
 
-### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pools*</sub>
+### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pools[🔼](https://youtu.be/OocKgpiZEHY)*</sub>
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
