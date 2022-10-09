@@ -51,6 +51,28 @@
   - ***`tutorials and samples`***[👇](#--learning-resources)
   - []()
 
+
+### - xrpl-hooks-v2🪝  [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks) <sub>*Layer1-native-bespoke-light-smart-contracts[🔼](https://youtu.be/MK_n4ToccWM)*</sub>
+
+  - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
+  - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
+  - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
+  - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
+  - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
+  - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
+  - forum blog newsletter
+    - amendment[🧱](https://github.com/XRPLF/rippled/pull/4225)
+    - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
+    - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
+    - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
+  - **XRPL-Labs/xrpld-hooks**[🧱](https://github.com/XRPL-Labs/xrpld-hooks)[🌵](https://github.com/XRPLF/rippled)
+  - **richard/xrpl.js**[🧱](https://github.com/RichardAH/xrpl.js)[🌵](https://github.com/XRPLF/xrpl.js)
+  - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
+  - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
+  - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
+  - []()
+
+
 ### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pools*</sub>
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
@@ -85,29 +107,6 @@
 - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
 - []()
 
-******
-
-
-
-### - xrpl-hooks-v2🪝  [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks) <sub>*Layer1-native-bespoke-light-smart-contracts[🔼](https://youtu.be/MK_n4ToccWM)*</sub>
-
-  - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
-  - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
-  - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
-  - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
-  - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
-  - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
-  - forum blog newsletter
-    - amendment[🧱](https://github.com/XRPLF/rippled/pull/4225)
-    - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
-    - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
-    - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
-  - **XRPL-Labs/xrpld-hooks**[🧱](https://github.com/XRPL-Labs/xrpld-hooks)[🌵](https://github.com/XRPLF/rippled)
-  - **richard/xrpl.js**[🧱](https://github.com/RichardAH/xrpl.js)[🌵](https://github.com/XRPLF/xrpl.js)
-  - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
-  - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
-  - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-  - []()
 
 
 ******
