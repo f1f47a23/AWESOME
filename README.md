@@ -89,7 +89,7 @@
 
 
 
-## `xrpl-hooks-v2🪝  `[⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks) <sub>*Layer1-native-bespoke-light-smart-contracts[🔼](https://youtu.be/MK_n4ToccWM)*</sub>
+### - xrpl-hooks-v2🪝  [⭐](https://github.com/stars/f1f47a23/lists/xrpl-hooks) <sub>*Layer1-native-bespoke-light-smart-contracts[🔼](https://youtu.be/MK_n4ToccWM)*</sub>
 
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
