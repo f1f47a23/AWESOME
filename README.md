@@ -186,7 +186,7 @@
   - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
-  - xrp.fans[🌐](https://xrp.fans/)[🧰](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
+  - xrp.fans[🌐](https://xrp.fans/)[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - XRPLF/xrpl-py[🧱](https://github.com/XRPLF/xrpl-py)[🌐](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sub>*A Python library to interact with XRPL*</sub>
   - []()
