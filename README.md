@@ -91,7 +91,7 @@
 ### - sidechains
 
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
-  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)
+  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
   - []()
 
 
