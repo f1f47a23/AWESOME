@@ -55,7 +55,7 @@
   - []()
 
 
-### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespoke-light-smart-contracts[🔼](https://youtu.be/MK_n4ToccWM)*</sub>
+### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespoke-light-smart-contract[s](https://youtu.be/MK_n4ToccWM)*</sub>
 
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
@@ -77,7 +77,7 @@
   - []()
 
 
-### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pools[🔼](https://youtu.be/OocKgpiZEHY)*</sub>
+### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pool[s](https://youtu.be/OocKgpiZEHY)*</sub>
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
