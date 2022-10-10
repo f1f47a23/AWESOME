@@ -532,7 +532,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - ecmascript updates
 
-  - es2015 es2022 es2023: [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022)[🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6)[🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle)[🌐](https://tc39.es/ecma402/)[🧰](https://github.com/sudheerj/ECMAScript-features)[🧰](https://github.com/tc39/proposals)[🧰](https://github.com/daumann/ECMAScript-new-features-list)
+  - es2015 es2022 es2023: [🌐](https://yagmurcetintas.com/journal/whats-new-in-es2022)[🌐](https://dev.to/jasmin/whats-new-in-es2022-1de6)[🌐](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle)[🌐](https://tc39.es/ecma262/)[🌐](https://tc39.es/ecma402/)[🧰](https://github.com/sudheerj/ECMAScript-features)[🧰](https://github.com/tc39/proposals)[🧰](https://github.com/daumann/ECMAScript-new-features-list)
   - []()
 
 ### - design patterns
