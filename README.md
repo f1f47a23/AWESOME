@@ -152,16 +152,18 @@
   - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
-  - ripple/explorer[🧱](https://github.com/ripple/explorer)
   - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
-  - validators [🌎](https://xrpscan.com/validators)
+  - validators[🌎](https://xrpscan.com/validators)
 
 ### - devnet/testnet/mainnet explorer/services
 
-  - xrplf-explorer[🌎](https://explorer.xrplf.org/)
-  - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)
-  - testnet.xrpl.org[{✘}](https://testnet.xrpl.org/)
-  - devnet.xrpl.org[{✘}](https://devnet.xrpl.org/)
+  - xrplf-technical-explorer[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)[{✘}](https://explorer.xrplf.org/)
+    - testnet[{✘}](https://explorer-testnet.xrplf.org/)
+  - livenet-xrpl-explorer[🧱](https://github.com/ripple/explorer)[{✘}](https://livenet.xrpl.org/)
+    - testnet[{✘}](https://testnet.xrpl.org/)
+    - devnet[{✘}](https://devnet.xrpl.org/)
+    - nft-devnet[{✘}](https://nft-devnet.xrpl.org/)
+    - amm-devnet[{✘}](https://amm-devnet.xrpl.org/)
   - ***`more services below`***[👇](#--more-devnettestnetmainnet-explorerservices)
   - []()
 
