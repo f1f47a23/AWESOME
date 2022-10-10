@@ -73,7 +73,7 @@
   - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-  - ***`wasm & c references`***[👇](#xrp-xrpl-ripple--)
+  - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
 
 
