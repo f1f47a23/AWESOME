@@ -37,6 +37,7 @@
   - xrpchat-tech-forum[👨](https://www.xrpchat.com/forum/16-technical-discussion/)
   - APEX2022[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)2021[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
   - ***`more forums & news below`***[👇](#--more-forums-and-news)
+  - ***`production references`***[👇](#xrp-xrpl-ripple--)
   - []()
 
 
@@ -72,6 +73,7 @@
   - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
+  - ***`wasm & c references`***[👇](#xrp-xrpl-ripple--)
   - []()
 
 
