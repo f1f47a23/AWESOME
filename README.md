@@ -160,10 +160,7 @@
   - xrplf-technical-explorer[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)[{✘}](https://explorer.xrplf.org/)
     - testnet[{✘}](https://explorer-testnet.xrplf.org/)
   - livenet-xrpl-explorer[🧱](https://github.com/ripple/explorer)[{✘}](https://livenet.xrpl.org/)
-    - testnet[{✘}](https://testnet.xrpl.org/)
-    - devnet[{✘}](https://devnet.xrpl.org/)
-    - nft-devnet[{✘}](https://nft-devnet.xrpl.org/)
-    - amm-devnet[{✘}](https://amm-devnet.xrpl.org/)
+    - testnet[{✘}](https://testnet.xrpl.org/) devnet[{✘}](https://devnet.xrpl.org/) nft-devnet[{✘}](https://nft-devnet.xrpl.org/) amm-devnet[{✘}](https://amm-devnet.xrpl.org/)
   - ***`more services below`***[👇](#--more-devnettestnetmainnet-explorerservices)
   - []()
 
