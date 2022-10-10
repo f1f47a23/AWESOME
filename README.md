@@ -20,7 +20,7 @@
 ******
 
 
-## `main overall`
+## `Main Overall`
 
 
 ### - forums bulletins news updates
@@ -143,7 +143,7 @@
 
 ******
 
-## `xrp xrpl ripple `[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+## `XRP XRPL Ripple`[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
 
@@ -211,7 +211,7 @@
 
 ******
 
-## `cryptography / algorithms / keypairs encode sign bip39 bip44 paper-wallets `[⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `Cryptography / Algorithms / Keypairs Encode Sign Bip39 Bip44 Paper-Wallets `[⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
 ### - xrpl algorithms
 
@@ -298,7 +298,7 @@
 
 ******
 
-## `xrp ripple ecosystem `[⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+## `XRP Ripple Ecosystem` [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 ### - MORE forums and news
 
@@ -374,7 +374,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `smart-contracts / dapps / ethereum-solidity / flare `[⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `Smart-Contracts / Dapps / Ethereum-Solidity / Flare `[⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 ### - flare
 
@@ -402,7 +402,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `p2p / holochain / blockchain`[⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## `P2P / Holochain / Blockchain` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - p2p
 
@@ -464,7 +464,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `wasm, c & c++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
+## `WASM, C & C++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
 
@@ -489,7 +489,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `typescript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+## `Typescript` [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 ### - overall
 
@@ -514,7 +514,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `javascript ecmascript `[⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+## `Javascript Ecmascript` [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 ### - misc
 
