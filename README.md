@@ -143,7 +143,7 @@
 
 ******
 
-## `XRP XRPL Ripple`[⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+## `XRP XRPL Ripple` [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 ### - main
 
@@ -211,7 +211,7 @@
 
 ******
 
-## `Cryptography / Algorithms / Keypairs Encode Sign Bip39 Bip44 Paper-Wallets `[⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `Cryptography Algorithms Keypairs Encode Sign Bip39 Bip44 PaperWallets` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
 ### - xrpl algorithms
 
@@ -374,7 +374,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `Smart-Contracts / Dapps / Ethereum-Solidity / Flare `[⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `Smart-Contracts Dapps Ethereum-Solidity Flare` [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 ### - flare
 
@@ -402,7 +402,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `P2P / Holochain / Blockchain` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## `P2P Holochain Blockchain` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - p2p
 
@@ -551,7 +551,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `webdev `[⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
+## `Webdev` [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 ### - nodejs
 
@@ -587,7 +587,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `systems, tools & security `[⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
+## `Systems, Tools & Security `[⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 ### - Linux
 
@@ -624,8 +624,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - Awesome-Windows[🧰](https://github.com/Awesome-Windows/Awesome)
   - sirredbeard/Awesome-UNIX[🧰](https://github.com/sirredbeard/Awesome-UNIX)
   - pingcap/awesome-database-learning[🧰](https://github.com/pingcap/awesome-database-learning)
-  - t3chnoboy/awesome-awesome-awesome[🧰](https://github.com/t3chnoboy/awesome-awesome-awesome)
   - emijrp/awesome-awesome[🧰](https://github.com/emijrp/awesome-awesome)
+  - t3chnoboy/awesome-awesome-awesome[🧰](https://github.com/t3chnoboy/awesome-awesome-awesome)
   - lukasz-madon/awesome-remote-job[🧰](https://github.com/lukasz-madon/awesome-remote-job)
   - []()
 
