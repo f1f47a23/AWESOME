@@ -77,7 +77,7 @@
   - []()
 
 
-### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pool[s](https://youtu.be/OocKgpiZEHY)</sub><sup>* 📡 research*</sup>
+### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pool[s](https://youtu.be/OocKgpiZEHY)*</sub><sup>* 📡 research*</sup>
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
@@ -108,7 +108,7 @@
 
 ### - Minor Upgrades
 
-- ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sup><sup>* ✅ enabled*</sup>
+- ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub><sup>* ✅ enabled*</sup>
 - []()
 
 
