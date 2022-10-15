@@ -45,7 +45,7 @@
 
 ## `New Hot Features` [⭐](https://github.com/stars/f1f47a23/lists/xrpl-new-features)
 
-### - tokens NFT trustline
+### - tokens NFT trustline <sub>*🗳️ voting*</sub>
 
   - XLS-20d[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)[{✘}](https://xrpl.org/known-amendments.html#nonfungibletokensv1_1)[🌎](https://xrpscan.com/amendment/32A122F1352A4C7B3A6D790362CC34749C5E57FCE896377BFDC6CCD14F6CD627)
     - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
@@ -55,7 +55,7 @@
   - []()
 
 
-### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespoke-lite-smart-contract[s](https://youtu.be/MK_n4ToccWM)*</sub>
+### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespoke-lite-smart-contract[s](https://youtu.be/MK_n4ToccWM) 🚧testing*</sub>
 
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
@@ -108,7 +108,7 @@
 
 ### - Minor Upgrades
 
-- ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
+- ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32 ✅enabled*</sub>
 - []()
 
 
