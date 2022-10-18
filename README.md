@@ -96,7 +96,7 @@
 
 ### - sidechains <sub>*⛓*</sub>  <sup>*`📡 research`*</sup>
 
-  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)
+  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
     - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
