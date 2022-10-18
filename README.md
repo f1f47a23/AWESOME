@@ -47,7 +47,7 @@
 
 ## `New Hot Features` [⭐](https://github.com/stars/f1f47a23/lists/xrpl-new-features)
 
-### - tokens NFT trustline <sup>*`🗳️ voting`*</sup>
+### - tokens NFT trustline <sup>*`🗳️ voting 🎃`*</sup>
 
   - XLS-20d[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)[{✘}](https://xrpl.org/known-amendments.html#nonfungibletokensv1_1)[🌎](https://xrpscan.com/amendment/32A122F1352A4C7B3A6D790362CC34749C5E57FCE896377BFDC6CCD14F6CD627)
     - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
