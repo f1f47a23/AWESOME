@@ -108,16 +108,16 @@
 
 ### - clio server <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
 
-- inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
-- docs[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)
-- XRPLF/clio[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages)
-- []()
+  - inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
+  - docs[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)
+  - XRPLF/clio[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages)
+  - []()
 
 
 ### - Minor Upgrades
 
-- ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>  <sup>*`✅ enabled`*</sup>
-- []()
+  - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>  <sup>*`✅ enabled`*</sup>
+  - []()
 
 
 
