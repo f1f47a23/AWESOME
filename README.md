@@ -79,6 +79,16 @@
   - []()
 
 
+### - sidechains <sub>*⛓*</sub>  <sup>*`📡 research`*</sup>
+
+  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M)
+    - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
+    - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
+  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
+  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
+  - []()
+
+
 ### - DEX & AMM <sub>*Automated Market Makers, Liquidity Pool[s](https://youtu.be/OocKgpiZEHY)*</sub>  <sup>*`📡 research`*</sup>
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
@@ -93,15 +103,6 @@
     - clips[▶️](https://youtu.be/uxcqp31DCik)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/U0vHwuYER5Q)[▶️](https://youtu.be/9cPGeLaiCfg) 🔥 [▶️](https://youtu.be/7MqZKVHSaxc)[▶️](https://youtu.be/yJR1ZzW9mbk)[▶️](https://youtu.be/e228p2Q36Vw)[▶️](https://youtu.be/cSqQ4bv5iyw)[▶️](https://youtu.be/5njKFYdxFxo) 🔥 [▶️](https://youtu.be/pikm4AD77oI)[▶️](https://youtu.be/MKaov0KxqVc)[▶️](https://youtu.be/s3KW2L6OfBc)
   - []()
 
-
-### - sidechains <sub>*⛓*</sub>  <sup>*`📡 research`*</sup>
-
-  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M)
-    - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
-    - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
-  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
-  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
-  - []()
 
 
 
