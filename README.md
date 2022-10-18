@@ -96,6 +96,9 @@
 
 ### - sidechains <sub>*⛓*</sub>  <sup>*`📡 research`*</sup>
 
+  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)
+    - explorer[{✘}](https://evm-sidechain.xrpl.org/)
+    - bridge[{✘}](https://bridge.devnet.xrpl.org/)
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
   - []()
