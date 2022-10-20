@@ -45,7 +45,7 @@
 
 ******
 
-## `New Hot Features` [⭐](https://github.com/stars/f1f47a23/lists/xrpl-new-features)
+## `New Hot Features` [⭐](https://github.com/stars/f1f47a23/lists/xrpl-new-features) <sub>*web3.0*</sub>
 
 ### - tokens NFT trustline <sup>*`🗳️ voting 🎃`*</sup>
 
