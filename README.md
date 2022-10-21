@@ -340,7 +340,6 @@
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
   - radynamics/Iso20022[🧰](https://github.com/radynamics/CryptoIso20022Interop)
   - bithomp/xrpl-api[🧰](https://github.com/Bithomp/xrpl-api)
-  - onxrp.com[🌐](https://onxrp.com/about)
   - TusharPardhe/XPT-Extension[🧰](https://github.com/TusharPardhe/XPT-Extension)
   - checksum[🧰](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
   - talentchain[🌐](https://www.talentchain.io/)[🧰](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
