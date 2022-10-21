@@ -57,7 +57,7 @@
   - []()
 
 
-### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespoke-lite-smart-contract[s](https://youtu.be/MK_n4ToccWM)*</sub>  <sup>*`🐞 testing`*</sup>
+### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-contracts*</sub>  <sup>*`🐞 testing`*</sup>
 
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
