@@ -338,16 +338,6 @@
   - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - xrpl.to *launch*[🌐](https://xrpl.to/)
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
-  - []()
-
-### - interledger-protocol (ILP)
-
-  - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
-  - interledger[🌐](https://interledger.org/)[🧰](https://github.com/interledger)[🧰](https://github.com/interledgerjs)
-  - []()
-
-### - misc
-
   - radynamics/Iso20022[🧰](https://github.com/radynamics/CryptoIso20022Interop)
   - bithomp/xrpl-api[🧰](https://github.com/Bithomp/xrpl-api)
   - onxrp.com[🌐](https://onxrp.com/about)
@@ -359,6 +349,13 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧰](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
   - xdvlabs/[🧰](https://github.com/orgs/xdvlabs/repositories)
   - xrplmeta[🧰](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
+  - []()
+
+### - interledger-protocol (ILP)
+
+  - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
+  - interledger[🌐](https://interledger.org/)[🧰](https://github.com/interledger)[🧰](https://github.com/interledgerjs)
+  - []()
 
 
 <br>
