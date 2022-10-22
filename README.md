@@ -108,7 +108,7 @@
 
 
 
-### - clio server <sub>*can help reduce the loa[d](https://youtu.be/T5dEcJfPVTo) on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
+### - clio server <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
 
   - inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
   - docs[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)
