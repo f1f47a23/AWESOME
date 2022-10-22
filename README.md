@@ -81,7 +81,7 @@
 
 ### - sidechains <sub>*Interoperability*</sub>  <sup>*`📡 research`*</sup>
 
-  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M)[▶️](https://youtu.be/R8bwuaBWV18) <sub>*`digital asset:`*</sub> *`   eXRP  `*
+  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M)[▶️](https://youtu.be/R8bwuaBWV18) *`digital asset:  eXRP  `*
     - docs [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
     - ObiajuluM/eXRP-Contracts[🧱](https://github.com/ObiajuluM/eXRP-Contracts) <sub>*Contracts to emulate XRPL objects on EVM chains*</sub>
