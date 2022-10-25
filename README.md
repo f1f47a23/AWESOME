@@ -1,5 +1,5 @@
 
-## ☆꧁✬◦°˚°◦. . . AWESOME LIST OF . . . ◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦. . . AWESOME LIST OF . ..◦°˚°◦✬꧂☆
 ## ☆꧁✬◦°˚°◦. XRPL DEV RESOURCES .◦°˚°◦✬꧂☆
 
 <br><br>
