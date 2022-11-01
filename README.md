@@ -47,15 +47,6 @@
 
 ## `New Hot Features` [⭐](https://github.com/stars/f1f47a23/lists/xrpl-new-features) <sub>*web3.0*</sub>
 
-### - tokens NFT trustline <sup>*`✅ approved 🎃`*</sup>
-
-  - XLS-20d[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)[{✘}](https://xrpl.org/known-amendments.html#nonfungibletokensv1_1)[🌎](https://xrpscan.com/amendment/32A122F1352A4C7B3A6D790362CC34749C5E57FCE896377BFDC6CCD14F6CD627)
-    - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
-  - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
-    - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
-  - ***`tutorials and samples`***[👇](#--learning-resources)
-  - []()
-
 
 ### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-contracts*</sub>  <sup>*`🐞 testing`*</sup>
 
@@ -113,6 +104,16 @@
   - inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
   - docs[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)
   - XRPLF/clio[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages)
+  - []()
+
+
+### - tokens NFT trustline <sup>*`✅ approved 🎃`*</sup>
+
+  - XLS-20d[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)[{✘}](https://xrpl.org/known-amendments.html#nonfungibletokensv1_1)[🌎](https://xrpscan.com/amendment/32A122F1352A4C7B3A6D790362CC34749C5E57FCE896377BFDC6CCD14F6CD627)
+    - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
+  - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
+    - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
+  - ***`tutorials and samples`***[👇](#--learning-resources)
   - []()
 
 
