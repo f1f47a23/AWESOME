@@ -77,9 +77,7 @@
   - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M)[▶️](https://youtu.be/R8bwuaBWV18) *`digital asset:  eXRP  `*
     - docs [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
-    - independent applications
-      - ObiajuluM/eXRP-Contracts[🧱](https://github.com/ObiajuluM/eXRP-Contracts) <sub>*Contracts to emulate XRPL objects on EVM chains*</sub>
-      - matCzelusniak/snapXrpl[🧱](https://github.com/matCzelusniak/snapXrpl) <sub>*metamask xrpl interoperability*</sub>
+    - independent applications[🧱](https://github.com/ObiajuluM/eXRP-Contracts)[🧱](https://github.com/matCzelusniak/snapXrpl)
     - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
