@@ -66,8 +66,7 @@
   - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-  - independent applications
-    - HotPocketDev/evernode-hook[🧱](https://github.com/HotPocketDev/evernode-hook) <sub>**</sub> 
+  - independent applications[🧱](https://github.com/HotPocketDev/evernode-hook)
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
 
