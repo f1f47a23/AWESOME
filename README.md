@@ -133,6 +133,7 @@
 ## `XUMM APP`<br>
 
 - xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
+- forum [👨](https://xumm.readme.io/discuss)
 - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
 - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
 - []()
