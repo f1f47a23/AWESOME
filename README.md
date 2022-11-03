@@ -109,7 +109,7 @@
   - []()
 
 
-### - tokens NFT trustline <sup>*`✅ approved[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb) `*</sup>
+### - tokens NFT trustline <sup>*`✅ approved[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb).`*</sup>
 
   - XLS-20d[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)[{✘}](https://xrpl.org/known-amendments.html#nonfungibletokensv1_1)[🌎](https://xrpscan.com/amendment/32A122F1352A4C7B3A6D790362CC34749C5E57FCE896377BFDC6CCD14F6CD627)
     - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
