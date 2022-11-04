@@ -73,8 +73,8 @@
 
 ### - sidechains <sub>*Interoperability*</sub>  <sup>*`📡 research`*</sup>
 
-  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M)[▶️](https://youtu.be/R8bwuaBWV18) *`digital asset:  eXRP  `*
-    - docs [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)
+  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) *`digital asset:  eXRP  `*
+    - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
     - independent applications[🧱](https://github.com/ObiajuluM/eXRP-Contracts)[🧱](https://github.com/matCzelusniak/snapXrpl)
     - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
