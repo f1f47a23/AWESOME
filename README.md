@@ -226,7 +226,7 @@
 
 ******
 
-## `Cryptography Algorithms Keypairs Encode Sign Bip39 Bip44 PaperWallets` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `Cryptography Algorithms Keypairs Encoding Signing Bip39 Bip44 PaperWallets` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
 ### - xrpl algorithms
 
@@ -264,7 +264,7 @@
   - bip44[📚](https://github.com/topics/bip44)
   - []()
 
-### - crypto encode & ...
+### - cryptography & encoding ...
 
   - floodyberry/ed25519-donna[🧰](https://github.com/floodyberry/ed25519-donna)
   - bitcoin-core/secp256k1 *(ECDSA)*[🧰](https://github.com/bitcoin-core/secp256k1)
@@ -306,7 +306,7 @@
   - nodeca/pako[🧰](https://github.com/nodeca/pako) <sub>*high speed zlib port to javascript, works in browser & node.js*</sub>
   - []()
 
-### - algorithms
+### - misc algorithms
   - tayllan/awesome-algorithms[🧰](https://github.com/tayllan/awesome-algorithms)
   - []()
 
