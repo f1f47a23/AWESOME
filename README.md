@@ -45,7 +45,7 @@
 
 ******
 
-## `New Hot Features` [⭐](https://github.com/stars/f1f47a23/lists/xrpl-new-features) <sub>*web3.0*</sub>
+## `New Hot Features` [⭐](https://github.com/stars/f1f47a23/lists/xrpl-new-features) <sub>*web 3*</sub>
 
 
 ### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-contracts*</sub>  <sup>*`🐞 testing`*</sup>
