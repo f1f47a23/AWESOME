@@ -34,7 +34,7 @@
   - ripple-insight[🌎](https://ripple.com/insights/)
   - channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
   - tech-forums[👨](https://www.xrpchat.com/forum/16-technical-discussion/)[👨](https://stackoverflow.com/questions/tagged/xrp)
-  - APEX2022[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)2021[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
+  - APEX *2022*[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX) *2021*[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
   - $$$ 💰💰💰 $$$ [{✘}](https://xrpl.org/blog/2022/dev-reflections-relaunch.html)[{✘}](https://xrpl.org/contribute.html)
     - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and [p](https://youtu.be/00y8Oajzjs0)rojects*</sub>
     - xrpl-grants[🌎](https://xrplgrants.org/) <sub>*$$$ support the development of new software projects $$$*</sub>
