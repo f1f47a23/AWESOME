@@ -384,7 +384,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `Smart-Contracts Dapps Ethereum-Solidity Flare` [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `Smart-Contracts Dapps Ethereum-Solidity` [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 
 ### - solidity ethereum
