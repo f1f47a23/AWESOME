@@ -396,8 +396,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
   - quick tutorials[▶️](https://youtu.be/gyMwXuJrbJQ)[▶️](https://www.youtube.com/watch?v=M8ftcilSNLM&list=PLvzuUVysUFOt-PKemi0LNSArIcUcr69QE)[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://youtu.be/s9MVkHKV2Vw)
   - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/ethereum-ebooks-list-2022.11.txt)
-  - references & tools
-    - [📖](https://soliditylang.org/)[📖](https://trufflesuite.com/docs/)[📖](https://trufflesuite.com/ganache/)[📖](https://web3js.readthedocs.io)
+  - references & tools[📖](https://soliditylang.org/)[📖](https://trufflesuite.com/docs/)[📖](https://trufflesuite.com/ganache/)[📖](https://web3js.readthedocs.io)
   - []()
 
 
