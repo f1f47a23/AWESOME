@@ -8,7 +8,7 @@
 
 ## 1. XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
 ## 2. XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#2)
-## 3. DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
+## 3. WEB3 DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
 ## 4. WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#4)
 
 ******
@@ -380,7 +380,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ## `3🚪`
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=DECENTRALIZE-EVERYTHING🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=WEB3-DECENTRALIZE-EVERYTHING🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 ******
 
