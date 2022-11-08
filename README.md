@@ -394,8 +394,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - smartcontractkit/solidity-course[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
   - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - ethereumbook/mastering-ethereum[🧰](https://github.com/ethereumbook/ethereumbook)
-  - tutorials
-    - [▶️](https://youtu.be/gyMwXuJrbJQ)[▶️](https://www.youtube.com/watch?v=M8ftcilSNLM&list=PLvzuUVysUFOt-PKemi0LNSArIcUcr69QE)[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://youtu.be/s9MVkHKV2Vw)
+  - quick tutorials[▶️](https://youtu.be/gyMwXuJrbJQ)[▶️](https://www.youtube.com/watch?v=M8ftcilSNLM&list=PLvzuUVysUFOt-PKemi0LNSArIcUcr69QE)[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://youtu.be/s9MVkHKV2Vw)
   - []()
 
 
