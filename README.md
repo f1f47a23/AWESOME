@@ -386,11 +386,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ## `Smart-Contracts Dapps Ethereum-Solidity Flare` [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
-### - flare
-
-  - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
-  - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
-  - []()
 
 ### - solidity ethereum
 
@@ -402,6 +397,14 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - tutorials
     - [▶️](https://youtu.be/gyMwXuJrbJQ)[▶️](https://www.youtube.com/watch?v=M8ftcilSNLM&list=PLvzuUVysUFOt-PKemi0LNSArIcUcr69QE)[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://youtu.be/s9MVkHKV2Vw)
   - []()
+
+
+### - flare
+
+  - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
+  - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
+  - []()
+
 
 ### - codius (archived)
 
