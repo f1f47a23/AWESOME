@@ -119,11 +119,6 @@
   - []()
 
 
-### - Minor Upgrades
-
-  - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>  <sup>*`✅ enabled`*</sup>
-  - []()
-
 
 
 ******
@@ -212,6 +207,7 @@
   - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
   - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)
   - multisigning & alt keys[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/1NdRgxvgZAA)[▶️](https://youtu.be/7JLMuYoI1u8)
+    - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
   - []()
 
 
