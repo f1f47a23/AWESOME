@@ -69,7 +69,6 @@
   - []()
 
 
-******
 
 ### - devnet/testnet/mainnet explorer/services
 
@@ -111,6 +110,7 @@
   - []()
 
 ### - misc-topics
+
   - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
   - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)
   - multisigning & alt keys[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/1NdRgxvgZAA)[▶️](https://youtu.be/7JLMuYoI1u8)
@@ -243,8 +243,6 @@
 ******
 
 ## `XRP Ripple Ecosystem` [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
-
-### - MORE forums and news
 
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
