@@ -6,22 +6,41 @@
 
 ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-## 1. XRPL FRONTLINE[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
-## 2. XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#2)
-## 3. WEB3 DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
-## 4. WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#4)
+
+## 1. XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
+## 2. WEB3 DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#2)
+## 3. WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
+
+
+<br>
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
+
+
+<br><br>
 
 ******
- 
-##  `1🚪` 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=XRPL-FRONTLINE🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
+## `1🚪`
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=XRPL-and-CRYPTO-ALGORITHMS🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 ******
 
+## `XRP XRPL Ripple` [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-## `Main Overall`
+### - main
+
+  - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
+  - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
+  - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
+  - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
+  - validators[🌎](https://xrpscan.com/validators)
+
 
 
 ### - forums bulletins news updates
@@ -39,122 +58,10 @@
     - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and [p](https://youtu.be/00y8Oajzjs0)rojects*</sub>
     - xrpl-grants[🌎](https://xrplgrants.org/) <sub>*$$$ support the development of new software projects $$$*</sub>
   - ***`more forums & news below`***[👇](#--more-forums-and-news)
-  - ***`production references`***[👇](#xrp-xrpl-ripple--)
   - []()
 
 
 ******
-
-## `New Hot Features` [⭐](https://github.com/stars/f1f47a23/lists/xrpl-new-features) <sub>*web 3*</sub>
-
-
-### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-contracts*</sub>  <sup>*`🐞 testing`*</sup>
-
-  - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
-  - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
-  - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
-  - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
-  - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
-  - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
-  - forum blog newsletter
-    - amendment[🧱](https://github.com/XRPLF/rippled/pull/4225)
-    - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
-    - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
-    - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
-  - **XRPL-Labs/xrpld-hooks**[🧱](https://github.com/XRPL-Labs/xrpld-hooks)[🌵](https://github.com/XRPLF/rippled)
-  - **richard/xrpl.js**[🧱](https://github.com/RichardAH/xrpl.js)[🌵](https://github.com/XRPLF/xrpl.js)
-  - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
-  - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
-  - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-  - independent applications[🧱](https://github.com/HotPocketDev/evernode-hook)
-  - ***`wasm & c references`***[👇](#wasm-c--c-)
-  - []()
-
-
-### - sidechains <sub>*Interoperability*</sub>  <sup>*`📡 research`*</sup>
-
-  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) *`digital asset:  eXRP  `*
-    - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
-    - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
-    - independent applications[🧱](https://github.com/ObiajuluM/eXRP-Contracts)[🧱](https://github.com/matCzelusniak/snapXrpl)
-    - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
-  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
-  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
-  - []()
-
-
-### - DEX & AMM <sub>*Automate[d](https://youtu.be/-4_fwzC4PNI) Market Makers, Liquidity Pools*</sub>  <sup>*`📡 research`*</sup>
-
-  - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
-  - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
-  - autobridging[{✘}](https://xrpl.org/autobridging.html)
-  - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
-  - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
-  - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
-  - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
-  - [🖕around:](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
-    - WrathofKahneman thread[🐦](https://twitter.com/WKahneman/status/1543726915281858560)[📖](https://github.com/f1f47a23/AWESOME/blob/main/docs/WrathofKahneman-AMM-tw-2022.07.03.pdf)references[🌐](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)[▶️](https://youtu.be/U0vHwuYER5Q?t=574)[🌐](https://blog.bancor.network/guide-how-to-stake-liquidity-in-bancor-pools-758df075e7e6)[🌐](https://medium.com/hummingbot/how-to-arbitrage-uniswap-balancer-and-other-amms-ddba34a8bc21)
-    - articles[🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
-    - clips[▶️](https://youtu.be/uxcqp31DCik)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/9cPGeLaiCfg) 🔥 [▶️](https://youtu.be/7MqZKVHSaxc)[▶️](https://youtu.be/yJR1ZzW9mbk)[▶️](https://youtu.be/e228p2Q36Vw)[▶️](https://youtu.be/cSqQ4bv5iyw)[▶️](https://youtu.be/5njKFYdxFxo) 🔥 [▶️](https://youtu.be/pikm4AD77oI)[▶️](https://youtu.be/MKaov0KxqVc)[▶️](https://youtu.be/s3KW2L6OfBc)
-  - []()
-
-
-
-
-### - clio server <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
-
-  - inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
-  - docs[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)
-  - XRPLF/clio[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages)
-  - []()
-
-
-
-
-
-
-******
-
-
-
-## `XUMM APP`<br>
-
-- xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
-- forum [👨](https://xumm.readme.io/discuss)
-- XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
-- XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
-- []()
-
-
-
-<br>
-
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-
-
-<br><br>
-
-******
-
-## `2🚪`
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=XRPL-and-CRYPTO-ALGORITHMS🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
-
-******
-
-## `XRP XRPL Ripple` [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
-
-### - main
-
-  - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
-  - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
-  - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
-  - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
-  - validators[🌎](https://xrpscan.com/validators)
 
 ### - devnet/testnet/mainnet explorer/services
 
@@ -203,6 +110,16 @@
   - []()
 
 
+
+### - clio server <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
+
+  - inception[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)
+  - docs[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)
+  - XRPLF/clio[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages)
+  - []()
+
+
+
 ### - awesome-xrpl
 
   - yyolk/[🧱](https://github.com/yyolk/awesome-xrpl)
@@ -210,6 +127,22 @@
   - TusharPardhe/[🧱](https://github.com/TusharPardhe/xrpl-cheat-sheet)
   - f1f47a23[🌎](https://f1f47a23.github.io/)
   - []()
+
+
+
+
+******
+
+
+
+## `XUMM APP`<br>
+
+- xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
+- forum [👨](https://xumm.readme.io/discuss)
+- XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
+- XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
+- []()
+
 
 
 ******
@@ -366,7 +299,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `3🚪`
+## `2🚪`
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=WEB3-DECENTRALIZE-EVERYTHING🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
@@ -383,6 +316,59 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
   - ***`tutorials and samples`***[☝️](#--learning-resources)
   - []()
+
+
+
+### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-contracts*</sub>  <sup>*`🐞 testing`*</sup>
+
+  - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
+  - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
+  - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
+  - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
+  - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
+  - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
+  - forum blog newsletter
+    - amendment[🧱](https://github.com/XRPLF/rippled/pull/4225)
+    - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
+    - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
+    - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
+  - **XRPL-Labs/xrpld-hooks**[🧱](https://github.com/XRPL-Labs/xrpld-hooks)[🌵](https://github.com/XRPLF/rippled)
+  - **richard/xrpl.js**[🧱](https://github.com/RichardAH/xrpl.js)[🌵](https://github.com/XRPLF/xrpl.js)
+  - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
+  - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
+  - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
+  - independent applications[🧱](https://github.com/HotPocketDev/evernode-hook)
+  - ***`wasm & c references`***[👇](#wasm-c--c-)
+  - []()
+
+
+### - sidechains <sub>*Interoperability*</sub>  <sup>*`📡 research`*</sup>
+
+  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) *`digital asset:  eXRP  `*
+    - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
+    - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
+    - independent applications[🧱](https://github.com/ObiajuluM/eXRP-Contracts)[🧱](https://github.com/matCzelusniak/snapXrpl)
+    - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
+  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
+  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
+  - []()
+
+
+### - DEX & AMM <sub>*Automate[d](https://youtu.be/-4_fwzC4PNI) Market Makers, Liquidity Pools*</sub>  <sup>*`📡 research`*</sup>
+
+  - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78) <sub>*amm on xrpl*</sub>
+  - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
+  - autobridging[{✘}](https://xrpl.org/autobridging.html)
+  - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
+  - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
+  - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
+  - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
+  - [🖕around:](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
+    - WrathofKahneman thread[🐦](https://twitter.com/WKahneman/status/1543726915281858560)[📖](https://github.com/f1f47a23/AWESOME/blob/main/docs/WrathofKahneman-AMM-tw-2022.07.03.pdf)references[🌐](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)[▶️](https://youtu.be/U0vHwuYER5Q?t=574)[🌐](https://blog.bancor.network/guide-how-to-stake-liquidity-in-bancor-pools-758df075e7e6)[🌐](https://medium.com/hummingbot/how-to-arbitrage-uniswap-balancer-and-other-amms-ddba34a8bc21)
+    - articles[🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
+    - clips[▶️](https://youtu.be/uxcqp31DCik)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/9cPGeLaiCfg) 🔥 [▶️](https://youtu.be/7MqZKVHSaxc)[▶️](https://youtu.be/yJR1ZzW9mbk)[▶️](https://youtu.be/e228p2Q36Vw)[▶️](https://youtu.be/cSqQ4bv5iyw)[▶️](https://youtu.be/5njKFYdxFxo) 🔥 [▶️](https://youtu.be/pikm4AD77oI)[▶️](https://youtu.be/MKaov0KxqVc)[▶️](https://youtu.be/s3KW2L6OfBc)
+  - []()
+
 
 
 
@@ -479,7 +465,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `4🚪`
+## `3🚪`
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WEB-DEVELOPMENT🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
