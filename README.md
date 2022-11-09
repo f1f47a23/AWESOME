@@ -314,7 +314,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
-### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-contracts*</sub>  <sup>*`🐞 testing`*</sup>
+### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-[s](https://youtu.be/p6fmvXTTM1k)mart-contracts*</sub>  <sup>*`🐞 testing`*</sup>
 
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
   - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
