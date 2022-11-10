@@ -635,6 +635,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - pingcap/awesome-database-learning[🧰](https://github.com/pingcap/awesome-database-learning)
   - emijrp/awesome-awesome[🧰](https://github.com/emijrp/awesome-awesome)
   - t3chnoboy/awesome-awesome-awesome[🧰](https://github.com/t3chnoboy/awesome-awesome-awesome)
+  - alexandresanlim/badges[🧰](https://github.com/alexandresanlim/Badges4-README.md-Profile)
   - lukasz-madon/awesome-remote-job[🧰](https://github.com/lukasz-madon/awesome-remote-job)
   - []()
 
