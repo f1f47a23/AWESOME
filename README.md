@@ -415,6 +415,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - croqaz/[🧰](https://github.com/croqaz/awesome-decentralized)
   - decentropy/[🧰](https://github.com/decentropy/awesome-decentralized)
   - danoctavian/[🧰](https://github.com/danoctavian/awesome-anti-censorship)
+  - torrent[🧰](https://github.com/anacrolix/torrent)[🧰](https://github.com/jpillora/cloud-torrent)[🧰](https://github.com/webtorrent/webtorrent)[🌐](https://www.utorrent.com/)[🌐](https://www.bittorrent.com/)
   - []()
 
 
