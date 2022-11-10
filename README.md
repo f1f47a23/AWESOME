@@ -44,7 +44,6 @@
   - validators[🌎](https://xrpscan.com/validators)
 
 
-
 ### - forums bulletins news updates
 
   - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
