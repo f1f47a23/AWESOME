@@ -150,6 +150,7 @@
 - forum [👨](https://xumm.readme.io/discuss)
 - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
 - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
+- Xumm Developer Education [📖](https://learn.xumm.dev/)
 - []()
 
 
