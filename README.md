@@ -158,7 +158,7 @@
 
 ## `Cryptography Algorithms Keypairs Encoding Signing Bip39 Bip44 PaperWallets` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
-### - xrpl algorithms
+### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
   - xrp-paper-wallet
     - wietse-xrp-paper-wallet[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌎](https://www.xrpaddress.org/)
@@ -243,7 +243,7 @@
 
 ******
 
-## `XRP Ripple Ecosystem` [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+## `XRP Ripple Ecosystem` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
@@ -301,7 +301,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `xrpl web3` [⭐]()<br>
+## `xrpl web3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
 
 
 ### - tokens NFT trustline <sup>*`✅ approved`*</sup>[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb)
@@ -370,7 +370,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `Smart-Contracts Dapps Ethereum-Solidity` [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `Smart-Contracts Dapps Ethereum-Solidity` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 
 ### - solidity ethereum
@@ -447,7 +447,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-### - Moron Investing
+### - Moron Investing |[image](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=moron&logoColor=white)
 
   - <sub>*[🔼](https://youtu.be/KFRY0m_0vWo)[🔼](https://youtu.be/xbiDrzTd8fE)[🔼](https://youtu.be/ktGarjZC8E8)[🔼](https://youtu.be/61Q6wWu5ziY)[🔼](https://youtu.be/dfi-2cw_gTw)[🔼](https://youtu.be/bTpt5JH4TWs) 🔥 [🔼](https://youtu.be/fI16ylFLLz8)[🔼](https://youtu.be/E7aNCkKF-PQ)[🔼](https://youtu.be/AZwjMAs4WbQ)[🔼](https://youtu.be/3avgtqPKVc8)[🔼](https://youtu.be/YgJpV2DEQVA) 🔥 [🔼](https://youtu.be/-DT7bX-B1Mg)[🔼](https://youtu.be/s_wEhhFoUcw)[🔼](https://youtu.be/J9hClX7WENM)[🔼](https://youtu.be/SRFRCAQX-XA)[🔼](https://youtu.be/H5e5LoVf96I)[🔼](https://www.youtube.com/shorts/2_eQD_Q5fqs) 🔥 [🔼](https://youtu.be/-AivV1CgWHc)[🔼](https://youtu.be/7gvogsnkjdc)[🔼](https://youtu.be/1cvGgzxvSQw)[🔼](https://youtu.be/FnKrMKo_WlU)[🔼](https://youtu.be/S48G__ssK-o) 🔥 [🔼](https://youtu.be/b1qj_ngyNYA)[🔼](https://youtu.be/8TYBTT0VA4o?t=1058)[🔼](https://youtu.be/7Lr3Fuk_Pmw)[🔼](https://youtu.be/ROaGKETvMg0)[🔼](https://youtu.be/G97gLy8iAqs)[🔼](https://youtu.be/s8n5jCuPS3E) 🔥 [🔼](https://youtu.be/l3HfrRjWilQ)[🔼](https://youtu.be/hmmoXlFDP-g)[🔼](https://youtu.be/5-gzWUErIJI)[🔼](https://youtu.be/c-v3iw4JH44)[🔼](https://youtu.be/nv56u-t_Fc4)[🔼](https://youtu.be/kYMBF8jEU28) [🐻](https://twitter.com/bearableguy123)[🐻](https://twitter.com/321yugelbaraeb)[🐻](https://twitter.com/IooP_rM311_7211)*</sub>
   - []()
