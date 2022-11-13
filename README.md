@@ -4,7 +4,7 @@
 
 <br><br>
 
-![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
+
 
 
 ## 1. XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
