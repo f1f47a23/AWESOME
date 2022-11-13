@@ -600,7 +600,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ## `Systems, Tools & Security` [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
-### - Linux
+### - Linux [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
   - luong-komorebi/Awesome-Linux-Software[🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
   - inputsh/awesome-linux[🧰](https://github.com/inputsh/awesome-linux)
