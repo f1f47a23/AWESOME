@@ -37,11 +37,11 @@
 
 ### - main
 
+  - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
-  - validators[🌎](https://xrpscan.com/validators)
 
 
 ### - forums bulletins news updates
@@ -49,7 +49,6 @@
   - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) <sub>*Xrp Ledger Standards / drafts*</sub>
   - amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments)
-  - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/)
   - ripple-insight[🌎](https://ripple.com/insights/)
   - channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
@@ -73,6 +72,7 @@
 
 ### - devnet/testnet/mainnet explorer/services
 
+  - validators[🌎](https://xrpscan.com/validators)
   - xrplf-technical-explorer[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)[{✘}](https://explorer.xrplf.org/)
     - testnet[{✘}](https://explorer-testnet.xrplf.org/)
   - livenet-xrpl-explorer[🧱](https://github.com/ripple/explorer)[{✘}](https://livenet.xrpl.org/)
@@ -376,8 +376,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - solidity ethereum
 
-  - ethereum/[🧰](https://github.com/ethereum/solidity)[🧰](https://github.com/ethereum/ethereum-org-website)[🌐](https://ethereum.org/)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
-  - references & tools[📖](https://soliditylang.org/)[📖](https://trufflesuite.com/docs/)[📖](https://trufflesuite.com/ganache/)[🧰](https://github.com/trufflesuite)[📖](https://web3js.readthedocs.io)[🧰](https://github.com/web3/web3.js)
+  - ethereum[🌐](https://ethereum.org/)[🧰](https://github.com/ethereum/solidity)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
+  - references & tools[📖](https://soliditylang.org/)[📖](https://trufflesuite.com/docs/)[🔨](https://trufflesuite.com/ganache/)[🧰](https://github.com/trufflesuite)[📖](https://web3js.readthedocs.io)[🧰](https://github.com/web3/web3.js)
+  - remix[🔨](https://remix.ethereum.org)
   - learning resources
     - tutorials[🌐](https://learnxinyminutes.com/docs/solidity/)[🌐](https://cadena.dev/)[🌐](https://buildspace.so/)[🌐](https://cryptozombies.io/)[🌐](https://cryptodevhub.io/) 🔥 [🌐](https://www.ludu.co/course/ethereum)[🌐](https://www.useweb3.xyz/tutorials)[🌐](https://www.teachyourselfweb3.com/)[🌐](https://www.questbook.app/)[🌐](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) 🔥 [🌐](https://soliditydeveloper.com/blog)[🌐](https://www.wslyvh.com/clean-contracts/)[🌐](https://www.useweb3.xyz/)[🌐](https://solidity-by-example.org/)[🌐](https://topmonks.github.io/solidity_quick_ref/) 🔥 [🌐]()[🌐]()[🌐]() 🔥 [🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)[🧰](https://github.com/androlo/solidity-workshop)[🧰](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0)[🧰](https://github.com/raineorshine/solidity-by-example)[🧰](https://github.com/fravoll/solidity-patterns)[🧰](https://github.com/cyrusadkisson/solidity-baby-steps)
     - Freecodecamp Patrick Collins[▶️](https://youtu.be/gyMwXuJrbJQ)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
