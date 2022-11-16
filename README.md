@@ -286,16 +286,21 @@
   - checksum[🧰](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
   - talentchain[🌐](https://www.talentchain.io/)[🧰](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
-  - gemwallet[🌐](https://gemwallet.app/)[🧰](https://github.com/GemWallet/gemwallet-extension)
   - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧰](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
   - xdvlabs/[🧰](https://github.com/orgs/xdvlabs/repositories)
   - xrplmeta[🧰](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
+  
+  
+### - wallets app
+  - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧰](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
+  - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧰](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
   - []()
+
 
 ### - interledger-protocol (ILP)
 
   - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
-  - interledger[🌐](https://interledger.org/)[🧰](https://github.com/interledger)[🧰](https://github.com/interledgerjs)
+  - interledger[🌐](https://interledger.org/)[🧰](https://github.com/interledger)[🧰](https://github.com/interledgerjs) 
   - []()
 
 
