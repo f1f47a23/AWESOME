@@ -238,8 +238,17 @@
   - nodeca/pako[🧰](https://github.com/nodeca/pako) <sub>*high speed zlib port to javascript, works in browser & node.js*</sub>
   - []()
 
+
+### - sorting algorithms
+  - snovakovic/fast-sort[🧰](https://github.com/snovakovic/fast-sort)
+  - gwtw/js-sorting[🧰](https://github.com/gwtw/js-sorting)
+  
+  
 ### - misc algorithms
   - tayllan/awesome-algorithms[🧰](https://github.com/tayllan/awesome-algorithms)
+  - TheAlgorithms/JavaScript[🧰](https://github.com/TheAlgorithms/JavaScript)
+  - jefelewis/algorithms-review[🧰](https://github.com/jefelewis/algorithms-review)
+  - AllAlgorithms/[🧰](https://github.com/AllAlgorithms/algorithms)[🧰](https://github.com/AllAlgorithms/typescript)[🧰](https://github.com/AllAlgorithms/javascript)
   - []()
 
 
