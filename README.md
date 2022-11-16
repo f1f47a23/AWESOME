@@ -414,7 +414,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - Zfinix/awesome-dart-web3[🧰](https://github.com/Zfinix/awesome-dart-web3)
     - surajondev/awesome-web3.0[🧰](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
       - twf-nikhila/awesome-web3-resources[🧰](https://github.com/twf-nikhila/awesome-web3-resources)
-   - OffcierCia/DeFi-Developer-Road-Map[🧰](https://github.com/OffcierCia/DeFi-Developer-Road-Map)[🌐](https://gitcoin.co/grants/3150/defi-web3-developer-roadmap)
+    - OffcierCia/DeFi-Developer-Road-Map[🧰](https://github.com/OffcierCia/DeFi-Developer-Road-Map)[🌐](https://gitcoin.co/grants/3150/defi-web3-developer-roadmap)
     - ahmet/awesome-web3[🧰](https://github.com/ahmet/awesome-web3)
     - thomasboni/awesome-web3[🧰](https://github.com/thomasboni/awesome-web3)
     - web3astronaut/awesome-web3[🧰](https://github.com/web3astronaut/awesome-web3)
