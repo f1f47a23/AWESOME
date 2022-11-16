@@ -248,6 +248,7 @@
 ### - sorting algorithms
   - snovakovic/fast-sort[🧰](https://github.com/snovakovic/fast-sort)
   - gwtw/js-sorting[🧰](https://github.com/gwtw/js-sorting)
+  - daweedkob/sorting_algos[🧰](https://github.com/daweedkob/sorting_algos)
   
   
 ### - misc algorithms
