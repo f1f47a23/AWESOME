@@ -407,9 +407,19 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - quick tutorials[▶️](https://www.youtube.com/watch?v=M8ftcilSNLM&list=PLvzuUVysUFOt-PKemi0LNSArIcUcr69QE)[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88) 🔥 [▶️](https://youtu.be/s9MVkHKhttps://www.questbook.app/V2Vw)[▶️](https://www.youtube.com/watch?v=h5nGnO_E7Xo&list=PLgPmWS2dQHW8Ev0iC0zyBLikUSV-A22rC)[▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU) 🔥 [▶️](https://youtu.be/cx0HT8vu2FQ)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw)[▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3) 🔥 [▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_)[▶️](https://youtu.be/qO3TgQZMrtA)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY) 🔥 
     - metamask tutorials[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
+  - awesome
+    - bkrem/awesome-solidity[🧰](https://github.com/bkrem/awesome-solidity)
+    - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
+    - web3 pros and cons[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/)
+    - Zfinix/awesome-dart-web3[🧰](https://github.com/Zfinix/awesome-dart-web3)
+    - surajondev/awesome-web3.0[🧰](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
+      - twf-nikhila/awesome-web3-resources[🧰](https://github.com/twf-nikhila/awesome-web3-resources)
+   - OffcierCia/DeFi-Developer-Road-Map[🧰](https://github.com/OffcierCia/DeFi-Developer-Road-Map)[🌐](https://gitcoin.co/grants/3150/defi-web3-developer-roadmap)
+    - ahmet/awesome-web3[🧰](https://github.com/ahmet/awesome-web3)
+    - thomasboni/awesome-web3[🧰](https://github.com/thomasboni/awesome-web3)
+    - web3astronaut/awesome-web3[🧰](https://github.com/web3astronaut/awesome-web3)
+    - LukasMasuch/best-of-crypto[🧰](https://github.com/LukasMasuch/best-of-crypto) <sub>*🏆 A ranked list of awesome open-source crypto projects. Updated weekly*</sub>
   - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
-  - bkrem/awesome-solidity[🧰](https://github.com/bkrem/awesome-solidity)
-  - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
   - []()
 
 
