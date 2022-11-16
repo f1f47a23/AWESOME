@@ -393,10 +393,10 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `Smart-Contracts Dapps Ethereum-Solidity` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `Smart-Contracts Dapps Ethereum-Solidity web3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 
-### - solidity ethereum
+### - solidity ethereum web3
 
   - ethereum[🌐](https://ethereum.org/)[🧰](https://github.com/ethereum/solidity)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
   - references & tools[📖](https://soliditylang.org/)[📖](https://trufflesuite.com/docs/)[🔨](https://trufflesuite.com/ganache/)[🧰](https://github.com/trufflesuite)[📖](https://web3js.readthedocs.io)[🧰](https://github.com/web3/web3.js)
