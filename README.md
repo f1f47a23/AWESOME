@@ -102,7 +102,6 @@
   - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*(Oracle) Persist XRP-USD price(s) on the xrpl*</sub>
   - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
-  - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
   - xrp.fans[🌐](https://xrp.fans/)[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
@@ -168,8 +167,6 @@
     - XRPLF/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
     - XRPLF/ripple-binary-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
     - XRPLF/ripple-keypairs[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
-  - multisigning & alt keys[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/1NdRgxvgZAA)[▶️](https://youtu.be/7JLMuYoI1u8)
-    - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
   - XRPLF/deserializer[🧱](https://github.com/XRPLF/xrpl-deserializer-c)
   - XRPL-Labs/ripple-keypairs[🧱](https://github.com/XRPL-Labs/ripple-keypairs)
   - XRPL-Labs/xrpl-sign-keypairs bip39,bip44[🧱](https://github.com/XRPL-Labs/xrpl-sign-keypairs)
@@ -186,6 +183,15 @@
   - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
   - []()
   
+  
+### - multisigning
+  - multisigning[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
+    - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
+  - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
+  - alt keys[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/7JLMuYoI1u8)
+  - []()
+    
+    
 ### - bip39,bip44
 
   - iancoleman/bip39[🧰](https://github.com/iancoleman/bip39)
