@@ -9,6 +9,7 @@
 
 ## 1. XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
 ## 2. WEB3 DECENTRALIZE EVERYTHING[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#2)
+ - xrpl-hooks ethereum-solidity holochain ipfs torrent p2p 
 ## 3. WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
  
 
