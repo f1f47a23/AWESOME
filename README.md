@@ -289,7 +289,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧰](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
   - xdvlabs/[🧰](https://github.com/orgs/xdvlabs/repositories)
   - xrplmeta[🧰](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
-  
+
   
 ### - wallets app
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧰](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
@@ -334,6 +334,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
   - ***`tutorials and samples`***[☝️](#--learning-resources)
+  - independent applications
+    - AmitMirgal/nftoupon[🧰](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
   - []()
 
 
