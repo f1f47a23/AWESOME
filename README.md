@@ -469,7 +469,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - Holo-Host/[🧰](https://github.com/Holo-Host/holo-nixpkgs)
   - []()
 
-### - blockchain (generic, ethereum, bitcoin, others)
+### - blockchain (ethereum, bitcoin, others)
 
   - yjjnls/awesome-blockchain[🧰](https://github.com/yjjnls/awesome-blockchain)
   - openblockchains/awesome-blockchains[🧰](https://github.com/openblockchains/awesome-blockchains)
