@@ -221,10 +221,10 @@
   - gnupg[🌐](https://www.gnupg.org/) <sub>*complete and free implementation of the OpenPGP standard*</sub>
   - gpg4win[🌐](https://www.gpg4win.org/) <sub>*free encryption tool to sign and encrypt files*</sub>
   - veracrypt[🌐](https://veracrypt.fr/) <sub>*free open source disk encryption for win/mac/linux*</sub>
-  - gabrielizalo/Awesome-JavaScript-Crypto-Libraries[🧰](https://github.com/gabrielizalo/Awesome-JavaScript-Crypto-Libraries)
-  - pFarb/awesome-crypto-papers[🧰](https://github.com/pFarb/awesome-crypto-papers)
-  - sobolevn/awesome-cryptography[🧰](https://github.com/sobolevn/awesome-cryptography)
-  - veorq/awesome-post-quantum[🧰](https://github.com/veorq/awesome-post-quantum)
+  - gabrielizalo/Awesome-JavaScript-Crypto-Libraries[😎](https://github.com/gabrielizalo/Awesome-JavaScript-Crypto-Libraries)
+  - pFarb/awesome-crypto-papers[😎](https://github.com/pFarb/awesome-crypto-papers)
+  - sobolevn/awesome-cryptography[😎](https://github.com/sobolevn/awesome-cryptography)
+  - veorq/awesome-post-quantum[😎](https://github.com/veorq/awesome-post-quantum)
   - []()
 
 ### - qrcode
@@ -232,7 +232,7 @@
   - davidshimjs/qrcodejs[🧰](https://github.com/davidshimjs/qrcodejs)
   - LazarSoft/jsqrcode[🧰](https://github.com/LazarSoft/jsqrcode)
   - jeromeetienne/jquery-qrcode[🧰](https://github.com/jeromeetienne/jquery-qrcode)
-  - SumiMakito/AwesomeQRCode[🧰](https://github.com/SumiMakito/AwesomeQRCode)
+  - SumiMakito/AwesomeQRCode[😎](https://github.com/SumiMakito/AwesomeQRCode)
   - []()
 
 ### - compression
@@ -252,7 +252,7 @@
   
   
 ### - misc algorithms
-  - tayllan/awesome-algorithms[🧰](https://github.com/tayllan/awesome-algorithms)
+  - tayllan/awesome-algorithms[😎](https://github.com/tayllan/awesome-algorithms)
   - TheAlgorithms/JavaScript[🧰](https://github.com/TheAlgorithms/JavaScript)
   - jefelewis/algorithms-review[🧰](https://github.com/jefelewis/algorithms-review)
   - AllAlgorithms/[🧰](https://github.com/AllAlgorithms/algorithms)[🧰](https://github.com/AllAlgorithms/typescript)[🧰](https://github.com/AllAlgorithms/javascript)
@@ -465,7 +465,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 - ipfs/awesome-ipfs[😎](https://github.com/ipfs/awesome-ipfs)[🌐](https://awesome.ipfs.tech/)
   - ipfs/[🧰](https://github.com/ipfs/ipfs)js[🧰](https://github.com/ipfs/js-ipfs)webui[🧰](https://github.com/ipfs/ipfs-webui)docs[📖](https://github.com/ipfs/ipfs-docs)desktop[🧰](https://github.com/ipfs/ipfs-desktop)
-  - JoinColony/awesome-web3[🧰](https://github.com/JoinColony/awesome-web3)
+  - JoinColony/awesome-web3[😎](https://github.com/JoinColony/awesome-web3)
   - []()
 
 ### - holochain
