@@ -1,6 +1,6 @@
 
-## ☆꧁✬◦°˚°◦. . . AWESOME LIST OF . . .◦°˚°◦✬꧂☆
-## ☆꧁✬◦°˚°◦. XRPL DEV RESOURCES . ◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦. 😎 . AWESOME LIST OF . 😎 .◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦😎 XRPL DEV RESOURCES 😎 ◦°˚°◦✬꧂☆
 
 <br><br>
 
@@ -126,12 +126,12 @@
 
 
 
-### - awesome-xrpl
+### - awesome-xrpl 😎
 
-  - yyolk/[🧱](https://github.com/yyolk/awesome-xrpl)
-  - vhpoet/[🧱](https://github.com/vhpoet/awesome-ripple)
-  - TusharPardhe/[🧱](https://github.com/TusharPardhe/xrpl-cheat-sheet)
-  - f1f47a23[🌎](https://f1f47a23.github.io/)
+  - yyolk/[😎](https://github.com/yyolk/awesome-xrpl)
+  - vhpoet/[😎](https://github.com/vhpoet/awesome-ripple)
+  - TusharPardhe/[😎](https://github.com/TusharPardhe/xrpl-cheat-sheet)
+  - f1f47a23[😎](https://f1f47a23.github.io/)
   - []()
 
 
@@ -415,17 +415,17 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
   - awesome
-    - bkrem/awesome-solidity[🧰](https://github.com/bkrem/awesome-solidity)
-    - bekatom/awesome-ethereum[🧰](https://github.com/bekatom/awesome-ethereum)
+    - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
+    - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
     - web3 pros and cons[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/)
-    - Zfinix/awesome-dart-web3[🧰](https://github.com/Zfinix/awesome-dart-web3)
-    - surajondev/awesome-web3.0[🧰](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
-    - twf-nikhila/awesome-web3-resources[🧰](https://github.com/twf-nikhila/awesome-web3-resources)
+    - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
+    - surajondev/awesome-web3.0[😎](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
+    - twf-nikhila/awesome-web3-resources[😎](https://github.com/twf-nikhila/awesome-web3-resources)
     - OffcierCia/DeFi-Developer-Road-Map[🧰](https://github.com/OffcierCia/DeFi-Developer-Road-Map)[🌐](https://gitcoin.co/grants/3150/defi-web3-developer-roadmap)
-    - ahmet/awesome-web3[🧰](https://github.com/ahmet/awesome-web3)
-    - thomasboni/awesome-web3[🧰](https://github.com/thomasboni/awesome-web3)
-    - web3astronaut/awesome-web3[🧰](https://github.com/web3astronaut/awesome-web3)
-    - LukasMasuch/best-of-crypto[🧰](https://github.com/LukasMasuch/best-of-crypto) <sub>*🏆 A ranked list of awesome open-source crypto projects. Updated weekly*</sub>
+    - ahmet/awesome-web3[😎](https://github.com/ahmet/awesome-web3)
+    - thomasboni/awesome-web3[😎](https://github.com/thomasboni/awesome-web3)
+    - web3astronaut/awesome-web3[😎](https://github.com/web3astronaut/awesome-web3)
+    - LukasMasuch/best-of-crypto[😎](https://github.com/LukasMasuch/best-of-crypto) <sub>*🏆 A ranked list of awesome open-source crypto projects. Updated weekly*</sub>
   - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
   - []()
 
@@ -451,19 +451,19 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - p2p
 
-  - kgryte/p2p[🧰](https://github.com/kgryte/awesome-peer-to-peer)
-  - mafintosh/p2p[🧰](https://github.com/mafintosh/awesome-p2p)
-  - retrohacker/p2p[🧰](https://github.com/retrohacker/awesome-p2p)
-  - croqaz/[🧰](https://github.com/croqaz/awesome-decentralized)
-  - decentropy/[🧰](https://github.com/decentropy/awesome-decentralized)
-  - danoctavian/[🧰](https://github.com/danoctavian/awesome-anti-censorship)
+  - kgryte/p2p[😎](https://github.com/kgryte/awesome-peer-to-peer)
+  - mafintosh/p2p[😎](https://github.com/mafintosh/awesome-p2p)
+  - retrohacker/p2p[😎](https://github.com/retrohacker/awesome-p2p)
+  - croqaz/[😎](https://github.com/croqaz/awesome-decentralized)
+  - decentropy/[😎](https://github.com/decentropy/awesome-decentralized)
+  - danoctavian/[😎](https://github.com/danoctavian/awesome-anti-censorship)
   - torrent[🧰](https://github.com/anacrolix/torrent)[🧰](https://github.com/jpillora/cloud-torrent)[🧰](https://github.com/webtorrent/webtorrent)[🌐](https://www.utorrent.com/)[🌐](https://www.bittorrent.com/)
   - []()
 
 
 ### - ipfs
 
-- ipfs/awesome-ipfs[🧰](https://github.com/ipfs/awesome-ipfs)[🌐](https://awesome.ipfs.tech/)
+- ipfs/awesome-ipfs[😎](https://github.com/ipfs/awesome-ipfs)[🌐](https://awesome.ipfs.tech/)
   - ipfs/[🧰](https://github.com/ipfs/ipfs)js[🧰](https://github.com/ipfs/js-ipfs)webui[🧰](https://github.com/ipfs/ipfs-webui)docs[📖](https://github.com/ipfs/ipfs-docs)desktop[🧰](https://github.com/ipfs/ipfs-desktop)
   - JoinColony/awesome-web3[🧰](https://github.com/JoinColony/awesome-web3)
   - []()
@@ -476,14 +476,14 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - blockchain (ethereum, bitcoin, others)
 
-  - yjjnls/awesome-blockchain[🧰](https://github.com/yjjnls/awesome-blockchain)
-  - openblockchains/awesome-blockchains[🧰](https://github.com/openblockchains/awesome-blockchains)
-  - imbaniac/awesome-blockchain[🧰](https://github.com/imbaniac/awesome-blockchain)
-  - Xel/Blockchain-stuff[🧰](https://github.com/Xel/Blockchain-stuff)
-  - igorbarinov/awesome-blockchain[🧰](https://github.com/igorbarinov/awesome-blockchain)
-  - hylinux1024/awesome-blockchain-articles[🧰](https://github.com/hylinux1024/awesome-blockchain-articles)
-  - coderplex-org/awesome-blockchain[🧰](https://github.com/coderplex-org/awesome-blockchain)
-  - Jeiwan/awesome-blockchain[🧰](https://github.com/Jeiwan/awesome-blockchain)
+  - yjjnls/awesome-blockchain[😎](https://github.com/yjjnls/awesome-blockchain)
+  - openblockchains/awesome-blockchains[😎](https://github.com/openblockchains/awesome-blockchains)
+  - imbaniac/awesome-blockchain[😎](https://github.com/imbaniac/awesome-blockchain)
+  - Xel/Blockchain-stuff[😎](https://github.com/Xel/Blockchain-stuff)
+  - igorbarinov/awesome-blockchain[😎](https://github.com/igorbarinov/awesome-blockchain)
+  - hylinux1024/awesome-blockchain-articles[😎](https://github.com/hylinux1024/awesome-blockchain-articles)
+  - coderplex-org/awesome-blockchain[😎](https://github.com/coderplex-org/awesome-blockchain)
+  - Jeiwan/awesome-blockchain[😎](https://github.com/Jeiwan/awesome-blockchain)
   - []()
 
 
@@ -520,21 +520,21 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - wasm
 
-  - mbasso/awesome-wasm[🧰](https://github.com/mbasso/awesome-wasm)
-  - appcypher/awesome-wasm-langs[🧰](https://github.com/appcypher/awesome-wasm-langs)
-  - appcypher/awesome-wasm-runtimes[🧰](https://github.com/appcypher/awesome-wasm-runtimes)
-  - vshymanskyy/awesome-wasm-tools[🧰](https://github.com/vshymanskyy/awesome-wasm-tools)
+  - mbasso/awesome-wasm[😎](https://github.com/mbasso/awesome-wasm)
+  - appcypher/awesome-wasm-langs[😎](https://github.com/appcypher/awesome-wasm-langs)
+  - appcypher/awesome-wasm-runtimes[😎](https://github.com/appcypher/awesome-wasm-runtimes)
+  - vshymanskyy/awesome-wasm-tools[😎](https://github.com/vshymanskyy/awesome-wasm-tools)
   - []()
 
 ### - c & c++
 
-  - oz123/awesome-c[🧰](https://github.com/oz123/awesome-c)
-  - inputsh/awesome-c[🧰](https://github.com/inputsh/awesome-c)
-  - uhub/awesome-c[🧰](https://github.com/uhub/awesome-c)
-  - uhub/awesome-cpp[🧰](https://github.com/uhub/awesome-cpp)
-  - fffaraz/awesome-cpp[🧰](https://github.com/fffaraz/awesome-cpp)
-  - JakubVojvoda/design-patterns-cpp[🧰](https://github.com/JakubVojvoda/design-patterns-cpp)
-  - p-ranav/awesome-hpp[🧰](https://github.com/p-ranav/awesome-hpp)
+  - oz123/awesome-c[😎](https://github.com/oz123/awesome-c)
+  - inputsh/awesome-c[😎](https://github.com/inputsh/awesome-c)
+  - uhub/awesome-c[😎](https://github.com/uhub/awesome-c)
+  - uhub/awesome-cpp[😎](https://github.com/uhub/awesome-cpp)
+  - fffaraz/awesome-cpp[😎](https://github.com/fffaraz/awesome-cpp)
+  - JakubVojvoda/design-patterns-cpp[😎](https://github.com/JakubVojvoda/design-patterns-cpp)
+  - p-ranav/awesome-hpp[😎](https://github.com/p-ranav/awesome-hpp)
   - []()
 
 
@@ -545,12 +545,12 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - overall
 
-  - dzharii/awesome-typescript[🧰](https://github.com/dzharii/awesome-typescript)
-  - semlinker/awesome-typescript[🧰](https://github.com/semlinker/awesome-typescript)
-  - brookshi/awesome-typescript-projects[🧰](https://github.com/brookshi/awesome-typescript-projects)
-  - ellerbrock/awesome-typescript[🧰](https://github.com/ellerbrock/awesome-typescript)
-  - orta/awesome-typescript-derived-languages[🧰](https://github.com/orta/awesome-typescript-derived-languages)
-  - madou/awesome-typescript-ecosystem[🧰](https://github.com/madou/awesome-typescript-ecosystem)
+  - dzharii/awesome-typescript[😎](https://github.com/dzharii/awesome-typescript)
+  - semlinker/awesome-typescript[😎](https://github.com/semlinker/awesome-typescript)
+  - brookshi/awesome-typescript-projects[😎](https://github.com/brookshi/awesome-typescript-projects)
+  - ellerbrock/awesome-typescript[😎](https://github.com/ellerbrock/awesome-typescript)
+  - orta/awesome-typescript-derived-languages[😎](https://github.com/orta/awesome-typescript-derived-languages)
+  - madou/awesome-typescript-ecosystem[😎](https://github.com/madou/awesome-typescript-ecosystem)
   - []()
 
 ### - design patterns
@@ -606,31 +606,31 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - nodejs
 
-  - sindresorhus/awesome-nodejs[🧰](https://github.com/sindresorhus/awesome-nodejs)
-  - sqreen/awesome-nodejs-projects[🧰](https://github.com/sqreen/awesome-nodejs-projects)
-  - lirantal/awesome-nodejs-security[🧰](https://github.com/lirantal/awesome-nodejs-security)
-  - bnb/awesome-awesome-nodejs[🧰](https://github.com/bnb/awesome-awesome-nodejs)
+  - sindresorhus/awesome-nodejs[😎](https://github.com/sindresorhus/awesome-nodejs)
+  - sqreen/awesome-nodejs-projects[😎](https://github.com/sqreen/awesome-nodejs-projects)
+  - lirantal/awesome-nodejs-security[😎](https://github.com/lirantal/awesome-nodejs-security)
+  - bnb/awesome-awesome-nodejs[😎](https://github.com/bnb/awesome-awesome-nodejs)
   - Packt/Node.js-Design-Patterns[🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
   - []()
 
 ### - design patterns
 
-  - DovAmir/awesome-design-patterns[🧰](https://github.com/DovAmir/awesome-design-patterns)
+  - DovAmir/awesome-design-patterns[😎](https://github.com/DovAmir/awesome-design-patterns)
   - kamranahmedse/design-patterns[🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
   - webpro/programming-principles[🧰](https://github.com/webpro/programming-principles)
   - []()
 
 ### - misc
 
-  - LeCoupa/awesome-cheatsheets[🧰](https://github.com/LeCoupa/awesome-cheatsheets)
-  - sindresorhus/awesome[🧰](https://github.com/sindresorhus/awesome)
-  - therebelrobot/awesome-bootstrap[🧰](https://github.com/therebelrobot/awesome-bootstrap)
+  - LeCoupa/awesome-cheatsheets[😎](https://github.com/LeCoupa/awesome-cheatsheets)
+  - sindresorhus/awesome[😎](https://github.com/sindresorhus/awesome)
+  - therebelrobot/awesome-bootstrap[😎](https://github.com/therebelrobot/awesome-bootstrap)
   - markodenic/web-dev[🧰](https://github.com/markodenic/web-development-resources)
   - dypsilon/frontend[🧰](https://github.com/dypsilon/frontend-dev-bookmarks)
-  - TonnyL/Awesome_APIs[🧰](https://github.com/TonnyL/Awesome_APIs)
-  - lorien/awesome-web[🧰](https://github.com/lorien/awesome-web-scraping)
-  - lauragift21/awesome-learning[🧰](https://github.com/lauragift21/awesome-learning-resources)
-  - sindresorhus/awesome-electron[🧰](https://github.com/sindresorhus/awesome-electron)
+  - TonnyL/Awesome_APIs[😎](https://github.com/TonnyL/Awesome_APIs)
+  - lorien/awesome-web[😎](https://github.com/lorien/awesome-web-scraping)
+  - lauragift21/awesome-learning[😎](https://github.com/lauragift21/awesome-learning-resources)
+  - sindresorhus/awesome-electron[😎](https://github.com/sindresorhus/awesome-electron)
   - []()
 
 
@@ -642,19 +642,19 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - Linux [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
-  - luong-komorebi/Awesome-Linux-Software[🧰](https://github.com/luong-komorebi/Awesome-Linux-Software)
-  - inputsh/awesome-linux[🧰](https://github.com/inputsh/awesome-linux)
-  - itech001/awesome-linux-resources[🧰](https://github.com/itech001/awesome-linux-resources)
-  - madbob/awesome-linux-dev[🧰](https://github.com/madbob/awesome-linux-dev)
-  - sirredbeard/Awesome-WSL[🧰](https://github.com/sirredbeard/Awesome-WSL)
-  - WillPower3309/awesome-dotfiles[🧰](https://github.com/WillPower3309/awesome-dotfiles)
+  - luong-komorebi/Awesome-Linux-Software[😎](https://github.com/luong-komorebi/Awesome-Linux-Software)
+  - inputsh/awesome-linux[😎](https://github.com/inputsh/awesome-linux)
+  - itech001/awesome-linux-resources[😎](https://github.com/itech001/awesome-linux-resources)
+  - madbob/awesome-linux-dev[😎](https://github.com/madbob/awesome-linux-dev)
+  - sirredbeard/Awesome-WSL[😎](https://github.com/sirredbeard/Awesome-WSL)
+  - WillPower3309/awesome-dotfiles[😎](https://github.com/WillPower3309/awesome-dotfiles)
   - []()
 
 ### - Security
 
-  - sbilly/[🧰](https://github.com/sbilly/awesome-security)
-  - qazbnm456/[🧰](https://github.com/qazbnm456/awesome-web-security)
-  - ashishb/[🧰](https://github.com/ashishb/android-security-awesome)
+  - sbilly/[😎](https://github.com/sbilly/awesome-security)
+  - qazbnm456/[😎](https://github.com/qazbnm456/awesome-web-security)
+  - ashishb/[😎](https://github.com/ashishb/android-security-awesome)
   - spa security
      - 🖕around [🌐](https://iteo.com/blog/post/security-for-single-page-applications/)[🌐](https://developer.okta.com/blog/2022/07/06/spa-web-security)[🌐](https://damienbod.com/2019/01/20/is-a-spa-less-secure-than-a-server-rendered-web-application/)[🌐](https://www.helpnetsecurity.com/2022/03/08/spas-security/)[🌐](https://securityboulevard.com/2021/06/securing-single-page-web-applications/) 🔥 [▶️](https://youtu.be/kD1bb73-SL0)[🌐](https://levelup.gitconnected.com/best-oauth-security-practices-for-single-page-applications-2bb6b44d2890)
   - []()
@@ -662,23 +662,23 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - Hacking
 
-  - Hack-with-Github/[🧰](https://github.com/Hack-with-Github/Awesome-Hacking)
-  - infoslack/[🧰](https://github.com/infoslack/awesome-web-hacking)
-  - carpedm20/[🧰](https://github.com/carpedm20/awesome-hacking)
-  - vitalysim/[🧰](https://github.com/vitalysim/Awesome-Hacking-Resources)
-  - jekil/[🧰](https://github.com/jekil/awesome-hacking)
-  - Igglybuff/[🧰](https://github.com/Igglybuff/awesome-piracy)
+  - Hack-with-Github/[😎](https://github.com/Hack-with-Github/Awesome-Hacking)
+  - infoslack/[😎](https://github.com/infoslack/awesome-web-hacking)
+  - carpedm20/[😎](https://github.com/carpedm20/awesome-hacking)
+  - vitalysim/[😎](https://github.com/vitalysim/Awesome-Hacking-Resources)
+  - jekil/[😎](https://github.com/jekil/awesome-hacking)
+  - Igglybuff/[😎](https://github.com/Igglybuff/awesome-piracy)
   - []()
 
 ### - Misc
 
-  - Awesome-Windows[🧰](https://github.com/Awesome-Windows/Awesome)
-  - sirredbeard/Awesome-UNIX[🧰](https://github.com/sirredbeard/Awesome-UNIX)
-  - pingcap/awesome-database-learning[🧰](https://github.com/pingcap/awesome-database-learning)
-  - emijrp/awesome-awesome[🧰](https://github.com/emijrp/awesome-awesome)
-  - t3chnoboy/awesome-awesome-awesome[🧰](https://github.com/t3chnoboy/awesome-awesome-awesome)
+  - Awesome-Windows[😎](https://github.com/Awesome-Windows/Awesome)
+  - sirredbeard/Awesome-UNIX[😎](https://github.com/sirredbeard/Awesome-UNIX)
+  - pingcap/awesome-database-learning[😎](https://github.com/pingcap/awesome-database-learning)
+  - emijrp/awesome-awesome[😎](https://github.com/emijrp/awesome-awesome)
+  - t3chnoboy/awesome-awesome-awesome[😎](https://github.com/t3chnoboy/awesome-awesome-awesome)
   - alexandresanlim/badges[🧰](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-  - lukasz-madon/awesome-remote-job[🧰](https://github.com/lukasz-madon/awesome-remote-job)
+  - lukasz-madon/awesome-remote-job[😎](https://github.com/lukasz-madon/awesome-remote-job)
   - []()
 
 
