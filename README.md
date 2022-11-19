@@ -426,6 +426,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - thomasboni/awesome-web3[😎](https://github.com/thomasboni/awesome-web3)
     - web3astronaut/awesome-web3[😎](https://github.com/web3astronaut/awesome-web3)
     - LukasMasuch/best-of-crypto[😎](https://github.com/LukasMasuch/best-of-crypto) <sub>*🏆 A ranked list of awesome open-source crypto projects. Updated weekly*</sub>
+    - JoinColony/awesome-web3[😎](https://github.com/JoinColony/awesome-web3)
   - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
   - []()
 
@@ -465,7 +466,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 - ipfs/awesome-ipfs[😎](https://github.com/ipfs/awesome-ipfs)[🌐](https://awesome.ipfs.tech/)
   - ipfs/[🧰](https://github.com/ipfs/ipfs)js[🧰](https://github.com/ipfs/js-ipfs)webui[🧰](https://github.com/ipfs/ipfs-webui)docs[📖](https://github.com/ipfs/ipfs-docs)desktop[🧰](https://github.com/ipfs/ipfs-desktop)
-  - JoinColony/awesome-web3[😎](https://github.com/JoinColony/awesome-web3)
   - []()
 
 ### - holochain
