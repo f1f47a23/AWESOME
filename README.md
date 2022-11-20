@@ -1,6 +1,6 @@
 
 ## ☆꧁✬◦°˚°◦. 😎 . AWESOME LIST OF . 😎 .◦°˚°◦✬꧂☆
-## ☆꧁✬◦°˚°◦😎 XRPL DEV RESOURCES 😎 ◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦.😎 XRPL DEV RESOURCES 😎 ◦°˚°◦✬꧂☆
 
 <br><br>
 
