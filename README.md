@@ -414,6 +414,14 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - metamask tutorials[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
     - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
+  - security
+    - crytic/[🧰](https://github.com/crytic/not-so-smart-contracts)[🧰](https://github.com/crytic/awesome-ethereum-security)[🧰](https://github.com/crytic/echidna)
+    - sigp/solidity-security-blog[🧰](https://github.com/sigp/solidity-security-blog)[🌐](https://blog.sigmaprime.io/solidity-security.html)
+    - ConsenSys/smart-contract-best-practices[🧰](https://github.com/ConsenSys/smart-contract-best-practices)
+    - transmissions11/solcurity[🧰](https://github.com/transmissions11/solcurity)
+    - Decurity/semgrep-smart-contracts[🧰](https://github.com/Decurity/semgrep-smart-contracts)
+    - saeidshirazi/Awesome-Smart-Contract-Security[😎](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
+    - nongiach/awesome-cryptocurrency-security[😎](https://github.com/nongiach/awesome-cryptocurrency-security)
   - awesome
     - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
     - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
