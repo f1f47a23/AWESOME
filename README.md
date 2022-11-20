@@ -448,7 +448,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `P2P Holochain Blockchain` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## `P2P & chains` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - p2p
 
