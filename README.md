@@ -285,8 +285,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - wallets apps
 
-  - xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
-    - forum [👨](https://xumm.readme.io/discuss)
+  - xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
     - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
     - Xumm Developer Education [📖](https://learn.xumm.dev/)
