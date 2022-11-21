@@ -136,11 +136,6 @@
 
 ******
 
-
-
-
-******
-
 ## `Cryptography Algorithms Keypairs Encoding Signing Bip39 Bip44 PaperWallets` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
@@ -246,12 +241,14 @@
 
 
 
-### - WALLETS apps
+### - non custodial wallets
 
-  - xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)
-    - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
-    - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
+  - xumm.app[🌎](https://xumm.app/) <sub>*4 iOS and Android (React Native)*</sub>
+    - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)
     - Xumm Developer Education [📖](https://learn.xumm.dev/)
+    - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
+    - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
+    
     - []()
   - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
