@@ -97,14 +97,12 @@
     - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
     - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
-  - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)[🧱](https://github.com/nixer89/)
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
   - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*(Oracle) Persist XRP-USD price(s) on the xrpl*</sub>
   - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
-  - xrp.fans[🌐](https://xrp.fans/)[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - XRPLF/xrpl-py[🧱](https://github.com/XRPLF/xrpl-py)[🌐](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sub>*A Python library to interact with XRPL*</sub>
   - []()
@@ -287,6 +285,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
   - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
   - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
+  - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)[🧱](https://github.com/nixer89/)
+  - xrp.fans[🌐](https://xrp.fans/)[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
   - []()
 
 
