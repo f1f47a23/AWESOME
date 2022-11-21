@@ -459,7 +459,33 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `P2P & chains` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## `Chains & P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+
+### - blockchain (ethereum, bitcoin, others)
+
+  - yjjnls/awesome-blockchain[😎](https://github.com/yjjnls/awesome-blockchain)
+  - openblockchains/awesome-blockchains[😎](https://github.com/openblockchains/awesome-blockchains)
+  - imbaniac/awesome-blockchain[😎](https://github.com/imbaniac/awesome-blockchain)
+  - Xel/Blockchain-stuff[😎](https://github.com/Xel/Blockchain-stuff)
+  - igorbarinov/awesome-blockchain[😎](https://github.com/igorbarinov/awesome-blockchain)
+  - hylinux1024/awesome-blockchain-articles[😎](https://github.com/hylinux1024/awesome-blockchain-articles)
+  - coderplex-org/awesome-blockchain[😎](https://github.com/coderplex-org/awesome-blockchain)
+  - Jeiwan/awesome-blockchain[😎](https://github.com/Jeiwan/awesome-blockchain)
+  - []()
+  
+### - holochain
+
+  - holochain/[🧰](https://github.com/holochain/holochain)[🧰](https://github.com/holochain/happ-build-tutorial)[🧰](https://github.com/holochain/launcher)
+  - Holo-Host/[🧰](https://github.com/Holo-Host/holo-nixpkgs)
+  - []()
+
+
+### - ipfs
+
+- ipfs/awesome-ipfs[😎](https://github.com/ipfs/awesome-ipfs)[🌐](https://awesome.ipfs.tech/)
+  - ipfs/[🧰](https://github.com/ipfs/ipfs)js[🧰](https://github.com/ipfs/js-ipfs)webui[🧰](https://github.com/ipfs/ipfs-webui)docs[📖](https://github.com/ipfs/ipfs-docs)desktop[🧰](https://github.com/ipfs/ipfs-desktop)
+  - []()
+
 
 ### - p2p
 
@@ -473,29 +499,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-### - ipfs
 
-- ipfs/awesome-ipfs[😎](https://github.com/ipfs/awesome-ipfs)[🌐](https://awesome.ipfs.tech/)
-  - ipfs/[🧰](https://github.com/ipfs/ipfs)js[🧰](https://github.com/ipfs/js-ipfs)webui[🧰](https://github.com/ipfs/ipfs-webui)docs[📖](https://github.com/ipfs/ipfs-docs)desktop[🧰](https://github.com/ipfs/ipfs-desktop)
-  - []()
-
-### - holochain
-
-  - holochain/[🧰](https://github.com/holochain/holochain)[🧰](https://github.com/holochain/happ-build-tutorial)[🧰](https://github.com/holochain/launcher)
-  - Holo-Host/[🧰](https://github.com/Holo-Host/holo-nixpkgs)
-  - []()
-
-### - blockchain (ethereum, bitcoin, others)
-
-  - yjjnls/awesome-blockchain[😎](https://github.com/yjjnls/awesome-blockchain)
-  - openblockchains/awesome-blockchains[😎](https://github.com/openblockchains/awesome-blockchains)
-  - imbaniac/awesome-blockchain[😎](https://github.com/imbaniac/awesome-blockchain)
-  - Xel/Blockchain-stuff[😎](https://github.com/Xel/Blockchain-stuff)
-  - igorbarinov/awesome-blockchain[😎](https://github.com/igorbarinov/awesome-blockchain)
-  - hylinux1024/awesome-blockchain-articles[😎](https://github.com/hylinux1024/awesome-blockchain-articles)
-  - coderplex-org/awesome-blockchain[😎](https://github.com/coderplex-org/awesome-blockchain)
-  - Jeiwan/awesome-blockchain[😎](https://github.com/Jeiwan/awesome-blockchain)
-  - []()
 
 
 ### - Moron Investing 
