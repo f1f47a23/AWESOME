@@ -141,16 +141,6 @@
 
 
 
-## `XUMM APP`<br>
-
-- xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
-- forum [👨](https://xumm.readme.io/discuss)
-- XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
-- XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
-- Xumm Developer Education [📖](https://learn.xumm.dev/)
-- []()
-
-
 
 ******
 
@@ -290,10 +280,19 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
   - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
 
-  
-### - wallets app
-  - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
+
+
+
+### - wallets apps
+
+  - xumm.app[🌎](https://xumm.app/)[📖](https://xumm.readme.io/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)
+    - forum [👨](https://xumm.readme.io/discuss)
+    - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App)
+    - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
+    - Xumm Developer Education [📖](https://learn.xumm.dev/)
+    - []()
   - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
+  - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - []()
 
 
