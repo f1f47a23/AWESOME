@@ -109,13 +109,12 @@
 
 
 
-### - selected-topics
+### - selected topics
 
   - multisigning[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
     - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
     - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
     - alt keys[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/7JLMuYoI1u8)
-    - []()
   - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
   - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)
   - clio server[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
@@ -123,7 +122,7 @@
 
 
 
-### - awesome-xrpl [😎](https://youtu.be/xjo6WzXKeIs)
+### - awesome xrpl [😎](https://youtu.be/xjo6WzXKeIs)
 
   - yyolk/[😎](https://github.com/yyolk/awesome-xrpl)
   - vhpoet/[😎](https://github.com/vhpoet/awesome-ripple)
