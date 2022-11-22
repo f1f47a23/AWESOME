@@ -103,6 +103,7 @@
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
+  - wietse/xrp.fans[🌐](https://xrp.fans/)[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - XRPLF/xrpl-py[🧱](https://github.com/XRPLF/xrpl-py)[🌐](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sub>*A Python library to interact with XRPL*</sub>
   - []()
@@ -249,6 +250,7 @@
     - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
   - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
+  - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
   - []()
 
 
@@ -280,7 +282,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
   - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
   - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)[🧱](https://github.com/nixer89/)
-  - xrp.fans[🌐](https://xrp.fans/)[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard) <sub>*Dashboard Debugging & Development 4 xrpl*</sub>
+  - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
   - []()
 
 
