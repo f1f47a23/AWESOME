@@ -394,6 +394,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - remix[🔨](https://remix.ethereum.org)
   - references[📖](https://soliditylang.org/)[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity)
   - tools and libs
+    - eth-converter[🔨](https://eth-converter.com/)
     - truffle[📖](https://trufflesuite.com/docs/)[🔨](https://trufflesuite.com/ganache/)[🧰](https://github.com/trufflesuite)[📖](https://web3js.readthedocs.io)[🧰](https://github.com/web3/web3.js)
     - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)[🌐](https://www.openzeppelin.com/)smart contracts[🌐](https://www.openzeppelin.com/contracts)[🔨](https://www.openzeppelin.com/defender)
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
