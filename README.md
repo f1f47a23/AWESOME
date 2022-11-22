@@ -123,7 +123,7 @@
 
 
 
-### - awesome-xrpl [😎](https://youtu.be/g4XiKChyK7A)
+### - awesome-xrpl [😎](https://youtu.be/xjo6WzXKeIs)
 
   - yyolk/[😎](https://github.com/yyolk/awesome-xrpl)
   - vhpoet/[😎](https://github.com/vhpoet/awesome-ripple)
