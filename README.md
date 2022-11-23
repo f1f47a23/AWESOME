@@ -141,9 +141,10 @@
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
   - xrp-paper-wallet
-    - wietse-xrp-paper-wallet[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌎](https://www.xrpaddress.org/)
+    - wietse/[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌎](https://www.xrpaddress.org/)
     - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
-    - bithomp[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌎](https://bithomp.github.io/xrp-paper-wallet/)[🌎](https://bithomp.com/paperwallet/)
+    - bithomp/[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌎](https://bithomp.github.io/xrp-paper-wallet/)[🌎](https://bithomp.com/paperwallet/)
+    - yuki777/[🧱](https://github.com/yuki777/xrp-paper-wallet)
     - others [🌎](https://www.xrppaperwallet.com/)[🌎](https://ripplepaperwallet.com/)
   - XRPLF/xrpl-client-lib
     - XRPLF/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
@@ -251,6 +252,7 @@
   - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
+  - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
   - []()
 
 
