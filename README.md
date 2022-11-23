@@ -394,7 +394,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - solidity ethereum web3
 
-  - ethereum[🌐](https://ethereum.org/)[📖](https://ethereum.org/en/developers/docs/)[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
+  - ethereum.org[🌐](https://ethereum.org/)[📖](https://ethereum.org/en/developers/docs/)[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
     - remix[🔨](https://remix.ethereum.org)
   - references[📖](https://soliditylang.org/)[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity)
   - tools and libs
