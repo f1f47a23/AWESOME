@@ -1,7 +1,7 @@
 
 ## ☆꧁✬◦°˚°◦. 😎 · AWESOME LIST OF · 😎 .◦°˚°◦✬꧂☆
 ## ☆꧁✬◦°˚°◦. 😎 XRPL <sub>/ ETHEREUM / WEB3</sub> 😎 .◦°˚°◦✬꧂☆
-## ☆꧁✬◦°˚°◦. 😎 <sub>DEVELOPER</sub> RESOURCES 😎 .◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦. 😎 DEV RESOURCES 😎 .◦°˚°◦✬꧂☆
 
 <br><br>
  
