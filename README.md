@@ -327,7 +327,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
   - ***`tutorials and samples`***[☝️](#--learning-resources)
-  - independent applications
+  - applications
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
   - []()
@@ -352,7 +352,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-  - independent applications[🧱](https://github.com/HotPocketDev/evernode-hook)
+  - applications[🧱](https://github.com/HotPocketDev/evernode-hook)
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
 
@@ -362,7 +362,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) *`digital asset:  eXRP  `*
     - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
-    - independent applications[🧱](https://github.com/ObiajuluM/eXRP-Contracts)[🧱](https://github.com/matCzelusniak/snapXrpl)
+    - applications[🧱](https://github.com/ObiajuluM/eXRP-Contracts)[🧱](https://github.com/matCzelusniak/snapXrpl)
     - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
