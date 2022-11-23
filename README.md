@@ -39,6 +39,7 @@
 
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
+    - [🧱](https://github.com/XRPLF/xrpl-py) <sub>*Python version*</sub>
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
@@ -249,6 +250,7 @@
     - Xumm Developer Education [📖](https://learn.xumm.dev/)
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
     - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
+    - XRPL-Labs/Xumm-Universal-SDK[🧱](https://github.com/XRPL-Labs/Xumm-Universal-SDK) <sub>*One SDK to rule them all. Universal JS/TS (CLI, Browser, xApp) SDK*</sub>
   - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
@@ -351,6 +353,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - **richard/xrpl.js**[🧱](https://github.com/RichardAH/xrpl.js)[🌵](https://github.com/XRPLF/xrpl.js)
   - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
+  - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
   - applications[🧱](https://github.com/HotPocketDev/evernode-hook)
   - ***`wasm & c references`***[👇](#wasm-c--c-)
