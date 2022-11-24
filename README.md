@@ -40,7 +40,7 @@
 
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
-    - [🧱](https://github.com/XRPLF/xrpl-py) <sub>*Python version*</sub>
+    - [🧱](https://github.com/XRPLF/xrpl-py)[🌐](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sub>*Python version*</sub>
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
@@ -100,7 +100,6 @@
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
   - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌐](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
-  - XRPLF/xrpl-py[🧱](https://github.com/XRPLF/xrpl-py)[🌐](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sub>*A Python library to interact with XRPL*</sub>
   - []()
 
 
