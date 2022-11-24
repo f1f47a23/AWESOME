@@ -54,14 +54,10 @@
   - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev)
   - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) <sub>*Xrp Ledger Standards / drafts*</sub>
   - amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments)
-  - xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/)
-  - ripple-insight[🌎](https://ripple.com/insights/)
-  - channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos)
-  - APEX <sub>*2022*</sub>[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX) <sub>*2021*</sub>[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
+  - xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/) ripple-insight[🌎](https://ripple.com/insights/) channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos) APEX<sub>*2022*</sub>[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)<sub>*2021*</sub>[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
   - tech-forums[👨](https://www.xrpchat.com/forum/16-technical-discussion/)[👨](https://stackoverflow.com/questions/tagged/xrp) reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/) xrpchat[👨](https://www.xrpchat.com/) fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
   - stedas[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas)<sub>*news guides & infographics*</sub>
-  - xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/)
-  - MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
+  - xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/) MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
   - xrpcommunity.blog[🌎](https://xrpcommunity.blog/) <sub>*archived*</sub>
   - ytb news channels
     - <sub>[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/channel/UCtQycmSrKdJ0zE0bWumO4vA/)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/channel/UCf3Vlkhhxrwr3A8IYN8KVkw/) 🔥 [▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/user/erichanintokyo/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/AlexCobbXRP/) 🔥 [▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/)[▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/) 🔥 [▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/)[▶️](https://www.youtube.com/channel/UChXTjLrHpuPi4zjPdYM2erA/)[▶️](https://www.youtube.com/c/CryptoTVOfficial)[▶️](https://www.youtube.com/c/NotoriousXRP) 🔥 [▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/channel/UCjemQfjaXAzA-95RKoy9n_g/)[▶️](https://www.youtube.com/user/CrazymonkeyMBS/)[▶️](https://www.youtube.com/c/amtv)[▶️](https://www.youtube.com/c/PaulBarronNetwork)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/) 🔥 </sub>
@@ -249,7 +245,7 @@
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
     - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
     - XRPL-Labs/Xumm-Universal-SDK[🧱](https://github.com/XRPL-Labs/Xumm-Universal-SDK) <sub>*One SDK to rule them all. Universal JS/TS (CLI, Browser, xApp) SDK*</sub>
-  - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
+  - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension)[§](https://xrpl.org/blog/2022/gemwallet.html) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
   - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
@@ -274,7 +270,7 @@
   - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - xrpl.to *launch*[🌐](https://xrpl.to/)
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
-  - radynamics/Iso20022[🧰](https://github.com/radynamics/CryptoIso20022Interop)
+  - radynamics/Iso20022[🧰](https://github.com/radynamics/CryptoIso20022Interop)[§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
   - ripple/[🧱](https://github.com/ripple/validator-history-service)[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
