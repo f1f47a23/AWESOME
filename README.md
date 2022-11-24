@@ -47,7 +47,9 @@
   - $$$ 💰💰💰 $$$ [{✘}](https://xrpl.org/blog/2022/dev-reflections-relaunch.html)[{✘}](https://xrpl.org/contribute.html)
     - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and [p](https://youtu.be/00y8Oajzjs0)rojects*</sub>
     - xrpl-grants[🌎](https://xrplgrants.org/) <sub>*$$$ support the development of new software projects $$$*</sub>
-
+  - awesome xrpl [😎](https://youtu.be/xjo6WzXKeIs)
+     - yyolk/[😎](https://github.com/yyolk/awesome-xrpl) vhpoet/[😎](https://github.com/vhpoet/awesome-ripple) TusharPardhe/[😎](https://github.com/TusharPardhe/xrpl-cheat-sheet) f1f47a23/[😎](https://github.com/f1f47a23/AWESOME)
+  - []()
 
 ### - forums bulletins news updates
 
@@ -114,17 +116,6 @@
   - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)
   - clio server[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
   - []()
-
-
-
-### - awesome xrpl [😎](https://youtu.be/xjo6WzXKeIs)
-
-  - yyolk/[😎](https://github.com/yyolk/awesome-xrpl)
-  - vhpoet/[😎](https://github.com/vhpoet/awesome-ripple)
-  - TusharPardhe/[😎](https://github.com/TusharPardhe/xrpl-cheat-sheet)
-  - f1f47a23/[😎](https://github.com/f1f47a23/AWESOME)
-  - []()
-
 
 
 
