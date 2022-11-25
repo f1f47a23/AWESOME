@@ -233,7 +233,7 @@
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)
     - Xumm Developer Education [📖](https://learn.xumm.dev/)
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
-    - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)
+    - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)[🧱](https://github.com/XRPL-Labs/xApp-SDK)[🧱](https://github.com/XRPL-Labs/XummPkce)
     - XRPL-Labs/Xumm-Universal-SDK[🧱](https://github.com/XRPL-Labs/Xumm-Universal-SDK) <sub>*One SDK to rule them all. Universal JS/TS (CLI, Browser, xApp) SDK*</sub>
   - gemwallet[🌐](https://gemwallet.app/)[📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension)[§](https://xrpl.org/blog/2022/gemwallet.html) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
