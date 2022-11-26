@@ -404,7 +404,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - Decurity/semgrep-smart-contracts[🧰](https://github.com/Decurity/semgrep-smart-contracts)
     - saeidshirazi/Awesome-Smart-Contract-Security[😎](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
     - nongiach/awesome-cryptocurrency-security[😎](https://github.com/nongiach/awesome-cryptocurrency-security)
-  - awesome
+  - awesome [😎](https://youtu.be/xjo6WzXKeIs)
     - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
     - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
     - web3 pros and cons[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/)
@@ -417,6 +417,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - web3astronaut/awesome-web3[😎](https://github.com/web3astronaut/awesome-web3)
     - LukasMasuch/best-of-crypto[😎](https://github.com/LukasMasuch/best-of-crypto) <sub>*🏆 A ranked list of awesome open-source crypto projects. Updated weekly*</sub>
     - JoinColony/awesome-web3[😎](https://github.com/JoinColony/awesome-web3)
+    - FrancescoXX/free-Web3-resources[😎](https://github.com/FrancescoXX/free-Web3-resources)
+    - covalenthq/web3-resources[😎](https://github.com/covalenthq/web3-resources)
   - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
   - []()
 
