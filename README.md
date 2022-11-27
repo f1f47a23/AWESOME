@@ -103,7 +103,7 @@
 
 
 
-### - selected topics
+### - highlighted topics
 
   - multisigning[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
     - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
