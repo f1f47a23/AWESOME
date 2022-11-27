@@ -404,6 +404,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - Decurity/semgrep-smart-contracts[🧰](https://github.com/Decurity/semgrep-smart-contracts)
     - saeidshirazi/Awesome-Smart-Contract-Security[😎](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
     - nongiach/awesome-cryptocurrency-security[😎](https://github.com/nongiach/awesome-cryptocurrency-security)
+    - 0x3bfc/Awesome-Smart-Contracts-Notes[😎](https://github.com/0x3bfc/Awesome-Smart-Contracts-Notes)
   - awesome [😎](https://youtu.be/xjo6WzXKeIs)
     - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
     - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
@@ -411,7 +412,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
     - surajondev/awesome-web3.0[😎](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
     - twf-nikhila/awesome-web3-resources[😎](https://github.com/twf-nikhila/awesome-web3-resources)
-    - OffcierCia/DeFi-Developer-Road-Map[🧰](https://github.com/OffcierCia/DeFi-Developer-Road-Map)[🌐](https://gitcoin.co/grants/3150/defi-web3-developer-roadmap)
+    - OffcierCia/[🧰](https://github.com/OffcierCia/DeFi-Developer-Road-Map)[🌐](https://gitcoin.co/grants/3150/defi-web3-developer-roadmap)[🧰](https://github.com/OffcierCia/ultimate-defi-research-base)[🧰](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)[🧰](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
     - ahmet/awesome-web3[😎](https://github.com/ahmet/awesome-web3)
     - thomasboni/awesome-web3[😎](https://github.com/thomasboni/awesome-web3)
     - web3astronaut/awesome-web3[😎](https://github.com/web3astronaut/awesome-web3)
@@ -444,6 +445,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - blockchain (ethereum, bitcoin, others)
 
+  - jpantunes/awesome-cryptoeconomics[😎](https://github.com/jpantunes/awesome-cryptoeconomics)
   - yjjnls/awesome-blockchain[😎](https://github.com/yjjnls/awesome-blockchain)
   - openblockchains/awesome-blockchains[😎](https://github.com/openblockchains/awesome-blockchains)
   - imbaniac/awesome-blockchain[😎](https://github.com/imbaniac/awesome-blockchain)
@@ -452,6 +454,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - hylinux1024/awesome-blockchain-articles[😎](https://github.com/hylinux1024/awesome-blockchain-articles)
   - coderplex-org/awesome-blockchain[😎](https://github.com/coderplex-org/awesome-blockchain)
   - Jeiwan/awesome-blockchain[😎](https://github.com/Jeiwan/awesome-blockchain)
+  - dylanhogg/crazy-awesome-crypto[😎](https://github.com/dylanhogg/crazy-awesome-crypto)
   - []()
   
 ### - holochain
