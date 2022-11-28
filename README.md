@@ -428,6 +428,13 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - FrancescoXX/free-Web3-resources[😎](https://github.com/FrancescoXX/free-Web3-resources)
   - covalenthq/web3-resources[😎](https://github.com/covalenthq/web3-resources)
   - talentlessguy/awesome-defi[😎](https://github.com/talentlessguy/awesome-defi)
+  - colekennelly1/awesome-defi-trackers[😎](https://github.com/colekennelly1/awesome-defi-trackers)
+  - ong/awesome-decentralized-finance[😎](https://github.com/ong/awesome-decentralized-finance)
+  - Mikerah/awesome-foundations-of-DeFi[😎](https://github.com/Mikerah/awesome-foundations-of-DeFi)
+  - microchipgnu/awesome-nft-defi[😎](https://github.com/microchipgnu/awesome-nft-defi)
+  - simpleaswater/defi-resources[😎](https://github.com/simpleaswater/defi-resources)
+  - YutaSugimura/DeFi-Map[😎](https://github.com/YutaSugimura/DeFi-Map)
+  - Lucas-Kohorst/awesome-defi[😎](https://github.com/Lucas-Kohorst/awesome-defi)
   - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
 
 
