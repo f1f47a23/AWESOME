@@ -408,6 +408,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - awesome [😎](https://youtu.be/xjo6WzXKeIs)
     - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
     - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
+    - ttumiel/Awesome-Ethereum[😎](https://github.com/ttumiel/Awesome-Ethereum)
   - []()
 
 
