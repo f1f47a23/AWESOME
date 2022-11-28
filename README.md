@@ -376,7 +376,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 ## `Smart-Contracts Dapps Ethereum-Solidity web3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 
-### - solidity ethereum web3
+### - solidity ethereum
 
   - ethereum.org[🌐](https://ethereum.org/)[📖](https://ethereum.org/en/developers/docs/)[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
     - remix[🔨](https://remix.ethereum.org)
@@ -408,20 +408,27 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - awesome [😎](https://youtu.be/xjo6WzXKeIs)
     - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
     - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
-    - web3 pros and cons[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/)
-    - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
-    - surajondev/awesome-web3.0[😎](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
-    - twf-nikhila/awesome-web3-resources[😎](https://github.com/twf-nikhila/awesome-web3-resources)
-    - OffcierCia/[🧰](https://github.com/OffcierCia/DeFi-Developer-Road-Map)[🌐](https://gitcoin.co/grants/3150/defi-web3-developer-roadmap)[🧰](https://github.com/OffcierCia/ultimate-defi-research-base)[🧰](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)[🧰](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
-    - ahmet/awesome-web3[😎](https://github.com/ahmet/awesome-web3)
-    - thomasboni/awesome-web3[😎](https://github.com/thomasboni/awesome-web3)
-    - web3astronaut/awesome-web3[😎](https://github.com/web3astronaut/awesome-web3)
-    - LukasMasuch/best-of-crypto[😎](https://github.com/LukasMasuch/best-of-crypto) <sub>*🏆 A ranked list of awesome open-source crypto projects. Updated weekly*</sub>
-    - JoinColony/awesome-web3[😎](https://github.com/JoinColony/awesome-web3)
-    - FrancescoXX/free-Web3-resources[😎](https://github.com/FrancescoXX/free-Web3-resources)
-    - covalenthq/web3-resources[😎](https://github.com/covalenthq/web3-resources)
-  - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
   - []()
+
+
+
+
+### - web3 defi dex more ethereum & solidity
+
+  - web3 pros and cons[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/)
+  - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
+  - surajondev/awesome-web3.0[😎](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
+  - twf-nikhila/awesome-web3-resources[😎](https://github.com/twf-nikhila/awesome-web3-resources)
+  - OffcierCia/[🧰](https://github.com/OffcierCia/DeFi-Developer-Road-Map)[🌐](https://gitcoin.co/grants/3150/defi-web3-developer-roadmap)[🧰](https://github.com/OffcierCia/ultimate-defi-research-base)[🧰](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)[🧰](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+  - ahmet/awesome-web3[😎](https://github.com/ahmet/awesome-web3)
+  - thomasboni/awesome-web3[😎](https://github.com/thomasboni/awesome-web3)
+  - web3astronaut/awesome-web3[😎](https://github.com/web3astronaut/awesome-web3)
+  - LukasMasuch/best-of-crypto[😎](https://github.com/LukasMasuch/best-of-crypto) <sub>*🏆 A ranked list of awesome open-source crypto projects. Updated weekly*</sub>
+  - JoinColony/awesome-web3[😎](https://github.com/JoinColony/awesome-web3)
+  - FrancescoXX/free-Web3-resources[😎](https://github.com/FrancescoXX/free-Web3-resources)
+  - covalenthq/web3-resources[😎](https://github.com/covalenthq/web3-resources)
+  - talentlessguy/awesome-defi[😎](https://github.com/talentlessguy/awesome-defi)
+  - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
 
 
 ### - flare
@@ -435,10 +442,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
   - [🌐](https://codius.org/)
   - []()
-
-
-
-
+  
+  
+  
 ******
 
 ## `Chains & P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
