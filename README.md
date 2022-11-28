@@ -416,7 +416,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - web3 defi dex <sub>more ethereum & solidity</sub>
 
-  - web3 pros and cons[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/)
+  - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*web3 pros and cons*</sub>
   - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
   - surajondev/awesome-web3.0[😎](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
   - twf-nikhila/awesome-web3-resources[😎](https://github.com/twf-nikhila/awesome-web3-resources)
