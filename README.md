@@ -1,5 +1,5 @@
 
-## ☆꧁✬◦°˚°◦. 😎 · AWESOME list of · 😎 .◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦. 😎 · · AWESOME list of · · 😎 .◦°˚°◦✬꧂☆
 ## ☆꧁✬◦°˚°◦. 😎 XRPL <sub>/ ETHEREUM / WEB3</sub> 😎 .◦°˚°◦✬꧂☆
 ## ☆꧁✬◦°˚°◦. 😎 · · dev RESOURCES · · 😎 .◦°˚°◦✬꧂☆
 
