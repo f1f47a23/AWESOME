@@ -1,7 +1,7 @@
 
-## ☆꧁✬◦°˚°◦. 😎 · AWESOME LIST OF · 😎 .◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦. 😎 · AWESOME list of · 😎 .◦°˚°◦✬꧂☆
 ## ☆꧁✬◦°˚°◦. 😎 XRPL <sub>/ ETHEREUM / WEB3</sub> 😎 .◦°˚°◦✬꧂☆
-## ☆꧁✬◦°˚°◦. 😎 · · DEV RESOURCES · · 😎 .◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦. 😎 · · dev RESOURCES · · 😎 .◦°˚°◦✬꧂☆
 
 <br><br>
  
@@ -159,6 +159,7 @@
   - bitcoinjs/bip44-constants[🧰](https://github.com/bitcoinjs/bip44-constants)
   - bip39[📚](https://github.com/topics/bip39)[📚](https://github.com/topics/bip39-wallet)
   - bip44[📚](https://github.com/topics/bip44)
+  - bip39 wallets[🌐](https://getcoinplate.com/blog/bip39-compatible-wallets-list-2022-updated/)[🌐](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)[🌐](https://coinguides.org/bip39-wallets/)
   - []()
 
 ### - cryptography & encoding ...
@@ -224,7 +225,7 @@
 
 
 
-### - non custodial wallets
+### - XRP non custodial wallets
 
   - xumm.app[🌎](https://xumm.app/) <sub>*4 iOS and Android (React Native)*</sub>
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)
