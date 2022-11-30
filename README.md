@@ -356,7 +356,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - DEX & AMM <sub>*Automate[d](https://youtu.be/-4_fwzC4PNI) Market Makers, Liquidity Pools*</sub>  <sup>*`📡 research 🐞 testing`*</sup>
 
-  - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)[🌎](https://dev.to/ripplexdev/xrpl-amm-network-available-for-testing-and-development-426i) <sub>*amm on xrpl*</sub>
+  - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)[🌎](https://dev.to/ripplexdev/a-proposal-for-the-future-of-the-xrp-ledger-dex-4l7e)[🌎](https://dev.to/ripplexdev/xrpl-amm-network-available-for-testing-and-development-426i) <sub>*amm on xrpl*</sub>
   - bithomp-amm-explorer[🌎](https://amm.bithomp.com/)[🚰](https://amm.bithomp.com/faucet/)
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
