@@ -353,7 +353,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
   - []()
 
-### 2🚪xrpdexamm
+### 2-xrpdexamm🚪
 ### - DEX & AMM <sub>*Automate[d](https://youtu.be/-4_fwzC4PNI) Market Makers, Liquidity Pools*</sub>  <sup>*`📡 research 🐞 testing`*</sup>
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)[🌎](https://dev.to/ripplexdev/a-proposal-for-the-future-of-the-xrp-ledger-dex-4l7e)[🌎](https://dev.to/ripplexdev/xrpl-amm-network-available-for-testing-and-development-426i) <sub>*amm on xrpl*</sub>
