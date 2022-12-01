@@ -258,7 +258,8 @@
   - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - xrpl.to *launch*[🌐](https://xrpl.to/)
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
-  - radynamics/Iso20022[🧰](https://github.com/radynamics/CryptoIso20022Interop)[§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
+  - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop)[§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
+  - runziggurat/[🧱](https://github.com/runziggurat)[§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
   - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
   - ripple/[🧱](https://github.com/ripple/validator-history-service)[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
