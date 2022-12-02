@@ -246,8 +246,8 @@
   - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
   - xrptoolkit.com testnet[🌐](https://test.xrptoolkit.com/)mainnet[🌐](https://www.xrptoolkit.com/)
   - xrpl-services[🌐](https://xrpl.services/)[🧱](https://github.com/nixer89)
-    - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer) <sub>*real-time visualization of the XRP Ledger *</sub>
-    - nixer89/xrpl-data-api[🧱](https://github.com/nixer89/xrpl-data-api) <sub>*api to provide xrp ledger data *</sub>
+    - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer) <sub>*real-time visualization of the XRP Ledger*</sub>
+    - nixer89/xrpl-data-api[🧱](https://github.com/nixer89/xrpl-data-api) <sub>*api to provide xrp ledger data*</sub>
   - blockexplorer testnet[🌐](https://blockexplorer.one/xrp/testnet)mainnet[🌐](https://blockexplorer.one/xrp/mainnet)
   - testnet-faucet[🚰](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧱](https://github.com/yusufsahinhamza/xrp-testnet-faucet)
   - testnet.help[🌐](https://testnet.help/en/)[🚰](https://testnet.help/en/xrpfaucet/testnet)
