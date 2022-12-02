@@ -11,8 +11,8 @@
 [🌎](https://medium.com/crypto-security-top/the-problem-with-solidity-be7e6c277a58)
 [🌎](https://medium.com/topl-blog/for-gods-sake-cant-we-fix-solidity-9bc7184e2683)
 [🌎](https://news.ycombinator.com/item?id=14810008)[🌎](https://news.ycombinator.com/item?id=14691212)[🌎](https://medium.com/@aidobreen/how-and-why-developing-for-ethereum-sucks-1ff1a9873527) 🔥 
-[🌎]()[🌎]()[🌎]()[🌎]()[🌎]() 🔥 
-[🌎]()[🌎]() 🔥 
+ 🔥 
+ 🔥 
 
 
 
