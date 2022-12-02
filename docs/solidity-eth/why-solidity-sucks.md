@@ -6,7 +6,7 @@
 
 <br><br>
 
-###LINKS
+### LINKS
 
 [🌎](https://medium.com/crypto-security-top/the-problem-with-solidity-be7e6c277a58)
 [🌎](https://medium.com/topl-blog/for-gods-sake-cant-we-fix-solidity-9bc7184e2683)
