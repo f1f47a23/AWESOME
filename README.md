@@ -269,7 +269,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
   - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
   - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
-  - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer)[🧱](https://github.com/nixer89/)
+  - nixer89/[🧱](https://github.com/nixer89/)
+    - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer) <sub>*real-time visualization of the XRP Ledger *</sub>
+    - nixer89/xrpl-data-api[🧱](https://github.com/nixer89/xrpl-data-api) <sub>*api to provide xrp ledger data *</sub>
   - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
   - []()
 
