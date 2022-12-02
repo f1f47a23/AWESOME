@@ -1,4 +1,7 @@
 
+
+![img](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.jpg)
+
 #  💩 WHY SOLIDITY SUCKS? 💩
 
 <br><br>
