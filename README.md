@@ -81,6 +81,7 @@
   - xrplf Intro to the XRP Ledger[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
   - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
   - xrpdev[▶️](https://www.youtube.com/c/XRPDEV/videos)
+  - Rippled Source Code Guide (xrpintel)[🌎](https://xrpintel.com/source) <sub>*independent source code analysis of rippled v1.5.0*</sub>
   - []()
 
 ### - xrpl-devtools & examples
@@ -243,6 +244,7 @@
 
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
+  - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
   - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
   - xrptoolkit.com testnet[🌐](https://test.xrptoolkit.com/)mainnet[🌐](https://www.xrptoolkit.com/)
   - xrpl-services[🌐](https://xrpl.services/)[🧱](https://github.com/nixer89)
@@ -260,6 +262,7 @@
   - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - xrpl.to *launch*[🌐](https://xrpl.to/)
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
+  - theworldexchange.net[🌐](https://www.theworldexchange.net/)
   - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop)[§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - runziggurat/[🧱](https://github.com/runziggurat)[§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
   - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
