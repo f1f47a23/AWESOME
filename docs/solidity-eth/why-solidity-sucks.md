@@ -5,7 +5,8 @@
 #  💩 WHY SOLIDITY SUCKS? 💩
 
 <br><br>
-
+> The protocol sucks. The documentation sucks. The APIs suck. The users suck. The developers suck. The communities suck.
+<br><br>
 ### LINKS
 
 [🌎](https://medium.com/crypto-security-top/the-problem-with-solidity-be7e6c277a58)
@@ -13,7 +14,6 @@
 [🌎](https://news.ycombinator.com/item?id=14810008)[🌎](https://news.ycombinator.com/item?id=14691212)[🌎](https://medium.com/@aidobreen/how-and-why-developing-for-ethereum-sucks-1ff1a9873527) 🔥 
  🔥 
  🔥 
-
 
 
       
