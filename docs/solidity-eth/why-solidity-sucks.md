@@ -6,6 +6,10 @@
 
 <br><br>
 > The protocol sucks. The documentation sucks. The APIs suck. The users suck. The developers suck. The communities suck.
+
+> The result is an ecosystem of unfinished projects, developed by the inexperienced, marketed to the uneducated, and built on quickly moving sands of a protocol in development.
+
+
 <br><br>
 ### LINKS
 
