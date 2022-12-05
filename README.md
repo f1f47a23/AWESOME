@@ -400,7 +400,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - Freecodecamp Patrick Collins[▶️](https://youtu.be/gyMwXuJrbJQ)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
     - tutorials[🌐](https://www.tutorialspoint.com/solidity/index.htm)[🌐](https://www.w3schools.io/blockchain/solidity-tutorials/)[🌐](https://www.ludu.co/course/ethereum)[🌐](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)[🌐](https://topmonks.github.io/solidity_quick_ref/)[🧰](https://github.com/fravoll/solidity-patterns) 🔥 
     - more tutorials[🌐](https://hardhat.org/tutorial)[🌐](https://ethereum.org/en/developers/tutorials/)[🌐](https://www.useweb3.xyz/tutorials)[🌐](https://www.wslyvh.com/clean-contracts/)[🌐](https://www.useweb3.xyz/)[🌐](https://www.teachyourselfweb3.com/)[🌐](https://www.questbook.app/) 🔥 [🌐](https://learnxinyminutes.com/docs/solidity/)[🌐](https://cadena.dev/)[🌐](https://buildspace.so/)[🌐](https://cryptozombies.io/)[🌐](https://cryptodevhub.io/) 🔥 [🌐](https://soliditydeveloper.com/blog)[🌐](https://learnweb3.io/)[🧰](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0)[🧰](https://github.com/cyrusadkisson/solidity-baby-steps)
-    - quick tutorials[▶️](https://www.youtube.com/watch?v=M8ftcilSNLM&list=PLvzuUVysUFOt-PKemi0LNSArIcUcr69QE)[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88) 🔥 [▶️](https://youtu.be/s9MVkHKhttps://www.questbook.app/V2Vw)[▶️](https://www.youtube.com/watch?v=h5nGnO_E7Xo&list=PLgPmWS2dQHW8Ev0iC0zyBLikUSV-A22rC)[▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU) 🔥 [▶️](https://youtu.be/cx0HT8vu2FQ)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw)[▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3) 🔥 [▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_)[▶️](https://youtu.be/qO3TgQZMrtA)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY) 🔥 [▶️](https://www.youtube.com/watch?v=QkmXFCBSHgs&list=PLvfQp12V0hS3HbYbGFIz5hcD59Ht8yYl3) [▶️](https://youtu.be/aqxAWLi6UMA)
+    - quick tutorials[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://www.youtube.com/watch?v=h5nGnO_E7Xo&list=PLgPmWS2dQHW8Ev0iC0zyBLikUSV-A22rC)[▶️](https://youtu.be/cx0HT8vu2FQ)[▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_) 🔥 
     - why solidity sucks[📖](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
     - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY) <sub>*Dapp = frontend + smart contract backend*</sub>
     - metamask tutorials[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
@@ -425,6 +425,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - web3 defi dex <sub>more ethereum & solidity</sub>
 
+  - quick tutorials
+    - [▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw) 🔥 [▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)[▶️](https://www.youtube.com/watch?v=QkmXFCBSHgs&list=PLvfQp12V0hS3HbYbGFIz5hcD59Ht8yYl3)[▶️](https://youtu.be/aqxAWLi6UMA) 🔥 
   - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*web3 pros and cons*</sub>
   - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
   - surajondev/awesome-web3.0[😎](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
@@ -468,6 +470,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - blockchain (ethereum, bitcoin, others)
 
+  - quick tutorials
+    - [▶️](https://youtu.be/qO3TgQZMrtA)
   - jpantunes/awesome-cryptoeconomics[😎](https://github.com/jpantunes/awesome-cryptoeconomics)
   - yjjnls/awesome-blockchain[😎](https://github.com/yjjnls/awesome-blockchain)
   - openblockchains/awesome-blockchains[😎](https://github.com/openblockchains/awesome-blockchains)
