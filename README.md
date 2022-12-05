@@ -425,8 +425,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - web3 defi dex <sub>more ethereum & solidity</sub>
 
-  - quick tutorials
-    - [▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw) 🔥 [▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)[▶️](https://www.youtube.com/watch?v=QkmXFCBSHgs&list=PLvfQp12V0hS3HbYbGFIz5hcD59Ht8yYl3)[▶️](https://youtu.be/aqxAWLi6UMA) 🔥 
+  - quick tutorials[▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw) 🔥 [▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)[▶️](https://www.youtube.com/watch?v=QkmXFCBSHgs&list=PLvfQp12V0hS3HbYbGFIz5hcD59Ht8yYl3)[▶️](https://youtu.be/aqxAWLi6UMA) 🔥 
   - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*web3 pros and cons*</sub>
   - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
   - surajondev/awesome-web3.0[😎](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
@@ -470,8 +469,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - blockchain (ethereum, bitcoin, others)
 
-  - quick tutorials
-    - [▶️](https://youtu.be/qO3TgQZMrtA)
+  - quick tutorials[▶️](https://youtu.be/qO3TgQZMrtA)
   - jpantunes/awesome-cryptoeconomics[😎](https://github.com/jpantunes/awesome-cryptoeconomics)
   - yjjnls/awesome-blockchain[😎](https://github.com/yjjnls/awesome-blockchain)
   - openblockchains/awesome-blockchains[😎](https://github.com/openblockchains/awesome-blockchains)
