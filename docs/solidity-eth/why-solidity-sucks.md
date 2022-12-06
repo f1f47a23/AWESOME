@@ -2,7 +2,7 @@
 
 [![img](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.jpg)](https://medium.com/crypto-security-top/the-problem-with-solidity-be7e6c277a58)
 
-#  💩 WHY SOLIDITY SUCKS? 💩
+#  💩 WHY SOLIDITY SUCKS? 🤮
 
 <br><br>
 > The protocol sucks. The documentation sucks. The APIs suck. The users suck. The developers suck. The communities suck.
