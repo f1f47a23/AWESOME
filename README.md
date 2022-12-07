@@ -81,7 +81,7 @@
   - xrplf Intro to the XRP Ledger[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
   - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
   - xrpdev[▶️](https://www.youtube.com/c/XRPDEV/videos)
-  - Rippled Source Code Guide (xrpintel)[🌎](https://xrpintel.com/source) <sub>*independent source code analysis of rippled v1.5.0*</sub>
+  - Rippled Source Code Guide (xrpintel)[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
   - []()
 
 ### - xrpl-devtools & examples
