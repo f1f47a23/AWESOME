@@ -403,7 +403,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - quick tutorials[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://www.youtube.com/watch?v=h5nGnO_E7Xo&list=PLgPmWS2dQHW8Ev0iC0zyBLikUSV-A22rC)[▶️](https://youtu.be/cx0HT8vu2FQ)[▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_) 🔥 
     - why solidity sucks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
     - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY) <sub>*Dapp = frontend + smart contract backend*</sub>
-    - metamask tutorials[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
+    - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
   - security
     - crytic/[🧰](https://github.com/crytic/not-so-smart-contracts)[🧰](https://github.com/crytic/awesome-ethereum-security)[🧰](https://github.com/crytic/echidna)
