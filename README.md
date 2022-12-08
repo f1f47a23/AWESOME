@@ -84,6 +84,7 @@
   - Rippled Source Code Guide (xrpintel)[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
   - []()
 
+##### <sub>*1-xrpdevtool*</sub>🚪
 ### - xrpl-devtools & examples
 
   - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
@@ -100,6 +101,7 @@
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
   - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌐](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
+  - ***`more xrpl tools`***[👇](#1-xrpalg)[👇](#2-xrphook)
   - []()
 
 
@@ -148,7 +150,7 @@
   - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
   - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools) [🌎](https://richardah.github.io/xfl-tools/) [📖](https://github.com/XRPLF/XRPL-Standards/discussions/39) <sub>*Construct/Deconstruct XFL floating point values (XLS-17d)*</sub>
   - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
-  - ***`more xrpl tools`***[👇](#2-xrphook)
+  - ***`more xrpl tools`***[👇](#2-xrphook)[☝️](#1-xrpdevtool)
   - []()
   
   
@@ -347,7 +349,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
   - applications[🧱](https://github.com/HotPocketDev/evernode-hook)
-  - ***`more xrpl tools`***[☝️](#1-xrpalg)
+  - ***`more xrpl tools`***[☝️](#1-xrpdevtool)[☝️](#1-xrpalg)
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
 
