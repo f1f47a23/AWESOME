@@ -146,7 +146,7 @@
   - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
   - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
   - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
-  - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools) [🌎](https://richardah.github.io/xfl-tools/) [📖](https://github.com/XRPLF/XRPL-Standards/discussions/39)<sub>*Construct or deconstruct XFL floating point values (XLS-17d)*</sub>
+  - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools) [🌎](https://richardah.github.io/xfl-tools/) [📖](https://github.com/XRPLF/XRPL-Standards/discussions/39) <sub>*Construct/Deconstruct XFL floating point values (XLS-17d)*</sub>
   - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
   - ***`more xrpl tools`***[👇](#2-xrphook)
   - []()
