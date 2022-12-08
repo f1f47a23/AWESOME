@@ -101,7 +101,7 @@
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
   - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌐](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
-  - ***`more xrpl tools`***[👇](#1-xrpalg)[👇](#2-xrphook)
+  - ***`more xrpl tools`***[👇](#1-xrpalg)
   - []()
 
 
@@ -349,7 +349,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
   - applications[🧱](https://github.com/HotPocketDev/evernode-hook)
-  - ***`more xrpl tools`***[☝️](#1-xrpdevtool)[☝️](#1-xrpalg)
+  - ***`more xrpl tools`***[☝️](#1-xrpalg)
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
 
