@@ -269,8 +269,9 @@
   - xrpl.to *launch*[🌐](https://xrpl.to/)
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
   - theworldexchange.net[🌐](https://www.theworldexchange.net/)
-  - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop)[§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
-  - runziggurat/[🧱](https://github.com/runziggurat)[§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
+  - XPmarket[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
+  - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
+  - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
   - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
   - ripple/[🧱](https://github.com/ripple/validator-history-service)[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
