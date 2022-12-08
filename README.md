@@ -121,6 +121,7 @@
 
 ## `Cryptography Algorithms Keypairs Encoding Signing Bip39 Bip44 PaperWallets` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
+##### <sub>*1-xrpalg*</sub>🚪
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
   - xrp-paper-wallet
@@ -147,6 +148,7 @@
   - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
   - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools) [🌎](https://richardah.github.io/xfl-tools/)
   - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
+  - ***`more xrpl tools`***[👇](#2-xrphook)
   - []()
   
   
@@ -322,7 +324,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-
+##### <sub>*2-xrphook*</sub>🚪
 ### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-[c](https://youtu.be/p6fmvXTTM1k)ontracts*</sub>  <sup>*`🐞 testing`*</sup>
 
   - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
@@ -343,6 +345,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
   - applications[🧱](https://github.com/HotPocketDev/evernode-hook)
+  - ***`more xrpl tools`***[☝️](#1-xrpalg)
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
 
