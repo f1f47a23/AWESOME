@@ -249,17 +249,18 @@
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
   - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
-  - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
+  - bithomp[🌐](https://bithomp.com/)
+    - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
+    - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
   - xrptoolkit.com testnet[🌐](https://test.xrptoolkit.com/)mainnet[🌐](https://www.xrptoolkit.com/)
   - xrpl-services[🌐](https://xrpl.services/)[🧱](https://github.com/nixer89)
     - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer) <sub>*real-time visualization of the XRP Ledger*</sub>
     - nixer89/xrpl-data-api[🧱](https://github.com/nixer89/xrpl-data-api) <sub>*api to provide xrp ledger data*</sub>
   - blockexplorer testnet[🌐](https://blockexplorer.one/xrp/testnet)mainnet[🌐](https://blockexplorer.one/xrp/mainnet)
-  - testnet-faucet[🚰](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧱](https://github.com/yusufsahinhamza/xrp-testnet-faucet)
+  - yusufsahinhamza/testnet-faucet[🚰](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧱](https://github.com/yusufsahinhamza/xrp-testnet-faucet)
   - testnet.help[🌐](https://testnet.help/en/)[🚰](https://testnet.help/en/xrpfaucet/testnet)
   - gatehub explorer [🌐](https://gatehub.net/explorer)
   - getblock mainnet testnet [🌐](https://getblock.io/nodes/xrp/)
-  - bithomp[🌐](https://bithomp.com/)
   - xrpscan[🌐](https://xrpscan.com/) public API[📖](https://docs.xrpscan.com/) [🧱](https://github.com/xrpscan)
   - threexrp[🌐](https://threexrp.dev/dex)xrpintel[🌐](https://xrpintel.com/)xrplorer[🌐](https://xrplorer.com/)
   - xrplcoins[🌐](https://xrplcoins.com/dex)richlist[🌐](https://rich-list.info)xdex[🌐](https://xdex.com/)theworldexchange[🌐](https://www.theworldexchange.net/)xpmarket *(tokens)*[🌐](https://xpmarket.io/)
@@ -272,7 +273,6 @@
   - XPmarket[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
   - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
-  - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
   - ripple/[🧱](https://github.com/ripple/validator-history-service)[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
   - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
