@@ -282,6 +282,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
   - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
   - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
+  - AlexanderBuzz/xrpl-php[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*PHP library to interact with XRP Ledger*</sub>
   - []()
 
 
