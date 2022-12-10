@@ -60,7 +60,9 @@
 
   - validators[🌎](https://xrpscan.com/validators)
     - ripple/validator-history-service[🧱](https://github.com/ripple/validator-history-service)
-  - xrplf-technical-explorer[{✘}](https://explorer.xrplf.org/)[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)
+    - xpring-eng/xrpl-validator-domains[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
+    - xpring-eng/rippled-network-crawler[🧱](https://github.com/xpring-eng/rippled-network-crawler)
+ - xrplf-technical-explorer[{✘}](https://explorer.xrplf.org/)[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)
     - testnet[{✘}](https://explorer-testnet.xrplf.org/)
   - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)[🧱](https://github.com/ripple/explorer)
     - testnet[{✘}](https://testnet.xrpl.org/) devnet[{✘}](https://devnet.xrpl.org/) nft-devnet[{✘}](https://nft-devnet.xrpl.org/) amm-devnet[{✘}](https://amm-devnet.xrpl.org/)
@@ -151,6 +153,7 @@
     
 ### - bip39,bip44
 
+  - xpring-eng/native-bip39[🧰](https://github.com/xpring-eng/native-bip39)
   - iancoleman/bip39[🧰](https://github.com/iancoleman/bip39)
   - bitcoinjs/bip39[🧰](https://github.com/bitcoinjs/bip39)
   - oipwg/[🧰](https://github.com/oipwg/oip-hdmw) <sub>*bip44 wallet*</sub>
@@ -243,6 +246,8 @@
 
   - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
   - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
+    - ./testnet-faucet[🧱](https://github.com/xpring-eng/testnet-faucet)
+    - ./ripple-keypairs-integration[🧱](https://github.com/xpring-eng/ripple-keypairs-integration)
   - bithomp[🌐](https://bithomp.com/)
     - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
     - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
