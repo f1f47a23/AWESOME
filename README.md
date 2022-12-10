@@ -8,9 +8,9 @@
 
  
 
-## 1. XRPL and CRYPTO ALGORITHMS[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#1)
-## 2. WEB3[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#2) <sub>*( xrpl-hooks ethereum-solidity holochain ipfs torrent-p2p )*</sub>
-## 3. WEB DEVELOPMENT[🗝️](https://github.com/f1f47a23/AWESOME/blob/main/README.md#3)
+## 1. XRPL and CRYPTO ALGORITHMS[🗝️](#1)
+## 2. WEB3[🗝️](#2) <sub>*( xrpl-hooks ethereum-solidity[🗝️](#2-sol) holochain ipfs torrent-p2p )*</sub>
+## 3. WEB DEVELOPMENT[🗝️](#3)
  
 
 <br> 
@@ -390,7 +390,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 ******
-
+##### <sub>*2-sol*</sub>🚪
 ## `Smart-Contracts Dapps Ethereum-Solidity web3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 
