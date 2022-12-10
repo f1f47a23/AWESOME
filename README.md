@@ -1,12 +1,4 @@
 
-### ☆꧁✬◦°˚°◦. 😎 · · AWESOME list of · · 😎 .◦°˚°◦✬꧂☆
-### ☆꧁✬◦°˚°◦. 😎 XRPL <sub>/ ETHEREUM / WEB3</sub> 😎 .◦°˚°◦✬꧂☆
-### ☆꧁✬◦°˚°◦. 😎 · · dev RESOURCES · · ·😎 .◦°˚°◦✬꧂☆
-
-<br><br>
- 
-
- 
 
 ## 1. XRPL and CRYPTO ALGORITHMS[🗝️](#1)
 ## 2. WEB3[🗝️](#2) <sub>*( xrpl-hooks ethereum-solidity[🗝️](#2-sol) holochain ipfs torrent-p2p )*</sub>
