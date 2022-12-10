@@ -401,15 +401,20 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
     - hardhat.org/[🌐](https://hardhat.org/tutorial) <sub>*Ethereum development environment*</sub>
+  - forums[👨](https://ethereum.stackexchange.com/)[👨](https://gitter.im/ethereum/solidity/)
   - learning resources
     - solidity-by-example <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+    - ethereum/solidity-examples[🧰](https://github.com/ethereum/solidity-examples)
     - tutorials[🌐](https://www.tutorialspoint.com/solidity/index.htm)[🌐](https://www.w3schools.io/blockchain/solidity-tutorials/)[🌐](https://www.ludu.co/course/ethereum)[🌐](https://topmonks.github.io/solidity_quick_ref/)[🧰](https://github.com/fravoll/solidity-patterns) 🔥 [🌐](https://ethereum.org/en/developers/tutorials/)[🌐](https://www.useweb3.xyz/tutorials)[🌐](https://www.useweb3.xyz/)[🌐](https://www.wslyvh.com/clean-contracts/)[🌐](https://learnxinyminutes.com/docs/solidity/) 🔥 [🌐](https://cadena.dev/)[🌐](https://cryptozombies.io/)[🌐](https://soliditydeveloper.com/blog)[🧰](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0)[🧰](https://github.com/cyrusadkisson/solidity-baby-steps)
     - quick tutorials[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_) 
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)    
     - ***`more tutorials below`***[👇](#--web3-defi-dex)
-    - why solidity sucks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
-    - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY) <sub>*Dapp = frontend + smart contract backend*</sub>
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
+    - guides
+      - why solidity sucks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
+      - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY) <sub>*Dapp = frontend + smart contract backend*</sub>
+      - smart-contract-development-best-practices[🌐](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
+      - clean-contracts[🌐](https://www.useweb3.xyz/guides/clean-contracts)
   - security
     - crytic/[🧰](https://github.com/crytic/not-so-smart-contracts)[🧰](https://github.com/crytic/awesome-ethereum-security)[🧰](https://github.com/crytic/echidna)
     - sigp/solidity-security-blog[🧰](https://github.com/sigp/solidity-security-blog)[🌐](https://blog.sigmaprime.io/solidity-security.html)
