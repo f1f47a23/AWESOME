@@ -249,6 +249,8 @@
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
   - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
+  - ripple/validator-history-service[🧱](https://github.com/ripple/validator-history-service)
+  - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
   - bithomp[🌐](https://bithomp.com/)
     - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
     - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
