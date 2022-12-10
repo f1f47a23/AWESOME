@@ -59,9 +59,10 @@
 ### - devnet/testnet/mainnet explorer/services
 
   - validators[🌎](https://xrpscan.com/validators)
-  - xrplf-technical-explorer[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)[{✘}](https://explorer.xrplf.org/)
+    - ripple/validator-history-service[🧱](https://github.com/ripple/validator-history-service)
+  - xrplf-technical-explorer[{✘}](https://explorer.xrplf.org/)[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)
     - testnet[{✘}](https://explorer-testnet.xrplf.org/)
-  - livenet-xrpl-explorer[🧱](https://github.com/ripple/explorer)[{✘}](https://livenet.xrpl.org/)
+  - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)[🧱](https://github.com/ripple/explorer)
     - testnet[{✘}](https://testnet.xrpl.org/) devnet[{✘}](https://devnet.xrpl.org/) nft-devnet[{✘}](https://nft-devnet.xrpl.org/) amm-devnet[{✘}](https://amm-devnet.xrpl.org/)
   - ***`more services below`***[👇](#--more-devnettestnetmainnet-explorerservices)
   - []()
@@ -241,7 +242,6 @@
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
   - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
-  - ripple/validator-history-service[🧱](https://github.com/ripple/validator-history-service)
   - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
   - bithomp[🌐](https://bithomp.com/)
     - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
