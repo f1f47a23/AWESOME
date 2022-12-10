@@ -397,11 +397,11 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 ### - solidity ethereum
 
   - ethereum.org[🌐](https://ethereum.org/)[📖](https://ethereum.org/en/developers/docs/)[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
-    - remix[🔨](https://remix.ethereum.org)
   - references[📖](https://soliditylang.org/)[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity)
   - tools and libs
     - eth-converter[🔨](https://eth-converter.com/)
-    - truffle[📖](https://trufflesuite.com/docs/)[🔨](https://trufflesuite.com/ganache/)[🧰](https://github.com/trufflesuite)
+    - remix[🔨](https://remix.ethereum.org)
+    - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
     - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
     - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)[🌐](https://www.openzeppelin.com/)smart contracts[🌐](https://www.openzeppelin.com/contracts)[🔨](https://www.openzeppelin.com/defender)
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
