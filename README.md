@@ -268,14 +268,14 @@
   - getblock mainnet testnet [🌐](https://getblock.io/nodes/xrp/)
   - xrpscan[🌐](https://xrpscan.com/) public API[📖](https://docs.xrpscan.com/) [🧱](https://github.com/xrpscan)
   - threexrp[🌐](https://threexrp.dev/dex)xrpintel[🌐](https://xrpintel.com/)xrplorer[🌐](https://xrplorer.com/)
-  - xrplcoins[🌐](https://xrplcoins.com/dex)richlist[🌐](https://rich-list.info)xdex[🌐](https://xdex.com/)theworldexchange[🌐](https://www.theworldexchange.net/)xpmarket *(tokens)*[🌐](https://xpmarket.io/)
+  - xrplcoins[🌐](https://xrplcoins.com/dex)richlist[🌐](https://rich-list.info)xdex[🌐](https://xdex.com/)theworldexchange[🌐](https://www.theworldexchange.net/)
   - onthedex[🌐](https://onthedex.live/)zerpcraft[🌐](https://www.zerpcraft.com/)paystring[🌐](https://paystring.org/)xptxrpl[🌐](https://xptxrpl.com/)xrp.co[🌐](https://www.xrp.co/)
   - blockchair[🌐](https://blockchair.com/ripple)xrpl-metrics[🌐](https://xrpl-metrics.com/)xrplstatus[🌐](https://xrplstatus.com/)
   - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - xrpl.to *launch*[🌐](https://xrpl.to/)
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
   - theworldexchange.net[🌐](https://www.theworldexchange.net/)
-  - XPmarket[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
+  - XPmarket[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*(tokens) Web3 tools built for XRP Ledger*</sub>
   - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
   - ripple/[🧱](https://github.com/ripple/validator-history-service)[🧱](https://github.com/ripple/xrp-batch-payout-cli)
