@@ -58,8 +58,12 @@
 
 ### - devnet/testnet/mainnet explorer/services
 
-  - validators[🌎](https://xrpscan.com/validators)
+  - nodes rippled servers
+    - validators[🌎](https://xrpscan.com/validators)
     - ripple/validator-history-service[🧱](https://github.com/ripple/validator-history-service)
+    - ripple/validator-keys-tool[🧱](https://github.com/ripple/validator-keys-tool)
+    - ripple/validator-domain-verifier[🧱](https://github.com/ripple/validator-domain-verifier)
+    - ripple/rippledmon[🧱](https://github.com/ripple/rippledmon)
     - xpring-eng/xrpl-validator-domains[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
     - xpring-eng/rippled-network-crawler[🧱](https://github.com/xpring-eng/rippled-network-crawler)
  - xrplf-technical-explorer[{✘}](https://explorer.xrplf.org/)[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)
@@ -91,6 +95,7 @@
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
   - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*(Oracle) Persist XRP-USD price(s) on the xrpl*</sub>
   - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
+  - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
@@ -131,6 +136,7 @@
     - XRPLF/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
     - XRPLF/ripple-binary-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
     - XRPLF/ripple-keypairs[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
+    - xpring-eng/ripple-keypairs-integration[🧱](https://github.com/xpring-eng/ripple-keypairs-integration)
   - XRPLF/deserializer[🧱](https://github.com/XRPLF/xrpl-deserializer-c)
   - XRPL-Labs/ripple-keypairs[🧱](https://github.com/XRPL-Labs/ripple-keypairs)
   - XRPL-Labs/xrpl-sign-keypairs bip39,bip44[🧱](https://github.com/XRPL-Labs/xrpl-sign-keypairs)
@@ -153,7 +159,8 @@
     
 ### - bip39,bip44
 
-  - xpring-eng/native-bip39[🧰](https://github.com/xpring-eng/native-bip39)
+  - xpring-eng/native-bip39[🌵](https://github.com/xpring-eng/native-bip39)
+    - edwardstock/bip3x[🧰](https://github.com/edwardstock/bip3x)
   - iancoleman/bip39[🧰](https://github.com/iancoleman/bip39)
   - bitcoinjs/bip39[🧰](https://github.com/bitcoinjs/bip39)
   - oipwg/[🧰](https://github.com/oipwg/oip-hdmw) <sub>*bip44 wallet*</sub>
@@ -246,8 +253,7 @@
 
   - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
   - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
-    - ./testnet-faucet[🧱](https://github.com/xpring-eng/testnet-faucet)
-    - ./ripple-keypairs-integration[🧱](https://github.com/xpring-eng/ripple-keypairs-integration)
+    - xpring-eng/testnet-faucet[🧱](https://github.com/xpring-eng/testnet-faucet)
   - bithomp[🌐](https://bithomp.com/)
     - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
     - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
