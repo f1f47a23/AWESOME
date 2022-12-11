@@ -86,7 +86,6 @@
 ##### <sub>*1-xrpdevtool*</sub>🚪
 ### - xrpl-devtools & examples
 
-  - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
   - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
     - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
     - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
@@ -95,12 +94,14 @@
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
   - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*(Oracle) Persist XRP-USD price(s) on the xrpl*</sub>
   - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
-  - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
+  - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
   - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌐](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
+  - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
+  - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>
   - []()
 
@@ -126,23 +127,17 @@
 ##### <sub>*1-xrpalg*</sub>🚪
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-  - xrp-paper-wallet
-    - wietse/[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌎](https://www.xrpaddress.org/)
-    - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
-    - bithomp/[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌎](https://bithomp.github.io/xrp-paper-wallet/)[🌎](https://bithomp.com/paperwallet/)
-    - yuki777/[🧱](https://github.com/yuki777/xrp-paper-wallet)
-    - TusharPardhe/xrpl-rAddress-generator[🧱](https://github.com/TusharPardhe/xrpl-rAddress-generator)
-    - others[🌎](https://www.xrppaperwallet.com/)[🌎](https://ripplepaperwallet.com/)
   - XRPLF/xrpl-client-lib
     - XRPLF/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
     - XRPLF/ripple-binary-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
     - XRPLF/ripple-keypairs[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
-    - xpring-eng/ripple-keypairs-integration[🧱](https://github.com/xpring-eng/ripple-keypairs-integration)
   - XRPLF/deserializer[🧱](https://github.com/XRPLF/xrpl-deserializer-c)
   - XRPL-Labs/ripple-keypairs[🧱](https://github.com/XRPL-Labs/ripple-keypairs)
   - XRPL-Labs/xrpl-sign-keypairs bip39,bip44[🧱](https://github.com/XRPL-Labs/xrpl-sign-keypairs)
   - XRPL-Labs/verify-xrpl-signature[🧱](https://github.com/XRPL-Labs/verify-xrpl-signature)
   - XRPL-Labs/order-id-codec[🧱](https://github.com/XRPL-Labs/order-id-codec)
+  - wietse/[🧱](https://github.com/WietseWind/XRP-Paper-Account)[🌎](https://www.xrpaddress.org/)
+  - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
   - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib)
   - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
   - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)
@@ -151,7 +146,13 @@
   - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
   - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
   - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools) [🌎](https://richardah.github.io/xfl-tools/) [📖](https://github.com/XRPLF/XRPL-Standards/discussions/39) <sub>*Construct/Deconstruct XFL floating point values (XLS-17d)*</sub>
+  - xpring-eng/ripple-keypairs-integration[🧱](https://github.com/xpring-eng/ripple-keypairs-integration)
   - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
+  - xrp-paper-wallet
+    - bithomp/[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌎](https://bithomp.github.io/xrp-paper-wallet/)[🌎](https://bithomp.com/paperwallet/)
+    - yuki777/[🧱](https://github.com/yuki777/xrp-paper-wallet)
+    - TusharPardhe/xrpl-rAddress-generator[🧱](https://github.com/TusharPardhe/xrpl-rAddress-generator)
+    - others[🌎](https://www.xrppaperwallet.com/)[🌎](https://ripplepaperwallet.com/)
   - ***`more xrpl tools`***[👇](#2-xrphook)<sup>*3*</sup>[☝️](#1-xrpdevtool)<sup>*1*</sup>
   - []()
   
@@ -279,7 +280,6 @@
   - XPmarket[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*(tokens) Web3 tools built for XRP Ledger*</sub>
   - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
-  - ripple/[🧱](https://github.com/ripple/validator-history-service)[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - XPT
     - xptxrpl[🌐](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website)
     - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
