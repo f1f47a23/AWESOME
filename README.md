@@ -403,20 +403,35 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 ## `Ethereum web3`<sub>*` Smart-Contracts Dapps Solidity`*</sub> ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 
-### - solidity ethereum
+### - ethereum
 
-  - ethereum.org[🌐](https://ethereum.org/)[📖](https://ethereum.org/en/developers/docs/)[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
-  - references[📖](https://soliditylang.org/)[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity)
+  - ethereum.org[🌐](https://ethereum.org/)[📖](https://ethereum.org/en/developers/docs/)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
+  - etherscan.io[🌐](https://etherscan.io/)
+  - testnets
+    - sepolia[🌐](https://sepolia.etherscan.io/)
+    - goerli[🌐](https://goerli.etherscan.io/)
   - tools and libs
     - eth-converter[🔨](https://eth-converter.com/)
+    - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
+  - forums[👨](https://ethereum.stackexchange.com/)
+  - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
+  - ttumiel/Awesome-Ethereum[😎](https://github.com/ttumiel/Awesome-Ethereum)
+  - []()
+  
+  
+  
+### - solidity
+
+  - ethereum.org/solidity[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)
+  - references[📖](https://soliditylang.org/)[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity)
+  - tools and libs
     - remix[🔨](https://remix.ethereum.org)
     - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
-    - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
     - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)[🌐](https://www.openzeppelin.com/)smart contracts[🌐](https://www.openzeppelin.com/contracts)[🔨](https://www.openzeppelin.com/defender)
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
     - hardhat.org/[🌐](https://hardhat.org/tutorial) <sub>*Ethereum development environment*</sub>
-  - forums[👨](https://ethereum.stackexchange.com/)[👨](https://gitter.im/ethereum/solidity/)
+  - forums[👨](https://gitter.im/ethereum/solidity/)
   - learning resources
     - solidity-by-example <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
     - ethereum/solidity-examples[🧰](https://github.com/ethereum/solidity-examples)
@@ -438,10 +453,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - saeidshirazi/Awesome-Smart-Contract-Security[😎](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
     - nongiach/awesome-cryptocurrency-security[😎](https://github.com/nongiach/awesome-cryptocurrency-security)
     - 0x3bfc/Awesome-Smart-Contracts-Notes[😎](https://github.com/0x3bfc/Awesome-Smart-Contracts-Notes)
-  - awesome [😎](https://youtu.be/xjo6WzXKeIs)
-    - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
-    - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
-    - ttumiel/Awesome-Ethereum[😎](https://github.com/ttumiel/Awesome-Ethereum)
+  - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
   - []()
 
 
