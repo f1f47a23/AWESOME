@@ -423,7 +423,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 ### - solidity
 
   - ethereum.org/solidity[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)
-  - references[📖](https://soliditylang.org/)[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity)
+  - references[📖](https://soliditylang.org/)
+  - forums[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity/)
   - tools and libs
     - remix[🔨](https://remix.ethereum.org)
     - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
@@ -431,7 +432,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
     - hardhat.org/[🌐](https://hardhat.org/tutorial) <sub>*Ethereum development environment*</sub>
-  - forums[👨](https://gitter.im/ethereum/solidity/)
   - learning resources
     - solidity-by-example <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
     - ethereum/solidity-examples[🧰](https://github.com/ethereum/solidity-examples)
