@@ -131,7 +131,8 @@
     - wietse/XADDRESS[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
     - bithomp/[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌎](https://bithomp.github.io/xrp-paper-wallet/)[🌎](https://bithomp.com/paperwallet/)
     - yuki777/[🧱](https://github.com/yuki777/xrp-paper-wallet)
-    - others [🌎](https://www.xrppaperwallet.com/)[🌎](https://ripplepaperwallet.com/)
+    - TusharPardhe/xrpl-rAddress-generator[🧱](https://github.com/TusharPardhe/xrpl-rAddress-generator)
+    - others[🌎](https://www.xrppaperwallet.com/)[🌎](https://ripplepaperwallet.com/)
   - XRPLF/xrpl-client-lib
     - XRPLF/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
     - XRPLF/ripple-binary-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
@@ -269,7 +270,7 @@
   - xrpscan[🌐](https://xrpscan.com/) public API[📖](https://docs.xrpscan.com/) [🧱](https://github.com/xrpscan)
   - threexrp[🌐](https://threexrp.dev/dex)xrpintel[🌐](https://xrpintel.com/)xrplorer[🌐](https://xrplorer.com/)
   - xrplcoins[🌐](https://xrplcoins.com/dex)richlist[🌐](https://rich-list.info)xdex[🌐](https://xdex.com/)theworldexchange[🌐](https://www.theworldexchange.net/)
-  - onthedex[🌐](https://onthedex.live/)zerpcraft[🌐](https://www.zerpcraft.com/)paystring[🌐](https://paystring.org/)xptxrpl[🌐](https://xptxrpl.com/)xrp.co[🌐](https://www.xrp.co/)
+  - onthedex[🌐](https://onthedex.live/)zerpcraft[🌐](https://www.zerpcraft.com/)paystring[🌐](https://paystring.org/)xrp.co[🌐](https://www.xrp.co/)
   - blockchair[🌐](https://blockchair.com/ripple)xrpl-metrics[🌐](https://xrpl-metrics.com/)xrplstatus[🌐](https://xrplstatus.com/)
   - onxrp *ecosystem*[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - xrpl.to *launch*[🌐](https://xrpl.to/)
@@ -279,7 +280,10 @@
   - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
   - ripple/[🧱](https://github.com/ripple/validator-history-service)[🧱](https://github.com/ripple/xrp-batch-payout-cli)
-  - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
+  - XPT
+    - xptxrpl[🌐](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website)
+    - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
+    - TusharPardhe/xpt-backend[🧱](https://github.com/TusharPardhe/xpt-backend)
   - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
   - talentchain[🌐](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
