@@ -494,7 +494,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ## `Chains & P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
-### - blockchain (ethereum, bitcoin, others)
+### - blockchain <sub>*ethereum, bitcoin, others*</sub>
 
   - quick tutorials[▶️](https://youtu.be/qO3TgQZMrtA)
   - jpantunes/awesome-cryptoeconomics[😎](https://github.com/jpantunes/awesome-cryptoeconomics)
