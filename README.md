@@ -122,7 +122,7 @@
 
 ******
 
-## `Cryptography Algorithms <sub>Keypairs Encoding Signing Bip39 Bip44 PaperWallets</sub>` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `Cryptography Algorithms` <sub>`Keypairs Encoding Signing Bip39 Bip44 PaperWallets`</sub> [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
 ##### <sub>*1-xrpalg*</sub>🚪
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
