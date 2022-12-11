@@ -446,10 +446,13 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 ### - ethereum wallets
-    - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
+
+  - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
+  - []()
 
 
 ### - web3 defi dex
+
   - learning resources
     - tutorials[🌐](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)[🌐](https://www.teachyourselfweb3.com/)[🌐](https://www.questbook.app/)[🌐](https://buildspace.so/)[🌐](https://cryptodevhub.io/) 🔥 [🌐](https://learnweb3.io/)
     - Freecodecamp Patrick Collins[▶️](https://youtu.be/gyMwXuJrbJQ)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
