@@ -422,7 +422,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - ethereum/solidity-examples[🧰](https://github.com/ethereum/solidity-examples)
     - tutorials[🌐](https://www.tutorialspoint.com/solidity/index.htm)[🌐](https://www.w3schools.io/blockchain/solidity-tutorials/)[🌐](https://www.ludu.co/course/ethereum)[🌐](https://topmonks.github.io/solidity_quick_ref/)[🧰](https://github.com/fravoll/solidity-patterns) 🔥 [🌐](https://ethereum.org/en/developers/tutorials/)[🌐](https://www.useweb3.xyz/tutorials)[🌐](https://www.useweb3.xyz/)[🌐](https://www.wslyvh.com/clean-contracts/)[🌐](https://learnxinyminutes.com/docs/solidity/) 🔥 [🌐](https://cadena.dev/)[🌐](https://cryptozombies.io/)[🌐](https://soliditydeveloper.com/blog)[🧰](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0)[🧰](https://github.com/cyrusadkisson/solidity-baby-steps)
     - quick tutorials[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_) 
-    - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)    
     - ***`more tutorials below`***[👇](#--web3-defi-dex)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
     - guides
@@ -446,6 +445,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
+### - ethereum wallets
+    - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
 
 
 ### - web3 defi dex
