@@ -400,7 +400,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 ##### <sub>*2-sol*</sub>🚪
-## `Smart-Contracts Dapps Ethereum-Solidity web3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `Ethereum web3`<sub>*` Smart-Contracts Dapps Solidity`*</sub> ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 
 
 ### - solidity ethereum
