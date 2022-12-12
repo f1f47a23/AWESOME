@@ -462,6 +462,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - ethereum wallets
 
+  - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
   - metamask
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
     - snaps[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme) <sub>*snaps extension for metamask*</sub>
