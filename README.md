@@ -338,6 +338,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - applications
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
+    - moerphous[🌎](https://moerphous.netlify.app/)[🧱][https://github.com/moerphous/moerphous][🧱](https://github.com/moerphous/moerphous-server) <sub>*Create Buy or Sell NFTs*</sub>
   - []()
 
 
@@ -361,7 +362,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
   - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-  - HotPocketDev/evernode-hook[🧱](https://github.com/HotPocketDev/evernode-hook) <sub>*hook for Evernode*</sub>
+  - applications
+    - HotPocketDev/evernode-hook[🧱](https://github.com/HotPocketDev/evernode-hook) <sub>*hook for Evernode*</sub>
   - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
