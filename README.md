@@ -247,6 +247,7 @@
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
   - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
+  - Kyraview/SnapXRPL[🧱](https://github.com/Kyraview/SnapXRPL)[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme) <sub>*xrpl snaps extension for metamask*</sub>
   - []()
 
 
@@ -459,7 +460,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - ethereum wallets
 
-  - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
+  - metamask
+    - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
+    - snaps[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme) <sub>*snaps extension for metamask*</sub>
   - MEW myetherwallet[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet)
   - trustwallet[🌐](https://trustwallet.com/)[🌐](https://developer.trustwallet.com/wallet-core)[🧰](https://github.com/trustwallet/wallet-core)
   - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
