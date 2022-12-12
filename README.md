@@ -338,7 +338,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - applications
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
-    - moerphous[🌎](https://moerphous.netlify.app/)[🧱][https://github.com/moerphous/moerphous][🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
+    - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
   - []()
 
 
