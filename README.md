@@ -361,7 +361,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
   - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
   - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-  - applications[🧱](https://github.com/HotPocketDev/evernode-hook)
+  - HotPocketDev/evernode-hook[🧱](https://github.com/HotPocketDev/evernode-hook) <sub>*hook for Evernode*</sub>
   - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
