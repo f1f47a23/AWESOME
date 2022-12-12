@@ -103,7 +103,7 @@
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
   - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
-  - advanced signing & payment features
+  - advanced signing txn & payment features
     - multisigning[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
       - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
       - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
