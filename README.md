@@ -271,7 +271,8 @@
   - xrpl.to *launch*[🌐](https://xrpl.to/)
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
   - theworldexchange.net[🌐](https://www.theworldexchange.net/)
-  - Platonenkov/XRPL.DataRippleService[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[👇](#2-xrpnft) <sub>*C# XRPL data.ripple.com API *</sub> 
+  - Platonenkov/XRPL.DataRippleService[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)[👇](#2-xrpnft) <sub>*C# XRPL data.ripple.com API *</sub> 
+  - chriswill/RippleDotNet[🧱](https://github.com/chriswill/RippleDotNet) <sub>*C# Ripple WebSocket APIs*</sub>
   - XPmarket[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*(tokens) Web3 tools built for XRP Ledger*</sub>
   - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
