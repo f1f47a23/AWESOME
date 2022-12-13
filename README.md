@@ -244,7 +244,7 @@
   - []()
 
 
-
+##### <sub>*1-xrpsrvc*</sub>🚪
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
   - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
@@ -271,6 +271,7 @@
   - xrpl.to *launch*[🌐](https://xrpl.to/)
   - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
   - theworldexchange.net[🌐](https://www.theworldexchange.net/)
+  - Platonenkov/[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[👇](#2-xrpnft) <sub>*C# XRPL data.ripple.com API *</sub> 
   - XPmarket[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*(tokens) Web3 tools built for XRP Ledger*</sub>
   - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
@@ -317,7 +318,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ## `xrpl web3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
 
-
+##### <sub>*2-xrpnft*</sub>🚪
 ### - tokens NFT trustline <sup>*`✅ approved`*</sup>[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb)
 
   - XLS-20d[🧱](https://github.com/XRPLF/XRPL-Standards/discussions/46)[{✘}](https://xrpl.org/known-amendments.html#nonfungibletokensv1_1)[🌎](https://xrpscan.com/amendment/32A122F1352A4C7B3A6D790362CC34749C5E57FCE896377BFDC6CCD14F6CD627)
@@ -329,6 +330,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
+    - Platonenkov/XRPL.TrustlineService[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*C# XRPL trustline service*</sub>
   - []()
 
 
