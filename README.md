@@ -502,6 +502,13 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
   - []()
 
+### - chainlink <sub>*LINK decentralized-oracle-net*</sub>
+
+  - TODO[]()
+  - []()
+  - []()
+
+
 
 ### - codius (archived)
 
