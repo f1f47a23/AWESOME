@@ -100,7 +100,7 @@
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
   - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
-  - advanced signing txn & payment features
+  - advanced signing txn & payment features 👛
     - multisigning[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
       - ExpandedSignerList[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) <sub>*1-to-32*</sub>
       - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
@@ -115,7 +115,7 @@
 
 ******
 
-## `Cryptography Algorithms`<sub>*` Keypairs Encoding Signing Bip39 Bip44 PaperWallets`*</sub> [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `Cryptography Algorithms`<sub>*` Keypairs Encoding Signing Bip39 Bip44 PaperWallets👛`*</sub> [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
 ##### <sub>*1-xrpalg*</sub>🚪
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
@@ -141,7 +141,7 @@
   - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools) [🌎](https://richardah.github.io/xfl-tools/) [📖](https://github.com/XRPLF/XRPL-Standards/discussions/39) <sub>*Construct/Deconstruct XFL floating point values (XLS-17d)*</sub>
   - xpring-eng/ripple-keypairs-integration[🧱](https://github.com/xpring-eng/ripple-keypairs-integration)
   - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
-  - xrp-paper-wallet
+  - xrp-paper-wallet 👛
     - bithomp/[🧱](https://github.com/Bithomp/xrp-paper-wallet)[🌎](https://bithomp.github.io/xrp-paper-wallet/)[🌎](https://bithomp.com/paperwallet/)
     - yuki777/[🧱](https://github.com/yuki777/xrp-paper-wallet)
     - TusharPardhe/xrpl-rAddress-generator[🧱](https://github.com/TusharPardhe/xrpl-rAddress-generator)
@@ -228,7 +228,7 @@
 
 
 
-### - XRP non custodial wallets
+### - XRP non custodial wallets 👛
 
   - xumm.app[🌎](https://xumm.app/) <sub>*4 iOS and Android (React Native)*</sub>
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)
@@ -454,7 +454,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-### - ethereum wallets
+### - ethereum wallets 👛
 
   - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
   - metamask[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
