@@ -502,10 +502,15 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
   - []()
 
+
+
 ### - chainlink <sub>*LINK decentralized-oracle-net*</sub>
 
-  - TODO[]()
-  - []()
+  - docs.chain.link[📖](https://docs.chain.link/)
+  - tutorials
+    - CET[▶️](https://www.youtube.com/watch?v=9uUk9neDqcM&list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J)
+    - CDW[▶️](https://www.youtube.com/watch?v=JWJWT9cwFbo&list=PLVP9aGDn-X0SPHromvpiGvoNDpH7YErmf)
+    - getting-started[📖](https://docs.chain.link/getting-started/conceptual-overview)
   - []()
 
 
