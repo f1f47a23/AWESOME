@@ -301,7 +301,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 <br>
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=.🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🕳🤹&width=800&height=80)](https://github.com/Akshay090/svg-banners)
 
 
 <br><br>
@@ -567,7 +567,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   
 <br>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=.🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🕳🤹&width=800&height=60)](https://github.com/Akshay090/svg-banners)
 
 
 <br><br>
@@ -751,16 +751,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 <br>
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🕳🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-
-<br><br>
-
-###  ▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓████▓▒­░⡷⠂⠐⢾░▒▓
 
 <br><br>
 <sup>*`🗳️`*</sup>
