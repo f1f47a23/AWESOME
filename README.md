@@ -277,7 +277,7 @@
   - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
   - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
   - XPT
-    - xptxrpl[🌐](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website)
+    - xptxrpl[🌐](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website) <sub>*XRPL Portfolio Tracker account info*</sub>
     - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
     - TusharPardhe/xpt-backend[🧱](https://github.com/TusharPardhe/xpt-backend)
   - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
