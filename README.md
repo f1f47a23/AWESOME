@@ -416,7 +416,21 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
   
   
-  
+### - ethereum wallets 👛
+
+  - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
+  - metamask[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
+    - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
+    - snaps[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme)  <sub>*snaps extension for metamask*</sub>
+  - MEW myetherwallet[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet) <sub>*smart-contracts tokens NFT swap*</sub>
+  - trustwallet[🌐](https://trustwallet.com/)[🌐](https://developer.trustwallet.com/wallet-core)[🧰](https://github.com/trustwallet/wallet-core)
+  - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
+  - ethers-io/ethers.js[🧰](https://github.com/ethers-io/ethers.js)
+  - ConsenSysMesh/MultiSigWallet[🧰](https://github.com/ConsenSysMesh/MultiSigWallet)
+  - []()
+
+
+
 ### - solidity
 
   - ethereum.org/solidity[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)
@@ -433,7 +447,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - solidity-by-example <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
     - ethereum/solidity-examples[🧰](https://github.com/ethereum/solidity-examples)
     - tutorials[🌐](https://www.tutorialspoint.com/solidity/index.htm)[🌐](https://www.w3schools.io/blockchain/solidity-tutorials/)[🌐](https://www.ludu.co/course/ethereum)[🌐](https://topmonks.github.io/solidity_quick_ref/)[🧰](https://github.com/fravoll/solidity-patterns) 🔥 [🌐](https://ethereum.org/en/developers/tutorials/)[🌐](https://www.useweb3.xyz/tutorials)[🌐](https://www.useweb3.xyz/)[🌐](https://www.wslyvh.com/clean-contracts/)[🌐](https://learnxinyminutes.com/docs/solidity/) 🔥 [🌐](https://cadena.dev/)[🌐](https://cryptozombies.io/)[🌐](https://soliditydeveloper.com/blog)[🧰](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0)[🧰](https://github.com/cyrusadkisson/solidity-baby-steps)
-    - quick tutorials[▶️](https://youtu.be/3g2WT2jms_k)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_) 
+    - quick tutorials[▶️](https://youtu.be/3g2WT2jms_k)[🧰](https://github.com/derekbanas/solidity)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_) 
     - ***`more tutorials below`***[👇](#--web3-defi-dex)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
     - guides
@@ -454,18 +468,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-### - ethereum wallets 👛
-
-  - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
-  - metamask[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
-    - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
-    - snaps[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme)  <sub>*snaps extension for metamask*</sub>
-  - MEW myetherwallet[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet) <sub>*smart-contracts tokens NFT swap*</sub>
-  - trustwallet[🌐](https://trustwallet.com/)[🌐](https://developer.trustwallet.com/wallet-core)[🧰](https://github.com/trustwallet/wallet-core)
-  - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
-  - ethers-io/ethers.js[🧰](https://github.com/ethers-io/ethers.js)
-  - ConsenSysMesh/MultiSigWallet[🧰](https://github.com/ConsenSysMesh/MultiSigWallet)
-  - []()
 
 
 ### - web3 defi dex
@@ -497,12 +499,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
 
 
-### - flare
-
-  - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
-  - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
-  - []()
-
 
 
 ### - chainlink <sub>*LINK decentralized-oracle-net*</sub>
@@ -513,6 +509,17 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - CDW[▶️](https://www.youtube.com/watch?v=JWJWT9cwFbo&list=PLVP9aGDn-X0SPHromvpiGvoNDpH7YErmf)
     - getting-started[📖](https://docs.chain.link/getting-started/conceptual-overview)
   - []()
+
+
+
+
+### - flare
+
+  - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
+  - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
+  - []()
+
+
 
 
 
