@@ -517,7 +517,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
-### - chainlink <sup>`LINK`</sup> <sub>*decentralized-oracle-net*</sub>
+### - chainlink <sup>`“⬡ LINK`</sup> <sub>*decentralized-oracle-net*</sub>
 
   - docs.chain.link[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)
   - tutorials
