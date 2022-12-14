@@ -467,7 +467,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - ***`more tutorials below`***[👇](#--web3-defi-dex)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
     - guides
-      - why solidity sucks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)<sub>*ethereum really does work[▶️](https://youtu.be/Ss-P4qLLUyk)*</sub>
+      - why solidity sucks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md) <sub>*but it works, indeed[▶️](https://youtu.be/Ss-P4qLLUyk)*</sub>
       - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY) <sub>*Dapp = frontend + smart contract backend*</sub>
       - smart-contract-development-best-practices[🌐](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
       - clean-contracts[🌐](https://www.useweb3.xyz/guides/clean-contracts)
