@@ -441,7 +441,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
   - ethers-io/ethers.js[🧰](https://github.com/ethers-io/ethers.js)
   - ConsenSysMesh/MultiSigWallet[🧰](https://github.com/ConsenSysMesh/MultiSigWallet)
-  - ryepdx/(https://github.com/ryepdx/ethaddress.org) <sub>*paper wallet*</sub>
+  - ryepdx/[🧰](https://github.com/ryepdx/ethaddress.org) <sub>*paper wallet*</sub>
   - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
   - []()
 
