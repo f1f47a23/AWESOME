@@ -525,11 +525,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - CDW[▶️](https://www.youtube.com/watch?v=JWJWT9cwFbo&list=PLVP9aGDn-X0SPHromvpiGvoNDpH7YErmf)
     - getting-started[📖](https://docs.chain.link/getting-started/conceptual-overview)
   - examples
-    - smartcontractkit/
-      - [🧰](https://github.com/smartcontractkit/truffle-starter-kit) <sub>*An example smart contract utilizing Chainlink*</sub>
-      - [🧰](https://github.com/smartcontractkit/LinkToken)
-      - [🧰](https://github.com/smartcontractkit/hardhat-starter-kit)
-      - [🧰](https://github.com/smartcontractkit/chainlink-brownie-contracts)
+    - smartcontractkit/[🧰](https://github.com/smartcontractkit/truffle-starter-kit)[🧰](https://github.com/smartcontractkit/LinkToken)[🧰](https://github.com/smartcontractkit/hardhat-starter-kit)[🧰](https://github.com/smartcontractkit/chainlink-brownie-contracts)
     - dappuniversity/[🧰](https://github.com/dappuniversity/chainlink_betting_game)
     - linkpoolio/[🧰](https://github.com/linkpoolio/example-chainlinks)
   - JohannEid/awesome-chainlink[😎](https://github.com/JohannEid/awesome-chainlink)
