@@ -111,7 +111,7 @@
 
 ******
 
-## `Cryptography Algorithms`<sub>*` Keypairs Encoding Signing Bip39 Bip44 PaperWallets👛`*</sub> [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `Cryptography Algorithms`<sub>*` Encoding Keypairs Signing Bip39 Bip44 PaperWallets👛`*</sub> [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 
 ##### <sub>*1-xrpalg*</sub>🚪
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
@@ -135,7 +135,7 @@
     - XLS-12d: Secret Numbers[📖](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[📖](https://github.com/XRPLF/XRPL-Standards/issues/15) <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
       - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
       - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)[🌎](https://secret-numbers-to-family-seed.xumm.dev/)
-    - xrpl bip39,bip44
+    - xrpl bip39 bip44
       - XRPL-Labs/xrpl-sign-keypairs bip39,bip44[🧱](https://github.com/XRPL-Labs/xrpl-sign-keypairs)
       - xpring-eng/native-bip39[🌵](https://github.com/xpring-eng/native-bip39)
         - edwardstock/bip3x[🧰](https://github.com/edwardstock/bip3x)
@@ -159,7 +159,7 @@
   
     
     
-### - bip39,bip44
+### - bip39 bip44
 
   - iancoleman/bip39[🧰](https://github.com/iancoleman/bip39)
   - bitcoinjs/bip39[🧰](https://github.com/bitcoinjs/bip39)
