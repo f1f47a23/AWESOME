@@ -441,6 +441,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
   - ethers-io/ethers.js[🧰](https://github.com/ethers-io/ethers.js)
   - ConsenSysMesh/MultiSigWallet[🧰](https://github.com/ConsenSysMesh/MultiSigWallet)
+  - ryepdx/(https://github.com/ryepdx/ethaddress.org) <sub>*paper wallet*</sub>
   - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
   - []()
 
@@ -519,7 +520,11 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - chainlink <sup>`“⬡ LINK`</sup> <sub>*decentralized-oracle-net*</sub>
 
-  - docs.chain.link[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)
+  - [🌐](https://chain.link/)[📖](https://link.smartcontract.com/whitepaper)[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)[▶️](https://www.youtube.com/@chainlink)
+  - explorer[🌐](https://explorer.chain.link/)
+  - blog and forum[📖](https://blog.chain.link/)[📖](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/)[👨](https://github.com/smartcontractkit/chainlink/issues)
+  - articles[📖](https://medium.com/reserve-currency/schelling-network-oracles-are-vulnerable-to-manipulation-68d1a88cbcf3)[📖](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803)[📖](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f)[📖](https://cryptoslate.com/chainlink/)[📖](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/)[📖](https://www.investinblockchain.com/what-is-chainlink-link/)[📖](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974)
+  - more articles[📖](https://github.com/JohannEid/awesome-chainlink#on-the-importance-of-oracles)
   - tutorials
     - CET[▶️](https://www.youtube.com/watch?v=9uUk9neDqcM&list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J)
     - CDW[▶️](https://www.youtube.com/watch?v=JWJWT9cwFbo&list=PLVP9aGDn-X0SPHromvpiGvoNDpH7YErmf)
