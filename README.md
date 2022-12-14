@@ -241,7 +241,6 @@
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
   - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
-  - Kyraview/SnapXRPL[🧱](https://github.com/Kyraview/SnapXRPL)[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme) <sub>*xrpl snaps extension for metamask*</sub>
   - []()
 
 
@@ -363,13 +362,22 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
+
+##### <sub>*2-xrpside*</sub>🚪
 ### - sidechains <sub>*Interoperability*</sub>  <sup>*`📡 research`*</sup>
 
   - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) *`digital asset:  eXRP  `*
-    - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
+    - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
-    - applications[🧱](https://github.com/ObiajuluM/eXRP-Contracts)[🧱](https://github.com/matCzelusniak/snapXrpl)
+    - applications
+      - ObiajuluM/eXRP-Contracts[🧱](https://github.com/ObiajuluM/eXRP-Contracts)
+      - bibbleso/xrpl-network-registry[🧱](https://github.com/bibbleso/xrpl-network-registry)
+    - xrpl+metamask+snaps[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)
+      - matCzelusniak/snapXrpl[🧱](https://github.com/matCzelusniak/snapXrpl)
+      - Kyraview/SnapXRPL[🧱](https://github.com/Kyraview/SnapXRPL)
+    - ***`metamask+snaps`***[👇](#2-ethwal)
     - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
+  - []()
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
   - []()
@@ -416,10 +424,11 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
   
   
+  
+##### <sub>*2-ethwal*</sub>🚪
 ### - ethereum wallets 👛
 
-  - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
-  - metamask[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
+  - metamask+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
     - snaps[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme)  <sub>*snaps extension for metamask*</sub>
   - MEW myetherwallet[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet) <sub>*smart-contracts tokens NFT swap*</sub>
@@ -427,6 +436,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
   - ethers-io/ethers.js[🧰](https://github.com/ethers-io/ethers.js)
   - ConsenSysMesh/MultiSigWallet[🧰](https://github.com/ConsenSysMesh/MultiSigWallet)
+  - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
   - []()
 
 
