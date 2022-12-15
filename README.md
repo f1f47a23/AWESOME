@@ -233,7 +233,7 @@
 
 
 
-### - XRP non custodial wallets 👛
+### - XRP non custodial wallets 👛[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo)
 
   - xumm.app[🌎](https://xumm.app/) <sub>*4 iOS and Android (React Native)*</sub>
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)
@@ -446,7 +446,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   
   
 ##### <sub>*2-ethwal*</sub>🚪
-### - ethereum wallets 👛
+### - ethereum wallets 👛[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo)
 
   - metamask+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
