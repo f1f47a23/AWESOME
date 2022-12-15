@@ -543,8 +543,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - tutorials
     - getting-started[📖](https://docs.chain.link/getting-started/conceptual-overview)
     - overview[▶️](https://youtu.be/GnXsJe2wZ_w)[▶️](https://youtu.be/uycQ7ReSt_c)
-    - CET[▶️](https://www.youtube.com/watch?v=9uUk9neDqcM&list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J)
-    - CDW[▶️](https://www.youtube.com/watch?v=JWJWT9cwFbo&list=PLVP9aGDn-X0SPHromvpiGvoNDpH7YErmf)
+    - CET[▶️](https://www.youtube.com/watch?v=9uUk9neDqcM&list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J)[▶️](https://www.youtube.com/watch?v=JWJWT9cwFbo&list=PLVP9aGDn-X0SPHromvpiGvoNDpH7YErmf)
     - DeFi Oracles[▶️](https://www.youtube.com/watch?v=UAP6--JTAlU&list=PLVP9aGDn-X0TOlmBenq9dCICrdKcSilAw)
   - examples
     - smartcontractkit/[🧰](https://github.com/smartcontractkit/truffle-starter-kit)[🧰](https://github.com/smartcontractkit/LinkToken)[🧰](https://github.com/smartcontractkit/hardhat-starter-kit)[🧰](https://github.com/smartcontractkit/chainlink-brownie-contracts)
