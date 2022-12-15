@@ -512,6 +512,10 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - tutorials[🌐](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)[🌐](https://www.teachyourselfweb3.com/)[🌐](https://www.questbook.app/)[🌐](https://buildspace.so/)[🌐](https://cryptodevhub.io/) 🔥 [🌐](https://learnweb3.io/)
     - Freecodecamp Patrick Collins[▶️](https://youtu.be/gyMwXuJrbJQ)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)[▶️](https://www.youtube.com/watch?v=Qe-3FUxThso&list=PLVP9aGDn-X0QRGpzjx3av5lDH6msuAeyU)[▶️](https://www.youtube.com/watch?v=wXEEfJ5L5jc&list=PLVP9aGDn-X0RaFosTIMTZss0dYNeXkrA3)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
     - quick tutorials[▶️](https://www.youtube.com/watch?v=4cRXEGduA-o&list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl)[▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw) 🔥 [▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)[▶️](https://www.youtube.com/watch?v=QkmXFCBSHgs&list=PLvfQp12V0hS3HbYbGFIz5hcD59Ht8yYl3)[▶️](https://youtu.be/aqxAWLi6UMA) 
+  - []()
+  - DEX AMM
+    - solidity-by-example AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)[▶️]()[▶️]()[▶️]()
+  - []()
   - awesome😎
     - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*web3 pros and cons*</sub>
     - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
@@ -533,9 +537,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - simpleaswater/defi-resources[😎](https://github.com/simpleaswater/defi-resources)
     - YutaSugimura/DeFi-Map[😎](https://github.com/YutaSugimura/DeFi-Map)
     - Lucas-Kohorst/awesome-defi[😎](https://github.com/Lucas-Kohorst/awesome-defi)
-  - []()
-  - DEX AMM
-    - solidity-by-example AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)[▶️]()[▶️]()[▶️]()
   - []()
   - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
 
