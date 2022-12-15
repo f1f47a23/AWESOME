@@ -435,6 +435,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - sepolia[🌐](https://sepolia.etherscan.io/)
     - goerli[🌐](https://goerli.etherscan.io/)
   - tools and libs
+    - several faucets[🚰](https://faucetlink.to/)
     - eth-converter[🔨](https://eth-converter.com/)
     - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
   - forums[👨](https://ethereum.stackexchange.com/)
