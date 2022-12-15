@@ -491,7 +491,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
   - learning resources
     - tutorials[🌐](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)[🌐](https://www.teachyourselfweb3.com/)[🌐](https://www.questbook.app/)[🌐](https://buildspace.so/)[🌐](https://cryptodevhub.io/) 🔥 [🌐](https://learnweb3.io/)
-    - Freecodecamp Patrick Collins[▶️](https://youtu.be/gyMwXuJrbJQ)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
+    - Freecodecamp Patrick Collins[▶️](https://youtu.be/gyMwXuJrbJQ)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)[▶️](https://www.youtube.com/watch?v=Qe-3FUxThso&list=PLVP9aGDn-X0QRGpzjx3av5lDH6msuAeyU)[▶️](https://www.youtube.com/watch?v=wXEEfJ5L5jc&list=PLVP9aGDn-X0RaFosTIMTZss0dYNeXkrA3)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
     - quick tutorials[▶️](https://www.youtube.com/watch?v=4cRXEGduA-o&list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl)[▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw) 🔥 [▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)[▶️](https://www.youtube.com/watch?v=QkmXFCBSHgs&list=PLvfQp12V0hS3HbYbGFIz5hcD59Ht8yYl3)[▶️](https://youtu.be/aqxAWLi6UMA) 
   - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*web3 pros and cons*</sub>
   - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
@@ -526,9 +526,11 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - articles[📖](https://medium.com/reserve-currency/schelling-network-oracles-are-vulnerable-to-manipulation-68d1a88cbcf3)[📖](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803)[📖](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f)[📖](https://cryptoslate.com/chainlink/)[📖](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/)[📖](https://www.investinblockchain.com/what-is-chainlink-link/)[📖](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974)
   - more articles[📖](https://github.com/JohannEid/awesome-chainlink#on-the-importance-of-oracles)
   - tutorials
+    - getting-started[📖](https://docs.chain.link/getting-started/conceptual-overview)
+    - overview[▶️](https://youtu.be/GnXsJe2wZ_w)[▶️](https://youtu.be/uycQ7ReSt_c)
     - CET[▶️](https://www.youtube.com/watch?v=9uUk9neDqcM&list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J)
     - CDW[▶️](https://www.youtube.com/watch?v=JWJWT9cwFbo&list=PLVP9aGDn-X0SPHromvpiGvoNDpH7YErmf)
-    - getting-started[📖](https://docs.chain.link/getting-started/conceptual-overview)
+    - DeFi Oracles[▶️](https://www.youtube.com/watch?v=UAP6--JTAlU&list=PLVP9aGDn-X0TOlmBenq9dCICrdKcSilAw)
   - examples
     - smartcontractkit/[🧰](https://github.com/smartcontractkit/truffle-starter-kit)[🧰](https://github.com/smartcontractkit/LinkToken)[🧰](https://github.com/smartcontractkit/hardhat-starter-kit)[🧰](https://github.com/smartcontractkit/chainlink-brownie-contracts)
     - dappuniversity/[🧰](https://github.com/dappuniversity/chainlink_betting_game)
