@@ -468,6 +468,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - eth-converter[🔨](https://eth-converter.com/)
     - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
   - []()
+  - tokens NFT
+    - erc20 erc721 erc1155[📖](https://www.blockchain-council.org/ethereum/erc20-vs-erc721/)[▶️](https://www.youtube.com/watch?v=gwn1rVDuGL0&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=53)[▶️](https://www.youtube.com/watch?v=9PBq9HfBUDY&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=73)[▶️](https://www.youtube.com/watch?v=g3IKJnInY4k&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=63)[▶️](https://www.youtube.com/watch?v=HTm-1JtI0fA&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=44)[▶️](https://www.youtube.com/watch?v=KZbKJGJshtM&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=56)
   - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
   - ttumiel/Awesome-Ethereum[😎](https://github.com/ttumiel/Awesome-Ethereum)
   - []()
