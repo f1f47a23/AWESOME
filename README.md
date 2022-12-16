@@ -373,7 +373,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 ##### <sub>*2-xrphook*</sub>🚪
-### - xrpl-hooks-v2🪝  <sub>*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-[c](https://youtu.be/p6fmvXTTM1k)ontracts*</sub>  <sup>*`🐞 testing`*</sup>
+### - xrpl-hooks-v2 🪝 <sup>*`🐞 testing`*</sup>
+*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-[c](https://youtu.be/p6fmvXTTM1k)ontracts*  
 
   - main
     - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
@@ -452,8 +453,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 ##### <sub>*2-sol*</sub>🚪
-## `Ethereum web3`<sub>*` Smart-Contracts Dapps Solidity`*</sub> ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
-
+## `Ethereum web3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+*` Smart-Contracts Dapps Solidity`*
 
 ### - ethereum
 
