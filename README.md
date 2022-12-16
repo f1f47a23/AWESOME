@@ -68,6 +68,7 @@
     - xpring-eng/rippled-network-crawler[🧱](https://github.com/xpring-eng/rippled-network-crawler)
   - []()
   - clio server[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
+  - []()
 
 
 
@@ -380,7 +381,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
   - []()
   - forum blog newsletter
-    - amendment[🧱](https://github.com/XRPLF/rippled/pull/4225)
+    - amendments[🧱](https://github.com/XRPLF/rippled/pull/4225)
     - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
     - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
     - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
@@ -490,6 +491,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 ### - solidity
+
   - main
     - ethereum.org/solidity[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)
     - references[📖](https://soliditylang.org/)
