@@ -31,9 +31,7 @@
 
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
-    - py1.0[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sub>*Python 1.0*</sub>
-    - py1.7[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/)
-    - py2.0[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html) <sub>*Python 2.0*</sub>
+    - python1.0[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) python1.7[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) python2.0[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html) <sub>*Python 2.0*</sub>
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
