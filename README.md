@@ -569,6 +569,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
   - others
     - web3 job[🌐](https://web3.career/)[🌐](aworker.io)[🌐](cryptocurrencyjobs.co)[🌐](cryptojobslist.com)[🌐](crypto.jobs)
+  - []()
 
 
 ### - chainlink <sup>`“⬡ LINK`</sup> <sub>*decentralized-oracle-net*</sub>
