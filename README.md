@@ -578,6 +578,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
   - main
     - [🌐](https://chain.link/)[📖](https://link.smartcontract.com/whitepaper)[▶️](https://youtu.be/7Ow8uN1TmxA)[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)[▶️](https://www.youtube.com/@chainlink)
+    - datafeeds[📖](https://docs.chain.link/data-feeds)[📖](https://docs.chain.link/data-feeds/price-feeds/addresses/)
     - explorer[🌐](https://explorer.chain.link/)
     - blog and forum[📖](https://blog.chain.link/)[📖](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/)[👨](https://github.com/smartcontractkit/chainlink/issues)
   - []()
