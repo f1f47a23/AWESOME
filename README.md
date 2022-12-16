@@ -249,7 +249,7 @@
 
 ### - XRP non custodial wallets 👛[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo)
 
-  - xumm.app[🌎](https://xumm.app/) <sup>*React Native / 4 iOS and Android*</sup>
+  - xumm.app[🌎](https://xumm.app/) <sup>*React-Native iOS Android*</sup>
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)
     - Xumm Developer Education [📖](https://learn.xumm.dev/)
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
