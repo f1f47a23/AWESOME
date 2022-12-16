@@ -400,7 +400,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
   - applications
     - HotPocketDev/evernode-hook[🧱](https://github.com/HotPocketDev/evernode-hook) <sub>*hook for Evernode*</sub>
-  - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
+  - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup> ***`future xrpl tools`***[👉](https://youtu.be/1RIdOGfDYgQ)
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
 
