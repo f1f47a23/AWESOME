@@ -285,14 +285,11 @@
   - more service providers
     - xrptoolkit.com testnet[🌐](https://test.xrptoolkit.com/)mainnet[🌐](https://www.xrptoolkit.com/)
     - xrplorer[🌐](https://xrplorer.com/)
-    - xdex[🌐](https://xdex.com/)
     - xrpintel[🌐](https://xrpintel.com/)
     - threexrp[🌐](https://threexrp.dev/dex)
-    - onthedex[🌐](https://onthedex.live/)
     - paystring[🌐](https://paystring.org/)
     - xrp.co[🌐](https://www.xrp.co/)
     - xrpl-metrics[🌐](https://xrpl-metrics.com/)
-    - theworldexchange.net[🌐](https://www.theworldexchange.net/)
     - blockexplorer.one testnet[🌐](https://blockexplorer.one/xrp/testnet)mainnet[🌐](https://blockexplorer.one/xrp/mainnet)
     - yusufsahinhamza/testnet-faucet[🚰](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧱](https://github.com/yusufsahinhamza/xrp-testnet-faucet)
     - testnet.help[🌐](https://testnet.help/en/)[🚰](https://testnet.help/en/xrpfaucet/testnet)
@@ -301,8 +298,6 @@
     - blockchair[🌐](https://blockchair.com/ripple)
     - xrplstatus[🌐](https://xrplstatus.com/)
     - onxrp.com <sup>*ecosystem*</sup>[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
-    - xrpl.to *launch*[🌐](https://xrpl.to/)
-    - XPmarket <sup>*tokens*</sup>[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
   - []()
   - more applications
     - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
@@ -311,20 +306,14 @@
     - Platonenkov/XRPL.DataRippleService[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)[👇](#2-xrpnft) <sub>*C# XRPL data.ripple.com API*</sub> 
     - chriswill/RippleDotNet[🧱](https://github.com/chriswill/RippleDotNet) <sub>*C# Ripple WebSocket APIs*</sub>
     - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
-    - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
-    - XPT
-      - xptxrpl[🌐](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website) <sub>*XRPL Portfolio Tracker account info*</sub>
-      - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
-      - TusharPardhe/xpt-backend[🧱](https://github.com/TusharPardhe/xpt-backend)
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
     - talentchain[🌐](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
-    - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
     - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
-    - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
     - AlexanderBuzz/xrpl-php[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*PHP library to interact with XRP Ledger*</sub>
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
+  - ***`nft/tokens/dex services below`***[👇](#2-xrpnft)
   - []()
 
 
@@ -364,8 +353,19 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
   - ***`tutorials and samples`***[☝️](#--learning-resources)
   - []()
-  - applications
+  - services and applications
+    - xdex[🌐](https://xdex.com/)
+    - XPmarket <sup>*tokens*</sup>[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
+    - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
+    - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
     - nftmaster.com[🌎](https://nftmaster.com/) [§](https://xrpl.org/blog/2022/nftmaster.html) <sub>**</sub>
+    - onthedex[🌐](https://onthedex.live/)
+    - theworldexchange.net[🌐](https://www.theworldexchange.net/)
+    - xrpl.to *launch*[🌐](https://xrpl.to/)
+    - XPT
+      - xptxrpl[🌐](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website) <sub>*XRPL Portfolio Tracker account info*</sub>
+      - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
+      - TusharPardhe/xpt-backend[🧱](https://github.com/TusharPardhe/xpt-backend)
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
@@ -413,6 +413,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
     - applications
+      - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
       - ObiajuluM/eXRP-Contracts[🧱](https://github.com/ObiajuluM/eXRP-Contracts)
       - bibbleso/xrpl-network-registry[🧱](https://github.com/bibbleso/xrpl-network-registry)
     - xrpl+metamask+snaps[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)
