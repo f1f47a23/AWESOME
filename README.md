@@ -66,6 +66,7 @@
     - ripple/rippledmon[🧱](https://github.com/ripple/rippledmon)
     - xpring-eng/xrpl-validator-domains[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
     - xpring-eng/rippled-network-crawler[🧱](https://github.com/xpring-eng/rippled-network-crawler)
+  - []()
   - clio server[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
 
 
@@ -88,7 +89,7 @@
   - xrplf Intro to the XRP Ledger[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
   - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
   - xrpdev[▶️](https://www.youtube.com/c/XRPDEV/videos)
-  - Rippled Source Code Guide (xrpintel)[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
+  - Rippled Source Code Guide <sub>xrpintel</sub>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
   - []()
 
 
@@ -142,6 +143,7 @@
     - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
     - XADDRESS
       - xrp-community/xrpl-tagged-address-codec[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
+  - []()
   - xrp-paper-wallet account keypairs👛
     - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
     - XLS-12d: Secret Numbers[📖](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[📖](https://github.com/XRPLF/XRPL-Standards/issues/15) <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
@@ -252,6 +254,7 @@
     - XRPL-Labs/Xumm-Universal-SDK[🧱](https://github.com/XRPL-Labs/Xumm-Universal-SDK) <sub>*One SDK to rule them all. Universal JS/TS (CLI, Browser, xApp) SDK*</sub>
       - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)[🧱](https://github.com/XRPL-Labs/xApp-SDK)[🧱](https://github.com/XRPL-Labs/XummPkce)
       - XRPL-Labs/XUMM-Issue-Tracker[🧱](https://github.com/XRPL-Labs/XUMM-Issue-Tracker)
+  - []()
   - gemwallet[🌐](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
   - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
@@ -263,6 +266,7 @@
 ### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
 
   - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
+  - []()
   - main service providers
     - bithomp[🌐](https://bithomp.com/)
       - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
@@ -356,6 +360,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
   - ***`tutorials and samples`***[☝️](#--learning-resources)
+  - []()
   - applications
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
@@ -370,22 +375,25 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - main
     - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
     - **richard/xrpl.js**[🌵](https://github.com/RichardAH/xrpl.js)[🧱](https://github.com/XRPLF/xrpl.js)
-    - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
-    - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
-    - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
     - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
     - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
     - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
+  - []()
   - forum blog newsletter
     - amendment[🧱](https://github.com/XRPLF/rippled/pull/4225)
     - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
     - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
     - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
+  - []()
   - tools
+    - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
+    - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
+    - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
     - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
     - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
     - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
     - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
+  - []()
   - applications
     - HotPocketDev/evernode-hook[🧱](https://github.com/HotPocketDev/evernode-hook) <sub>*hook for Evernode*</sub>
   - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
@@ -410,6 +418,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
   - []()
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
+  - []()
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
   - []()
 
@@ -425,7 +434,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
   - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
   - []()
-  - [🖕around:](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
+  - [🖕around](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - WrathofKahneman notes[🐦](https://twitter.com/WKahneman/status/1543726915281858560)[📖](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/WrathofKahneman-AMM-tw-2022.07.03.pdf)references[🌐](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)[▶️](https://youtu.be/U0vHwuYER5Q?t=574)[🌐](https://blog.bancor.network/guide-how-to-stake-liquidity-in-bancor-pools-758df075e7e6)[🌐](https://medium.com/hummingbot/how-to-arbitrage-uniswap-balancer-and-other-amms-ddba34a8bc21)
     - FloFlo Kneteknilch notes[🐦](https://twitter.com/Kneteknilch/status/1593371352827936770)[📖](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/Kneteknilch-tw-2022.11.18..pdf)references[▶️](https://youtu.be/uxcqp31DCik?t=1662)[▶️](https://youtu.be/vCcWl85MXTE?t=191)
     - articles[🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
@@ -446,14 +455,16 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
   - ethereum.org[🌐](https://ethereum.org/)[📖](https://ethereum.org/en/developers/docs/)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
   - etherscan.io[🌐](https://etherscan.io/)
-  - testnets
-    - sepolia[🌐](https://sepolia.etherscan.io/)
-    - goerli[🌐](https://goerli.etherscan.io/)
+  - forums[👨](https://ethereum.stackexchange.com/)
+  - []()
   - tools and libs
+    - testnets
+      - sepolia[🌐](https://sepolia.etherscan.io/)
+      - goerli[🌐](https://goerli.etherscan.io/)
     - several faucets[🚰](https://faucetlink.to/)
     - eth-converter[🔨](https://eth-converter.com/)
     - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
-  - forums[👨](https://ethereum.stackexchange.com/)
+  - []()
   - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
   - ttumiel/Awesome-Ethereum[😎](https://github.com/ttumiel/Awesome-Ethereum)
   - []()
@@ -466,6 +477,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - metamask+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
     - snaps[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme)  <sub>*snaps extension for metamask*</sub>
+  - []()
   - MEW myetherwallet[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet) <sub>*smart-contracts tokens NFT swap*</sub>
   - trustwallet[🌐](https://trustwallet.com/)[🌐](https://developer.trustwallet.com/wallet-core)[🧰](https://github.com/trustwallet/wallet-core)
   - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
