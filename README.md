@@ -31,7 +31,8 @@
 
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
-    - python1.0[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) python1.7[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) python2.0[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
+    - python 1.0[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) 1.7[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) 2.0[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
+    - java 2.5[🧱](https://github.com/XRPLF/xrpl4j)
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
@@ -104,8 +105,6 @@
     - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
-  - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*(Oracle) Persist XRP-USD price(s) on the xrpl*</sub>
-  - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
   - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
@@ -304,8 +303,6 @@
     - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
     - Platonenkov/XRPL.DataRippleService[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)[👇](#2-xrpnft) <sub>*C# XRPL data.ripple.com API*</sub> 
     - chriswill/RippleDotNet[🧱](https://github.com/chriswill/RippleDotNet) <sub>*C# Ripple WebSocket APIs*</sub>
-    - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
-    - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
     - talentchain[🌐](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
@@ -413,7 +410,11 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
     - applications
+      - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*(Oracle) Persist XRP-USD price(s) on the xrpl*</sub>
+      - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
+      - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
       - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
+      - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
       - ObiajuluM/eXRP-Contracts[🧱](https://github.com/ObiajuluM/eXRP-Contracts)
       - bibbleso/xrpl-network-registry[🧱](https://github.com/bibbleso/xrpl-network-registry)
     - xrpl+metamask+snaps[🦊](https://xrpl.org/connect-metamask-to-xrpl-evm-sidechain.html)
