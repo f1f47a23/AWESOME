@@ -90,7 +90,7 @@
   - xrplf Intro to the XRP Ledger[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
   - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
   - xrpdev[▶️](https://www.youtube.com/c/XRPDEV/videos)
-  - Rippled Source Code Guide <sub>xrpintel</sub>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
+  - Rippled Source Code Guide <sup>*xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
   - []()
 
 
@@ -298,9 +298,9 @@
     - zerpcraft[🌐](https://www.zerpcraft.com/)
     - blockchair[🌐](https://blockchair.com/ripple)
     - xrplstatus[🌐](https://xrplstatus.com/)
-    - onxrp.com <sub>*ecosystem*</sub>[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
+    - onxrp.com <sup>*ecosystem*</sup>[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
     - xrpl.to *launch*[🌐](https://xrpl.to/)
-    - XPmarket[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*(tokens) Web3 tools built for XRP Ledger*</sub>
+    - XPmarket <sup>*tokens*</sup>[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
   - []()
   - more applications
     - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
