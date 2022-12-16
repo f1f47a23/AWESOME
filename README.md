@@ -218,7 +218,7 @@
   - SumiMakito/AwesomeQRCode[😎](https://github.com/SumiMakito/AwesomeQRCode)
   - []()
 
-### - algorithms
+### - others algorithms
 
   - compression
     - lz4[🧰](https://github.com/lz4/lz4)
