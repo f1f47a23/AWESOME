@@ -31,7 +31,7 @@
 
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
-    - [🧱](https://github.com/XRPLF/xrpl-py)[🌐](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sub>*Python version*</sub>
+    - [🧱](https://github.com/XRPLF/xrpl-py)[🌐](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) 2.0[§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html) <sub>*Python version*</sub>
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - rippled-server-software[{✘}](https://xrplf.github.io/rippled/) <sub>*for the XRP Ledger - written in c++ - runs on linux/mac/windows*</sub>
   - **XRPLF/rippled**[🧱](https://github.com/XRPLF/rippled)
@@ -363,6 +363,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - ***`tutorials and samples`***[☝️](#--learning-resources)
   - []()
   - applications
+    - nftmaster.com[🌎](https://nftmaster.com/) [§](https://xrpl.org/blog/2022/nftmaster.html) <sub>**</sub>
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
