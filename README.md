@@ -455,7 +455,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
-### - ~~codius~~ <sup>archived</sup>
+### - ~~codius~~ <sup>*archived*</sup>
 
   - [🌐](https://codius.org/)
   - []()
