@@ -97,6 +97,7 @@
   - []()
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
   - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
+  - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
     - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
     - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
@@ -304,7 +305,6 @@
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
     - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
-    - AlexanderBuzz/xrpl-php[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*PHP library to interact with XRP Ledger*</sub>
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
   - ***`nft/tokens/dex services below`***[👇](#2-xrpnft)
   - []()
@@ -545,6 +545,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - saeidshirazi/Awesome-Smart-Contract-Security[😎](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
     - nongiach/awesome-cryptocurrency-security[😎](https://github.com/nongiach/awesome-cryptocurrency-security)
     - 0x3bfc/Awesome-Smart-Contracts-Notes[😎](https://github.com/0x3bfc/Awesome-Smart-Contracts-Notes)
+  - []()
   - bkrem/awesome-solidity[😎](https://github.com/bkrem/awesome-solidity)
   - []()
 
@@ -623,7 +624,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
-### - flare
+### - flare <sub>*waiting 4 ethereum proof-of-[s](https://youtu.be/trwhWsKm3Qs)take ar[m](https://youtu.be/6En7QcfuqTI)ageddon*</sub>
 
   - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
   - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
