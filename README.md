@@ -50,7 +50,7 @@
   - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments) <sub>*Xrp Ledger Standards / drafts*</sub>
   - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev) xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/) ripple-insight[🌎](https://ripple.com/insights/) channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos) APEX<sub>*2022*</sub>[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)<sub>*2021*</sub>[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
   - tech-forums[👨](https://www.xrpchat.com/forum/16-technical-discussion/)[👨](https://stackoverflow.com/questions/tagged/xrp) reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/) xrpchat[👨](https://www.xrpchat.com/) fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
-  - xrpcommunity.blog[🌎](https://xrpcommunity.blog/) <sub>*archived*</sub>
+  - ~~xrpcommunity.blog~~[🌎](https://xrpcommunity.blog/) <sup>*archived*</sup>
   - []()
   - stedas[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas) xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/) MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP) <sub>*news guides & infographics*</sub>
   - []()
@@ -455,6 +455,13 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
+### - ~~codius~~ <sup>archived</sup>
+
+  - [🌐](https://codius.org/)
+  - []()
+  
+  
+
 
 
 ******
@@ -625,13 +632,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
-
-### - codius (archived)
-
-  - [🌐](https://codius.org/)
-  - []()
-  
-  
   
 ******
 
