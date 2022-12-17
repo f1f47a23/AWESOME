@@ -91,12 +91,12 @@
 ##### <sub>*1-xrpdevtool*</sub>🚪
 ### - xrpl-devtools & examples
 
-  - **XRPLF/xrpl.js**[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*A JS/TS API for interacting with the XRP Ledger in Node.js & browser*</sub>
+  - **XRPLF/xrpl.js** <sup>js/ts nodejs/browser</sup>[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*API for interacting with the XRP Ledger*</sub>
     - XRPLF/xrpl-py <sup>python</sup> 1.0[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) 1.7[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) 2.0[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
     - XRPLF/xrpl4j <sup>java</sup> 2.5[🧱](https://github.com/XRPLF/xrpl4j)
-    - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*C# Ripple WebSocket APIs*</sub>
   - []()
   - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
+  - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
   - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
     - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
     - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
