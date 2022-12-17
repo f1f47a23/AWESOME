@@ -71,7 +71,7 @@
     - xpring-eng/xrpl-validator-domains[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
     - xpring-eng/rippled-network-crawler[🧱](https://github.com/xpring-eng/rippled-network-crawler)
   - []()
-  - clio server[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  <sup>*`📡 research`*</sup>
+  - clio server <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
   - []()
 
 
@@ -140,7 +140,7 @@
     - XLS-17d[📖](https://github.com/XRPLF/XRPL-Standards/discussions/39) <sub>*Construct/Deconstruct XFL floating point values*</sub>
       - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) 
     - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
-    - XADDRESS
+    - XADDRESS <sub>*= address + destination tag*</sub>
       - xrp-community/xrpl-tagged-address-codec[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
   - []()
   - xrp-paper-wallet account keypairs👛
@@ -271,7 +271,7 @@
       - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
       - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
     - xrpscan[🌐](https://xrpscan.com/)public-API[📖](https://docs.xrpscan.com/)[🧱](https://github.com/xrpscan)
-    - gatehub explorer [🌐](https://gatehub.net/explorer)
+    - gatehub explorer[🌐](https://gatehub.net/explorer)
     - xrpl-services[🌐](https://xrpl.services/)[🧱](https://github.com/nixer89)
       - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer) <sub>*real-time visualization of the XRP Ledger*</sub>
       - nixer89/xrpl-data-api[🧱](https://github.com/nixer89/xrpl-data-api) <sub>*api to provide xrp ledger data*</sub>
