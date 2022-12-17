@@ -34,7 +34,7 @@
      - quickstart & samples [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
     - xrplf Intro to the XRP Ledger[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)
     - wietse[▶️](https://www.youtube.com/c/WietseWind/videos)
-    - xrpdev[▶️](https://www.youtube.com/c/XRPDEV/videos)
+    - xrpdev[▶️](https://www.youtube.com/c/XRPDEV/videos) 
     - Rippled Source Code Guide <sup>*xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
   - []()
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
