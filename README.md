@@ -357,13 +357,13 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
-    - Platonenkov/XRPL.TrustlineService[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*C# XRPL trustline service*</sub>
+    - Platonenkov/XRPL.TrustlineService[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)<sup>*C#</sup>[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
     - ***`more defi dex`***[👇](#2-xrpdexamm)
   - []()
 
 
 ##### <sub>*2-xrpdexamm*</sub>🚪
-### - DEX & AMM <sub>*Automate[d](https://youtu.be/-4_fwzC4PNI) Market Makers, Liquidity Pools*</sub>  <sup>*`📡 research 🐞 testing`*</sup>
+### - DEX & AMM <sup>*`📡research 🐞testing`*</sup> <sub>*Automate[d](https://youtu.be/-4_fwzC4PNI) Market Makers, Liquidity Pools*</sub>  
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)[🌎](https://dev.to/ripplexdev/a-proposal-for-the-future-of-the-xrp-ledger-dex-4l7e)[🌎](https://dev.to/ripplexdev/xrpl-amm-network-available-for-testing-and-development-426i) <sub>*amm on xrpl*</sub>
   - bithomp-amm-explorer[🌎](https://amm.bithomp.com/)[🚰](https://amm.bithomp.com/faucet/)
@@ -399,7 +399,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 ##### <sub>*2-xrpside*</sub>🚪
-### - sidechains <sub>*Interoperability*</sub>  <sup>*`📡 research`*</sup>
+### - sidechains <sup>*`📡research`*</sup> <sub>*Interoperability*</sub>  
 
   - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) <sup>`eXRP token`</sup>
     - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
