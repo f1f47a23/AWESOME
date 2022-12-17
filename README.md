@@ -48,7 +48,7 @@
 ### - forums bulletins news updates
 
   - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments) <sub>*Xrp Ledger Standards / drafts*</sub>
-  - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev) xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/) ripple-insight[🌎](https://ripple.com/insights/) channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos) APEX<sub>*2022*</sub>[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)<sub>*2021*</sub>[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
+  - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev) xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/) ripple-insight[🌎](https://ripple.com/insights/) dev.to/wietse[📖](https://dev.to/wietse) channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos) APEX<sub>*2022*</sub>[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)<sub>*2021*</sub>[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
   - tech-forums[👨](https://www.xrpchat.com/forum/16-technical-discussion/)[👨](https://stackoverflow.com/questions/tagged/xrp) reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/) xrpchat[👨](https://www.xrpchat.com/) fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
   - ~~xrpcommunity.blog~~[🌎](https://xrpcommunity.blog/) <sup>*archived*</sup>
   - []()
@@ -385,9 +385,11 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - services and applications
     - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
     - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
-    - XRPL-Labs/XRP-Price-Aggregator[🧱](https://github.com/XRPL-Labs/XRP-Price-Aggregator) <sub>*Fetches XRP-USD prices from multiple data sources*</sub>
+    - XRPL-Labs/XRP-Price-Aggregator[🧱](https://github.com/XRPL-Labs/XRP-Price-Aggregator)[📖](https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087) <sub>*Fetches XRP-USD prices from multiple data sources*</sub>
     - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*Oracle Persist XRP-USD prices on the xrpl*</sub>
     - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
+    - yyolk/xrpl-price-persist-oracle <sup>python</sup>[🧱](https://github.com/yyolk/xrpl-price-persist-oracle)[🧱](https://github.com/yyolk/xrpl-price-persist-oracle-metrics)
+    - hammertoe/dexter <sup>python</sup>[🧱](https://github.com/hammertoe/dexter)
     - xdex[🌐](https://xdex.com/)
     - XPmarket <sup>*tokens*</sup>[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
     - onthedex[🌐](https://onthedex.live/)
