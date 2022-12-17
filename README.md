@@ -624,7 +624,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
-### - flare <sub>*waiting 4 ethereum proof-of-[s](https://youtu.be/trwhWsKm3Qs)take ar[m](https://youtu.be/6En7QcfuqTI)ageddon*</sub>
+### - flare <sub>*waiting 4 ethereum proof-of-[s](https://youtu.be/trwhWsKm3Qs)take ar[m](https://youtu.be/6En7QcfuqTI)age[d](https://youtu.be/ROaGKETvMg0)do[n](https://youtu.be/EKQCM40VsWA)*</sub>
 
   - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
   - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
