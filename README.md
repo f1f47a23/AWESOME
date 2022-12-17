@@ -304,7 +304,7 @@
     - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
       - xpring-eng/testnet-faucet[🧱](https://github.com/xpring-eng/testnet-faucet)
     - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
-    - Platonenkov/XRPL.DataRippleService[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)[👇](#2-xrpnft) <sub>*C# XRPL data.ripple.com API*</sub> 
+    - Platonenkov/XRPL.DataRippleService[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)<sup>C#</sup>[👇](#2-xrpnft) <sub>XRPL data.ripple.com API*</sub> 
     - talentchain[🌐](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
