@@ -91,18 +91,20 @@
 ##### <sub>*1-xrpdevtool*</sub>🚪
 ### - xrpl-devtools & examples
 
-  - **XRPLF/xrpl.js** <sup>js/ts nodejs/browser</sup>[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*API for interacting with the XRP Ledger*</sub>
-    - XRPLF/xrpl-py <sup>python</sup> 1.0[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) 1.7[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) 2.0[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
-    - XRPLF/xrpl4j <sup>java</sup> 2.5[🧱](https://github.com/XRPLF/xrpl4j)
+  - API/library for interacting with the XRP Ledger
+    - **XRPLF/xrpl.js** <sup>js/ts nodejs/browser</sup>[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*API for interacting with the XRP Ledger*</sub>
+      - XRPLF/xrpl-py <sup>python</sup> 1.0[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) 1.7[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) 2.0[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
+      - XRPLF/xrpl4j <sup>java</sup> 2.5[🧱](https://github.com/XRPLF/xrpl4j)
+    - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
+    - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
+    - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - []()
-  - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
-  - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
-  - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
     - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
     - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
     - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
     - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
+  - []()
   - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
   - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
@@ -112,9 +114,11 @@
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
   - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
+  - []()
   - advanced payment features
     - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
     - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
+  - []()
   - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>
   - []()
 
