@@ -308,7 +308,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
     - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
-  - ***`nft/tokens/dex services below`***[👇](#2-xrpnft)
+  - ***`nft/tokens/dex/defi services`***[👇](#2-xrpnft)
   - []()
 
 
