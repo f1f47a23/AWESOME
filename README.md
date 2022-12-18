@@ -30,7 +30,7 @@
 ### - main
 
    - learning resources
-     - ***XRPL Learning Portal***[{✘}](https://learn.xrpl.org/) <sub>*[4](https://youtu.be/AHke_iPOERo) absolute beginners*</sub>
+     - ***XRPL Learning Portal***[{✘}](https://learn.xrpl.org/) <sub>*4 absolute beginners*</sub>
      - quickstart & samples [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
      - channels[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)[▶️](https://www.youtube.com/c/WietseWind/videos)[▶️](https://www.youtube.com/c/XRPDEV/videos) 
      - Rippled Source Code Guide <sup>*xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
@@ -52,9 +52,8 @@
   - tech-forums[👨](https://www.xrpchat.com/forum/16-technical-discussion/)[👨](https://stackoverflow.com/questions/tagged/xrp) reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/) xrpchat[👨](https://www.xrpchat.com/) fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
   - ~~xrpcommunity.blog~~[🌎](https://xrpcommunity.blog/) <sup>*archived*</sup>
   - []()
-  - stedas[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas) xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/) MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP) <sub>*news guides & infographics*</sub>
-  - []()
-  - new[s](https://youtu.be/XSoG7m1V6aw?t=28) channels
+  - news channels guides & infographics
+    - stedas[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas) xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/) MackAttackXRP news[🐦](https://twitter.com/MackAttackXRP)
     - <sub>[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/channel/UCtQycmSrKdJ0zE0bWumO4vA/)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/channel/UCf3Vlkhhxrwr3A8IYN8KVkw/) 🔥 [▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/user/erichanintokyo/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/AlexCobbXRP/) 🔥 [▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/)[▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/) 🔥 [▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/)[▶️](https://www.youtube.com/channel/UChXTjLrHpuPi4zjPdYM2erA/)[▶️](https://www.youtube.com/c/NotoriousXRP) 🔥 [▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/channel/UCjemQfjaXAzA-95RKoy9n_g/)[▶️](https://www.youtube.com/user/CrazymonkeyMBS/)[▶️](https://www.youtube.com/c/amtv)[▶️](https://www.youtube.com/c/PaulBarronNetwork)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/) 🔥 </sub>
   - []()
 
@@ -367,7 +366,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 ##### <sub>*2-xrpdexamm*</sub>🚪
-### - DEX & AMM <sup>*`📡research 🐞testing`*</sup> <sub>*Automate[d](https://youtu.be/-4_fwzC4PNI) Market Makers, Liquidity Pools*</sub>  
+### - DEX & AMM <sup>*`📡research 🐞testing`*</sup> <sub>*Automated Market Makers, Liquidity Pools*</sub>  
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)[🌎](https://dev.to/ripplexdev/a-proposal-for-the-future-of-the-xrp-ledger-dex-4l7e)[🌎](https://dev.to/ripplexdev/xrpl-amm-network-available-for-testing-and-development-426i) <sub>*amm on xrpl*</sub>
   - bithomp-amm-explorer[🌎](https://amm.bithomp.com/)[🚰](https://amm.bithomp.com/faucet/)
@@ -428,7 +427,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ##### <sub>*2-xrphook*</sub>🚪
 ### - xrpl-hooks-v2 🪝 <sup>*`🐞 testing`*</sup>
-*Layer1-native-bespok[e](https://youtu.be/MK_n4ToccWM)-lite-smart-[c](https://youtu.be/p6fmvXTTM1k)ontracts*  
+*Layer1-native-bespoke-lite-smart-contracts*  
 
   - main
     - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
@@ -538,7 +537,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - ***`more tutorials below`***[👇](#--web3-defi-dex)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
     - guides
-      - why soli[d](https://youtu.be/Ss-P4qLLUyk)ity sucks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
+      - why solidity sucks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
       - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY) <sub>*Dapp = frontend + smart contract backend*</sub>
       - smart-contract-development-best-practices[🌐](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
       - clean-contracts[🌐](https://www.useweb3.xyz/guides/clean-contracts)
@@ -600,7 +599,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-### - chainlink <sup>`“⬡ LINK`</sup> <sub>*decentralized-or[a](https://youtu.be/qChxzPDLhl0)cle-net*</sub>
+### - chainlink <sup>`“⬡ LINK`</sup> <sub>*decentralized-oracle-net*</sub>
 
   - main
     - [🌐](https://chain.link/)[📖](https://link.smartcontract.com/whitepaper)[▶️](https://youtu.be/7Ow8uN1TmxA)[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)[▶️](https://www.youtube.com/@chainlink)
@@ -631,7 +630,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
-### - flare <sub>*waiting 4 ethereum proof-of-[s](https://youtu.be/trwhWsKm3Qs)take ar[m](https://youtu.be/6En7QcfuqTI)age[d](https://youtu.be/ROaGKETvMg0)do[n](https://www.youtube.com/shorts/m5SAn1naDLw)*</sub>
+### - flare
 
   - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
   - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
@@ -686,16 +685,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-
-
-
-### - Moron Investing 
-
-  - <sub>*[🔼](https://youtu.be/KFRY0m_0vWo)[🔼](https://youtu.be/xbiDrzTd8fE)[🔼](https://youtu.be/ktGarjZC8E8)[🔼](https://youtu.be/61Q6wWu5ziY)[🔼](https://youtu.be/dfi-2cw_gTw)[🔼](https://youtu.be/bTpt5JH4TWs) 🔥 [🔼](https://youtu.be/fI16ylFLLz8)[🔼](https://youtu.be/E7aNCkKF-PQ)[🔼](https://youtu.be/AZwjMAs4WbQ)[🔼](https://youtu.be/3avgtqPKVc8)[🔼](https://youtu.be/YgJpV2DEQVA) 🔥 [🔼](https://youtu.be/-DT7bX-B1Mg)[🔼](https://youtu.be/s_wEhhFoUcw)[🔼](https://youtu.be/J9hClX7WENM)[🔼](https://youtu.be/SRFRCAQX-XA)[🔼](https://youtu.be/Ck98XGXzkrY)[🔼](https://youtu.be/H5e5LoVf96I) 🔥 [🔼](https://youtu.be/-AivV1CgWHc)[🔼](https://youtu.be/7gvogsnkjdc)[🔼](https://youtu.be/1cvGgzxvSQw)[🔼](https://youtu.be/FnKrMKo_WlU)[🔼](https://youtu.be/S48G__ssK-o) 🔥 [🔼](https://youtu.be/b1qj_ngyNYA)[🔼](https://youtu.be/8TYBTT0VA4o?t=1058)[🔼](https://youtu.be/7Lr3Fuk_Pmw)[🔼](https://youtu.be/ROaGKETvMg0)[🔼](https://youtu.be/G97gLy8iAqs)[🔼](https://youtu.be/s8n5jCuPS3E) 🔥 [🔼](https://youtu.be/hmmoXlFDP-g)[🖼️](https://imgur.com/a/lOgBxjU)[🔼](https://youtu.be/j7MeJionPMA)[🔼](https://youtu.be/5-gzWUErIJI)[🔼](https://youtu.be/c-v3iw4JH44)[🔼](https://youtu.be/nv56u-t_Fc4)[🔼](https://youtu.be/kYMBF8jEU28) [🐻](https://twitter.com/bearableguy123)[🐻](https://twitter.com/321yugelbaraeb)[🐻](https://twitter.com/IooP_rM311_7211)*</sub>
-  - []()
- 
- 
-### 
 
   
   
