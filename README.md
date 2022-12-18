@@ -37,7 +37,7 @@
   - []()
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - $$$ 💰💰💰 $$$ [{✘}](https://xrpl.org/blog/2022/dev-reflections-relaunch.html)[{✘}](https://xrpl.org/contribute.html)
-    - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and [p](https://youtu.be/00y8Oajzjs0)rojects*</sub>
+    - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and projects*</sub>
     - xrpl-grants[🌎](https://xrplgrants.org/) <sub>*$$$ support the development of new software projects $$$*</sub>
   - awesome xrpl [😎](https://youtu.be/xjo6WzXKeIs)
      - yyolk/[😎](https://github.com/yyolk/awesome-xrpl) vhpoet/[😎](https://github.com/vhpoet/awesome-ripple) TusharPardhe/[😎](https://github.com/TusharPardhe/xrpl-cheat-sheet) f1f47a23/[😎](https://github.com/f1f47a23/AWESOME)
