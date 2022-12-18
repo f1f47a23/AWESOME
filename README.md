@@ -33,8 +33,6 @@
      - ***XRPL Learning Portal***[{✘}](https://learn.xrpl.org/) <sub>*4 absolute beginners*</sub>
      - quickstart & samples [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
      - channels[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)[▶️](https://www.youtube.com/c/WietseWind/videos)[▶️](https://www.youtube.com/c/XRPDEV/videos) 
-     - Rippled Source Code Guide <sup>*xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp) <sub>*independent source code analysis of rippled v1.5.0*</sub>
-  - []()
   - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - $$$ 💰💰💰 $$$ [{✘}](https://xrpl.org/blog/2022/dev-reflections-relaunch.html)[{✘}](https://xrpl.org/contribute.html)
     - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and projects*</sub>
@@ -48,7 +46,7 @@
 ### - forums bulletins news updates
 
   - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments) <sub>*Xrp Ledger Standards / drafts*</sub>
-  - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev) xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/) ripple-insight[🌎](https://ripple.com/insights/) dev.to/wietse[📖](https://dev.to/wietse) channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos) APEX<sub>*2022*</sub>[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)<sub>*2021*</sub>[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
+  - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev) xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/) ripple-insight[🌎](https://ripple.com/insights/) dev.to/wietse[📖](https://dev.to/wietse) channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos) APEX<sup>*2022*</sup>[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)<sup>*2021*</sup>[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
   - tech-forums[👨](https://www.xrpchat.com/forum/16-technical-discussion/)[👨](https://stackoverflow.com/questions/tagged/xrp) reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/) xrpchat[👨](https://www.xrpchat.com/) fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
   - ~~xrpcommunity.blog~~[🌎](https://xrpcommunity.blog/) <sup>*archived*</sup>
   - []()
@@ -63,6 +61,7 @@
   - rippled servers nodes
     - validators[🌎](https://xrpscan.com/validators)
     - **XRPLF/rippled** <sup>C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
+     - Rippled Source Code Guide <sup>*v1.5 xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp)
     - ripple/validator-history-service[🧱](https://github.com/ripple/validator-history-service)
     - ripple/validator-keys-tool[🧱](https://github.com/ripple/validator-keys-tool)
     - ripple/validator-domain-verifier[🧱](https://github.com/ripple/validator-domain-verifier)
@@ -303,7 +302,7 @@
     - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
       - xpring-eng/testnet-faucet[🧱](https://github.com/xpring-eng/testnet-faucet)
     - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
-    - Platonenkov/XRPL.DataRippleService[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)<sup>C#</sup>[👇](#2-xrpnft) <sub>XRPL data.ripple.com API*</sub> 
+    - Platonenkov/XRPL.DataRippleService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)[👇](#2-xrpnft) <sub>XRPL data.ripple.com API*</sub> 
     - talentchain[🌐](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
@@ -360,13 +359,13 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
-    - Platonenkov/XRPL.TrustlineService[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)<sup>C#</sup>[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
+    - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
     - ***`more defi dex`***[👇](#2-xrpdexamm)
   - []()
 
 
 ##### <sub>*2-xrpdexamm*</sub>🚪
-### - DEX & AMM <sup>*`📡research 🐞testing`*</sup> <sub>*Automated Market Makers, Liquidity Pools*</sub>  
+### - DEX & AMM <sup>*`📡research`*</sup> <sub>*Automated Market Makers, Liquidity Pools*</sub>  
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)[🌎](https://dev.to/ripplexdev/a-proposal-for-the-future-of-the-xrp-ledger-dex-4l7e)[🌎](https://dev.to/ripplexdev/xrpl-amm-network-available-for-testing-and-development-426i) <sub>*amm on xrpl*</sub>
   - bithomp-amm-explorer[🌎](https://amm.bithomp.com/)[🚰](https://amm.bithomp.com/faucet/)
@@ -406,7 +405,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 ##### <sub>*2-xrpside*</sub>🚪
 ### - sidechains <sup>*`📡research`*</sup> <sub>*Interoperability*</sub>  
 
-  - EVM sidechain[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) <sup>`eXRP token`</sup>
+  - EVM sidechain <sup>`eXRP token`</sup>[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) 
     - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
     - applications
