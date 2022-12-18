@@ -561,7 +561,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - learning resources
     - solidity-by-example Defi[🌐](https://solidity-by-example.org/)[▶️](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
     - tutorials[🌐](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)[🌐](https://www.teachyourselfweb3.com/)[🌐](https://www.questbook.app/)[🌐](https://buildspace.so/)[🌐](https://cryptodevhub.io/) 🔥 [🌐](https://learnweb3.io/)
-    - Freecodecamp Patrick Collins[▶️](https://youtu.be/gyMwXuJrbJQ)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)[▶️](https://www.youtube.com/watch?v=Qe-3FUxThso&list=PLVP9aGDn-X0QRGpzjx3av5lDH6msuAeyU)[▶️](https://www.youtube.com/watch?v=wXEEfJ5L5jc&list=PLVP9aGDn-X0RaFosTIMTZss0dYNeXkrA3)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
+    - Freecodecamp Patrick Collins
+      - [▶️](https://youtu.be/gyMwXuJrbJQ)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) ***`see also chainlink`***[👇](#2-link)
+      - [▶️](https://www.youtube.com/watch?v=Qe-3FUxThso&list=PLVP9aGDn-X0QRGpzjx3av5lDH6msuAeyU)[▶️](https://www.youtube.com/watch?v=wXEEfJ5L5jc&list=PLVP9aGDn-X0RaFosTIMTZss0dYNeXkrA3)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
     - quick tutorials[▶️](https://www.youtube.com/watch?v=4cRXEGduA-o&list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl)[▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw) 🔥 [▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)[▶️](https://www.youtube.com/watch?v=QkmXFCBSHgs&list=PLvfQp12V0hS3HbYbGFIz5hcD59Ht8yYl3)[▶️](https://youtu.be/aqxAWLi6UMA) 
   - []()
   - tokens NFT
@@ -597,10 +599,11 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
+##### <sub>*2-link*</sub>🚪
 ### - chainlink <sup>`“⬡ LINK`</sup> <sub>*decentralized-oracle-net*</sub>
 
   - main
-    - [🌐](https://chain.link/)[📖](https://link.smartcontract.com/whitepaper)[▶️](https://youtu.be/7Ow8uN1TmxA)[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)[▶️](https://www.youtube.com/@chainlink)
+    - [🌐](https://chain.link/)[📖](https://link.smartcontract.com/whitepaper)[▶️](https://youtu.be/7Ow8uN1TmxA)[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)[🧰](https://github.com/smartcontractkit)[▶️](https://www.youtube.com/@chainlink)
     - datafeeds[📖](https://docs.chain.link/data-feeds)[📖](https://docs.chain.link/data-feeds/price-feeds/addresses/)
     - explorer[🌐](https://explorer.chain.link/)
     - blog and forum[📖](https://blog.chain.link/)[📖](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/)[👨](https://github.com/smartcontractkit/chainlink/issues)
