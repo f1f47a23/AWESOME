@@ -379,9 +379,10 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
   - []()
   - [🖕around](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
-    - WrathofKahneman notes[🐦](https://twitter.com/WKahneman/status/1543726915281858560)[📖](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/WrathofKahneman-AMM-tw-2022.07.03.pdf)references[🌐](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)[▶️](https://youtu.be/U0vHwuYER5Q?t=574)[🌐](https://blog.bancor.network/guide-how-to-stake-liquidity-in-bancor-pools-758df075e7e6)[🌐](https://medium.com/hummingbot/how-to-arbitrage-uniswap-balancer-and-other-amms-ddba34a8bc21)
-    - FloFlo Kneteknilch notes[🐦](https://twitter.com/Kneteknilch/status/1593371352827936770)[📖](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/Kneteknilch-tw-2022.11.18..pdf)references[▶️](https://youtu.be/uxcqp31DCik?t=1662)[▶️](https://youtu.be/vCcWl85MXTE?t=191)
-    - articles[🌐](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[🌐](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[🌐](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[🌐](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
+    - dex notes[📁](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/)
+    - WrathofKahneman notes[🐦](https://twitter.com/WKahneman/status/1543726915281858560)references[📝](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)[▶️](https://youtu.be/U0vHwuYER5Q?t=574)[📝](https://blog.bancor.network/guide-how-to-stake-liquidity-in-bancor-pools-758df075e7e6)[📝](https://medium.com/hummingbot/how-to-arbitrage-uniswap-balancer-and-other-amms-ddba34a8bc21)
+    - FloFlo Kneteknilch notes[🐦](https://twitter.com/Kneteknilch/status/1593371352827936770)references[▶️](https://youtu.be/uxcqp31DCik?t=1662)[▶️](https://youtu.be/vCcWl85MXTE?t=191)
+    - articles[📝](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[📝](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[📝](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[📝](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
     - clips[▶️](https://youtu.be/uxcqp31DCik)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/9cPGeLaiCfg) 🔥 [▶️](https://youtu.be/7MqZKVHSaxc)[▶️](https://youtu.be/yJR1ZzW9mbk)[▶️](https://youtu.be/e228p2Q36Vw)[▶️](https://youtu.be/cSqQ4bv5iyw)[▶️](https://youtu.be/5njKFYdxFxo) 🔥 [▶️](https://youtu.be/pikm4AD77oI)[▶️](https://youtu.be/MKaov0KxqVc)[▶️](https://youtu.be/s3KW2L6OfBc)
   - []()
   - services and applications
@@ -512,7 +513,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - ethers-io/ethers.js[🧰](https://github.com/ethers-io/ethers.js)
   - ConsenSysMesh/MultiSigWallet[🧰](https://github.com/ConsenSysMesh/MultiSigWallet)
   - ryepdx/[🧰](https://github.com/ryepdx/ethaddress.org) <sub>*paper wallet*</sub>
-  - best 2022 eth wallets[🌐](https://www.investopedia.com/best-ethereum-wallets-6830692)
+  - best 2022 eth wallets[📝](https://www.investopedia.com/best-ethereum-wallets-6830692)
   - []()
 
 
@@ -615,8 +616,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - blog and forum[📖](https://blog.chain.link/)[📖](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/)[👨](https://github.com/smartcontractkit/chainlink/issues)
   - []()
   - 🖕around
-    - articles[📖](https://medium.com/reserve-currency/schelling-network-oracles-are-vulnerable-to-manipulation-68d1a88cbcf3)[📖](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803)[📖](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f)[📖](https://cryptoslate.com/chainlink/)[📖](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/)[📖](https://www.investinblockchain.com/what-is-chainlink-link/)[📖](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974)
-    - more articles[📖](https://github.com/JohannEid/awesome-chainlink#on-the-importance-of-oracles)
+    - articles[📝](https://medium.com/reserve-currency/schelling-network-oracles-are-vulnerable-to-manipulation-68d1a88cbcf3)[📝](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803)[📝](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f)[📝](https://cryptoslate.com/chainlink/)[📝](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/)[📝](https://www.investinblockchain.com/what-is-chainlink-link/)[📝](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974)
+    - more articles[📝](https://github.com/JohannEid/awesome-chainlink#on-the-importance-of-oracles)
   - []()
   - tutorials
     - getting-started[📖](https://docs.chain.link/getting-started/conceptual-overview)
@@ -641,6 +642,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
   - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
   - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
+  - 🖕around
+    - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)
   - []()
 
 
