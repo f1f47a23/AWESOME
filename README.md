@@ -376,7 +376,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - [{✘}](https://xrpl.org/decentralized-exchange.html)[🌎](https://dev.to/ripplexdev/behind-the-scenes-of-the-xrpl-dex-4jb)
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
-  - burkebrunson/[📖](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[📖](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
+  - burkebrunson/[🗃️](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[🗃️](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
   - []()
   - [🖕around](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - dex notes[📁](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/)
@@ -640,8 +640,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ### - flare
 
-  - flare-foundation/docs[🧰](https://github.com/flare-foundation/docs)
-  - DefiStandardXRP/flare-docs[🧰](https://github.com/DefiStandardXRP/docs)
+  - flare-foundation/docs[🗃️](https://github.com/flare-foundation/docs)
+  - DefiStandardXRP/flare-docs[🗃️](https://github.com/DefiStandardXRP/docs)
   - 🖕around
     - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)
   - []()
