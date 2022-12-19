@@ -108,7 +108,7 @@
   - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
   - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
   - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
-  - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌐](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
+  - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌎](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
   - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
@@ -205,10 +205,13 @@
   - gnupg[🌐](https://www.gnupg.org/) <sub>*complete and free implementation of the OpenPGP standard*</sub>
   - gpg4win[🌐](https://www.gpg4win.org/) <sub>*free encryption tool to sign and encrypt files*</sub>
   - veracrypt[🌐](https://veracrypt.fr/) <sub>*free open source disk encryption for win/mac/linux*</sub>
-  - gabrielizalo/Awesome-JavaScript-Crypto-Libraries[😎](https://github.com/gabrielizalo/Awesome-JavaScript-Crypto-Libraries)
-  - pFarb/awesome-crypto-papers[😎](https://github.com/pFarb/awesome-crypto-papers)
-  - sobolevn/awesome-cryptography[😎](https://github.com/sobolevn/awesome-cryptography)
-  - veorq/awesome-post-quantum[😎](https://github.com/veorq/awesome-post-quantum)
+  - online tools
+    - [🌐](https://www.rapidtables.com/)[🌐](https://md5hashing.net/)[🌐](https://passwordsgenerator.net/)[🌐](https://tomeko.net/)[🌐](https://onlinetexttools.com/) 🔥 [🌐](http://spellbackwards.com/)[🌐](https://www.mobilefish.com/services/htpasswd_generator/htpasswd_generator.php)[🌐](https://www.boxentriq.com/)[🌐](https://cryptii.com/pipes/bitwise-calculator)[🌐](https://hexed.it/) 🔥 [🌐](http://www.unit-conversion.info/sitemap.html)[🌐](https://mothereff.in/)[🌐](https://www.browserling.com/tools/)[🌐](https://onlinebinarytools.com/)[🌐](https://www.srihash.org/) 🔥 [🌐](https://www.online-toolz.com/)[🌐]()[🌐]()[🌐]()[🌐]() 🔥
+  - awesome😎
+    - gabrielizalo/Awesome-JavaScript-Crypto-Libraries[😎](https://github.com/gabrielizalo/Awesome-JavaScript-Crypto-Libraries)
+    - pFarb/awesome-crypto-papers[😎](https://github.com/pFarb/awesome-crypto-papers)
+    - sobolevn/awesome-cryptography[😎](https://github.com/sobolevn/awesome-cryptography)
+    - veorq/awesome-post-quantum[😎](https://github.com/veorq/awesome-post-quantum)
   - []()
 
 ### - qrcode
@@ -257,56 +260,56 @@
       - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)[🧱](https://github.com/XRPL-Labs/xApp-SDK)[🧱](https://github.com/XRPL-Labs/XummPkce)
       - XRPL-Labs/XUMM-Issue-Tracker[🧱](https://github.com/XRPL-Labs/XUMM-Issue-Tracker)
   - []()
-  - gemwallet[🌐](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
-  - multiverse-wallet/[🌐](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
+  - gemwallet[🌎](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
+  - multiverse-wallet/[🌎](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
   - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
   - []()
 
 
 ##### <sub>*1-xrpsrvc*</sub>🚪
-### - MORE devnet/testnet/mainnet explorer/services[🌐](https://www.xrparcade.com/xrpecosystem/)[🌐](https://www.xrparcade.com/rippleecosystem/)
+### - MORE devnet/testnet/mainnet explorer/services[🌎](https://www.xrparcade.com/xrpecosystem/)[🌎](https://www.xrparcade.com/rippleecosystem/)
 
-  - Applications using xrpl.js[🌐](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
+  - Applications using xrpl.js[🌎](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
   - []()
   - main service providers
-    - bithomp[🌐](https://bithomp.com/)
-      - bithomp testnet[🌐](https://test.bithomp.com/)[🌐](https://test.bithomp.com/explorer/)
+    - bithomp[🌎](https://bithomp.com/)
+      - bithomp testnet[🌎](https://test.bithomp.com/)[🌎](https://test.bithomp.com/explorer/)
       - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
-    - xrpscan[🌐](https://xrpscan.com/)public-API[📖](https://docs.xrpscan.com/)[🧱](https://github.com/xrpscan)
-    - gatehub explorer[🌐](https://gatehub.net/explorer)
-    - xrpl-services[🌐](https://xrpl.services/)[🧱](https://github.com/nixer89)
+    - xrpscan[🌎](https://xrpscan.com/)public-API[📖](https://docs.xrpscan.com/)[🧱](https://github.com/xrpscan)
+    - gatehub explorer[🌎](https://gatehub.net/explorer)
+    - xrpl-services[🌎](https://xrpl.services/)[🧱](https://github.com/nixer89)
       - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer) <sub>*real-time visualization of the XRP Ledger*</sub>
       - nixer89/xrpl-data-api[🧱](https://github.com/nixer89/xrpl-data-api) <sub>*api to provide xrp ledger data*</sub>
-    - richlist[🌐](https://rich-list.info)
-    - xrplcoins[🌐](https://xrplcoins.com/dex)
+    - richlist[🌎](https://rich-list.info)
+    - xrplcoins[🌎](https://xrplcoins.com/dex)
   - []()
   - more service providers
-    - xrptoolkit.com testnet[🌐](https://test.xrptoolkit.com/)mainnet[🌐](https://www.xrptoolkit.com/)
-    - xrplorer[🌐](https://xrplorer.com/)
-    - xrpintel[🌐](https://xrpintel.com/)
-    - threexrp[🌐](https://threexrp.dev/dex)
-    - paystring[🌐](https://paystring.org/)
-    - xrp.co[🌐](https://www.xrp.co/)
-    - xrpl-metrics[🌐](https://xrpl-metrics.com/)
-    - blockexplorer.one testnet[🌐](https://blockexplorer.one/xrp/testnet)mainnet[🌐](https://blockexplorer.one/xrp/mainnet)
+    - xrptoolkit.com testnet[🌎](https://test.xrptoolkit.com/)mainnet[🌎](https://www.xrptoolkit.com/)
+    - xrplorer[🌎](https://xrplorer.com/)
+    - xrpintel[🌎](https://xrpintel.com/)
+    - threexrp[🌎](https://threexrp.dev/dex)
+    - paystring[🌎](https://paystring.org/)
+    - xrp.co[🌎](https://www.xrp.co/)
+    - xrpl-metrics[🌎](https://xrpl-metrics.com/)
+    - blockexplorer.one testnet[🌎](https://blockexplorer.one/xrp/testnet)mainnet[🌎](https://blockexplorer.one/xrp/mainnet)
     - yusufsahinhamza/testnet-faucet[🚰](https://yusufsahinhamza.github.io/xrp-testnet-faucet/)[🧱](https://github.com/yusufsahinhamza/xrp-testnet-faucet)
-    - testnet.help[🌐](https://testnet.help/en/)[🚰](https://testnet.help/en/xrpfaucet/testnet)
-    - getblock.io mainnet testnet [🌐](https://getblock.io/nodes/xrp/)
-    - zerpcraft[🌐](https://www.zerpcraft.com/)
-    - blockchair[🌐](https://blockchair.com/ripple)
-    - xrplstatus[🌐](https://xrplstatus.com/)
-    - onxrp.com <sup>*ecosystem*</sup>[🌐](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
+    - testnet.help[🌎](https://testnet.help/en/)[🚰](https://testnet.help/en/xrpfaucet/testnet)
+    - getblock.io mainnet testnet [🌎](https://getblock.io/nodes/xrp/)
+    - zerpcraft[🌎](https://www.zerpcraft.com/)
+    - blockchair[🌎](https://blockchair.com/ripple)
+    - xrplstatus[🌎](https://xrplstatus.com/)
+    - onxrp.com <sup>*ecosystem*</sup>[🌎](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - []()
   - more applications
     - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
       - xpring-eng/testnet-faucet[🧱](https://github.com/xpring-eng/testnet-faucet)
-    - XRPL Composer[🌐](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
+    - XRPL Composer[🌎](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
     - Platonenkov/XRPL.DataRippleService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)[👇](#2-xrpnft) <sub>*XRPL data.ripple.com API*</sub> 
-    - talentchain[🌐](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
+    - talentchain[🌎](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
-    - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌐](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
+    - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌎](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
   - ***`nft/tokens/dex/defi services`***[👇](#2-xrpnft)
   - []()
@@ -349,11 +352,11 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - ***`tutorials and samples`***[☝️](#--main)
   - []()
   - services and applications
-    - TheBetterMint[🌐](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
+    - TheBetterMint[🌎](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
     - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
     - nftmaster.com[🌎](https://nftmaster.com/) [§](https://xrpl.org/blog/2022/nftmaster.html) <sub>**</sub>
     - XPT
-      - xptxrpl[🌐](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website) <sub>*XRPL Portfolio Tracker account info*</sub>
+      - xptxrpl[🌎](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website) <sub>*XRPL Portfolio Tracker account info*</sub>
       - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
       - TusharPardhe/xpt-backend[🧱](https://github.com/TusharPardhe/xpt-backend)
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
@@ -388,13 +391,13 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
     - yyolk/xrpl-price-persist-oracle <sup>python</sup>[🧱](https://github.com/yyolk/xrpl-price-persist-oracle)[🧱](https://github.com/yyolk/xrpl-price-persist-oracle-metrics)
     - hammertoe/dexter <sup>python</sup>[🧱](https://github.com/hammertoe/dexter)
-    - xdex[🌐](https://xdex.com/)
-    - XPmarket <sup>*tokens*</sup>[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
-    - onthedex[🌐](https://onthedex.live/)
+    - xdex[🌎](https://xdex.com/)
+    - XPmarket <sup>*tokens*</sup>[🌎](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
+    - onthedex[🌎](https://onthedex.live/)
     - sologenic dex & nft[🌎](https://sologenic.org/bridge?network=mainnet)[🌎](https://sologenic.org/) <sub>*Connect your private wallet, Trade Digital Assets
 or Mint NFTs on a Decentralized Ecosystem*</sub> 
-    - theworldexchange.net[🌐](https://www.theworldexchange.net/)
-    - xrpl.to *launch*[🌐](https://xrpl.to/)
+    - theworldexchange.net[🌎](https://www.theworldexchange.net/)
+    - xrpl.to *launch*[🌎](https://xrpl.to/)
     - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
     - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
