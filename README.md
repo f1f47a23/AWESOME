@@ -614,7 +614,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - datafeeds[📖](https://docs.chain.link/data-feeds)[📖](https://docs.chain.link/data-feeds/price-feeds/addresses/)
     - explorer[🌐](https://explorer.chain.link/)
     - blog and forum[📖](https://blog.chain.link/)[📖](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/)[👨](https://github.com/smartcontractkit/chainlink/issues)
-    - LINK token <sup>*oracle gas*</sup>faucet[🚰](https://faucets.chain.link/) <sub>*get LINK token on ethereum goerli testnet*</sub>
+    - LINK token <sup>*true oracle gas*</sup> faucet[🚰](https://faucets.chain.link/) <sub>*get LINK token on ethereum goerli testnet*</sub>
   - []()
   - 🖕around
     - articles[📝](https://medium.com/reserve-currency/schelling-network-oracles-are-vulnerable-to-manipulation-68d1a88cbcf3)[📝](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803)[📝](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f)[📝](https://cryptoslate.com/chainlink/)[📝](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/)[📝](https://www.investinblockchain.com/what-is-chainlink-link/)[📝](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974)
