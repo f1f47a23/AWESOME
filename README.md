@@ -33,7 +33,7 @@
      - ***XRPL Learning Portal***[{✘}](https://learn.xrpl.org/) <sub>*4 absolute beginners*</sub>
      - quickstart & samples [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
      - channels[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)[▶️](https://www.youtube.com/c/WietseWind/videos)[▶️](https://www.youtube.com/c/XRPDEV/videos) 
-  - xrpl-dev-portal[📖](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
+  - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - $$$ 💰💰💰 $$$ [{✘}](https://xrpl.org/blog/2022/dev-reflections-relaunch.html)[{✘}](https://xrpl.org/contribute.html)
     - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and projects*</sub>
     - xrpl-grants[🌎](https://xrplgrants.org/) <sub>*$$$ support the development of new software projects $$$*</sub>
@@ -69,7 +69,7 @@
     - xpring-eng/xrpl-validator-domains[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
     - xpring-eng/rippled-network-crawler[🧱](https://github.com/xpring-eng/rippled-network-crawler)
   - []()
-  - clio server <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[📖](https://xrpl.org/the-clio-server.html)[📖](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
+  - clio server <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
   - []()
 
 
@@ -141,7 +141,7 @@
     - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
     - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
     - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
-    - XLS-17d[📖](https://github.com/XRPLF/XRPL-Standards/discussions/39) <sub>*Construct/Deconstruct XFL floating point values*</sub>
+    - XLS-17d[🗃️](https://github.com/XRPLF/XRPL-Standards/discussions/39) <sub>*Construct/Deconstruct XFL floating point values*</sub>
       - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) 
     - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
     - XADDRESS <sub>*= address + destination tag*</sub>
@@ -149,7 +149,7 @@
   - []()
   - xrp-paper-wallet account keypairs👛
     - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
-    - XLS-12d: Secret Numbers[📖](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[📖](https://github.com/XRPLF/XRPL-Standards/issues/15) <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
+    - XLS-12d: Secret Numbers[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[🗃️](https://github.com/XRPLF/XRPL-Standards/issues/15) <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
       - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
       - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)[🌎](https://secret-numbers-to-family-seed.xumm.dev/)
     - xrpl bip39 bip44
@@ -413,7 +413,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ### - sidechains <sup>*`📡research`*</sup> <sub>*Interoperability*</sub>  
 
   - EVM sidechain <sup>`eXRP token`</sup>[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) 
-    - docs and tutorials [📖](https://xrpl.org/intro-to-evm-sidechain.html)[📖](https://xrpl.org/get-started-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
+    - docs and tutorials [{✘}](https://xrpl.org/intro-to-evm-sidechain.html)[{✘}](https://xrpl.org/get-started-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
     - applications
       - ObiajuluM/eXRP-Contracts[🧱](https://github.com/ObiajuluM/eXRP-Contracts)
