@@ -391,6 +391,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdex[🌐](https://xdex.com/)
     - XPmarket <sup>*tokens*</sup>[🌐](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
     - onthedex[🌐](https://onthedex.live/)
+    - sologenic dex & nft[🌎](https://sologenic.org/bridge?network=mainnet)[🌎](https://sologenic.org/) <sub>*Connect your private wallet, Trade Digital Assets
+or Mint NFTs on a Decentralized Ecosystem*</sub> 
     - theworldexchange.net[🌐](https://www.theworldexchange.net/)
     - xrpl.to *launch*[🌐](https://xrpl.to/)
     - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
