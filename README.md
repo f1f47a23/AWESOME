@@ -1,7 +1,7 @@
 
 
 ## 1. XRPL and CRYPTO ALGORITHMS[🗝️](#1)
-## 2. WEB3[🗝️](#2) <sub>*( xrpl-hooks ethereum-solidity[🗝️](#2-sol) holochain ipfs torrent-p2p )*</sub>
+## 2. WEB3[🗝️](#2) <sub>*( xrpl-hooks ethereum-solidity[🗝️](#2-sol) oracles holochain ipfs torrent-p2p )*</sub>
 ## 3. WEB DEVELOPMENT[🗝️](#3)
  
 
