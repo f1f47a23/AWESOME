@@ -606,7 +606,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 ##### <sub>*2-link*</sub>🚪
-### - chainlink <sup>`“⬡ LINK`</sup> <sub>*decentralized-oracle-net*</sub>
+### - chainlink <sup>`⬡ LINK`</sup> <sub>*decentralized-oracle-net*</sub>
 
   - main
     - [🌐](https://chain.link/)[📖](https://link.smartcontract.com/whitepaper)[▶️](https://youtu.be/7Ow8uN1TmxA)[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)[🧰](https://github.com/smartcontractkit)[▶️](https://www.youtube.com/@chainlink)
