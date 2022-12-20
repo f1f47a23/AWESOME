@@ -659,7 +659,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
   
 ******
-2-p2p🚪
+##### <sub>*2-p2p*</sub>🚪
 ## `Chains & P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - blockchain <sub>*ethereum, bitcoin, others*</sub>
