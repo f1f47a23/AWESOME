@@ -96,7 +96,7 @@
       - XRPLF/xrpl4j <sup>java 2.5</sup>[🧱](https://github.com/XRPLF/xrpl4j)
     - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
     - Transia-RnD/[🧱](https://github.com/Transia-RnD/)
-      - Transia-RnD/XrplCSharp <sup>C#</sup>[🧱](https://github.com/Transia-RnD/XrplCSharp) <sub>Library to interact with the XRP Ledger*</sub>
+      - Transia-RnD/XrplCSharp <sup>C#</sup>[🧱](https://github.com/Transia-RnD/XrplCSharp) <sub>*Library to interact with the XRP Ledger*</sub>
       - Transia-RnD/XrplCSharp <sup>C# unity</sup>[🧱](https://github.com/Transia-RnD/XrplCSharp) <sub>*Unity Package to interact with the XRP Ledger*</sub>
       - Transia-RnD/XRPLSwift <sup>Swift Linux</sup>[🧱](https://github.com/Transia-RnD/XRPLSwift) <sub>*Library to interact with the XRP Ledger*</sub>
     - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
@@ -122,6 +122,7 @@
   - advanced payment features
     - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
     - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
+    - *more...* [{✘}](https://xrpl.org/payment-types.html)
   - []()
   - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>
   - []()
