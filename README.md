@@ -95,6 +95,10 @@
       - XRPLF/xrpl-py <sup>python 1.0</sup>[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sup>1.7</sup>[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) <sup>2.0</sup>[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
       - XRPLF/xrpl4j <sup>java 2.5</sup>[🧱](https://github.com/XRPLF/xrpl4j)
     - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
+    - Transia-RnD/[🧱](https://github.com/Transia-RnD/)
+      - Transia-RnD/XrplCSharp <sup>C#</sup>[🧱](https://github.com/Transia-RnD/XrplCSharp) <sub>*C# library to interact with the XRP Ledger*</sub>
+      - Transia-RnD/XrplCSharp <sup>C# unity</sup>[🧱](https://github.com/Transia-RnD/XrplCSharp) <sub>*C# Unity Package to interact with the XRP Ledger*</sub>
+      - Transia-RnD/XRPLSwift <sup>Swift/Linux</sup>[🧱](https://github.com/Transia-RnD/XRPLSwift) <sub>*Swift/Linux library to interact with the XRP Ledger*</sub>
     - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
     - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - []()
