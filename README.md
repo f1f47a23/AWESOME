@@ -588,8 +588,11 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - DEX AMM
     - solidity-by-example AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)
   - []()
+  - web3 sucks 🤮
+    - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*critique of crypto web3*</sub>
+    - [▶️](https://youtu.be/YQ_xWvX1n9g)
+  - []()
   - awesome😎
-    - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*web3 pros and cons*</sub>
     - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
     - surajondev/awesome-web3.0[😎](https://github.com/surajondev/awesome-web3.0)[🌐](https://web3-roadmap.netlify.app/)
     - twf-nikhila/awesome-web3-resources[😎](https://github.com/twf-nikhila/awesome-web3-resources)
