@@ -23,7 +23,7 @@
 
 ******
 
-## `XRP XRPL Ripple` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+## `1. XRP XRPL Ripple` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 
 
@@ -132,7 +132,7 @@
 
 ******
 
-## `Cryptography Algorithms` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `1. Cryptography Algorithms` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 *`Encoding Keypairs Signing Bip39 Bip44 PaperWallets👛`* 
 
 ##### <sub>*1-xrpalg*</sub>🚪
@@ -253,7 +253,7 @@
 
 ******
 
-## `XRP Ripple Ecosystem` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+## `1. XRP Ripple Ecosystem` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 
 
@@ -347,7 +347,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `xrpl web3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
+## `2. xrpl web3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
 
 ##### <sub>*2-xrpnft*</sub>🚪
 ### - tokens NFT trustline[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb)
@@ -483,7 +483,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 ##### <sub>*2-sol*</sub>🚪
-## `Ethereum web3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `2. Ethereum web3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 *` Smart-Contracts Dapps Solidity`*
 
 ### - ethereum
@@ -660,7 +660,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   
 ******
 ##### <sub>*2-p2p*</sub>🚪
-## `Chains & P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## `2. Chains & P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - blockchain <sub>*ethereum, bitcoin, others*</sub>
 
@@ -725,7 +725,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `WASM, C & C++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
+## `3. WASM, C & C++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
 ### - wasm
 
@@ -750,7 +750,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `Typescript` [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org) [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+## `3. Typescript` [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org) [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 ### - overall
 
@@ -775,7 +775,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `Javascript Ecmascript` [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+## `3. Javascript Ecmascript` [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 ### - misc
 
@@ -811,7 +811,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `Webdev` [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
+## `3. Webdev` [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 ### - nodejs
 
@@ -847,7 +847,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `Systems, Tools & Security` [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
+## `3. Systems, Tools & Security` [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 ### - Linux [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
