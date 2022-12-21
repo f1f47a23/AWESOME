@@ -366,7 +366,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
       - xptxrpl[🌎](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website) <sub>*XRPL Portfolio Tracker account info*</sub>
       - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
       - TusharPardhe/xpt-backend[🧱](https://github.com/TusharPardhe/xpt-backend)
-    - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon) <sub>*Widget to generate the NFTs*</sub>
+    - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon)[▶️](https://www.youtube.com/@nftoupon650) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
     - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
