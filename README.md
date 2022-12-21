@@ -534,7 +534,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - tools and libs
     - remix[🔨](https://remix.ethereum.org)
     - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
-    - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)[🌐](https://www.openzeppelin.com/)
+    - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)[🌐](https://www.openzeppelin.com/)[📖](https://docs.openzeppelin.com/)
       - contracts[🧰](https://github.com/OpenZeppelin/openzeppelin-contracts)[🌐](https://www.openzeppelin.com/contracts) <sub>*library for secure development*</sub>
       - defender[🔨](https://www.openzeppelin.com/defender)
       - tutorials[▶️](https://www.youtube.com/watch?v=yZvr5tEpRE8&list=PLdJRkA9gCKOMuuY4x9hyyt0428HETLFx_)[▶️](https://www.youtube.com/playlist?list=PLbbtODcOYIoFdQ37ydykQNO-MNGER6mtd)[▶️](https://www.youtube.com/watch?v=vOluJAF0l-0)[▶️](https://www.youtube.com/watch?v=DILDtLTrx_s)
