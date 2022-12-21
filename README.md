@@ -534,7 +534,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - tools and libs
     - remix[🔨](https://remix.ethereum.org)
     - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
-    - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)[🌐](https://www.openzeppelin.com/)smart contracts[🌐](https://www.openzeppelin.com/contracts)[🔨](https://www.openzeppelin.com/defender)
+    - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)[🌐](https://www.openzeppelin.com/)
+      - contracts[🧰](https://github.com/OpenZeppelin/openzeppelin-contracts)[🌐](https://www.openzeppelin.com/contracts) <sub>*library for secure development*</sub>
+      - defender[🔨](https://www.openzeppelin.com/defender)
       - openzeppelin/hardhat tutorials[▶️](https://www.youtube.com/watch?v=yZvr5tEpRE8&list=PLdJRkA9gCKOMuuY4x9hyyt0428HETLFx_)[▶️](https://www.youtube.com/playlist?list=PLbbtODcOYIoFdQ37ydykQNO-MNGER6mtd)[▶️](https://www.youtube.com/watch?v=vOluJAF0l-0)[▶️](https://www.youtube.com/watch?v=DILDtLTrx_s)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4)
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
