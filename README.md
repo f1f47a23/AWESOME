@@ -550,7 +550,6 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - ***`more tutorials`***[👇](#--web3-defi-dex)
     - ebooks[📚](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/ethereum-ebooks-list-2022.11.txt)[🧰](https://github.com/ethereumbook/ethereumbook)
     - guides
-      - why solidity sucks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
       - smart contracts VS dapps[▶️](https://youtu.be/JVoSN7V4-bY) <sub>*Dapp = frontend + smart contract backend*</sub>
       - smart-contract-development-best-practices[🌐](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
       - clean-contracts[🌐](https://www.useweb3.xyz/guides/clean-contracts)
@@ -588,9 +587,11 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - DEX AMM
     - solidity-by-example AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)
   - []()
-  - web3 sucks 🤮
+  - why web3 sucks 🤮
     - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*critique of crypto web3*</sub>
-    - [▶️](https://youtu.be/YQ_xWvX1n9g)
+    - [▶️](https://youtu.be/AGsllEF7w_g)[▶️](https://youtu.be/hDc4AI_gjxw)
+    - nft[▶️](https://youtu.be/YQ_xWvX1n9g)[▶️](https://youtu.be/C6aeL83z_9Y)[▶️](https://youtu.be/_1PSvqho8UE)[▶️](https://youtu.be/Buq9xosvxX0)
+    - solidity[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
   - []()
   - awesome😎
     - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
