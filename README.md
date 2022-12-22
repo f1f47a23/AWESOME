@@ -590,7 +590,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - why web3 sucks 🤮
     - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*critique of crypto web3*</sub>
     - [▶️](https://youtu.be/AGsllEF7w_g)[▶️](https://youtu.be/hDc4AI_gjxw)
-    - nft[▶️](https://youtu.be/YQ_xWvX1n9g)[▶️](https://youtu.be/C6aeL83z_9Y)[▶️](https://youtu.be/_1PSvqho8UE)[▶️](https://youtu.be/Buq9xosvxX0)
+    - nft[▶️](https://youtu.be/YQ_xWvX1n9g)[▶️](https://youtu.be/C6aeL83z_9Y)[▶️](https://youtu.be/_1PSvqho8UE)[▶️](https://youtu.be/Buq9xosvxX0)[▶️](https://youtu.be/msHRy-3WOaA)
     - solidity[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
   - []()
   - awesome😎
