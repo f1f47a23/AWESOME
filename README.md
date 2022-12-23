@@ -257,7 +257,8 @@
 
 
 
-### - XRP non custodial wallets 👛[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo)
+### - XRP non custodial wallets 👛
+[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
   - xumm.app[🌎](https://xumm.app/) <sup>*React-Native iOS Android*</sup>
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)[👨](https://xrpl-labs.canny.io/)
@@ -507,7 +508,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   
   
 ##### <sub>*2-ethwal*</sub>🚪
-### - ethereum wallets 👛[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo)
+### - ethereum wallets 👛
+[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
   - metamask+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
