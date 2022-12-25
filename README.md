@@ -32,7 +32,7 @@
    - learning resources
      - ***XRPL Learning Portal***[{✘}](https://learn.xrpl.org/) <sub>*4 absolute beginners*</sub>
      - quickstart & samples [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
-     - channels[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)[▶️](https://www.youtube.com/c/WietseWind/videos)[▶️](https://www.youtube.com/c/XRPDEV/videos) 
+     - channels[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)[▶️](https://www.youtube.com/c/WietseWind/videos)[▶️](https://www.youtube.com/c/XRPDEV/videos)
   - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - $$$ 💰💰💰 $$$ [{✘}](https://xrpl.org/blog/2022/dev-reflections-relaunch.html)[{✘}](https://xrpl.org/contribute.html)
     - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and projects*</sub>
@@ -357,7 +357,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
-  - ***`tutorials and samples`***[☝️](#--main)
+    - tutorials
+      - nft/web3[▶️](https://www.youtube.com/@peerkat)
+      - ***`main tutorials and samples`***[☝️](#--main)
   - []()
   - services and applications
     - TheBetterMint[🌎](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
@@ -499,7 +501,10 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - goerli[🌐](https://goerli.etherscan.io/)
     - several faucets[🚰](https://faucetlink.to/)
     - eth-converter[🔨](https://eth-converter.com/)
-    - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
+    - client libraries
+      - ethers.js VS web3.js[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)[📝]()[📝]()
+      - ethers-js[🌐](https://docs.ethers.org)[🔨](https://ethers.io) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
+      - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
   - []()
   - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
   - ttumiel/Awesome-Ethereum[😎](https://github.com/ttumiel/Awesome-Ethereum)
@@ -542,7 +547,6 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - tutorials[▶️](https://www.youtube.com/watch?v=yZvr5tEpRE8&list=PLdJRkA9gCKOMuuY4x9hyyt0428HETLFx_)[▶️](https://www.youtube.com/playlist?list=PLbbtODcOYIoFdQ37ydykQNO-MNGER6mtd)[▶️](https://www.youtube.com/watch?v=vOluJAF0l-0)[▶️](https://www.youtube.com/watch?v=DILDtLTrx_s)
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
-    - ethers-js[🌐](https://docs.ethers.org) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
     - hardhat.org/[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
   - []()
   - learning resources
