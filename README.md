@@ -75,6 +75,19 @@
 
 
 
+### - xrpl features
+
+  - main features
+    - see [{✘}](https://xrpl.org/concepts.html)
+  - []()
+  - advanced payment features
+    - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
+    - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
+    - *more...* [{✘}](https://xrpl.org/payment-types.html)
+  - []()
+
+
+
 ### - devnet/testnet/mainnet explorer/services
 
  - xrplf-technical-explorer[{✘}](https://explorer.xrplf.org/)[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)
@@ -118,11 +131,6 @@
   - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
   - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
   - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
-  - []()
-  - advanced payment features
-    - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
-    - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
-    - *more...* [{✘}](https://xrpl.org/payment-types.html)
   - []()
   - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>
   - []()
