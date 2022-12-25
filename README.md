@@ -467,7 +467,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
   - []()
   - applications
-    - Evernode [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) <sub>*Smart Contracts on the XRPL*</sub>
+    - Evernode [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) <sub>*Layer2 Smart Contracts on the XRPL*</sub>
   - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
