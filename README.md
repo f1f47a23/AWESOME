@@ -477,7 +477,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - applications
     - Evernode [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) <sub>*Layer2 Smart Contracts on the XRPL*</sub>
   - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
-  - ***`wasm & c references`***[👇](#wasm-c--c-)
+  - ***`wasm & c references`***[👇](#--wasm)
   - []()
 
 
