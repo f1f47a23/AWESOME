@@ -385,7 +385,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-##### <sub>*2-xrpdexamm*</sub>🚪
+###### <sub>*2-xrpdexamm*</sub>🚪
 ### - DEX & AMM <sup>*`📡research`*</sup> <sub>*Automated Market Makers, Liquidity Pools*</sub>  
 
   - XLS-30d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/78)[🌎](https://dev.to/ripplexdev/a-proposal-for-the-future-of-the-xrp-ledger-dex-4l7e)[🌎](https://dev.to/ripplexdev/xrpl-amm-network-available-for-testing-and-development-426i) <sub>*amm on xrpl*</sub>
@@ -439,7 +439,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - matCzelusniak/snapXrpl[🧱](https://github.com/matCzelusniak/snapXrpl)
       - Kyraview/SnapXRPL[🧱](https://github.com/Kyraview/SnapXRPL)
     - ***`metamask+snaps`***[👇](#2-ethwal)
-    - ***`ethereum smart contracts`***[👇](#--solidity-ethereum)
+    - ***`ethereum smart contracts`***[👇](#--solidity)
   - []()
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - []()
