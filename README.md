@@ -503,7 +503,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - eth-converter[🔨](https://eth-converter.com/)
     - client libraries
       - ethers.js VS web3.js[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)[📝]()[📝]()
-      - ethers-js[🌐](https://docs.ethers.org)[🔨](https://ethers.io) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
+      - ethers.js[🧰](https://github.com/ethers-io/ethers.js)[📖](https://docs.ethers.org)[🔨](https://ethers.io) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
       - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
   - []()
   - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
@@ -523,7 +523,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - MEW myetherwallet[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet) <sub>*smart-contracts tokens NFT swap*</sub>
   - trustwallet[🌐](https://trustwallet.com/)[🌐](https://developer.trustwallet.com/wallet-core)[🧰](https://github.com/trustwallet/wallet-core)
   - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
-  - ethers-io/ethers.js[🧰](https://github.com/ethers-io/ethers.js)
+  - ethers-io/ethers.js[☝️](#2-sol)
   - ConsenSysMesh/MultiSigWallet[🧰](https://github.com/ConsenSysMesh/MultiSigWallet)
   - ryepdx/[🧰](https://github.com/ryepdx/ethaddress.org) <sub>*paper wallet*</sub>
   - best 2022 eth wallets[📝](https://www.investopedia.com/best-ethereum-wallets-6830692)
