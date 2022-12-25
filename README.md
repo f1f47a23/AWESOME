@@ -502,7 +502,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - several faucets[🚰](https://faucetlink.to/)
     - eth-converter[🔨](https://eth-converter.com/)
     - client libraries
-      - ethers.js VS web3.js[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)[📝]()[📝]()
+      - ethers.js VS web3.js[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)
       - ethers.js[🧰](https://github.com/ethers-io/ethers.js)[📖](https://docs.ethers.org)[🔨](https://ethers.io) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
       - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
   - []()
@@ -535,6 +535,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
   - main
     - ethereum.org/solidity[📖](https://ethereum.org/en/developers/docs/smart-contracts/)[🧰](https://github.com/ethereum/solidity)
+      - ethereum/solc-js[🧰](https://github.com/ethereum/solc-js) <sub>*Javascript bindings for the Solidity compiler*</sub>
     - references[📖](https://soliditylang.org/)
     - forums[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity/)
   - []()
@@ -545,6 +546,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - contracts[🧰](https://github.com/OpenZeppelin/openzeppelin-contracts)[🌐](https://www.openzeppelin.com/contracts) <sub>*library for secure development*</sub>
       - defender[🔨](https://www.openzeppelin.com/defender)
       - tutorials[▶️](https://www.youtube.com/watch?v=yZvr5tEpRE8&list=PLdJRkA9gCKOMuuY4x9hyyt0428HETLFx_)[▶️](https://www.youtube.com/playlist?list=PLbbtODcOYIoFdQ37ydykQNO-MNGER6mtd)[▶️](https://www.youtube.com/watch?v=vOluJAF0l-0)[▶️](https://www.youtube.com/watch?v=DILDtLTrx_s)
+    - getwaffle.io[🔨](https://getwaffle.io/) <sub>*smart contracts framework*</sub>
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
     - hardhat.org/[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
