@@ -265,7 +265,7 @@
 
 
 
-### - XRP non custodial wallets 👛
+### - XRP self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
   - xumm.app[🌎](https://xumm.app/) <sup>*React-Native iOS Android*</sup>
@@ -521,7 +521,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   
   
 ##### <sub>*2-ethwal*</sub>🚪
-### - ethereum wallets 👛
+### - ethereum self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
   - metamask+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
