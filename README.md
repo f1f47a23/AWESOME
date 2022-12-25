@@ -843,6 +843,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - sqreen/awesome-nodejs-projects[😎](https://github.com/sqreen/awesome-nodejs-projects)
     - lirantal/awesome-nodejs-security[😎](https://github.com/lirantal/awesome-nodejs-security)
     - bnb/awesome-awesome-nodejs[😎](https://github.com/bnb/awesome-awesome-nodejs)
+  - []()
   - Packt/Node.js-Design-Patterns[🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
   - []()
 
@@ -855,15 +856,16 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ### - misc
 
-  - LeCoupa/awesome-cheatsheets[😎](https://github.com/LeCoupa/awesome-cheatsheets)
-  - sindresorhus/awesome[😎](https://github.com/sindresorhus/awesome)
-  - therebelrobot/awesome-bootstrap[😎](https://github.com/therebelrobot/awesome-bootstrap)
-  - markodenic/web-dev[🧰](https://github.com/markodenic/web-development-resources)
-  - dypsilon/frontend[🧰](https://github.com/dypsilon/frontend-dev-bookmarks)
-  - TonnyL/Awesome_APIs[😎](https://github.com/TonnyL/Awesome_APIs)
-  - lorien/awesome-web[😎](https://github.com/lorien/awesome-web-scraping)
-  - lauragift21/awesome-learning[😎](https://github.com/lauragift21/awesome-learning-resources)
-  - sindresorhus/awesome-electron[😎](https://github.com/sindresorhus/awesome-electron)
+  - awesome 😎
+    - LeCoupa/awesome-cheatsheets[😎](https://github.com/LeCoupa/awesome-cheatsheets)
+    - sindresorhus/awesome[😎](https://github.com/sindresorhus/awesome)
+    - therebelrobot/awesome-bootstrap[😎](https://github.com/therebelrobot/awesome-bootstrap)
+    - markodenic/web-dev[🧰](https://github.com/markodenic/web-development-resources)
+    - dypsilon/frontend[🧰](https://github.com/dypsilon/frontend-dev-bookmarks)
+    - TonnyL/Awesome_APIs[😎](https://github.com/TonnyL/Awesome_APIs)
+    - lorien/awesome-web[😎](https://github.com/lorien/awesome-web-scraping)
+    - lauragift21/awesome-learning[😎](https://github.com/lauragift21/awesome-learning-resources)
+    - sindresorhus/awesome-electron[😎](https://github.com/sindresorhus/awesome-electron)
   - []()
 
 
@@ -875,43 +877,44 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ### - Linux [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
-  - luong-komorebi/Awesome-Linux-Software[😎](https://github.com/luong-komorebi/Awesome-Linux-Software)
-  - inputsh/awesome-linux[😎](https://github.com/inputsh/awesome-linux)
-  - itech001/awesome-linux-resources[😎](https://github.com/itech001/awesome-linux-resources)
-  - madbob/awesome-linux-dev[😎](https://github.com/madbob/awesome-linux-dev)
-  - sirredbeard/Awesome-WSL[😎](https://github.com/sirredbeard/Awesome-WSL)
-  - WillPower3309/awesome-dotfiles[😎](https://github.com/WillPower3309/awesome-dotfiles)
+  - awesome 😎
+    - luong-komorebi/Awesome-Linux-Software[😎](https://github.com/luong-komorebi/Awesome-Linux-Software)
+    - inputsh/awesome-linux[😎](https://github.com/inputsh/awesome-linux)
+    - itech001/awesome-linux-resources[😎](https://github.com/itech001/awesome-linux-resources)
+    - madbob/awesome-linux-dev[😎](https://github.com/madbob/awesome-linux-dev)
+    - sirredbeard/Awesome-WSL[😎](https://github.com/sirredbeard/Awesome-WSL)
+    - WillPower3309/awesome-dotfiles[😎](https://github.com/WillPower3309/awesome-dotfiles)
   - []()
 
-### - Security
+### - Security and Hacking
 
-  - sbilly/[😎](https://github.com/sbilly/awesome-security)
-  - qazbnm456/[😎](https://github.com/qazbnm456/awesome-web-security)
-  - ashishb/[😎](https://github.com/ashishb/android-security-awesome)
+  - awesome 😎
+    - sbilly/[😎](https://github.com/sbilly/awesome-security)
+    - qazbnm456/[😎](https://github.com/qazbnm456/awesome-web-security)
+    - ashishb/[😎](https://github.com/ashishb/android-security-awesome)
+    - Hack-with-Github/[😎](https://github.com/Hack-with-Github/Awesome-Hacking)
+    - infoslack/[😎](https://github.com/infoslack/awesome-web-hacking)
+    - carpedm20/[😎](https://github.com/carpedm20/awesome-hacking)
+    - vitalysim/[😎](https://github.com/vitalysim/Awesome-Hacking-Resources)
+    - jekil/[😎](https://github.com/jekil/awesome-hacking)
+    - Igglybuff/[😎](https://github.com/Igglybuff/awesome-piracy)
+  - []()
   - spa security
      - 🖕around [🌐](https://iteo.com/blog/post/security-for-single-page-applications/)[🌐](https://developer.okta.com/blog/2022/07/06/spa-web-security)[🌐](https://damienbod.com/2019/01/20/is-a-spa-less-secure-than-a-server-rendered-web-application/)[🌐](https://www.helpnetsecurity.com/2022/03/08/spas-security/)[🌐](https://securityboulevard.com/2021/06/securing-single-page-web-applications/) 🔥 [▶️](https://youtu.be/kD1bb73-SL0)[🌐](https://levelup.gitconnected.com/best-oauth-security-practices-for-single-page-applications-2bb6b44d2890)
   - []()
 
 
-### - Hacking
-
-  - Hack-with-Github/[😎](https://github.com/Hack-with-Github/Awesome-Hacking)
-  - infoslack/[😎](https://github.com/infoslack/awesome-web-hacking)
-  - carpedm20/[😎](https://github.com/carpedm20/awesome-hacking)
-  - vitalysim/[😎](https://github.com/vitalysim/Awesome-Hacking-Resources)
-  - jekil/[😎](https://github.com/jekil/awesome-hacking)
-  - Igglybuff/[😎](https://github.com/Igglybuff/awesome-piracy)
-  - []()
-
 ### - Misc
 
-  - Awesome-Windows[😎](https://github.com/Awesome-Windows/Awesome)
-  - sirredbeard/Awesome-UNIX[😎](https://github.com/sirredbeard/Awesome-UNIX)
-  - pingcap/awesome-database-learning[😎](https://github.com/pingcap/awesome-database-learning)
-  - emijrp/awesome-awesome[😎](https://github.com/emijrp/awesome-awesome)
-  - t3chnoboy/awesome-awesome-awesome[😎](https://github.com/t3chnoboy/awesome-awesome-awesome)
+  - awesome 😎
+    - Awesome-Windows[😎](https://github.com/Awesome-Windows/Awesome)
+    - sirredbeard/Awesome-UNIX[😎](https://github.com/sirredbeard/Awesome-UNIX)
+    - pingcap/awesome-database-learning[😎](https://github.com/pingcap/awesome-database-learning)
+    - emijrp/awesome-awesome[😎](https://github.com/emijrp/awesome-awesome)
+    - t3chnoboy/awesome-awesome-awesome[😎](https://github.com/t3chnoboy/awesome-awesome-awesome)
+    - lukasz-madon/awesome-remote-job[😎](https://github.com/lukasz-madon/awesome-remote-job)
+  - []()
   - alexandresanlim/badges[🧰](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-  - lukasz-madon/awesome-remote-job[😎](https://github.com/lukasz-madon/awesome-remote-job)
   - []()
 
 
