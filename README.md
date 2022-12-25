@@ -465,7 +465,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
   - []()
   - applications
-    - HotPocketDev/evernode-hook[🧱](https://github.com/HotPocketDev/evernode-hook) <sub>*hook for Evernode*</sub>
+    - Evernode [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) <sub>*Smart Contracts on the XRPL*</sub>
   - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
   - ***`wasm & c references`***[👇](#wasm-c--c-)
   - []()
@@ -704,12 +704,13 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ### - p2p
 
-  - kgryte/p2p[😎](https://github.com/kgryte/awesome-peer-to-peer)
-  - mafintosh/p2p[😎](https://github.com/mafintosh/awesome-p2p)
-  - retrohacker/p2p[😎](https://github.com/retrohacker/awesome-p2p)
-  - croqaz/[😎](https://github.com/croqaz/awesome-decentralized)
-  - decentropy/[😎](https://github.com/decentropy/awesome-decentralized)
-  - danoctavian/[😎](https://github.com/danoctavian/awesome-anti-censorship)
+  - awesome 😎
+    - kgryte/p2p[😎](https://github.com/kgryte/awesome-peer-to-peer)
+    - mafintosh/p2p[😎](https://github.com/mafintosh/awesome-p2p)
+    - retrohacker/p2p[😎](https://github.com/retrohacker/awesome-p2p)
+    - croqaz/[😎](https://github.com/croqaz/awesome-decentralized)
+    - decentropy/[😎](https://github.com/decentropy/awesome-decentralized)
+    - danoctavian/[😎](https://github.com/danoctavian/awesome-anti-censorship)
   - torrent[🧰](https://github.com/anacrolix/torrent)[🧰](https://github.com/jpillora/cloud-torrent)[🧰](https://github.com/webtorrent/webtorrent)[🌐](https://www.utorrent.com/)[🌐](https://www.bittorrent.com/)
   - []()
 
@@ -737,21 +738,28 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ### - wasm
 
-  - mbasso/awesome-wasm[😎](https://github.com/mbasso/awesome-wasm)
-  - appcypher/awesome-wasm-langs[😎](https://github.com/appcypher/awesome-wasm-langs)
-  - appcypher/awesome-wasm-runtimes[😎](https://github.com/appcypher/awesome-wasm-runtimes)
-  - vshymanskyy/awesome-wasm-tools[😎](https://github.com/vshymanskyy/awesome-wasm-tools)
+  - [🔨](https://emscripten.org/)[📖](https://webassembly.org/)
+  - gcc compiler <sup>*C Linux*</sup>[🔨](https://gcc.gnu.org/) <sub>*the GNU Compiler Collection*</sub>
+    - ***`see evernode makefile example`***[☝️](#1-xrphook)
+    - gcc <sup>*C Windows*</sup>[🔨](http://www.codeblocks.org/downloads/binaries/)[🔨](https://www.mingw-w64.org/)[📝](https://www.digitalocean.com/community/tutorials/c-compiler-windows-gcc)
+  - []()
+  - awesome 😎
+    - mbasso/awesome-wasm[😎](https://github.com/mbasso/awesome-wasm)
+    - appcypher/awesome-wasm-langs[😎](https://github.com/appcypher/awesome-wasm-langs)
+    - appcypher/awesome-wasm-runtimes[😎](https://github.com/appcypher/awesome-wasm-runtimes)
+    - vshymanskyy/awesome-wasm-tools[😎](https://github.com/vshymanskyy/awesome-wasm-tools)
   - []()
 
 ### - c & c++
 
-  - oz123/awesome-c[😎](https://github.com/oz123/awesome-c)
-  - inputsh/awesome-c[😎](https://github.com/inputsh/awesome-c)
-  - uhub/awesome-c[😎](https://github.com/uhub/awesome-c)
-  - uhub/awesome-cpp[😎](https://github.com/uhub/awesome-cpp)
-  - fffaraz/awesome-cpp[😎](https://github.com/fffaraz/awesome-cpp)
-  - JakubVojvoda/design-patterns-cpp[😎](https://github.com/JakubVojvoda/design-patterns-cpp)
-  - p-ranav/awesome-hpp[😎](https://github.com/p-ranav/awesome-hpp)
+  - awesome 😎
+    - oz123/awesome-c[😎](https://github.com/oz123/awesome-c)
+    - inputsh/awesome-c[😎](https://github.com/inputsh/awesome-c)
+    - uhub/awesome-c[😎](https://github.com/uhub/awesome-c)
+    - uhub/awesome-cpp[😎](https://github.com/uhub/awesome-cpp)
+    - fffaraz/awesome-cpp[😎](https://github.com/fffaraz/awesome-cpp)
+    - JakubVojvoda/design-patterns-cpp[😎](https://github.com/JakubVojvoda/design-patterns-cpp)
+    - p-ranav/awesome-hpp[😎](https://github.com/p-ranav/awesome-hpp)
   - []()
 
 
@@ -762,12 +770,13 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ### - overall
 
-  - dzharii/awesome-typescript[😎](https://github.com/dzharii/awesome-typescript)
-  - semlinker/awesome-typescript[😎](https://github.com/semlinker/awesome-typescript)
-  - brookshi/awesome-typescript-projects[😎](https://github.com/brookshi/awesome-typescript-projects)
-  - ellerbrock/awesome-typescript[😎](https://github.com/ellerbrock/awesome-typescript)
-  - orta/awesome-typescript-derived-languages[😎](https://github.com/orta/awesome-typescript-derived-languages)
-  - madou/awesome-typescript-ecosystem[😎](https://github.com/madou/awesome-typescript-ecosystem)
+  - awesome 😎
+    - dzharii/awesome-typescript[😎](https://github.com/dzharii/awesome-typescript)
+    - semlinker/awesome-typescript[😎](https://github.com/semlinker/awesome-typescript)
+    - brookshi/awesome-typescript-projects[😎](https://github.com/brookshi/awesome-typescript-projects)
+    - ellerbrock/awesome-typescript[😎](https://github.com/ellerbrock/awesome-typescript)
+    - orta/awesome-typescript-derived-languages[😎](https://github.com/orta/awesome-typescript-derived-languages)
+    - madou/awesome-typescript-ecosystem[😎](https://github.com/madou/awesome-typescript-ecosystem)
   - []()
 
 ### - design patterns
@@ -823,10 +832,11 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ### - nodejs
 
-  - sindresorhus/awesome-nodejs[😎](https://github.com/sindresorhus/awesome-nodejs)
-  - sqreen/awesome-nodejs-projects[😎](https://github.com/sqreen/awesome-nodejs-projects)
-  - lirantal/awesome-nodejs-security[😎](https://github.com/lirantal/awesome-nodejs-security)
-  - bnb/awesome-awesome-nodejs[😎](https://github.com/bnb/awesome-awesome-nodejs)
+  - awesome 😎
+    - sindresorhus/awesome-nodejs[😎](https://github.com/sindresorhus/awesome-nodejs)
+    - sqreen/awesome-nodejs-projects[😎](https://github.com/sqreen/awesome-nodejs-projects)
+    - lirantal/awesome-nodejs-security[😎](https://github.com/lirantal/awesome-nodejs-security)
+    - bnb/awesome-awesome-nodejs[😎](https://github.com/bnb/awesome-awesome-nodejs)
   - Packt/Node.js-Design-Patterns[🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
   - []()
 
