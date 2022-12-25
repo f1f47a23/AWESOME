@@ -740,7 +740,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
   - [🔨](https://emscripten.org/)[📖](https://webassembly.org/)
   - gcc compiler <sup>*C Linux*</sup>[🔨](https://gcc.gnu.org/) <sub>*the GNU Compiler Collection*</sub>
-    - ***`see evernode makefile example`***[☝️](#2-xrphook)
+    - ***`see evernode hook application makefile example`***[☝️](#2-xrphook)
     - gcc <sup>*C Windows*</sup>[🔨](http://www.codeblocks.org/downloads/binaries/)[🔨](https://www.mingw-w64.org/)[📝](https://www.digitalocean.com/community/tutorials/c-compiler-windows-gcc)
   - []()
   - awesome 😎
