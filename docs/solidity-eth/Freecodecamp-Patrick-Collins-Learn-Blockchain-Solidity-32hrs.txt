@@ -445,10 +445,80 @@ Course Contents
 
 (20:28:51) Lesson 14: Hardhat NFTs 
 
+          (20:36:01) Code overview
+
+          (20:38:35) Hardhat setup
+
+          (20:40:38) Basic NFT
+
+          (20:54:57) Random IPFS NFT
+
+          (21:03:19) Random IPFS NFT part II - Mapping Chainlink VRF Requests
+ 
+          (21:07:38) Random IPFS NFT part III - Creating Rare NFTs
+ 
+          (21:15:19) Random IPFS NFT part IV - Setting the NFT images
+
+          (21:19:02) Random IPFS NFT part  V - Setting an NFT Mint Price
+
+          (21:24:25) Random IPFS NFT part  VI - Random IPFS NFT Recap
+
+          (21:25:58) Random IPFS NFT part  VII - Deploy Script
+
+          (21:31:08) Random IPFS NFT part  VIII  - Uploading token images with Pinata
+
+          (21:47:27) Random IPFS NFT part  IX - Uploading token URIs (metadata) with Pinata
+
+          (21:57:08) Random IPFS NFT part  X - Deploying III
+
+          (22:00:52) Random IPFS NFT part  XI -  Random IPFS NFT Tests
+
+          (22:03:11) Dynamic SVG On-Chain NFT
+
+          (22:04:33) Dynamic SVG On-Chain NFT Part II - What is an SVG ?
+
+          (22:07:06) Dynamic SVG On-Chain NFT Part III - Initial code
+
+          (22:10:22) Dynamic SVG On-Chain NFT Part IV - Base64  Encoding
+
+          (22:16:31) Advanced Section Encoding, Opcodes and Calls - abi.encode & abi.encodePacked
+
+          (22:38:58) Advanced Section Encoding, Opcodes and Calls - abi.encode & abi.encodePacked - Introduction to Encoding Function Calls Directly
+
+          (22:44:46) Advanced Section Encoding, Opcodes and Calls - abi.encode & abi.encodePacked - Encoding recap
+
+          (22:46:46) Advanced Section Encoding, Opcodes and Calls - abi.encode & abi.encodePacked - Encoding Function Calls Directly
+
+          (23:01:11) Dynamic SVG On-Chain NFT Part V - Creating an NFT TokenURI On-Chain
+
+          (23:09:30) Dynamic SVG On-Chain NFT Part V - Making the NFT Dynamic
+
+          (23:15:13) Dynamic SVG On-Chain NFT Part VI - Deploy Script
+
+          (23:21:40) Dynamic SVG On-Chain NFT Part VII - Writing Tests
+
+          (23:22:15) Deploying the NFT to a Testnet
+
+          (23:34:11) Lesson 14 Recap 
+
+
 
 
 (23:37:03) Lesson 15: NextJS NFT Marketplace (Full Stack / Front End)
 
+          (23:43:23) NFT Marketplace Contracts
+          
+          (23:43:23) Hardhat Setup
+          
+          (23:46:12) NftMarketplace.sol
+          
+          (01:00:06:28) Reentrancy Attacks
+
+          (01:00:19:13) NftMarketplace.col Continued
+
+          (01:00:26:17) NftMarketplace.sol Deploy Script
+
+          (01:00:32:45) NftMarketplace.sol Tests
 
 
 (28:53:11) Lesson 16: Hardhat Upgrades
