@@ -62,13 +62,14 @@
     - validators[🌎](https://xrpscan.com/validators)
     - **XRPLF/rippled** <sup>C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
      - Rippled Source Code Guide <sup>*v1.5 xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp)
-    - ripple/validator-history-service[🧱](https://github.com/ripple/validator-history-service)
-    - ripple/validator-keys-tool[🧱](https://github.com/ripple/validator-keys-tool)
-    - ripple/validator-domain-verifier[🧱](https://github.com/ripple/validator-domain-verifier)
+    - ripple/validator-history-service <sup>*js/ts*</sup>[🧱](https://github.com/ripple/validator-history-service)
+    - ripple/validator-keys-tool <sup>*C++*</sup>[🧱](https://github.com/ripple/validator-keys-tool) <sub>*Generate master and ephemeral rippled validator keys*</sub>
+    - ripple/validator-domain-verifier <sup>*js*</sup>[🧱](https://github.com/ripple/validator-domain-verifier)
     - ripple/rippledmon[🧱](https://github.com/ripple/rippledmon)
-    - xpring-eng/xrpl-validator-domains[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
-    - xpring-eng/rippled-network-crawler[🧱](https://github.com/xpring-eng/rippled-network-crawler)
-    - richard/xrpl-fetch-unl[🧱](https://github.com/RichardAH/xrpl-fetch-unl)
+    - ripple/ripple-libpp <sup>*C++*</sup>[🧱](https://github.com/ripple/ripple-libpp) <sub>*Standalone RCL-compatible transaction signing and serialization library*</sub>
+    - xpring-eng/xrpl-validator-domains <sup>*js/ts*</sup>[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
+    - xpring-eng/rippled-network-crawler <sup>*js*</sup>[🧱](https://github.com/xpring-eng/rippled-network-crawler)
+    - richard/xrpl-fetch-unl <sup>*js*</sup>[🧱](https://github.com/RichardAH/xrpl-fetch-unl)
   - []()
   - clio server <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
   - []()
