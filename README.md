@@ -187,6 +187,7 @@
       - ExpandedSignerList <sup>*1-to-32*</sup>[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) 
       - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
       - alt keys[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/7JLMuYoI1u8)
+  - []()
   - ***`more xrpl tools`***[👇](#2-xrphook)<sup>*3*</sup>[☝️](#1-xrpdevtool)<sup>*1*</sup>
   - []()
   
