@@ -118,22 +118,30 @@
     - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
     - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - []()
-  - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
-    - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
-    - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
-    - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
-    - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
+  - ledger tools
+    - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
+      - xrp-ledger.toml Checker[{✘}](https://xrpl.org/xrp-ledger-toml-checker.html)
+      - validator-domain-verifier[{✘}](https://xrpl.org/validator-domain-verifier.html)
+      - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
+      - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
+    - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌎](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
+    - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
+    - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
+    - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
+    - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
+    - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
   - []()
-  - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
-  - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
-  - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
-  - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
-  - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
-  - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌎](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
-  - wietse/xrpl-tx-exporter-csv[🧱](https://github.com/WietseWind/xrpl-tx-exporter-csv)[🌎](https://transaction-exporter.xrpl-labs.com)
-  - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
-  - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
-  - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
+  - single account and transactions
+    - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
+      - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
+      - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
+      - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
+      - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
+    - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
+    - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
+    - wietse/xrpl-tx-exporter-csv[🧱](https://github.com/WietseWind/xrpl-tx-exporter-csv)[🌎](https://transaction-exporter.xrpl-labs.com)
+    - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
+    - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - []()
   - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>
   - []()
