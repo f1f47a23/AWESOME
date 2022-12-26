@@ -504,7 +504,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 ##### <sub>*2-xrpsmrt*</sub>🚪
-### - xrpl-smart-contracts 🪝 <sup>*`🟦 rumors`*</sup>
+### - xrpl-smart-contracts <sup>*`🟦 rumors`*</sup>
 *█████ classified ██████*  
   - *███████████*
   - *███████████*
