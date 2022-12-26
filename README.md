@@ -58,10 +58,12 @@
 
 ### - xrpl servers [{✘}](https://xrpl.org/xrpl-servers.html)
 
+  - rippled server daemon
+    - **XRPLF/rippled** <sup>C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
+     - Rippled Source Code Guide <sup>*v1.5 xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp)  
+  - []()
   - rippled servers nodes
     - validators[🌎](https://xrpscan.com/validators)
-    - **XRPLF/rippled** <sup>C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
-     - Rippled Source Code Guide <sup>*v1.5 xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp)
     - ripple/validator-history-service <sup>*js/ts*</sup>[🧱](https://github.com/ripple/validator-history-service)
     - ripple/validator-keys-tool <sup>*C++*</sup>[🧱](https://github.com/ripple/validator-keys-tool) <sub>*Generate master and ephemeral rippled validator keys*</sub>
     - ripple/validator-domain-verifier <sup>*js*</sup>[🧱](https://github.com/ripple/validator-domain-verifier)
