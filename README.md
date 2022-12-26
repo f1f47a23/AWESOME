@@ -156,7 +156,7 @@
     - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
     - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
     - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
-    - XFL floating point <sup>*XLS-17d[🗃️](https://github.com/XRPLF/XRPL-Standards/discussions/39)*</sup>
+    - XFL floating point <sup>*XLS-17d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/39)*</sup>
       - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) <sub>*Construct/Deconstruct XFL floating point values*</sub>
     - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
     - XADDRESS <sub>*= address + destination tag*</sub>
@@ -164,7 +164,7 @@
   - []()
   - xrp-paper-wallet account keypairs👛
     - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
-    - Secret Numbers <sup>*XLS-12d[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[🗃️](https://github.com/XRPLF/XRPL-Standards/issues/15)*</sup> <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
+    - Secret Numbers <sup>*XLS-12d[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[👨](https://github.com/XRPLF/XRPL-Standards/issues/15)*</sup> <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
       - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
       - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)[🌎](https://secret-numbers-to-family-seed.xumm.dev/)
     - xrpl bip39 bip44
