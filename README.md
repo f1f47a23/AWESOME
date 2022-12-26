@@ -386,6 +386,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
   - services and applications
     - TheBetterMint[🌎](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
+    - Mwni/xrplmeta[🌎](https://xrplmeta.org/)[🧱](https://github.com/Mwni/xrplmeta)
     - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
     - nftmaster.com[🌎](https://nftmaster.com/) [§](https://xrpl.org/blog/2022/nftmaster.html) <sub>**</sub>
     - XPT
