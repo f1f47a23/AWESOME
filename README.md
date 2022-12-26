@@ -82,7 +82,7 @@
     - see [{✘}](https://xrpl.org/concepts.html)
   - []()
   - advanced payment features
-    - tickets[{✘}](https://xrpl.org/tickets.html)xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
+    - tickets[{✘}](https://xrpl.org/tickets.html) <sup>*xls-13d*</sup>[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)
     - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
     - *more...* [{✘}](https://xrpl.org/payment-types.html)
   - []()
