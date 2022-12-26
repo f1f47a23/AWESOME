@@ -164,7 +164,7 @@
   - []()
   - xrp-paper-wallet account keypairs👛
     - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
-    - XLS-12d: Secret Numbers[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[🗃️](https://github.com/XRPLF/XRPL-Standards/issues/15) <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
+    - Secret Numbers <sup>*XLS-12d[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[🗃️](https://github.com/XRPLF/XRPL-Standards/issues/15)*</sup> <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
       - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
       - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)[🌎](https://secret-numbers-to-family-seed.xumm.dev/)
     - xrpl bip39 bip44
