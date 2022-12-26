@@ -340,7 +340,6 @@
     - talentchain[🌎](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
-    - xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌎](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
   - ***`nft/tokens/dex/defi services`***[👇](#2-xrpnft)
   - []()
@@ -386,7 +385,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
   - services and applications
     - TheBetterMint[🌎](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
-    - Mwni/xrplmeta[🌎](https://xrplmeta.org/)[🧱](https://github.com/Mwni/xrplmeta)
+    - mwni/xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌎](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
     - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
     - nftmaster.com[🌎](https://nftmaster.com/) [§](https://xrpl.org/blog/2022/nftmaster.html) <sub>**</sub>
     - XPT
