@@ -175,7 +175,7 @@
       - xrp-community/xrpl-tagged-address-codec[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
       - richard/xaddress[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/xaddress-functions)
   - []()
-  - xrp-paper-wallet account keypairs👛
+  - xrp-paper-wallet account keypairs👛 <sub>*application of asymmetric/public-key cryptography*</sub>
     - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
     - Secret Numbers <sup>*XLS-12d[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[👨](https://github.com/XRPLF/XRPL-Standards/issues/15)*</sup> <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
       - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
