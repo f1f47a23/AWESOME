@@ -382,6 +382,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
     - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
+  - []()
     - ***`more defi dex`***[👇](#2-xrpdexamm)
   - []()
 
@@ -423,7 +424,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
   - []()
   - channels
-    - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🌎](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)
+    - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🐂](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)
   - []()
   - ***`ethereum defi dex`***[👇](#--web3-defi-dex)
   - []()
@@ -480,6 +481,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
   - applications
     - Evernode [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+  - []()
   - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
   - ***`wasm & c references`***[👇](#--wasm)
   - []()
