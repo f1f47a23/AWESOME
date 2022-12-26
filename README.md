@@ -648,7 +648,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - main
     - [🌐](https://chain.link/)[📖](https://link.smartcontract.com/whitepaper)[▶️](https://youtu.be/7Ow8uN1TmxA)[📖](https://docs.chain.link/)[🧰](https://github.com/smartcontractkit/documentation)[🧰](https://github.com/smartcontractkit)[▶️](https://www.youtube.com/@chainlink)
     - datafeeds[📖](https://docs.chain.link/data-feeds)[📖](https://docs.chain.link/data-feeds/price-feeds/addresses/)
-    - explorer[🌐](https://explorer.chatrue oracle gasin.link/)
+    - explorer[🌐](https://explorer.chain.link/)
     - blog and forum[📖](https://blog.chain.link/)[📖](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/)[👨](https://github.com/smartcontractkit/chainlink/issues)
     - LINK faucet[🚰](https://faucets.chain.link/) <sub>*get LINK token on ethereum goerli testnet*</sub>
   - []()
