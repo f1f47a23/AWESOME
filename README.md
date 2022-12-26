@@ -125,7 +125,7 @@
       - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
       - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
     - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌎](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
-    - wietse/fetch-xrpl-transactions[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
+    - wietse/fetch-xrpl-transactions <sup>*Google BigQuery*</sup>[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
     - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
     - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
     - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
