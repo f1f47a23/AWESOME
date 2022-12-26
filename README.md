@@ -52,7 +52,7 @@
   - []()
   - news channels guides & infographics
     - stedas[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas) MackAttackXRP[🐦](https://twitter.com/MackAttackXRP) xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/) BankXRP[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/)
-    - <sub>[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/@digitalassetinvestor)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/user/erichanintokyo/) 🔥 [▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/@moonlambo2376)[▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/c/AlexCobbXRP/)[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/) 🔥 [▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/)[▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/) 🔥 [▶️](https://www.youtube.com/@XRPCHIZ)[▶️](https://www.youtube.com/@DustyBC)[▶️](https://www.youtube.com/@BitBoyCryptoChannel)[▶️](https://www.youtube.com/c/NotoriousXRP)[▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/c/PaulBarronNetwork)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/) 🔥 </sub>
+    - <sub>[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/@digitalassetinvestor)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/user/erichanintokyo/) 🔥 [▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/@moonlambo2376)[▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/c/AlexCobbXRP/) 🔥 [▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/)[▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/) 🔥 [▶️](https://www.youtube.com/@XRPCHIZ)[▶️](https://www.youtube.com/@DustyBC)[▶️](https://www.youtube.com/@BitBoyCryptoChannel)[▶️](https://www.youtube.com/c/NotoriousXRP)[▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/c/PaulBarronNetwork)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/) 🔥 </sub>
   - []()
 
 
@@ -156,8 +156,8 @@
     - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
     - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
     - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
-    - XLS-17d[🗃️](https://github.com/XRPLF/XRPL-Standards/discussions/39) <sub>*Construct/Deconstruct XFL floating point values*</sub>
-      - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) 
+    - XFL floating point <sup>*XLS-17d[🗃️](https://github.com/XRPLF/XRPL-Standards/discussions/39)*</sup>
+      - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) <sub>*Construct/Deconstruct XFL floating point values*</sub>
     - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
     - XADDRESS <sub>*= address + destination tag*</sub>
       - xrp-community/xrpl-tagged-address-codec[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
@@ -421,6 +421,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
     - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
+  - []()
+  - channels
+    - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🌎](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)
   - []()
   - ***`ethereum defi dex`***[👇](#--web3-defi-dex)
   - []()
