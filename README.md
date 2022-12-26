@@ -509,6 +509,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - *███████████*
   - *███████████*
   - *███████████*
+  - [▶️](https://youtu.be/hg_9emDnc0w)
   - [🐦](https://twitter.com/HammerToe) <sub>*4 any info ask MH*</sub>
   - []()
 
