@@ -64,6 +64,23 @@
   - []()
   - rippled servers nodes
     - validators[🌎](https://xrpscan.com/validators)
+  - []()
+  - ledger tools
+    - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
+      - xrp-ledger.toml Checker[{✘}](https://xrpl.org/xrp-ledger-toml-checker.html)
+      - validator-domain-verifier[{✘}](https://xrpl.org/validator-domain-verifier.html)
+      - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
+      - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
+    - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌎](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
+    - wietse/fetch-xrpl-transactions <sup>*Google BigQuery*</sup>[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
+    - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
+    - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
+    - richard/xrpl-tools
+      - richard/memo-pow-benchmark[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/memo-pow-benchmark)
+      - richard/peer-connection[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/peer-connection)
+      - richard/validator-address-tool[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/validator-address-tool)
+    - richard/xrpl-fetch-unl <sup>*js*</sup>[🧱](https://github.com/RichardAH/xrpl-fetch-unl)
+    - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
     - ripple/validator-history-service <sup>*js/ts*</sup>[🧱](https://github.com/ripple/validator-history-service)
     - ripple/validator-keys-tool <sup>*C++*</sup>[🧱](https://github.com/ripple/validator-keys-tool) <sub>*Generate master and ephemeral rippled validator keys*</sub>
     - ripple/validator-domain-verifier <sup>*js*</sup>[🧱](https://github.com/ripple/validator-domain-verifier)
@@ -71,7 +88,6 @@
     - ripple/ripple-libpp <sup>*C++*</sup>[🧱](https://github.com/ripple/ripple-libpp) <sub>*Standalone RCL-compatible transaction signing and serialization library*</sub>
     - xpring-eng/xrpl-validator-domains <sup>*js/ts*</sup>[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
     - xpring-eng/rippled-network-crawler <sup>*js*</sup>[🧱](https://github.com/xpring-eng/rippled-network-crawler)
-    - richard/xrpl-fetch-unl <sup>*js*</sup>[🧱](https://github.com/RichardAH/xrpl-fetch-unl)
   - []()
   - clio server <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
   - []()
@@ -118,19 +134,6 @@
     - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
     - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - []()
-  - ledger tools
-    - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
-      - xrp-ledger.toml Checker[{✘}](https://xrpl.org/xrp-ledger-toml-checker.html)
-      - validator-domain-verifier[{✘}](https://xrpl.org/validator-domain-verifier.html)
-      - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
-      - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
-    - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌎](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
-    - wietse/fetch-xrpl-transactions <sup>*Google BigQuery*</sup>[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
-    - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
-    - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
-    - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
-    - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
-  - []()
   - single account and transactions
     - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
       - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
@@ -140,7 +143,6 @@
     - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
     - wietse/xrp-text[🧱](https://github.com/WietseWind/xrp-text) <sub>*Exchange XRP using Text Messages*</sub>
     - wietse/xrpl-tx-exporter-csv[🧱](https://github.com/WietseWind/xrpl-tx-exporter-csv)[🌎](https://transaction-exporter.xrpl-labs.com)
-    - richard/xrpl-tools[🧱](https://github.com/RichardAH/xrpl-tools)
     - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - []()
   - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>
@@ -169,8 +171,9 @@
     - XFL floating point <sup>*XLS-17d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/39)*</sup>
       - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) <sub>*Construct/Deconstruct XFL floating point values*</sub>
     - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
-    - XADDRESS <sub>*= address + destination tag*</sub>
+    - XADDRESS <sup>*XLS-5d[👨](https://github.com/XRPLF/XRPL-Standards/issues/6)*</sup> <sub>*xaddress = address + destination tag*</sub>
       - xrp-community/xrpl-tagged-address-codec[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
+      - richard/xaddress[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/xaddress-functions)
   - []()
   - xrp-paper-wallet account keypairs👛
     - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
