@@ -23,7 +23,7 @@
 
 ******
 
-## `1.1 XRP XRPL Ripple` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
+## `1.1 XRP XRPL RIPPLE` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
 
 
@@ -153,7 +153,7 @@
 
 ******
 
-## `1.2 Cryptography Algorithms` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
+## `1.2 CRYPTOGRAPHY ALGORITHMS` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 *`Encoding Keypairs Signing Bip39 Bip44 PaperWallets👛`* 
 
 ##### <sub>*1-xrpalg*</sub>🚪
@@ -276,7 +276,7 @@
 
 ******
 
-## `1.3 XRP Ripple Ecosystem` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
+## `1.3 XRP RIPPLE ECOSYSTEM` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 
 
@@ -341,6 +341,7 @@
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
+  - []()
   - ***`nft/tokens/dex/defi services`***[👇](#2-xrpnft)
   - []()
 
@@ -370,7 +371,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `2.1 xrpl web3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
+## `2.1 XRPL WEB3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
 
 ##### <sub>*2-xrpnft*</sub>🚪
 ### - tokens NFT trustline[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb)
@@ -396,7 +397,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
     - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
-    - ***`more defi dex`***[👇](#2-xrpdexamm)
+  - []()
+  - ***`more defi dex`***[👇](#2-xrpdexamm)
   - []()
 
 
@@ -513,7 +515,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 ##### <sub>*2-sol*</sub>🚪
-## `2.2 Ethereum web3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `2.2 ETHEREUM WEB3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 *` Smart-Contracts Dapps Solidity`*
 
 ### - ethereum
@@ -702,13 +704,15 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   
 ******
 ##### <sub>*2-p2p*</sub>🚪
-## `2.3 Chains & P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+## `2.3 CHAINS and P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - blockchain <sub>*ethereum, bitcoin, others*</sub>
 
   - learning resources
     - crypto-academy
       - [▶️](https://www.youtube.com/@BinanceAcademy)[🌐](https://academy.binance.com/en)[▶️](https://www.youtube.com/@freecodecamp)[▶️](https://www.youtube.com/@javascriptmastery)[▶️](https://www.youtube.com/@SimplilearnOfficial)[▶️](https://www.youtube.com/@EatTheBlocks) 🔥 [▶️](https://www.youtube.com/@CryptoTutorialsbySimpleSwap)[▶️](https://www.youtube.com/@DappUniversity)[▶️](https://www.youtube.com/@CodingTech)[▶️](https://www.youtube.com/@appbrewery)[▶️](https://www.youtube.com/@CollectionCrypto) 🔥 [▶️](https://www.youtube.com/@CryptoTutorialsbySimpleSwap)[▶️](https://www.youtube.com/@Telusko)[▶️](https://www.youtube.com/@edurekaIN)[▶️](https://www.youtube.com/@Mobilefish)[▶️](https://www.youtube.com/@centerforinnovativefinance3039) 🔥 [▶️](https://www.youtube.com/@WhiteboardCrypto)[▶️'](https://www.youtube.com/playlist?list=PLoROMvodv4rN_bvJCjfM33sOLTGj8gxrF)[▶️](https://www.youtube.com/@WEB3Foundation)[▶️](https://www.youtube.com/@designweb3514)[▶️](https://www.youtube.com/@MammothInteractive) 🔥 [▶️](https://www.youtube.com/@JamesBachini)[▶️](https://www.youtube.com/@Blockholic/)[▶️](https://www.youtube.com/@edurekaIN)[▶️](https://www.youtube.com/@DesignCourse)[▶️](https://www.youtube.com/@AlchemyPlatform) 🔥 [▶️](https://www.youtube.com/@thenewboston)[▶️](https://www.youtube.com/@smartcontractprogrammer)[▶️](https://www.youtube.com/@99Bitcoins)[▶️](https://www.youtube.com/@LearnWeb3DAO)[🌐](https://learnweb3.io/) 🔥 [▶️](https://www.youtube.com/@BlockExplorerMedia)[▶️](https://www.youtube.com/@simplyexplained)[▶️](https://www.youtube.com/@DesignCourse)[🌐](https://blockgeeks.com/)[🌐](https://www.gemini.com/cryptopedia) 🔥 [▶️](https://www.youtube.com/c/Finematics)
+  - []()
+- awesome 😎
   - jpantunes/awesome-cryptoeconomics[😎](https://github.com/jpantunes/awesome-cryptoeconomics)
   - yjjnls/awesome-blockchain[😎](https://github.com/yjjnls/awesome-blockchain)
   - openblockchains/awesome-blockchains[😎](https://github.com/openblockchains/awesome-blockchains)
@@ -799,7 +803,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `3.2 Typescript` [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org) [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+## `3.2 TYPESCRIPT` [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org) [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
 
 ### - overall
 
@@ -825,7 +829,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `3.3 Javascript Ecmascript` [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+## `3.3 JAVASCRIPT ECMASCRIPT` [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
 
 ### - misc
 
@@ -861,7 +865,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `3.4 Webdev` [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
+## `3.4 WEBDEV` [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
 ### - nodejs
 
@@ -900,7 +904,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 
-## `3.5 Systems, Tools & Security` [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
+## `3.5 SYSTEMS, TOOLS and SECURITY` [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
 
 ### - Linux [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
@@ -919,7 +923,6 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - sbilly/[😎](https://github.com/sbilly/awesome-security)
     - qazbnm456/[😎](https://github.com/qazbnm456/awesome-web-security)
     - ashishb/[😎](https://github.com/ashishb/android-security-awesome)
-    - Hack-with-Github/[😎](https://github.com/Hack-with-Github/Awesome-Hacking)
     - infoslack/[😎](https://github.com/infoslack/awesome-web-hacking)
     - carpedm20/[😎](https://github.com/carpedm20/awesome-hacking)
     - vitalysim/[😎](https://github.com/vitalysim/Awesome-Hacking-Resources)
@@ -937,6 +940,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - Awesome-Windows[😎](https://github.com/Awesome-Windows/Awesome)
     - sirredbeard/Awesome-UNIX[😎](https://github.com/sirredbeard/Awesome-UNIX)
     - pingcap/awesome-database-learning[😎](https://github.com/pingcap/awesome-database-learning)
+    - Hack-with-Github/[😎](https://github.com/Hack-with-Github/Awesome-Hacking)
     - emijrp/awesome-awesome[😎](https://github.com/emijrp/awesome-awesome)
     - t3chnoboy/awesome-awesome-awesome[😎](https://github.com/t3chnoboy/awesome-awesome-awesome)
     - lukasz-madon/awesome-remote-job[😎](https://github.com/lukasz-madon/awesome-remote-job)
