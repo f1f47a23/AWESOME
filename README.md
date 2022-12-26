@@ -384,7 +384,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
     - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
-  - []()
     - ***`more defi dex`***[👇](#2-xrpdexamm)
   - []()
 
@@ -398,6 +397,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
   - burkebrunson/[🗃️](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[🗃️](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
+  - []()
+  - channels
+    - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🐂](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)
   - []()
   - [🖕around](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - dex notes[📁](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/)
@@ -424,9 +426,6 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
     - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
-  - []()
-  - channels
-    - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🐂](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)
   - []()
   - ***`ethereum defi dex`***[👇](#--web3-defi-dex)
   - []()
