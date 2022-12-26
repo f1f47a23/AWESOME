@@ -503,6 +503,14 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
+##### <sub>*2-xrpsmrt*</sub>🚪
+### - xrpl-smart-contracts 🪝 <sup>*`🟦 rumors`*</sup>
+*██████ classified ████████*  
+  - [🐦](https://twitter.com/HammerToe) <sub>*4 any info ask MH*</sub>
+  - []()
+
+
+
 
 ### - ~~codius~~ <sup>*archived*</sup>
 
