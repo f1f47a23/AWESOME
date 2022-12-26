@@ -953,7 +953,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 <br>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🕳🤹&width=800&height=30)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🕳🤹&width=800&height=20)](https://github.com/Akshay090/svg-banners)
 
 
 <br><br>
