@@ -493,20 +493,19 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
     - applications
       - Evernode-smart-contracts - ***`below`***[👇]
-    - []()
     - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
     - ***`wasm & c references`***[👇](#--wasm)
-    - []()
+  - []()
   - xrpl-smart-contracts <sup>*`🟦 rumors`*</sup> <sub>*█████ classified ██████*</sub>
     - *███████████*
     - *███████████*
     - *███████████*
     - [▶️](https://youtu.be/hg_9emDnc0w)
     - [🐦](https://twitter.com/HammerToe) <sub>*4 any info ask MH*</sub>
-    - []()
-  - Evernode-smart-contracts 
-      - Evernode [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) <sub>*Layer2 Smart Contracts on the XRPL*</sub>
-    - []()
+  - []()
+  - Evernode-smart-contracts <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+      - [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) 
+  - []()
 
 
 
