@@ -120,13 +120,14 @@
 
 
 ##### <sub>*1-xrpdevtool*</sub>🚪
-### - xrpl-devtools & examples
+### - xrpl client lib devtools & examples
 
   - API/library for interacting with the XRP Ledger
     - **XRPLF/xrpl.js** <sup>js/ts nodejs/browser</sup>[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*API for interacting with the XRP Ledger*</sub>
-      - XRPLF/xrpl-py <sup>python 1.0</sup>[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sup>1.7</sup>[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) <sup>2.0</sup>[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
-      - XRPLF/xrpl4j <sup>java 2.5</sup>[🧱](https://github.com/XRPLF/xrpl4j)
+      - XRPLF/xrpl-py <sup>py xrpl-1.0</sup>[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sup>xrpl-1.7</sup>[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) <sup>xrpl-2.0</sup>[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
+      - XRPLF/xrpl4j <sup>java xrpl-2.5</sup>[🧱](https://github.com/XRPLF/xrpl4j)
     - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
+    - N3TC4T/python-xrpl-websocket <sup>py</sup>[🧱](https://github.com/N3TC4T/python-xrpl-websocket)
     - Transia-RnD/[🧱](https://github.com/Transia-RnD/)
       - Transia-RnD/XrplCSharp <sup>C#</sup>[🧱](https://github.com/Transia-RnD/XrplCSharp) <sub>*Library to interact with the XRP Ledger*</sub>
       - Transia-RnD/xrpl.csharp.unity <sup>C# unity</sup>[🧱](https://github.com/Transia-RnD/xrpl.csharp.unity) <sub>*Unity Package to interact with the XRP Ledger*</sub>
@@ -292,6 +293,7 @@
       - XRPL-Labs/XUMM-Issue-Tracker[🧱](https://github.com/XRPL-Labs/XUMM-Issue-Tracker)
   - []()
   - gemwallet[🌎](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
+  - sologenic/sologenic-expo-wallet[🧱](https://github.com/sologenic/sologenic-expo-wallet)
   - multiverse-wallet/[🌎](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
   - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
@@ -341,6 +343,7 @@
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
+    - sologenic/sologenic-xrpl-stream-js[🧱](https://github.com/sologenic/sologenic-xrpl-stream-js)
   - []()
   - ***`nft/tokens/dex/defi services`***[👇](#2-xrpnft)
   - []()
@@ -464,6 +467,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - []()
   - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
+  - []()
+  - other sidechains 
+    - xpring-eng/sidechain-launch-kit <sup>py</sup>[🧱](https://github.com/xpring-eng/sidechain-launch-kit)
   - []()
 
 
