@@ -469,50 +469,44 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 ##### <sub>*2-xrphook*</sub>🚪
-### - xrpl-hooks-v2 🪝 <sup>*`🐞 testing`*</sup>
-*Layer1-native-bespoke-lite-smart-contracts*  
+### - xrpl-smart-contracts
 
-  - main
-    - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
-    - **richard/xrpl.js**[🌵](https://github.com/RichardAH/xrpl.js)[🧱](https://github.com/XRPLF/xrpl.js)
-    - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
-    - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
-    - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
-  - []()
-  - forum blog newsletter
-    - amendments[🧱](https://github.com/XRPLF/rippled/pull/4225)
-    - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
-    - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
-    - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
-  - []()
-  - tools
-    - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
-    - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
-    - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
-    - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
-    - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
-    - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
-    - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-  - []()
-  - applications
-    - Evernode [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) <sub>*Layer2 Smart Contracts on the XRPL*</sub>
-  - []()
-  - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
-  - ***`wasm & c references`***[👇](#--wasm)
-  - []()
-
-
-
-##### <sub>*2-xrpsmrt*</sub>🚪
-### - xrpl-smart-contracts <sup>*`🟦 rumors`*</sup>
-*█████ classified ██████*  
-  - *███████████*
-  - *███████████*
-  - *███████████*
-  - [▶️](https://youtu.be/hg_9emDnc0w)
-  - [🐦](https://twitter.com/HammerToe) <sub>*4 any info ask MH*</sub>
-  - []()
-
+  - xrpl-hooks-v2 🪝 <sup>*`🐞 testing`*</sup> *Layer1-native-bespoke-lite-smart-contracts*  
+    - main
+      - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
+      - **richard/xrpl.js**[🌵](https://github.com/RichardAH/xrpl.js)[🧱](https://github.com/XRPLF/xrpl.js)
+      - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
+      - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
+      - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
+    - forum blog newsletter
+      - amendments[🧱](https://github.com/XRPLF/rippled/pull/4225)
+      - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
+      - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
+      - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
+    - tools
+      - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
+      - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
+      - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
+      - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
+      - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
+      - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
+      - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
+    - applications
+      - Evernode-smart-contracts - ***`below`***[👇]
+    - []()
+    - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
+    - ***`wasm & c references`***[👇](#--wasm)
+    - []()
+  - xrpl-smart-contracts <sup>*`🟦 rumors`*</sup> <sub>*█████ classified ██████*</sub>
+    - *███████████*
+    - *███████████*
+    - *███████████*
+    - [▶️](https://youtu.be/hg_9emDnc0w)
+    - [🐦](https://twitter.com/HammerToe) <sub>*4 any info ask MH*</sub>
+    - []()
+  - Evernode-smart-contracts 
+      - Evernode [🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)[🌎](https://evernode.wordpress.com/)[🐦](https://twitter.com/EvernodeXRPL)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU) <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+    - []()
 
 
 
