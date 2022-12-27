@@ -526,7 +526,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ******
 ##### <sub>*2-sol*</sub>🚪
-## `2.2 ETHEREUM WEB3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
+## `2.2 EVM WEB3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 *` Smart-Contracts Dapps Solidity`*
 
 ### - ethereum
