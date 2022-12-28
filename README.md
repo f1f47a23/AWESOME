@@ -515,6 +515,16 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
+### - flare
+
+  - flare-foundation/docs[🗃️](https://github.com/flare-foundation/docs)
+  - DefiStandardXRP/flare-docs[🗃️](https://github.com/DefiStandardXRP/docs)
+  - 🖕around
+    - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)
+  - []()
+
+
+
 ### - ~~codius~~ <sup>*archived*</sup>
 
   - [🌐](https://codius.org/)[📖](https://codius.org/docs/)[🧰](https://github.com/codius)
@@ -698,16 +708,6 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - JohannEid/awesome-chainlink[😎](https://github.com/JohannEid/awesome-chainlink)
   - []()
 
-
-
-
-### - flare
-
-  - flare-foundation/docs[🗃️](https://github.com/flare-foundation/docs)
-  - DefiStandardXRP/flare-docs[🗃️](https://github.com/DefiStandardXRP/docs)
-  - 🖕around
-    - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)
-  - []()
 
 
 
