@@ -499,7 +499,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
       - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
     - applications
-      - Evernode-smart-contracts ***`below`***👇
+      - Evernode-smart-contracts ***`below`*** 👇
     - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
     - ***`wasm & c references`***[👇](#--wasm)
   - []()
