@@ -285,11 +285,11 @@
 ### - XRP self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
-  - xumm.app <sup>*React-Native iOS Android*</sup>[🌎](https://xumm.app/) 
+  - xumm.app <sup>React-Native iOS Android</sup>[🌎](https://xumm.app/) 
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)[👨](https://xrpl-labs.canny.io/)
     - Xumm Developer Education [📖](https://learn.xumm.dev/)
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
-    - XRPL-Labs/Xumm-Universal-SDK[🧱](https://github.com/XRPL-Labs/Xumm-Universal-SDK) <sub>*One SDK to rule them all. Universal JS/TS (CLI, Browser, xApp) SDK*</sub>
+    - XRPL-Labs/Xumm-Universal-SDK <sup>js/ts</sup>[🧱](https://github.com/XRPL-Labs/Xumm-Universal-SDK) <sub>*One SDK to rule them all. Universal CLI, Browser, xApp SDK*</sub>
       - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)[🧱](https://github.com/XRPL-Labs/xApp-SDK)[🧱](https://github.com/XRPL-Labs/XummPkce)
       - XRPL-Labs/XUMM-Issue-Tracker[🧱](https://github.com/XRPL-Labs/XUMM-Issue-Tracker)
   - []()
