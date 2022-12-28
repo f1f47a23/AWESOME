@@ -354,6 +354,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
   - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
   - interledger[🌐](https://interledger.org/)[🧰](https://github.com/interledger)[🧰](https://github.com/interledgerjs) 
+  - [▶️](https://youtu.be/LqGFqGkQkJQ)
   - []()
 
 
@@ -505,9 +506,11 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
   - Evernode-smart-contracts🏆 <sub>*Layer2 Smart Contracts on the XRPL*</sub>
       - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)
-      - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8) xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) woj4ke[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
+      - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
+      - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
+      - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) woj4ke[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
       - applications
-        - Udith-Gayan/Decentralized-Hotel-Booking-System[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)
+        - Udith-Gayan/Decentralized-Hotel-Booking-System[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
   - []()
 
 
