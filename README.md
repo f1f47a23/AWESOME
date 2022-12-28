@@ -377,6 +377,12 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ## `2.1 XRPL WEB3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
 
+### - main
+  - channels
+    - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🐂](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)[🧱](https://github.com/DefiStandardXRP)
+    - peerkat[▶️](https://www.youtube.com/@peerkat)
+  - []()
+
 ##### <sub>*2-xrpnft*</sub>🚪
 ### - tokens NFT trustline[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb)
 
@@ -385,7 +391,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
     - tutorials
-      - nft/web3[▶️](https://www.youtube.com/@peerkat)
       - ***`main tutorials and samples`***[☝️](#--main)
   - []()
   - services and applications
@@ -415,9 +420,6 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - autobridging[{✘}](https://xrpl.org/autobridging.html)
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
   - burkebrunson/[🗃️](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[🗃️](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
-  - []()
-  - channels
-    - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🐂](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)
   - []()
   - [🖕around](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - dex notes[📁](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/)
