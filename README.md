@@ -285,7 +285,7 @@
 ### - XRP self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
-  - xumm.app[🌎](https://xumm.app/) <sup>*React-Native iOS Android*</sup>
+  - xumm.app <sup>*React-Native iOS Android*</sup>[🌎](https://xumm.app/) 
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)[👨](https://xrpl-labs.canny.io/)
     - Xumm Developer Education [📖](https://learn.xumm.dev/)
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
