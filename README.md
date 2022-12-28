@@ -316,7 +316,6 @@
       - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer) <sub>*real-time visualization of the XRP Ledger*</sub>
       - nixer89/xrpl-data-api[🧱](https://github.com/nixer89/xrpl-data-api) <sub>*api to provide xrp ledger data*</sub>
     - richlist[🌎](https://rich-list.info)
-    - xrplcoins[🌎](https://xrplcoins.com/dex)
   - []()
   - more service providers
     - xrptoolkit.com testnet[🌎](https://test.xrptoolkit.com/)mainnet[🌎](https://www.xrptoolkit.com/)
@@ -333,7 +332,6 @@
     - zerpcraft[🌎](https://www.zerpcraft.com/)
     - blockchair[🌎](https://blockchair.com/ripple)
     - xrplstatus[🌎](https://xrplstatus.com/)
-    - onxrp.com <sup>*ecosystem*</sup>[🌎](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
   - []()
   - more applications
     - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
@@ -444,6 +442,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 or Mint NFTs on a Decentralized Ecosystem*</sub> 
     - theworldexchange.net[🌎](https://www.theworldexchange.net/)
     - xrpl.to *launch*[🌎](https://xrpl.to/)
+    - xrplcoins[🌎](https://xrplcoins.com/dex)
+    - onxrp.com <sup>*ecosystem*</sup>[🌎](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
     - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
     - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
