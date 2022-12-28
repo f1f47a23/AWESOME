@@ -508,10 +508,14 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - ***`wasm & c references`***[👇](#--wasm)
   - []()
   - Evernode-smart-contracts <sup>`🏆 EVRS token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
-      - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)
+      - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
+        - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk)
+        - hook[🧱](https://github.com/EvernodeXRPL/evernode-hook)
       - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
       - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
       - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) woj4ke[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
+      - samples
+        - wojake/evernode-samples[🧱](https://github.com/wojake/evernode-samples)
       - applications
         - Udith-Gayan/Decentralized-Hotel-Booking-System[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
   - []()
