@@ -511,6 +511,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
         - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk)
         - hook[🧱](https://github.com/EvernodeXRPL/evernode-hook)
+        - EVM-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract)
       - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
       - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
       - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) wojake[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
@@ -606,6 +607,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
     - hardhat.org/[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
+    - ethereum/evmone <sup>C++</sup>[🧰](https://github.com/ethereum/evmone) <sub>*Fast Ethereum Virtual Machine implementation*</sub>
   - []()
   - learning resources
     - solidity-by-example <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
