@@ -511,7 +511,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
         - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk)
         - hook[🧱](https://github.com/EvernodeXRPL/evernode-hook)
-        - EVM-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract)
+        - EVM-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract) ***`solidity`***[👇](#--solidity)
       - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
       - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
       - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) wojake[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
