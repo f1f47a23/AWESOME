@@ -39,6 +39,7 @@
     - xrpl-grants[🌎](https://xrplgrants.org/) <sub>*$$$ support the development of new software projects $$$*</sub>
   - awesome xrpl 😎
      - yyolk/[😎](https://github.com/yyolk/awesome-xrpl) vhpoet/[😎](https://github.com/vhpoet/awesome-ripple) TusharPardhe/[😎](https://github.com/TusharPardhe/xrpl-cheat-sheet) f1f47a23/[😎](https://github.com/f1f47a23/AWESOME)
+  - [🖕around](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/)
   - []()
 
 
@@ -421,7 +422,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
   - burkebrunson/[🗃️](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[🗃️](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
   - []()
-  - [🖕around](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
+  - 🖕around <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - dex notes[📁](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/)
     - WrathofKahneman notes[🐦](https://twitter.com/WKahneman/status/1543726915281858560)references[📝](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)[▶️](https://youtu.be/U0vHwuYER5Q?t=574)[📝](https://blog.bancor.network/guide-how-to-stake-liquidity-in-bancor-pools-758df075e7e6)[📝](https://medium.com/hummingbot/how-to-arbitrage-uniswap-balancer-and-other-amms-ddba34a8bc21)
     - FloFlo Kneteknilch notes[🐦](https://twitter.com/Kneteknilch/status/1593371352827936770)references[▶️](https://youtu.be/uxcqp31DCik?t=1662)[▶️](https://youtu.be/vCcWl85MXTE?t=191)
