@@ -507,7 +507,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
     - ***`wasm & c references`***[👇](#--wasm)
   - []()
-  - Evernode-smart-contracts🏆 <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+  - Evernode-smart-contracts <sup>`🏆 EVRS token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
       - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL/evernode-hook)[🧱](https://github.com/EvernodeXRPL)
       - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
       - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
