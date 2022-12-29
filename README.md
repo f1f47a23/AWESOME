@@ -606,7 +606,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
     - hardhat.org/[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
-    - ethereum/evmone <sup>C++</sup>[🧰](https://github.com/ethereum/evmone) <sub>*Fast Ethereum Virtual Machine implementation*</sub>
+    - ethereum/evmone <sup>C++</sup>[🧰](https://github.com/ethereum/evmone)[📝](https://morioh.com/p/e8a434b44310) <sub>*Fast Ethereum Virtual Machine implementation*</sub>
   - []()
   - learning resources
     - solidity-by-example <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
