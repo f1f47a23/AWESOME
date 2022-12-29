@@ -558,8 +558,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - several faucets[🚰](https://faucetlink.to/)
     - eth-converter[🔨](https://eth-converter.com/)
     - client libraries
-      - ethers.js VS web3.js[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)
-      - ethers.js[🧰](https://github.com/ethers-io/ethers.js)[📖](https://docs.ethers.org)[🔨](https://ethers.io) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
+      - ethers.js VS web3.js[▶️](https://youtu.be/DdyXocqnCxE)[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)
+      - ethers.js[🧰](https://github.com/ethers-io/ethers.js)[📖](https://docs.ethers.org)[🔨](https://ethers.io)[▶️](https://youtu.be/yk7nVp5HTCk)[▶️<sup>1</sup>](https://youtu.be/2KsgmpwgA2M)[▶️<sup>2</sup>](https://youtu.be/PRj_z6VNkkc) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
       - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
   - []()
   - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
