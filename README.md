@@ -507,7 +507,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
     - ***`wasm & c references`***[👇](#--wasm)
   - []()
-  - Evernode-smart-contracts <sup>`🏆 EVRS token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+  - Evernode-smart-contracts <sup>`🏆 EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
       - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
         - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk)
         - hook[🧱](https://github.com/EvernodeXRPL/evernode-hook)
@@ -522,10 +522,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
-### - flare
+### - flare network <sup>FLR native token</sup>
 
-  - flare-foundation/docs[🗃️](https://github.com/flare-foundation/docs)
-  - DefiStandardXRP/flare-docs[🗃️](https://github.com/DefiStandardXRP/docs)
+  - [🌐](https://flare.network/)[📖](https://docs.flare.network/)[📖](https://docs.flare.network/dev/)[🗃️](https://github.com/flare-foundation/docs)[🐦](https://twitter.com/FlareNetworks)
   - 🖕around
     - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)
   - []()
