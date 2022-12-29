@@ -596,16 +596,22 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - forums[👨](https://forum.soliditylang.org/)[👨](https://gitter.im/ethereum/solidity/)
   - []()
   - tools and libs
-    - remix[🔨](https://remix.ethereum.org)
-    - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
+    - dev online
+      - remix[🔨](https://remix.ethereum.org)
+    - dev local
+      - hardhat vs truffle [📝](https://101blockchains.com/hardhat-vs-truffle/)[📝](https://blog.cryptostars.is/hardhat-vs-truffle-c0c4a8a64f21)[▶️](https://youtu.be/eR_9XSfF9p8)[▶️](https://youtu.be/tfQFk6pmtFc)
+      - hardhat.org/[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
+      - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
+      - getwaffle.io[🔨](https://getwaffle.io/) <sub>*smart contracts testing*</sub>
+    - []()
     - OpenZeppelin/awesome-openzeppelin[🧰](https://github.com/OpenZeppelin/awesome-openzeppelin)[🌐](https://www.openzeppelin.com/)[📖](https://docs.openzeppelin.com/)
       - contracts[🧰](https://github.com/OpenZeppelin/openzeppelin-contracts)[🌐](https://www.openzeppelin.com/contracts) <sub>*library for secure development*</sub>
       - defender[🔨](https://www.openzeppelin.com/defender)
       - tutorials[▶️](https://www.youtube.com/watch?v=yZvr5tEpRE8&list=PLdJRkA9gCKOMuuY4x9hyyt0428HETLFx_)[▶️](https://www.youtube.com/playlist?list=PLbbtODcOYIoFdQ37ydykQNO-MNGER6mtd)[▶️](https://www.youtube.com/watch?v=vOluJAF0l-0)[▶️](https://www.youtube.com/watch?v=DILDtLTrx_s)
-    - getwaffle.io[🔨](https://getwaffle.io/) <sub>*smart contracts framework*</sub>
+    - []()
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
-    - hardhat.org/[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
+    - []()
     - ethereum/evmone <sup>C++</sup>[🧰](https://github.com/ethereum/evmone)[📝](https://morioh.com/p/e8a434b44310) <sub>*Fast Ethereum Virtual Machine implementation*</sub>
       - ethereum/evmc api[🧰](https://github.com/ethereum/evmc)[📖](https://evmc.ethereum.org/)
       - chfast/intx[🧰](https://github.com/chfast/intx) <sub>*extended precision integer library*</sub>
