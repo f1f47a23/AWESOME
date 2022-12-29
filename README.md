@@ -39,7 +39,7 @@
     - xrpl-grants[🌎](https://xrplgrants.org/) <sub>*$$$ support the development of new software projects $$$*</sub>
   - awesome xrpl 😎
      - yyolk/[😎](https://github.com/yyolk/awesome-xrpl) vhpoet/[😎](https://github.com/vhpoet/awesome-ripple) TusharPardhe/[😎](https://github.com/TusharPardhe/xrpl-cheat-sheet) f1f47a23/[😎](https://github.com/f1f47a23/AWESOME)
-  - [🖕around](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/)
+  - [DYOR](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/)
   - []()
 
 
@@ -420,7 +420,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - xrpl-businesses[{✘}](https://xrpl.org/xrp-ledger-businesses.html)
   - burkebrunson/[🗃️](https://github.com/burkebrunson/xrpWalletPrepDEXTrade)[🗃️](https://raw.githubusercontent.com/burkebrunson/xrpWalletPrepDEXTrade/main/XRPL_DEX_ACCESS_2021.pdf) <sub>*A guide to enabling trading through xrpl dex*</sub>
   - []()
-  - 🖕around <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
+  - DYOR <sub>*amm pools, users provide liquidity and also earn profits from AMM, impermanent loss*</sub>
     - dex notes[📁](https://github.com/f1f47a23/AWESOME/blob/main/docs/xrpdex/)
     - WrathofKahneman notes[🐦](https://twitter.com/WKahneman/status/1543726915281858560)references[📝](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)[▶️](https://youtu.be/U0vHwuYER5Q?t=574)[📝](https://blog.bancor.network/guide-how-to-stake-liquidity-in-bancor-pools-758df075e7e6)[📝](https://medium.com/hummingbot/how-to-arbitrage-uniswap-balancer-and-other-amms-ddba34a8bc21)
     - FloFlo Kneteknilch notes[🐦](https://twitter.com/Kneteknilch/status/1593371352827936770)references[▶️](https://youtu.be/uxcqp31DCik?t=1662)[▶️](https://youtu.be/vCcWl85MXTE?t=191)
@@ -525,7 +525,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ### - flare network <sup>`FLR native token`</sup>
 
   - [🌐](https://flare.network/)[📖](https://docs.flare.network/)[📖](https://docs.flare.network/dev/)[🗃️](https://github.com/flare-foundation/docs)[🐦](https://twitter.com/FlareNetworks)
-  - 🖕around
+  - DYOR
     - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)
   - []()
 
@@ -695,7 +695,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - blog and forum[📖](https://blog.chain.link/)[📖](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/)[👨](https://github.com/smartcontractkit/chainlink/issues)
     - LINK faucet[🚰](https://faucets.chain.link/) <sub>*get LINK token on ethereum goerli testnet*</sub>
   - []()
-  - 🖕around
+  - DYOR
     - articles[📝](https://medium.com/reserve-currency/schelling-network-oracles-are-vulnerable-to-manipulation-68d1a88cbcf3)[📝](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803)[📝](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f)[📝](https://cryptoslate.com/chainlink/)[📝](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/)[📝](https://www.investinblockchain.com/what-is-chainlink-link/)[📝](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974)
     - more articles[📝](https://github.com/JohannEid/awesome-chainlink#on-the-importance-of-oracles)
   - []()
@@ -951,7 +951,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - Igglybuff/[😎](https://github.com/Igglybuff/awesome-piracy)
   - []()
   - spa security
-     - 🖕around [🌐](https://iteo.com/blog/post/security-for-single-page-applications/)[🌐](https://developer.okta.com/blog/2022/07/06/spa-web-security)[🌐](https://damienbod.com/2019/01/20/is-a-spa-less-secure-than-a-server-rendered-web-application/)[🌐](https://www.helpnetsecurity.com/2022/03/08/spas-security/)[🌐](https://securityboulevard.com/2021/06/securing-single-page-web-applications/) 🔥 [▶️](https://youtu.be/kD1bb73-SL0)[🌐](https://levelup.gitconnected.com/best-oauth-security-practices-for-single-page-applications-2bb6b44d2890)
+     - DYOR [🌐](https://iteo.com/blog/post/security-for-single-page-applications/)[🌐](https://developer.okta.com/blog/2022/07/06/spa-web-security)[🌐](https://damienbod.com/2019/01/20/is-a-spa-less-secure-than-a-server-rendered-web-application/)[🌐](https://www.helpnetsecurity.com/2022/03/08/spas-security/)[🌐](https://securityboulevard.com/2021/06/securing-single-page-web-applications/) 🔥 [▶️](https://youtu.be/kD1bb73-SL0)[🌐](https://levelup.gitconnected.com/best-oauth-security-practices-for-single-page-applications-2bb6b44d2890)
   - []()
 
 
