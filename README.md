@@ -133,7 +133,7 @@
     - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
     - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - []()
-  - single account and transactions
+  - account and transactions tools and examples
     - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
       - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
       - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
@@ -293,7 +293,7 @@
     - web3-auth-starter[🧱](https://github.com/GemWallet/web3-auth-starter) <sub>*template*</sub>
     - FlorianBouron/gemwallet-store-demo[🧱](https://github.com/FlorianBouron/gemwallet-store-demo) <sub>*Online store demo accepting XRP payments using gemwallet*</sub>
   - []()
-  - sologenic/sologenic-expo-wallet[🧱](https://github.com/sologenic/sologenic-expo-wallet)
+  - sologenic wallet <sup>Mac app store</sup>[🌎](https://apps.apple.com/ca/app/solo-wallet/id1497396455)[🧱](https://github.com/sologenic/sologenic-expo-wallet)[🧱](https://github.com/sologenic/solo-wallet-tx-delivery)
   - multiverse-wallet <sup>Chrome Ext</sup>[🌎](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
   - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
