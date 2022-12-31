@@ -288,7 +288,10 @@
       - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)[🧱](https://github.com/XRPL-Labs/xApp-SDK)[🧱](https://github.com/XRPL-Labs/XummPkce)
       - XRPL-Labs/XUMM-Issue-Tracker[🧱](https://github.com/XRPL-Labs/XUMM-Issue-Tracker)
   - []()
-  - gemwallet <sup>Chrome Ext</sup>[🌎](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
+  - gemwallet <sup>Chrome Ext</sup>[🌎](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[▶️](https://www.youtube.com/@gemwallet3862) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
+    - gemwallet[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*extension*</sub>
+    - web3-auth-starter[🧱](https://github.com/GemWallet/web3-auth-starter) <sub>*template*</sub>
+    - FlorianBouron/gemwallet-store-demo[🧱](https://github.com/FlorianBouron/gemwallet-store-demo) <sub>*Online store demo accepting XRP payments using gemwallet*</sub>
   - sologenic/sologenic-expo-wallet[🧱](https://github.com/sologenic/sologenic-expo-wallet)
   - multiverse-wallet <sup>Chrome Ext</sup>[🌎](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
