@@ -52,6 +52,7 @@
   - []()
 
 
+###### <sub>*1-rippled*</sub>🚪
 ### - xrpl servers [{✘}](https://xrpl.org/xrpl-servers.html)
 
   - rippled server daemon
@@ -84,6 +85,7 @@
     - ripple/ripple-libpp <sup>*C++*</sup>[🧱](https://github.com/ripple/ripple-libpp) <sub>*Standalone RCL-compatible transaction signing and serialization library*</sub>
     - xpring-eng/xrpl-validator-domains <sup>*js/ts*</sup>[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
     - xpring-eng/rippled-network-crawler <sup>*js*</sup>[🧱](https://github.com/xpring-eng/rippled-network-crawler)
+    - ***`more xrpl tools`***[👇](#1-xrpdevtool)<sup>*1*</sup>
   - []()
   - clio server <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
   - []()
@@ -115,7 +117,7 @@
 
 
 
-##### <sub>*1-xrpdevtool*</sub>🚪
+###### <sub>*1-xrpdevtool*</sub>🚪
 ### - xrpl client lib devtools & examples
 
   - API/library for interacting with the XRP Ledger
@@ -133,8 +135,6 @@
   - []()
   - single account and transactions
     - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
-      - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
-      - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
       - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
       - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
     - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
@@ -142,7 +142,7 @@
     - wietse/xrpl-tx-exporter-csv[🧱](https://github.com/WietseWind/xrpl-tx-exporter-csv)[🌎](https://transaction-exporter.xrpl-labs.com)
     - ripple/xrp-batch-payout-cli[🧱](https://github.com/ripple/xrp-batch-payout-cli)
   - []()
-  - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>
+  - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>[☝️](#1-rippled)<sup>*L*</sup>
   - []()
 
 
@@ -153,7 +153,7 @@
 ## `1.2 CRYPTOGRAPHY ALGORITHMS` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 *`Encoding Keypairs Signing Bip39 Bip44 PaperWallets👛`* 
 
-##### <sub>*1-xrpalg*</sub>🚪
+###### <sub>*1-xrpalg*</sub>🚪
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
   - xrpl encoding
@@ -300,7 +300,7 @@
   - []()
 
 
-##### <sub>*1-xrpsrvc*</sub>🚪
+###### <sub>*1-xrpsrvc*</sub>🚪
 ### - MORE devnet/testnet/mainnet explorer/services[🌎](https://www.xrparcade.com/xrpecosystem/)[🌎](https://www.xrparcade.com/rippleecosystem/)
 
   - Applications using xrpl.js[🌎](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
@@ -381,7 +381,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - peerkat[▶️](https://www.youtube.com/@peerkat)
   - []()
 
-##### <sub>*2-xrpnft*</sub>🚪
+###### <sub>*2-xrpnft*</sub>🚪
 ### - tokens NFT trustline[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb)
 
   - XLS-20d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/46)[{✘}](https://xrpl.org/known-amendments.html#nonfungibletokensv1_1)[🌎](https://xrpscan.com/amendment/32A122F1352A4C7B3A6D790362CC34749C5E57FCE896377BFDC6CCD14F6CD627)
@@ -452,7 +452,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
-##### <sub>*2-xrpside*</sub>🚪
+###### <sub>*2-xrpside*</sub>🚪
 ### - sidechains <sup>*`📡research`*</sup> <sub>*Interoperability*</sub>  
 
   - EVM sidechain <sup>`eXRP token`</sup>[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) 
@@ -477,7 +477,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
-##### <sub>*2-xrphook*</sub>🚪
+###### <sub>*2-xrphook*</sub>🚪
 ### - xrpl-smart-contracts
 
   - xrpl-hooks-v2 🪝 <sup>*`🐞 testing`*</sup> *Layer1-native-bespoke-lite-smart-contracts*  
@@ -540,7 +540,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 ******
-##### <sub>*2-sol*</sub>🚪
+###### <sub>*2-sol*</sub>🚪
 ## `2.2 EVM WEB3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 *` Smart-Contracts Dapps Solidity`*
 
@@ -567,7 +567,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   
   
   
-##### <sub>*2-ethwal*</sub>🚪
+###### <sub>*2-ethwal*</sub>🚪
 ### - ethereum self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
@@ -696,7 +696,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
-##### <sub>*2-link*</sub>🚪
+###### <sub>*2-link*</sub>🚪
 ### - chainlink <sup>`⬡ LINK token: true oracle gas`</sup> <sub>*decentralized-oracle-net*</sub>
 
   - main
@@ -733,7 +733,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
   
 ******
-##### <sub>*2-p2p*</sub>🚪
+###### <sub>*2-p2p*</sub>🚪
 ## `2.3 CHAINS and P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
 
 ### - blockchain <sub>*ethereum, bitcoin, others*</sub>
