@@ -69,7 +69,7 @@
       - websocket-api[{✘}](https://xrpl.org/websocket-api-tool.html)
     - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌎](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
     - wietse/fetch-xrpl-transactions <sup>*Google BigQuery*</sup>[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
-    - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts)
+    - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts) <sub>*Fetch all the XRP ledger accounts*</sub>
     - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
     - richard/xrpl-tools
       - richard/memo-pow-benchmark[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/memo-pow-benchmark)
