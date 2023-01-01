@@ -513,12 +513,13 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
           - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-js-client) <sub>*Hot Pocket client library*</sub>
           - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client) <sub>*client library for evernode*</sub>
         - <sup>C</sup>[🧱](https://github.com/EvernodeXRPL/evernode-hook) <sub>*hook*</sub>
-        - EVM-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract) ***`solidity`***[👇](#--solidity)
+        - /evm-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract) ***`solidity`***[👇](#--solidity)
+        - <sup>reactjs</sup>[🧱](https://github.com/EvernodeXRPL/evernode-dashboard) <sub>*Evernode host dashboard web app*</sub>
       - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
       - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
       - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) wojake[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
       - samples and applications
-        - example-calculator-contract <sup>js</sup>[🧱](https://github.com/EvernodeXRPL/example-calculator-contract)
+        - /example-calculator-contract <sup>js</sup>[🧱](https://github.com/EvernodeXRPL/example-calculator-contract)
         - wojake/evernode-samples[🧱](https://github.com/wojake/evernode-samples)
           - lathanbritz[🧱](https://github.com/lathanbritz)-price-oracle <sup>nodejs js</sup>[🧱](https://github.com/wojake/evernode-samples/tree/main/NodeJS/PriceOracle/mycontract)
         - Udith-Gayan/Decentralized-Hotel-Booking-System[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
