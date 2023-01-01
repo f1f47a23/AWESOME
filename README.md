@@ -518,6 +518,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
       - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
       - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
+      - XRPLF/hook-cleaner-c <sup>C</sup>[🧱](https://github.com/XRPLF/hook-cleaner-c) <sub>*removes unwanted exports and functions from a wasm binary*</sub>
+      - XRPLF/xrpl-hooks-compiler[🧱](https://github.com/XRPLF/xrpl-hooks-compiler)
       - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
       - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
       - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
