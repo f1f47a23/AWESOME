@@ -29,7 +29,7 @@
 
 ### - main
 
-   - learning resources
+   - **learning resources**
      - ***XRPL Learning Portal***[{✘}](https://learn.xrpl.org/) <sub>*4 absolute beginners*</sub>
      - quickstart & samples [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
      - channels[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)[▶️](https://www.youtube.com/c/WietseWind/videos)[▶️](https://www.youtube.com/c/XRPDEV/videos)
@@ -41,7 +41,7 @@
      - yyolk/[😎](https://github.com/yyolk/awesome-xrpl) vhpoet/[😎](https://github.com/vhpoet/awesome-ripple) TusharPardhe/[😎](https://github.com/TusharPardhe/xrpl-cheat-sheet) f1f47a23/[😎](https://github.com/f1f47a23/AWESOME)
   - [DYOR](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/)
   - []()
-  - forums bulletins news updates
+  - **forums bulletins news updates**
     - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments) <sub>*Xrp Ledger Standards / drafts*</sub>
     - ripplexdev[🌎](https://dev.to/ripplexdev)[🐦](https://twitter.com/ripplexdev) xrpl-blog[{✘}](https://xrpl.org/blog/)[{✘}](https://foundation.xrpl.org/blog/) ripple-insight[🌎](https://ripple.com/insights/) dev.to/wietse[📖](https://dev.to/wietse) channels[▶️](https://www.youtube.com/c/Ripple/videos)[▶️](https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg/videos)[▶️](https://www.youtube.com/c/DavidSchwartzJoelKatz/videos) APEX<sup>*2022*</sup>[▶️](https://www.youtube.com/watch?v=M4-wP9mmMAE&list=PLJQ55Tj1hIVZi8N1e_dTodg816QzKc9SX)<sup>*2021*</sup>[▶️](https://www.youtube.com/watch?v=JZiR-wa-oLk&list=PLJQ55Tj1hIVZgnreb8ODgxJW032M9Z2XZ)
     - tech-forums[👨](https://www.xrpchat.com/forum/16-technical-discussion/)[👨](https://stackoverflow.com/questions/tagged/xrp) reddit[👨](https://www.reddit.com/r/XRP/)[👨](https://www.reddit.com/r/Ripple/)[👨](https://www.reddit.com/r/RippleTalk/new/) xrpchat[👨](https://www.xrpchat.com/) fb[👨](https://www.facebook.com/groups/1294281033992041)[👨](https://www.facebook.com/groups/888369914667950/)[👨](https://www.facebook.com/groups/1204107753022093/)
@@ -50,6 +50,21 @@
       - stedas[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas) MackAttackXRP[🐦](https://twitter.com/MackAttackXRP) xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/) BankXRP[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/)
       - <sub>[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/@digitalassetinvestor)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/user/erichanintokyo/) 🔥 [▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/@moonlambo2376)[▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/c/AlexCobbXRP/) 🔥 [▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/)[▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/) 🔥 [▶️](https://www.youtube.com/@XRPCHIZ)[▶️](https://www.youtube.com/@DustyBC)[▶️](https://www.youtube.com/@BitBoyCryptoChannel)[▶️](https://www.youtube.com/c/NotoriousXRP)[▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/c/PaulBarronNetwork)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/) 🔥 </sub>
   - []()
+  - **xrpl features** [{✘}](https://xrpl.org/concepts.html)
+    - advanced payment features
+      - tickets[{✘}](https://xrpl.org/tickets.html) <sup>*xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)*</sup>
+      - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
+      - *more...* [{✘}](https://xrpl.org/payment-types.html)
+  - []()
+  - **devnet/testnet/mainnet explorer/services**
+    - xrplf-technical-explorer[{✘}](https://explorer.xrplf.org/)[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)
+      - testnet[{✘}](https://explorer-testnet.xrplf.org/)
+    - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)[🧱](https://github.com/ripple/explorer)
+      - testnet[{✘}](https://testnet.xrpl.org/) devnet[{✘}](https://devnet.xrpl.org/) nft-devnet[{✘}](https://nft-devnet.xrpl.org/) amm-devnet[{✘}](https://amm-devnet.xrpl.org/)
+    - ***`more services below`***[👇](#--more-devnettestnetmainnet-explorerservices)
+  - []()
+
+
 
 
 ###### <sub>*1-rippled*</sub>🚪
@@ -90,29 +105,6 @@
   - clio server <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
   - []()
 
-
-
-### - xrpl features
-
-  - main features
-    - see [{✘}](https://xrpl.org/concepts.html)
-  - []()
-  - advanced payment features
-    - tickets[{✘}](https://xrpl.org/tickets.html) <sup>*xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)*</sup>
-    - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
-    - *more...* [{✘}](https://xrpl.org/payment-types.html)
-  - []()
-
-
-
-### - devnet/testnet/mainnet explorer/services
-
- - xrplf-technical-explorer[{✘}](https://explorer.xrplf.org/)[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)
-    - testnet[{✘}](https://explorer-testnet.xrplf.org/)
-  - livenet-xrpl-explorer[{✘}](https://livenet.xrpl.org/)[🧱](https://github.com/ripple/explorer)
-    - testnet[{✘}](https://testnet.xrpl.org/) devnet[{✘}](https://devnet.xrpl.org/) nft-devnet[{✘}](https://nft-devnet.xrpl.org/) amm-devnet[{✘}](https://amm-devnet.xrpl.org/)
-  - ***`more services below`***[👇](#--more-devnettestnetmainnet-explorerservices)
-  - []()
 
 
 
