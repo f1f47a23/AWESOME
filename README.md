@@ -145,6 +145,8 @@
 ## `1.2 CRYPTOGRAPHY ALGORITHMS` [⭐](https://github.com/stars/f1f47a23/lists/awesome-crypto)
 *`Encoding Keypairs Signing Bip39 Bip44 PaperWallets👛`* 
 
+<br><br>
+
 ###### <sub>*1-xrpalg*</sub>🚪
 ### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
@@ -192,6 +194,9 @@
   - []()
   
   
+
+<br><br>
+
     
     
 ### - bip39 bip44
@@ -204,6 +209,8 @@
   - bip44[📚](https://github.com/topics/bip44)
   - bip39 wallets[🌐](https://getcoinplate.com/blog/bip39-compatible-wallets-list-2022-updated/)[🌐](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)[🌐](https://coinguides.org/bip39-wallets/)
   - []()
+
+<br><br>
 
 ### - cryptography & encoding ...
 
@@ -233,6 +240,8 @@
     - veorq/awesome-post-quantum[😎](https://github.com/veorq/awesome-post-quantum)
   - []()
 
+<br><br>
+
 ### - qrcode
 
   - davidshimjs/qrcodejs[🧰](https://github.com/davidshimjs/qrcodejs)
@@ -240,6 +249,8 @@
   - jeromeetienne/jquery-qrcode[🧰](https://github.com/jeromeetienne/jquery-qrcode)
   - SumiMakito/AwesomeQRCode[😎](https://github.com/SumiMakito/AwesomeQRCode)
   - []()
+
+<br><br>
 
 ### - other algorithms
 
@@ -268,6 +279,8 @@
 ## `1.3 XRP RIPPLE ECOSYSTEM` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [📚](https://github.com/topics/xrp)<br>
 
 
+<br><br>
+
 
 ### - XRP self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
@@ -291,6 +304,8 @@
   - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
   - []()
 
+
+<br><br>
 
 ###### <sub>*1-xrpsrvc*</sub>🚪
 ### - MORE devnet/testnet/mainnet explorer/services[🌎](https://www.xrparcade.com/xrpecosystem/)[🌎](https://www.xrparcade.com/rippleecosystem/)
@@ -340,6 +355,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 
 
+<br><br>
+
 ### - interledger-protocol (ILP)
 
   - vhpoet/awesome-ilp[🧰](https://github.com/vhpoet/awesome-ilp)
@@ -367,11 +384,15 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ## `2.1 XRPL WEB3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
 
+<br><br>
+
 ### - main
   - channels
     - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🐂](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)[🧱](https://github.com/DefiStandardXRP)
     - peerkat[▶️](https://www.youtube.com/@peerkat)
   - []()
+
+<br><br>
 
 ###### <sub>*2-xrpnft*</sub>🚪
 ### - tokens NFT trustline[🎃](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb)
@@ -400,6 +421,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - ***`more defi dex`***[👇](#2-xrpdexamm)
   - []()
 
+
+<br><br>
 
 ###### <sub>*2-xrpdexamm*</sub>🚪
 ### - DEX & AMM <sup>*`📡research`*</sup> <sub>*Automated Market Makers, Liquidity Pools*</sub>  
@@ -444,6 +467,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
+<br><br>
+
 ###### <sub>*2-xrpside*</sub>🚪
 ### - sidechains <sup>*`📡research`*</sup> <sub>*Interoperability*</sub>  
 
@@ -468,6 +493,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+
+<br><br>
 
 ###### <sub>*2-xrphook*</sub>🚪
 ### - xrpl-smart-contracts
@@ -518,6 +545,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+<br><br>
+
 
 ### - flare network <sup>`FLR native token`</sup>
 
@@ -542,6 +571,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ## `2.2 EVM WEB3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 *` Smart-Contracts Dapps Solidity`*
 
+<br><br>
+
 ### - ethereum
 
   - ethereum.org[🌐](https://ethereum.org/)[📖](https://ethereum.org/en/developers/docs/)[🧰](https://github.com/ethereum/ethereum-org-website)[🧰](https://github.com/ethereum/eth-utils)[🧰](https://github.com/ethereum/EIPs)
@@ -563,6 +594,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - ttumiel/Awesome-Ethereum[😎](https://github.com/ttumiel/Awesome-Ethereum)
   - []()
   
+
+<br><br>
   
   
 ###### <sub>*2-ethwal*</sub>🚪
@@ -583,6 +616,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+
+<br><br>
 
 ### - solidity
 
@@ -644,6 +679,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
+<br><br>
+
 ### - web3 defi dex
 
   - learning resources
@@ -694,6 +731,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+<br><br>
+
 ###### <sub>*2-link*</sub>🚪
 ### - chainlink <sup>`⬡ LINK token: true oracle gas`</sup> <sub>*decentralized-oracle-net*</sub>
 
@@ -728,11 +767,15 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
+<br><br>
+
 
   
 ******
 ###### <sub>*2-p2p*</sub>🚪
 ## `2.3 CHAINS and P2P` [⭐](https://github.com/stars/f1f47a23/lists/p2p-holochain) [📚](https://github.com/topics/p2p)<br>
+
+<br><br>
 
 ### - blockchain <sub>*ethereum, bitcoin, others*</sub>
 
@@ -752,6 +795,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - Jeiwan/awesome-blockchain[😎](https://github.com/Jeiwan/awesome-blockchain)
   - dylanhogg/crazy-awesome-crypto[😎](https://github.com/dylanhogg/crazy-awesome-crypto)
   - []()
+
+<br><br>
   
 ### - holochain
 
@@ -759,6 +804,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - Holo-Host/[🧰](https://github.com/Holo-Host/holo-nixpkgs)
   - []()
 
+
+<br><br>
 
 ### - ipfs
 
@@ -768,6 +815,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - [🌐](https://proto.school/tutorials)
   - []()
 
+
+<br><br>
 
 ### - p2p
 
@@ -803,6 +852,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ## `3.1 WASM, C & C++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
 
+<br><br>
+
 ### - wasm
 
   - [🔨](https://emscripten.org/)[📖](https://webassembly.org/)
@@ -816,6 +867,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - appcypher/awesome-wasm-runtimes[😎](https://github.com/appcypher/awesome-wasm-runtimes)
     - vshymanskyy/awesome-wasm-tools[😎](https://github.com/vshymanskyy/awesome-wasm-tools)
   - []()
+
+<br><br>
 
 ### - c & c++
 
