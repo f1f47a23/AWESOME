@@ -25,7 +25,7 @@
 
 ## `1.1 XRP XRPL RIPPLE` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-<br>`__`<br>
+<br>/////<br>
 
 ### - main
 
