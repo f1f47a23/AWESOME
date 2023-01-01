@@ -25,7 +25,7 @@
 
 ## `1.1 XRP XRPL RIPPLE` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/xrpl) [📚](https://github.com/topics/xrpl)<br>
 
-
+<br><br>
 
 ### - main
 
@@ -65,7 +65,7 @@
   - []()
 
 
-
+<br><br>
 
 ###### <sub>*1-rippled*</sub>🚪
 ### - xrpl servers [{✘}](https://xrpl.org/xrpl-servers.html)
@@ -107,7 +107,7 @@
 
 
 
-
+<br><br>
 
 ###### <sub>*1-xrpdevtool*</sub>🚪
 ### - xrpl client lib devtools & examples
@@ -137,7 +137,7 @@
   - ***`more xrpl tools`***[👇](#1-xrpalg)<sup>*2*</sup>[☝️](#1-rippled)<sup>*L*</sup>
   - []()
 
-
+<br><br>
 
 
 ******
