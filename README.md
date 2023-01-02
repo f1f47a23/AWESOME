@@ -426,13 +426,14 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - articles[📝](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)[📝](https://u.today/ripple-wants-to-bring-enormous-defi-potential-to-xrpl-via-uniswap-like-amm)[📝](https://hmatejx.medium.com/automated-market-maker-proposal-for-the-xrpl-d8f4d1bc8c6c)[📝](https://mvpworkshop.co/blog/order-book-vs-amm-which-one-will-win/)[👨](https://www.xrpchat.com/topic/36344-order-book-vs-amm-should-xrpl-add-built-in-amm-support/)
     - clips[▶️](https://youtu.be/uxcqp31DCik)[▶️](https://youtu.be/m3xqLNJmPfw)[▶️](https://youtu.be/9cPGeLaiCfg) 🔥 [▶️](https://youtu.be/7MqZKVHSaxc)[▶️](https://youtu.be/yJR1ZzW9mbk)[▶️](https://youtu.be/e228p2Q36Vw)[▶️](https://youtu.be/cSqQ4bv5iyw)[▶️](https://youtu.be/5njKFYdxFxo) 🔥 [▶️](https://youtu.be/pikm4AD77oI)[▶️](https://youtu.be/MKaov0KxqVc)[▶️](https://youtu.be/s3KW2L6OfBc)
   - []()
-  - services and applications
+  - services and applications / oracle examples
     - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
     - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
     - XRPL-Labs/XRP-Price-Aggregator<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRP-Price-Aggregator)[📖](https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087) <sub>*Fetches XRP-USD prices from multiple data sources*</sub>
     - XRPL-Labs/XRPL-Persist-Price-Oracle<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*Oracle Persist XRP-USD prices on the xrpl*</sub>
     - XRPL-Labs/Orderbook<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
     - yyolk/xrpl-price-persist-oracle<sup>✔️</sup> <sup>python</sup>[🧱](https://github.com/yyolk/xrpl-price-persist-oracle)[🧱](https://github.com/yyolk/xrpl-price-persist-oracle-metrics)
+    - lathanbritz/XRP-Oracles[🧱](https://github.com/lathanbritz/XRP-Oracles)[🧱](https://github.com/lathanbritz/three-oracles)
     - hammertoe/dexter <sup>python</sup>[🧱](https://github.com/hammertoe/dexter)
     - xdex[🌎](https://xdex.com/)
     - XPmarket <sup>*tokens*</sup>[🌎](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
@@ -530,7 +531,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
         - /example-calculator-contract <sup>js</sup>[🧱](https://github.com/EvernodeXRPL/example-calculator-contract)
         - /evernode-bootstrap-contract <sup>c++</sup>[🧱](https://github.com/EvernodeXRPL/evernode-bootstrap-contract)
         - wojake/evernode-samples[🧱](https://github.com/wojake/evernode-samples)
-          - lathanbritz[🧱](https://github.com/lathanbritz)-price-oracle <sup>nodejs js</sup>[🧱](https://github.com/wojake/evernode-samples/tree/main/NodeJS/PriceOracle/mycontract)
+          - lathanbritz oracles[🧱](https://github.com/lathanbritz)
+            - [🧱](https://github.com/lathanbritz/mycontract)<sup>nodejs js</sup>[🧱](https://github.com/wojake/evernode-samples/tree/main/NodeJS/PriceOracle/mycontract)
+            - ***`others oracles`***[☝️](#2-xrpdexamm) 
         - Udith-Gayan/Decentralized-Hotel-Booking-System<sup>✔️</sup>[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
   - []()
 
