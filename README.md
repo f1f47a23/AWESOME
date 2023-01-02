@@ -183,7 +183,7 @@
       - yuki777/[🧱](https://github.com/yuki777/xrp-paper-wallet)
       - TusharPardhe/xrpl-rAddress-generator[🧱](https://github.com/TusharPardhe/xrpl-rAddress-generator)
       - others[🌎](https://www.xrppaperwallet.com/)[🌎](https://ripplepaperwallet.com/)
-    - xrpl multisigning[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
+    - xrpl multisigning<sup>✔️</sup>[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
       - ExpandedSignerList <sup>*1-to-32*</sup>[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) 
       - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
       - alt keys[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/7JLMuYoI1u8)
@@ -233,7 +233,7 @@
   - NilFoundation/crypto3[🧰](https://github.com/NilFoundation/crypto3) <sub>*Modern Cryptography Suite*</sub>
   - gnupg[🌐](https://www.gnupg.org/) <sub>*complete and free implementation of the OpenPGP standard*</sub>
   - gpg4win[🌐](https://www.gpg4win.org/) <sub>*free encryption tool to sign and encrypt files*</sub>
-  - veracrypt<sup>✔️</sup>[🌐](https://veracrypt.fr/) <sub>*free open source disk encryption for win/mac/linux*</sub>
+  - veracrypt<sup>✔️ win/mac/linux</sup>[🌐](https://veracrypt.fr/) <sub>*free open source disk encryption*</sub>
   - online tools<sup>✔️</sup>
     - [🌐](https://<sup>✔️</sup>.rapidtables.com/)[🌐](https://md5hashing.net/)[🌐](https://passwordsgenerator.net/)[🌐](https://tomeko.net/)[🌐](https://onlinetexttools.com/) 🔥 [🌐](http://spellbackwards.com/)[🌐](https://www.mobilefish.com/services/htpasswd_generator/htpasswd_generator.php)[🌐](https://www.boxentriq.com/)[🌐](https://cryptii.com/pipes/bitwise-calculator)[🌐](https://hexed.it/) 🔥 [🌐](http://www.unit-conversion.info/sitemap.html)[🌐](https://mothereff.in/)[🌐](https://www.browserling.com/tools/)[🌐](https://onlinebinarytools.com/)[🌐](https://www.srihash.org/) 🔥 [🌐](https://www.online-toolz.com/)[🌐]()[🌐]()[🌐]()[🌐]() 🔥
   - awesome😎
