@@ -32,9 +32,9 @@
 ### - main
 
    - **learning resources**
-     - ***XRPL Learning Portal***[{✘}](https://learn.xrpl.org/) <sub>*4 absolute beginners*</sub>
-     - quickstart & samples [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
-     - channels[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)[▶️](https://www.youtube.com/c/WietseWind/videos)[▶️](https://www.youtube.com/c/XRPDEV/videos)
+     - ***XRPL Learning Portal***<sup>✔️</sup>[{✘}](https://learn.xrpl.org/) <sub>*4 absolute beginners*</sub>
+     - quickstart & samples<sup>✔️</sup> [{✘}](https://xrpl.org/xrpl-quickstart.html)[{✘}](https://xrpl.org/tutorials.html)[{✘}](https://xrpl.org/code-samples.html)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart)[🧱](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples)
+     - channels[▶️](https://www.youtube.com/watch?v=sVTybJ3cNyo&list=PLJQ55Tj1hIVZtJ_JdTvSum2qMTsedWkNi)<sup>✔️</sup>[▶️](https://www.youtube.com/c/WietseWind/videos)[▶️](https://www.youtube.com/c/XRPDEV/videos)<sup>✔️</sup>
   - xrpl-dev-portal[{✘}](https://xrpl.org/)[🧱](https://github.com/XRPLF/xrpl-dev-portal)issues[👨](https://github.com/XRPLF/xrpl-dev-portal/issues)
   - $$$ 💰💰💰 $$$ [{✘}](https://xrpl.org/blog/2022/dev-reflections-relaunch.html)[{✘}](https://xrpl.org/contribute.html)
     - xrpl-bounties[💰](http://xrplbounties.org/)[🧱](https://github.com/XRPLBounties)[🌎](https://dev.to/ripplexdev/help-build-the-future-of-the-xrpl-with-bounties-41fo)[{✘}](https://xrpl.org/developer-funding.html)<sub>*$$$ rewards $$$ funds developers for ideas and projects*</sub>
@@ -73,14 +73,14 @@
 ### - xrpl servers [{✘}](https://xrpl.org/xrpl-servers.html)
 
   - rippled server daemon
-    - **XRPLF/rippled** <sup>C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
+    - **XRPLF/rippled**<sup>✔️</sup> <sup>C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
      - Rippled Source Code Guide <sup>*v1.5 xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp)  
   - []()
   - rippled servers nodes
     - validators[🌎](https://xrpscan.com/validators)
   - []()
   - ledger tools
-    - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
+    - xrpl-tools<sup>✔️</sup>[{✘}](https://xrpl.org/dev-tools.html)
       - xrp-ledger.toml Checker[{✘}](https://xrpl.org/xrp-ledger-toml-checker.html)
       - validator-domain-verifier[{✘}](https://xrpl.org/validator-domain-verifier.html)
       - xrp-ledger-rpc[{✘}](https://xrpl.org/xrp-ledger-rpc-tool.html)
@@ -88,7 +88,7 @@
     - wietse/rippled-ws-client-dashboard[🧱](https://github.com/WietseWind/rippled-ws-client-dashboard)xrp.fans[🌎](https://xrp.fans/) <sub>*Dashboard Debugging & Dev 4 xrpl*</sub>
     - wietse/fetch-xrpl-transactions <sup>*Google BigQuery*</sup>[🧱](https://github.com/WietseWind/fetch-xrpl-transactions)
     - wietse/xrpl-accountinfo[🧱](https://github.com/WietseWind/fetch-xrpl-accounts) <sub>*Fetch all the XRP ledger accounts*</sub>
-    - wietse/xrpl-stats[🧱](https://github.com/WietseWind/xrp-ledgerstats)
+    - wietse/xrpl-stats<sup>✔️</sup>[🧱](https://github.com/WietseWind/xrp-ledgerstats)
     - richard/xrpl-tools
       - richard/memo-pow-benchmark[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/memo-pow-benchmark)
       - richard/peer-connection[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/peer-connection)
@@ -104,7 +104,7 @@
     - xpring-eng/rippled-network-crawler <sup>*js*</sup>[🧱](https://github.com/xpring-eng/rippled-network-crawler)
     - ***`more xrpl tools`***[👇](#1-xrpdevtool)<sup>*1*</sup>
   - []()
-  - clio server <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
+  - clio server<sup>✔️</sup> <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
   - []()
 
 
@@ -115,7 +115,7 @@
 ### - xrpl client lib devtools & examples
 
   - API/library for interacting with the XRP Ledger
-    - **XRPLF/xrpl.js** <sup>js/ts nodejs/browser</sup>[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*API for interacting with the XRP Ledger*</sub>
+    - **XRPLF/xrpl.js**<sup>✔️</sup> <sup>js/ts nodejs/browser</sup>[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*API for interacting with the XRP Ledger*</sub>
       - XRPLF/xrpl-py <sup>py xrpl-1.0</sup>[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sup>xrpl-1.7</sup>[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) <sup>xrpl-2.0</sup>[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
       - XRPLF/xrpl4j <sup>java xrpl-2.5</sup>[🧱](https://github.com/XRPLF/xrpl4j)
     - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
@@ -128,7 +128,7 @@
     - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - []()
   - account and transactions tools and examples
-    - xrpl-tools[{✘}](https://xrpl.org/dev-tools.html)
+    - xrpl-tools<sup>✔️</sup>[{✘}](https://xrpl.org/dev-tools.html)
       - xrp-testnet-faucet[{✘}](https://xrpl.org/xrp-testnet-faucet.html)
       - tx-sender[{✘}](https://xrpl.org/tx-sender.html)
     - XRPL-Labs/xrpl-tx[🧱](https://github.com/XRPL-Labs/XrplTxData)
@@ -161,7 +161,7 @@
     - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
     - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
     - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
-    - XFL floating point <sup>*XLS-17d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/39)*</sup>
+    - XFL floating point<sup>✔️</sup> <sup>*XLS-17d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/39)*</sup>
       - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) <sub>*Construct/Deconstruct XFL floating point values*</sub>
     - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
     - XADDRESS <sup>*XLS-5d[👨](https://github.com/XRPLF/XRPL-Standards/issues/6)*</sup> <sub>*xaddress = address + destination tag*</sub>
@@ -233,9 +233,9 @@
   - NilFoundation/crypto3[🧰](https://github.com/NilFoundation/crypto3) <sub>*Modern Cryptography Suite*</sub>
   - gnupg[🌐](https://www.gnupg.org/) <sub>*complete and free implementation of the OpenPGP standard*</sub>
   - gpg4win[🌐](https://www.gpg4win.org/) <sub>*free encryption tool to sign and encrypt files*</sub>
-  - veracrypt[🌐](https://veracrypt.fr/) <sub>*free open source disk encryption for win/mac/linux*</sub>
-  - online tools
-    - [🌐](https://www.rapidtables.com/)[🌐](https://md5hashing.net/)[🌐](https://passwordsgenerator.net/)[🌐](https://tomeko.net/)[🌐](https://onlinetexttools.com/) 🔥 [🌐](http://spellbackwards.com/)[🌐](https://www.mobilefish.com/services/htpasswd_generator/htpasswd_generator.php)[🌐](https://www.boxentriq.com/)[🌐](https://cryptii.com/pipes/bitwise-calculator)[🌐](https://hexed.it/) 🔥 [🌐](http://www.unit-conversion.info/sitemap.html)[🌐](https://mothereff.in/)[🌐](https://www.browserling.com/tools/)[🌐](https://onlinebinarytools.com/)[🌐](https://www.srihash.org/) 🔥 [🌐](https://www.online-toolz.com/)[🌐]()[🌐]()[🌐]()[🌐]() 🔥
+  - veracrypt<sup>✔️</sup>[🌐](https://veracrypt.fr/) <sub>*free open source disk encryption for win/mac/linux*</sub>
+  - online tools<sup>✔️</sup>
+    - [🌐](https://<sup>✔️</sup>.rapidtables.com/)[🌐](https://md5hashing.net/)[🌐](https://passwordsgenerator.net/)[🌐](https://tomeko.net/)[🌐](https://onlinetexttools.com/) 🔥 [🌐](http://spellbackwards.com/)[🌐](https://www.mobilefish.com/services/htpasswd_generator/htpasswd_generator.php)[🌐](https://www.boxentriq.com/)[🌐](https://cryptii.com/pipes/bitwise-calculator)[🌐](https://hexed.it/) 🔥 [🌐](http://www.unit-conversion.info/sitemap.html)[🌐](https://mothereff.in/)[🌐](https://www.browserling.com/tools/)[🌐](https://onlinebinarytools.com/)[🌐](https://www.srihash.org/) 🔥 [🌐](https://www.online-toolz.com/)[🌐]()[🌐]()[🌐]()[🌐]() 🔥
   - awesome😎
     - gabrielizalo/Awesome-JavaScript-Crypto-Libraries[😎](https://github.com/gabrielizalo/Awesome-JavaScript-Crypto-Libraries)
     - pFarb/awesome-crypto-papers[😎](https://github.com/pFarb/awesome-crypto-papers)
@@ -269,7 +269,7 @@
 ### - XRP self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
-  - xumm.app <sup>React-Native iOS Android</sup>[🌎](https://xumm.app/) 
+  - xumm.app<sup>✔️</sup> <sup>React-Native iOS Android</sup>[🌎](https://xumm.app/) 
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)[👨](https://xrpl-labs.canny.io/)
     - Xumm Developer Education [📖](https://learn.xumm.dev/)
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
@@ -277,7 +277,7 @@
       - XRPL-Labs/XUMM-SDK[🧱](https://github.com/XRPL-Labs/XUMM-SDK)[🧱](https://github.com/XRPL-Labs/xApp-SDK)[🧱](https://github.com/XRPL-Labs/XummPkce)
       - XRPL-Labs/XUMM-Issue-Tracker[🧱](https://github.com/XRPL-Labs/XUMM-Issue-Tracker)
   - []()
-  - gemwallet <sup>Chrome Ext</sup>[🌎](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[▶️](https://www.youtube.com/@gemwallet3862) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
+  - gemwallet<sup>✔️</sup> <sup>Chrome Ext</sup>[🌎](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[▶️](https://www.youtube.com/@gemwallet3862) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
     - gemwallet[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*extension*</sub>
     - web3-auth-starter[🧱](https://github.com/GemWallet/web3-auth-starter) <sub>*template*</sub>
     - FlorianBouron/gemwallet-store-demo[🧱](https://github.com/FlorianBouron/gemwallet-store-demo) <sub>*Online store demo accepting XRP payments using gemwallet*</sub>
@@ -297,12 +297,12 @@
   - Applications using xrpl.js[🌎](https://github.com/XRPLF/xrpl.js/blob/main/APPLICATIONS.md)
   - []()
   - main service providers
-    - bithomp[🌎](https://bithomp.com/)
+    - bithomp<sup>✔️</sup>[🌎](https://bithomp.com/)
       - bithomp testnet[🌎](https://test.bithomp.com/)[🌎](https://test.bithomp.com/explorer/)
       - bithomp/xrpl-api[🧱](https://github.com/Bithomp/xrpl-api)
-    - xrpscan[🌎](https://xrpscan.com/)public-API[📖](https://docs.xrpscan.com/)[🧱](https://github.com/xrpscan)
+    - xrpscan<sup>✔️</sup>[🌎](https://xrpscan.com/)public-API[📖](https://docs.xrpscan.com/)[🧱](https://github.com/xrpscan)
     - gatehub explorer[🌎](https://gatehub.net/explorer)
-    - xrpl-services[🌎](https://xrpl.services/)[🧱](https://github.com/nixer89)
+    - xrpl-services<sup>✔️</sup>[🌎](https://xrpl.services/)[🧱](https://github.com/nixer89)
       - nixer89/ledger-observer[🧱](https://github.com/nixer89/ledger-observer) <sub>*real-time visualization of the XRP Ledger*</sub>
       - nixer89/xrpl-data-api[🧱](https://github.com/nixer89/xrpl-data-api) <sub>*api to provide xrp ledger data*</sub>
     - richlist[🌎](https://rich-list.info)
@@ -372,8 +372,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ### - main
   - channels
-    - The Defi Standard[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🐂](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)[🧱](https://github.com/DefiStandardXRP)
-    - peerkat[▶️](https://www.youtube.com/@peerkat)
+    - The Defi Standard<sup>✔️</sup>[▶️](https://www.youtube.com/c/MickeyBFreshTheDeFiStandard/)[🐂](https://www.mickeybfresh.com/)[🌎](https://www.thedefistandard.com/)[🧱](https://github.com/DefiStandardXRP)
+    - peerkat<sup>✔️</sup>[▶️](https://www.youtube.com/@peerkat)
   - []()
 
 <br><br>
@@ -428,10 +428,10 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - services and applications
     - khancode/amm-dex-xrpl[🧱](https://github.com/khancode/amm-dex-xrpl)
     - liquidity pool[🧱](https://github.com/XRPL-Hackathon-2021/hooks-liquidity-pool) <sub>*XRPL Hooks project that contains liquidity pool and AMM hooks*</sub>
-    - XRPL-Labs/XRP-Price-Aggregator[🧱](https://github.com/XRPL-Labs/XRP-Price-Aggregator)[📖](https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087) <sub>*Fetches XRP-USD prices from multiple data sources*</sub>
-    - XRPL-Labs/XRPL-Persist-Price-Oracle[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*Oracle Persist XRP-USD prices on the xrpl*</sub>
-    - XRPL-Labs/Orderbook[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
-    - yyolk/xrpl-price-persist-oracle <sup>python</sup>[🧱](https://github.com/yyolk/xrpl-price-persist-oracle)[🧱](https://github.com/yyolk/xrpl-price-persist-oracle-metrics)
+    - XRPL-Labs/XRP-Price-Aggregator<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRP-Price-Aggregator)[📖](https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087) <sub>*Fetches XRP-USD prices from multiple data sources*</sub>
+    - XRPL-Labs/XRPL-Persist-Price-Oracle<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*Oracle Persist XRP-USD prices on the xrpl*</sub>
+    - XRPL-Labs/Orderbook<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
+    - yyolk/xrpl-price-persist-oracle<sup>✔️</sup> <sup>python</sup>[🧱](https://github.com/yyolk/xrpl-price-persist-oracle)[🧱](https://github.com/yyolk/xrpl-price-persist-oracle-metrics)
     - hammertoe/dexter <sup>python</sup>[🧱](https://github.com/hammertoe/dexter)
     - xdex[🌎](https://xdex.com/)
     - XPmarket <sup>*tokens*</sup>[🌎](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
@@ -440,7 +440,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 or Mint NFTs on a Decentralized Ecosystem*</sub> 
     - theworldexchange.net[🌎](https://www.theworldexchange.net/)
     - xrpl.to *launch*[🌎](https://xrpl.to/)
-    - xrplcoins[🌎](https://xrplcoins.com/dex)
+    - xrplcoins<sup>✔️</sup>[🌎](https://xrplcoins.com/dex)
     - onxrp.com <sup>*ecosystem*</sup>[🌎](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
     - radynamics/Iso20022[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
     - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
@@ -456,7 +456,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ###### <sub>*2-xrpside*</sub>🚪
 ### - sidechains <sup>*`📡research`*</sup> <sub>*Interoperability*</sub>  
 
-  - EVM sidechain <sup>`eXRP token`</sup>[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) 
+  - EVM sidechain<sup>✔️</sup> <sup>`eXRP token`</sup>[🌎](https://dev.to/ripplexdev/an-evm-sidechain-for-the-xrp-ledger-1pbi)[▶️](https://youtu.be/2h6KVCPXdI8)[▶️](https://youtu.be/4JMLr_1lP9M) 
     - docs and tutorials [{✘}](https://xrpl.org/intro-to-evm-sidechain.html)[{✘}](https://xrpl.org/get-started-evm-sidechain.html)[🐦](https://twitter.com/Peersyst/status/1582439949068300288)[▶️](https://youtu.be/R8bwuaBWV18)
     - explorer[{✘}](https://evm-sidechain.xrpl.org/)bridge[{✘}](https://bridge.devnet.xrpl.org/)
     - applications
@@ -483,7 +483,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ###### <sub>*2-xrphook*</sub>🚪
 ### - xrpl-smart-contracts
 
-  - xrpl-hooks-v2 🪝 <sup>*`🐞 testing`*</sup> *Layer1-native-bespoke-lite-smart-contracts*  
+  - xrpl-hooks-v2<sup>✔️</sup> 🪝 <sup>*`🐞 testing`*</sup> *Layer1-native-bespoke-lite-smart-contracts*  
     - main
       - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
       - **richard/xrpl.js**[🌵](https://github.com/RichardAH/xrpl.js)[🧱](https://github.com/XRPLF/xrpl.js)
@@ -507,11 +507,11 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
       - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
     - applications
-      - Evernode-smart-contracts ***`below`*** 👇
+      - Evernode-smart-contracts<sup>✔️</sup> ***`below`*** 👇
     - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
     - ***`wasm & c references`***[👇](#--wasm)
   - []()
-  - **Evernode-smart-contracts** <sup>`🏆 EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+  - **Evernode-smart-contracts**<sup>✔️</sup> <sup>`🏆 EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
       - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
         - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk) <sub>*libraries and tools required to develop and deploy HotPocket smart contracts on Evernode*</sub>
           - <sup>C nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract)[🧱](https://github.com/EvernodeXRPL/hp-c-contract) <sub>*Hot Pocket contract library*</sub>
@@ -527,14 +527,14 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
         - /example-calculator-contract <sup>js</sup>[🧱](https://github.com/EvernodeXRPL/example-calculator-contract)
         - wojake/evernode-samples[🧱](https://github.com/wojake/evernode-samples)
           - lathanbritz[🧱](https://github.com/lathanbritz)-price-oracle <sup>nodejs js</sup>[🧱](https://github.com/wojake/evernode-samples/tree/main/NodeJS/PriceOracle/mycontract)
-        - Udith-Gayan/Decentralized-Hotel-Booking-System[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
+        - Udith-Gayan/Decentralized-Hotel-Booking-System<sup>✔️</sup>[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
   - []()
 
 
 <br><br>
 
 
-### - flare network <sup>`FLR native token`</sup>
+### - flare network<sup>✔️</sup> <sup>`FLR native token`</sup>
 
   - [🌐](https://flare.network/)[📖](https://docs.flare.network/)[📖](https://docs.flare.network/dev/)[🗃️](https://github.com/flare-foundation/docs)[🐦](https://twitter.com/FlareNetworks)
   - DYOR
@@ -572,8 +572,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - several faucets[🚰](https://faucetlink.to/)
     - eth-converter[🔨](https://eth-converter.com/)
     - client libraries
-      - ethers.js<sup>🟢</sup> VS web3.js[▶️](https://youtu.be/DdyXocqnCxE)[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)
-      - ethers.js[🧰](https://github.com/ethers-io/ethers.js)[📖](https://docs.ethers.org)[🔨](https://ethers.io)[▶️](https://youtu.be/yk7nVp5HTCk)[▶️<sup>1</sup>](https://youtu.be/2KsgmpwgA2M)[▶️<sup>2</sup>](https://youtu.be/PRj_z6VNkkc) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
+      - ethers.js<sup>✔️</sup> VS web3.js[▶️](https://youtu.be/DdyXocqnCxE)[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)
+      - ethers.js<sup>✔️</sup>[🧰](https://github.com/ethers-io/ethers.js)[📖](https://docs.ethers.org)[🔨](https://ethers.io)[▶️](https://youtu.be/yk7nVp5HTCk)[▶️<sup>1</sup>](https://youtu.be/2KsgmpwgA2M)[▶️<sup>2</sup>](https://youtu.be/PRj_z6VNkkc) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
       - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
   - []()
   - bekatom/awesome-ethereum[😎](https://github.com/bekatom/awesome-ethereum)
@@ -588,12 +588,12 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ### - ethereum self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub>
 
-  - metamask+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
+  - metamask<sup>✔️</sup>+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
     - snaps[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme)  <sub>*snaps extension for metamask*</sub>
   - []()
   - MEW myetherwallet[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet) <sub>*smart-contracts tokens NFT swap*</sub>
-  - trustwallet[🌐](https://trustwallet.com/)[🌐](https://developer.trustwallet.com/wallet-core)[🧰](https://github.com/trustwallet/wallet-core)
+  - trustwallet<sup>✔️</sup>[🌐](https://trustwallet.com/)[🌐](https://developer.trustwallet.com/wallet-core)[🧰](https://github.com/trustwallet/wallet-core)
   - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
   - ethers-io/ethers.js[☝️](#2-sol)
   - ConsenSysMesh/MultiSigWallet[🧰](https://github.com/ConsenSysMesh/MultiSigWallet)
@@ -615,10 +615,10 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
   - tools and libs
     - dev online
-      - remix[🔨](https://remix.ethereum.org)
+      - remix<sup>✔️</sup>[🔨](https://remix.ethereum.org)
     - dev local
-      - hardhat vs truffle [📝](https://101blockchains.com/hardhat-vs-truffle/)[📝](https://blog.cryptostars.is/hardhat-vs-truffle-c0c4a8a64f21)[▶️](https://youtu.be/eR_9XSfF9p8)[▶️](https://youtu.be/tfQFk6pmtFc)
-      - hardhat.org/[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
+      - hardhat<sup>✔️</sup> vs truffle [📝](https://101blockchains.com/hardhat-vs-truffle/)[📝](https://blog.cryptostars.is/hardhat-vs-truffle-c0c4a8a64f21)[▶️](https://youtu.be/eR_9XSfF9p8)[▶️](https://youtu.be/tfQFk6pmtFc)
+      - hardhat.org<sup>✔️</sup>[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
       - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
       - getwaffle.io[🔨](https://getwaffle.io/) <sub>*smart contracts testing*</sub>
     - []()
@@ -630,16 +630,16 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
     - []()
-    - ethereum/evmone <sup>C++</sup>[🧰](https://github.com/ethereum/evmone)[📝](https://morioh.com/p/e8a434b44310) <sub>*Fast Ethereum Virtual Machine implementation*</sub>
+    - ethereum/evmone<sup>✔️</sup> <sup>C++</sup>[🧰](https://github.com/ethereum/evmone)[📝](https://morioh.com/p/e8a434b44310) <sub>*Fast Ethereum Virtual Machine implementation*</sub>
       - ethereum/evmc api[🧰](https://github.com/ethereum/evmc)[📖](https://evmc.ethereum.org/)
       - chfast/intx[🧰](https://github.com/chfast/intx) <sub>*extended precision integer library*</sub>
       - chfast/ethash[🧰](https://github.com/chfast/ethash) <sub>*implementation of Ethash, the Ethereum Proof of Work algorithm*</sub>
   - []()
   - learning resources
-    - solidity-by-example <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+    - solidity-by-example<sup>✔️</sup> <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
     - ethereum/solidity-examples[🧰](https://github.com/ethereum/solidity-examples)
     - tutorials
-      - useweb3[🌐](https://www.useweb3.xyz/)[🌐](https://www.useweb3.xyz/tutorials)[🌐](https://www.useweb3.xyz/books)
+      - useweb3<sup>✔️</sup>[🌐](https://www.useweb3.xyz/)[🌐](https://www.useweb3.xyz/tutorials)[🌐](https://www.useweb3.xyz/books)
       - misc[🌐](https://www.tutorialspoint.com/solidity/index.htm)[🌐](https://www.w3schools.io/blockchain/solidity-tutorials/)[🌐](https://www.ludu.co/course/ethereum)[🌐](https://topmonks.github.io/solidity_quick_ref/)[🧰](https://github.com/fravoll/solidity-patterns) 🔥 [🌐](https://ethereum.org/en/developers/tutorials/)[🌐](https://www.wslyvh.com/clean-contracts/)[🌐](https://learnxinyminutes.com/docs/solidity/) 🔥 [🌐](https://cadena.dev/)[🌐](https://cryptozombies.io/)[🌐](https://soliditydeveloper.com/blog)[🧰](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0)[🧰](https://github.com/cyrusadkisson/solidity-baby-steps)
     - quick tutorials[▶️](https://youtu.be/3g2WT2jms_k)[🧰](https://github.com/derekbanas/solidity)[▶️](https://youtu.be/eoQJ6nFZOcs)[▶️](https://youtu.be/EhPeHeoKF88)[▶️](https://www.youtube.com/watch?v=LSL69RGeQL0&list=PL3-V86YgFEXSZev5HFjgYe5fcKeUPeqb_) 
     - ***`more tutorials`***[👇](#--web3-defi-dex)
@@ -672,7 +672,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - learning resources
     - solidity-by-example Defi[🌐](https://solidity-by-example.org/)[▶️](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
     - tutorials[🌐](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)[🌐](https://www.teachyourselfweb3.com/)[🌐](https://www.questbook.app/)[🌐](https://buildspace.so/)[🌐](https://cryptodevhub.io/) 🔥 [🌐](https://learnweb3.io/)
-    - Freecodecamp Patrick Collins[🧰](https://github.com/PatrickAlphaC)
+    - Freecodecamp Patrick Collins<sup>✔️</sup>[🧰](https://github.com/PatrickAlphaC)
       - [▶️](https://youtu.be/gyMwXuJrbJQ)[📝](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/Freecodecamp-Patrick-Collins-Learn-Blockchain-Solidity-32hrs.txt)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
       - [▶️](https://www.youtube.com/watch?v=Qe-3FUxThso&list=PLVP9aGDn-X0QRGpzjx3av5lDH6msuAeyU)[▶️](https://www.youtube.com/watch?v=wXEEfJ5L5jc&list=PLVP9aGDn-X0RaFosTIMTZss0dYNeXkrA3)[▶️](https://youtu.be/_aQxlQTzfpk)[▶️](https://youtu.be/l4r0IXjAlpc)[▶️](https://www.youtube.com/c/PatrickCollins)
     - quick tutorials[▶️](https://www.youtube.com/watch?v=4cRXEGduA-o&list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl)[▶️](https://www.youtube.com/watch?v=pWqbX372vrc&list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c)[▶️](https://youtu.be/o0_ihmpBbic)[▶️](https://youtu.be/Wn_Kb3MR_cU)[▶️](https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9)[▶️](https://youtu.be/hDfkyF8U-pw) 🔥 [▶️](https://youtu.be/aVQJGr2J8io)[▶️](https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PL6QREj8te1P5k_kIM2-8E4VP9Sej0Yez3)[▶️](https://www.youtube.com/watch?v=C4blK6X-D_4&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)[▶️](https://www.youtube.com/watch?v=QkmXFCBSHgs&list=PLvfQp12V0hS3HbYbGFIz5hcD59Ht8yYl3)[▶️](https://youtu.be/aqxAWLi6UMA) 
@@ -682,7 +682,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - erc20 erc721 erc1155[▶️](https://youtu.be/69BU3XQwD1M)[📖](https://solidity-by-example.org/app/erc20)[📖](https://solidity-by-example.org/app/erc721/)[📖](https://www.blockchain-council.org/ethereum/erc20-vs-erc721/)[▶️](https://www.youtube.com/watch?v=gwn1rVDuGL0&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=53)[▶️](https://www.youtube.com/watch?v=9PBq9HfBUDY&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=73)[▶️](https://www.youtube.com/watch?v=g3IKJnInY4k&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=63)[▶️](https://www.youtube.com/watch?v=HTm-1JtI0fA&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=44)[▶️](https://www.youtube.com/watch?v=KZbKJGJshtM&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=56)
   - []()
   - DEX AMM
-    - solidity-by-example AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)
+    - solidity-by-example<sup>✔️</sup> AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)
   - []()
   - why web3 sucks 🤮
     - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*critique of crypto web3*</sub>
