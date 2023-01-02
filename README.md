@@ -50,13 +50,13 @@
     - ~~xrpcommunity.blog~~ <sup>*archived*</sup>[🌎](https://xrpcommunity.blog/)
     - news channels guides & infographics
       - stedas[🌎](https://www.stedas.hr/)[🐦](https://twitter.com/stedas) MackAttackXRP[🐦](https://twitter.com/MackAttackXRP) xrparcade[🌎](https://www.xrparcade.com/blog/)[👨](https://www.xrparcade.com/xrp-social-groups/)[▶️](https://www.youtube.com/channel/UCPuq98yrl7RkQQYOYprNiJw/) BankXRP[▶️](https://www.youtube.com/channel/UCpVfAYSJFk2UoLG-vz9Xy4g/)
-      - <sub>[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/@digitalassetinvestor)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/user/erichanintokyo/) 🔥 [▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/@moonlambo2376)[▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/c/AlexCobbXRP/) 🔥 [▶️](https://www.youtube.com/c/XRPBags/)[▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/)[▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/) 🔥 [▶️](https://www.youtube.com/@XRPCHIZ)[▶️](https://www.youtube.com/@DustyBC)[▶️](https://www.youtube.com/@BitBoyCryptoChannel)[▶️](https://www.youtube.com/c/NotoriousXRP)[▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/c/PaulBarronNetwork)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/) 🔥 </sub>
+      - <sub>[▶️](https://www.youtube.com/user/bradboomboom/)[▶️](https://www.youtube.com/c/JungleInc/)[▶️](https://www.youtube.com/@digitalassetinvestor)[▶️](https://www.youtube.com/c/KingSolomon123/)[▶️](https://www.youtube.com/user/erichanintokyo/) 🔥 [▶️](https://www.youtube.com/c/DarrenMooreJr/)[▶️](https://www.youtube.com/c/TheBearableBull/)[▶️](https://www.youtube.com/c/KevinCage/)[▶️](https://www.youtube.com/c/ExtraVOD/)[▶️](https://www.youtube.com/c/3TWarriorAcademy/) 🔥 [▶️](https://www.youtube.com/c/WorkingMoneyChannel/)[▶️](https://www.youtube.com/@moonlambo2376)[▶️](https://www.youtube.com/c/JamesRuleXRP/)[▶️](https://www.youtube.com/c/AlexCobbXRP/)[▶️](https://www.youtube.com/c/XRPBags/) 🔥 [▶️](https://www.youtube.com/c/24hrsCrypto/)[▶️](https://www.youtube.com/c/MICKLEMARKETS/)[▶️](https://www.youtube.com/user/Rector94/)[▶️](https://www.youtube.com/c/OZCrypto/)[▶️](https://www.youtube.com/@XRPCHIZ) 🔥 [▶️](https://www.youtube.com/c/NotoriousXRP)[▶️](https://www.youtube.com/@DustyBC)[▶️](https://www.youtube.com/@BitBoyCryptoChannel)[▶️](https://www.youtube.com/c/AnthonyEdward/)[▶️](https://www.youtube.com/c/PaulBarronNetwork)[▶️](https://www.youtube.com/c/CryptoCrewUniversity/) 🔥 </sub>
   - []()
   - **xrpl features** [{✘}](https://xrpl.org/concepts.html)
     - advanced payment features
-      - tickets[{✘}](https://xrpl.org/tickets.html) <sup>*xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)*</sup>
-      - payment-channels[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
-      - *more...* [{✘}](https://xrpl.org/payment-types.html)
+      - tickets<sup>✔️</sup>[{✘}](https://xrpl.org/tickets.html) <sup>*xls-13d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/18)*</sup>
+      - payment-channels<sup>✔️</sup>[{✘}](https://xrpl.org/payment-channels.html)[{✘}](https://xrpl.org/use-payment-channels.html)[▶️](https://youtu.be/sk5VtP0Vhps)[▶️](https://youtu.be/35NcPi25D_Q)[▶️](https://youtu.be/zjha7XgcuME)  
+      - *more...*<sup>✔️</sup>[{✘}](https://xrpl.org/payment-types.html)
   - []()
   - **devnet/testnet/mainnet explorer/services**
     - xrplf-technical-explorer[{✘}](https://explorer.xrplf.org/)[🧱](https://github.com/XRPLF/XRPL-Technical-Explorer)
@@ -73,7 +73,7 @@
 ### - xrpl servers [{✘}](https://xrpl.org/xrpl-servers.html)
 
   - rippled server daemon
-    - **XRPLF/rippled**<sup>✔️</sup> <sup>C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
+    - **XRPLF/rippled**<sup>✔️ C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
      - Rippled Source Code Guide <sup>*v1.5 xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp)  
   - []()
   - rippled servers nodes
