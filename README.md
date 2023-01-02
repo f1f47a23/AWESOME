@@ -572,7 +572,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - several faucets[🚰](https://faucetlink.to/)
     - eth-converter[🔨](https://eth-converter.com/)
     - client libraries
-      - ethers.js<sup>✔️</sup> VS web3.js[▶️](https://youtu.be/DdyXocqnCxE)[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)
+      - ethers.js<sup>✔️</sup> 🆚 web3.js[▶️](https://youtu.be/DdyXocqnCxE)[📝](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)[📝](https://www.section.io/engineering-education/web3js-vs-ethersjs/)[📝](https://moralis.io/web3-js-vs-ethers-js-guide-to-eth-javascript-libraries/)[📝](https://guideofdapp.com/posts/ethers-vs-web3/)
       - ethers.js<sup>✔️</sup>[🧰](https://github.com/ethers-io/ethers.js)[📖](https://docs.ethers.org)[🔨](https://ethers.io)[▶️](https://youtu.be/yk7nVp5HTCk)[▶️<sup>1</sup>](https://youtu.be/2KsgmpwgA2M)[▶️<sup>2</sup>](https://youtu.be/PRj_z6VNkkc) <sub>*library for interacting with the Ethereum Blockchain and its ecosystem*</sub>
       - web3.js[🧰](https://github.com/web3/web3.js)[📖](https://web3js.readthedocs.io)[▶️](https://youtu.be/cx0HT8vu2FQ) <sub>*libraries to interact with an ethereum node HTTP/IPC/WebSocket*</sub>
   - []()
@@ -592,7 +592,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
     - snaps[📖](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment)[📖](https://github.com/Montoya/gas-fee-snap#readme)  <sub>*snaps extension for metamask*</sub>
   - []()
-  - MEW myetherwallet[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet) <sub>*smart-contracts tokens NFT swap*</sub>
+  - MEW myetherwallet<sup>✔️</sup>[🌐](https://www.myetherwallet.com/)[🧰](https://github.com/MyEtherWallet/MyEtherWallet)[🧰](https://github.com/MyEtherWallet) <sub>*smart-contracts tokens NFT swap*</sub>
   - trustwallet<sup>✔️</sup>[🌐](https://trustwallet.com/)[🌐](https://developer.trustwallet.com/wallet-core)[🧰](https://github.com/trustwallet/wallet-core)
   - ethereumjs/ethereumjs-wallet[🧰](https://github.com/ethereumjs/ethereumjs-wallet)
   - ethers-io/ethers.js[☝️](#2-sol)
@@ -617,7 +617,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - dev online
       - remix<sup>✔️</sup>[🔨](https://remix.ethereum.org)
     - dev local
-      - hardhat<sup>✔️</sup> vs truffle [📝](https://101blockchains.com/hardhat-vs-truffle/)[📝](https://blog.cryptostars.is/hardhat-vs-truffle-c0c4a8a64f21)[▶️](https://youtu.be/eR_9XSfF9p8)[▶️](https://youtu.be/tfQFk6pmtFc)
+      - hardhat<sup>✔️</sup> 🆚 truffle [📝](https://101blockchains.com/hardhat-vs-truffle/)[📝](https://blog.cryptostars.is/hardhat-vs-truffle-c0c4a8a64f21)[▶️](https://youtu.be/eR_9XSfF9p8)[▶️](https://youtu.be/tfQFk6pmtFc)
       - hardhat.org<sup>✔️</sup>[🌐](https://hardhat.org/tutorial)[▶️](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4) <sub>*Ethereum development environment*</sub>
       - truffle & ganache[📖](https://trufflesuite.com/docs/)[🧰](https://github.com/trufflesuite)[🔨](https://trufflesuite.com/ganache/)
       - getwaffle.io[🔨](https://getwaffle.io/) <sub>*smart contracts testing*</sub>
@@ -636,7 +636,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - chfast/ethash[🧰](https://github.com/chfast/ethash) <sub>*implementation of Ethash, the Ethereum Proof of Work algorithm*</sub>
   - []()
   - learning resources
-    - solidity-by-example<sup>✔️</sup> <sup>*0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+    - solidity-by-example<sup>✔️ *0.8.13*</sup>[🌐](https://solidity-by-example.org/)[🧰](https://github.com/raineorshine/solidity-by-example)[▶️](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)[▶️](https://www.youtube.com/watch?v=Dh7r6Ze-0Bs&list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)[▶️](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)[▶️](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
     - ethereum/solidity-examples[🧰](https://github.com/ethereum/solidity-examples)
     - tutorials
       - useweb3<sup>✔️</sup>[🌐](https://www.useweb3.xyz/)[🌐](https://www.useweb3.xyz/tutorials)[🌐](https://www.useweb3.xyz/books)
@@ -670,7 +670,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ### - web3 defi dex
 
   - learning resources
-    - solidity-by-example Defi[🌐](https://solidity-by-example.org/)[▶️](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
+    - solidity-by-example<sup>✔️</sup> Defi[🌐](https://solidity-by-example.org/)[▶️](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
     - tutorials[🌐](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)[🌐](https://www.teachyourselfweb3.com/)[🌐](https://www.questbook.app/)[🌐](https://buildspace.so/)[🌐](https://cryptodevhub.io/) 🔥 [🌐](https://learnweb3.io/)
     - Freecodecamp Patrick Collins<sup>✔️</sup>[🧰](https://github.com/PatrickAlphaC)
       - [▶️](https://youtu.be/gyMwXuJrbJQ)[📝](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/Freecodecamp-Patrick-Collins-Learn-Blockchain-Solidity-32hrs.txt)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)[🧰](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
