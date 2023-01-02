@@ -448,7 +448,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
   - []()
-  - ***`ethereum defi dex`***[👇](#--web3-defi-dex)
+  - ***`ethereum defi dex oracles`***[👇](#--web3-defi-dex)
   - []()
 
 
