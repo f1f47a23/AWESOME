@@ -515,8 +515,10 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
         - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk) <sub>*libraries and tools required to develop and deploy HotPocket smart contracts on Evernode*</sub>
           - <sup>C nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract)[🧱](https://github.com/EvernodeXRPL/hp-c-contract) <sub>*Hot Pocket contract library*</sub>
+            - examples <sup>C js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract/tree/main/example)[🧱](https://github.com/EvernodeXRPL/hp-c-contract/blob/main/example_contract.c)
           - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-js-client) <sub>*Hot Pocket client library*</sub>
           - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client) <sub>*client library for evernode*</sub>
+            - examples<sup>js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client/tree/main/test)
         - <sup>C</sup>[🧱](https://github.com/EvernodeXRPL/evernode-hook) <sub>*hook*</sub>
         - /evm-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract) ***`solidity`***[👇](#--solidity)
         - <sup>reactjs</sup>[🧱](https://github.com/EvernodeXRPL/evernode-dashboard) <sub>*Evernode host dashboard web app*</sub>
@@ -525,6 +527,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) wojake[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
       - samples and applications
         - /example-calculator-contract <sup>js</sup>[🧱](https://github.com/EvernodeXRPL/example-calculator-contract)
+        - /evernode-bootstrap-contract <sup>c++</sup>[🧱](https://github.com/EvernodeXRPL/evernode-bootstrap-contract)
         - wojake/evernode-samples[🧱](https://github.com/wojake/evernode-samples)
           - lathanbritz[🧱](https://github.com/lathanbritz)-price-oracle <sup>nodejs js</sup>[🧱](https://github.com/wojake/evernode-samples/tree/main/NodeJS/PriceOracle/mycontract)
         - Udith-Gayan/Decentralized-Hotel-Booking-System<sup>✔️</sup>[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
