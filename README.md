@@ -242,6 +242,8 @@
     - sobolevn/awesome-cryptography[😎](https://github.com/sobolevn/awesome-cryptography)
     - veorq/awesome-post-quantum[😎](https://github.com/veorq/awesome-post-quantum)
   - []()
+  - ***`other algorithms`***[👇](#3-webalg)
+  - []()
 
 <br><br>
 
@@ -254,27 +256,6 @@
   - []()
 
 <br><br>
-
-### - other algorithms
-
-  - compression
-    - lz4[🧰](https://github.com/lz4/lz4)
-    - snappy[🧰](https://github.com/google/snappy)
-    - madler/zlib[🧰](https://github.com/madler/zlib)
-    - imaya/zlib.js[🧰](https://github.com/imaya/zlib.js)
-    - nodeca/pako[🧰](https://github.com/nodeca/pako) <sub>*high speed zlib port to javascript, works in browser & node.js*</sub>
-  - []()
-  - sorting
-    - snovakovic/fast-sort[🧰](https://github.com/snovakovic/fast-sort)
-    - gwtw/js-sorting[🧰](https://github.com/gwtw/js-sorting)
-    - daweedkob/sorting_algos[🧰](https://github.com/daweedkob/sorting_algos)
-  - []()
-  - misc
-    - tayllan/awesome-algorithms[😎](https://github.com/tayllan/awesome-algorithms)
-    - TheAlgorithms/JavaScript[🧰](https://github.com/TheAlgorithms/JavaScript)
-    - jefelewis/algorithms-review[🧰](https://github.com/jefelewis/algorithms-review)
-    - AllAlgorithms/[🧰](https://github.com/AllAlgorithms/algorithms)[🧰](https://github.com/AllAlgorithms/typescript)[🧰](https://github.com/AllAlgorithms/javascript)
-  - []()
 
 
 ******
@@ -853,6 +834,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WEB-DEVELOPMENT🤹&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
+
 ******
 
 ## `3.1 WASM, C & C++ `[⭐](https://github.com/stars/f1f47a23/lists/awesome-wasm-and-c)<br>
@@ -955,6 +937,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 ## `3.4 WEBDEV` [⭐](https://github.com/stars/f1f47a23/lists/awesome-webdev)<br>
 
+<br><br>
+
 ### - nodejs
 
   - awesome 😎
@@ -965,6 +949,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
   - Packt/Node.js-Design-Patterns[🧰](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
   - []()
+  
+<br><br>
 
 ### - design patterns
 
@@ -972,6 +958,35 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - kamranahmedse/design-patterns[🧰](https://github.com/kamranahmedse/design-patterns-for-humans)
   - webpro/programming-principles[🧰](https://github.com/webpro/programming-principles)
   - []()
+
+
+<br><br>
+
+###### <sub>*3-webalg*</sub>🚪
+
+### - other algorithms
+
+  - compression
+    - lz4[🧰](https://github.com/lz4/lz4)
+    - snappy[🧰](https://github.com/google/snappy)
+    - madler/zlib[🧰](https://github.com/madler/zlib)
+    - imaya/zlib.js[🧰](https://github.com/imaya/zlib.js)
+    - nodeca/pako[🧰](https://github.com/nodeca/pako) <sub>*high speed zlib port to javascript, works in browser & node.js*</sub>
+  - []()
+  - sorting
+    - snovakovic/fast-sort[🧰](https://github.com/snovakovic/fast-sort)
+    - gwtw/js-sorting[🧰](https://github.com/gwtw/js-sorting)
+    - daweedkob/sorting_algos[🧰](https://github.com/daweedkob/sorting_algos)
+  - []()
+  - misc
+    - tayllan/awesome-algorithms[😎](https://github.com/tayllan/awesome-algorithms)
+    - TheAlgorithms/JavaScript[🧰](https://github.com/TheAlgorithms/JavaScript)
+    - jefelewis/algorithms-review[🧰](https://github.com/jefelewis/algorithms-review)
+    - AllAlgorithms/[🧰](https://github.com/AllAlgorithms/algorithms)[🧰](https://github.com/AllAlgorithms/typescript)[🧰](https://github.com/AllAlgorithms/javascript)
+  - []()
+  - ***`crypto algorithms`***[☝️](#1-xrpalg)
+  - []()
+
 
 ### - misc
 
