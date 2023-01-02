@@ -513,7 +513,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
     - ***`wasm & c references`***[👇](#--wasm)
   - []()
-  - **Evernode-smart-contracts**<sup>✔️</sup> <sup>`🏆 EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+  - **Evernode-smart-contracts**<sup>✔️</sup> <sup>`EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
       - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
         - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk) <sub>*libraries and tools required to develop and deploy HotPocket smart contracts on Evernode*</sub>
           - <sup>C nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract)[🧱](https://github.com/EvernodeXRPL/hp-c-contract) <sub>*Hot Pocket contract library*</sub>
