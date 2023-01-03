@@ -8,8 +8,6 @@
 
 [DYOR](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) *It's like rummaging through the garbage dump. In the middle you can also find out something useful*
 
-<br>
-
 *below is everything I found*
 
 <br> 
