@@ -178,10 +178,10 @@
 ### - xrp-paper-wallet account keypairs ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) <sub>*application of asymmetric-public-key cryptography*</sub>
 
   - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
-    - Secret Numbers <sup>*XLS-12d[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[👨](https://github.com/XRPLF/XRPL-Standards/issues/15)*</sup> <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
-      - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
-      - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)[🌎](https://secret-numbers-to-family-seed.xumm.dev/)
-    - keypairs
+  - Secret Numbers <sup>*XLS-12d[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[👨](https://github.com/XRPLF/XRPL-Standards/issues/15)*</sup> <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
+    - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
+    - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)[🌎](https://secret-numbers-to-family-seed.xumm.dev/)
+  - keypairs
       - XRPLF/xrpl.js/ripple-keypairs[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-keypairs)
       - XRPL-Labs/ripple-keypairs[🧱](https://github.com/XRPL-Labs/ripple-keypairs)
       - XRPL-Labs/verify-xrpl-signature[🧱](https://github.com/XRPL-Labs/verify-xrpl-signature)
@@ -191,13 +191,13 @@
       - yuki777/[🧱](https://github.com/yuki777/xrp-paper-wallet)
       - TusharPardhe/xrpl-rAddress-generator[🧱](https://github.com/TusharPardhe/xrpl-rAddress-generator)
       - others[🌎](https://www.xrppaperwallet.com/)[🌎](https://ripplepaperwallet.com/)
-    - xrpl multisigning<sup>✔️</sup>[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
+  - xrpl multisigning<sup>✔️</sup>[{✘}](https://xrpl.org/multi-signing.html)[{✘}](https://xrpl.org/set-up-multi-signing.html)[▶️](https://youtu.be/1NdRgxvgZAA)
       - ExpandedSignerList <sup>*1-to-32*</sup>[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) 
       - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
       - alt keys[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/7JLMuYoI1u8)
-   - []()
-   - ***`more xrpl tools`***[👇](#2-xrphook)<sup>*3*</sup>[☝️](#1-xrpdevtool)<sup>*1*</sup>
-   - []()
+  - []()
+  - ***`more xrpl tools`***[👇](#2-xrphook)<sup>*3*</sup>[☝️](#1-xrpdevtool)<sup>*1*</sup>
+  - []()
   
   
 
