@@ -155,25 +155,28 @@
 <br><br>
 
 ###### <sub>*1-xrpalg*</sub>🚪
-### - xrpl algorithms ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
+### - xrpl encoding ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-  - xrpl encoding
-    - XRPLF/xrpl.js/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
-    - XRPLF/xrpl.js/ripple-binary-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
-    - XRPLF/deserializer[🧱](https://github.com/XRPLF/xrpl-deserializer-c)
-    - XRPL-Labs/order-id-codec[🧱](https://github.com/XRPL-Labs/order-id-codec)
-    - richard/xrpl-base58[🧱](https://github.com/RichardAH/xrpl-base58-tool) [🌎](https://richardah.github.io/xrpl-base58-tool/)
-    - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
-    - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
-    - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
-    - XFL floating point<sup>✔️</sup> <sup>*XLS-17d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/39)*</sup>
-      - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) <sub>*Construct/Deconstruct XFL floating point values*</sub>
-    - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
-    - XADDRESS <sup>*XLS-5d[👨](https://github.com/XRPLF/XRPL-Standards/issues/6)*</sup> <sub>*xaddress = address + destination tag*</sub>
-      - xrp-community/xrpl-tagged-address-codec[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
-      - richard/xaddress[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/xaddress-functions)
-  - []()
-  - xrp-paper-wallet account keypairs👛 <sub>*application of asymmetric/public-key cryptography*</sub>
+   - XRPLF/xrpl.js/ripple-address-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-address-codec)
+   - XRPLF/xrpl.js/ripple-binary-codec[🧱](https://github.com/XRPLF/xrpl.js/tree/main/packages/ripple-binary-codec)
+   - XRPLF/deserializer[🧱](https://github.com/XRPLF/xrpl-deserializer-c)
+   - XRPL-Labs/order-id-codec[🧱](https://github.com/XRPL-Labs/order-id-codec)
+   - richard/xrpl-base58[🧱](https://github.com/RichardAH/xrpl-base58-tool) [🌎](https://richardah.github.io/xrpl-base58-tool/)
+   - richard/xrpl-binary-visualizer[🧱](https://github.com/RichardAH/xrpl-binary-visualizer) [🌎](https://richardah.github.io/xrpl-binary-visualizer/)
+   - richard/xrpl-binary-codec[🧱](https://github.com/RichardAH/xrpl-binary-codec) [{✘}](https://xrpl.org/serialization.html)
+   - richard/xrpl-epoch[🧱](https://github.com/RichardAH/xrpl-epoch-converter) [🌎](https://richardah.github.io/xrpl-epoch-converter/index.html)
+   - XFL floating point<sup>✔️</sup> <sup>*XLS-17d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/39)*</sup>
+     - richard/xfl-tools[🧱](https://github.com/RichardAH/xfl-tools)[🌎](https://richardah.github.io/xfl-tools/) <sub>*Construct/Deconstruct XFL floating point values*</sub>
+   - Bithomp/decodeXrplTx[🧱](https://github.com/Bithomp/decodeXrplTx)
+   - XADDRESS <sup>*XLS-5d[👨](https://github.com/XRPLF/XRPL-Standards/issues/6)*</sup> <sub>*xaddress = address + destination tag*</sub>
+     - xrp-community/xrpl-tagged-address-codec[🧱](https://github.com/xrp-community/xrpl-tagged-address-codec)jsfiddle[🌎](https://jsfiddle.net/WietseWind/05rpvbag/)runkit[🌎](https://runkit.com/wietsewind/5cbf111b51e3ee00127b2b59)[🌎](https://xrpaddress.info/)
+     - richard/xaddress[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/xaddress-functions)
+   - []()
+
+<br><br>
+
+### - xrp-paper-wallet account keypairs ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) <sub>*application of asymmetric/public-key cryptography*</sub>
+
     - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
     - Secret Numbers <sup>*XLS-12d[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[👨](https://github.com/XRPLF/XRPL-Standards/issues/15)*</sup> <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
       - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
@@ -192,9 +195,9 @@
       - ExpandedSignerList <sup>*1-to-32*</sup>[{✘}](https://xrpl.org/known-amendments.html#expandedsignerlist)[{✘}](https://xrpl.org/multi-signing.html#wallet-locator) 
       - wietse/XRPL-MultiSignTool[🧱](https://github.com/WietseWind/XRPL-MultiSignTool)
       - alt keys[{✘}](https://xrpl.org/assign-a-regular-key-pair.html)[▶️](https://youtu.be/7JLMuYoI1u8)
-  - []()
-  - ***`more xrpl tools`***[👇](#2-xrphook)<sup>*3*</sup>[☝️](#1-xrpdevtool)<sup>*1*</sup>
-  - []()
+   - []()
+   - ***`more xrpl tools`***[👇](#2-xrphook)<sup>*3*</sup>[☝️](#1-xrpdevtool)<sup>*1*</sup>
+   - []()
   
   
 
