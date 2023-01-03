@@ -3,8 +3,8 @@
 ## 1. XRPL and CRYPTO ALGORITHMS[🗝️](#1)
 ## 2. WEB3[🗝️](#2) <sub>*( xrpl-hooks ethereum-solidity[🗝️](#2-sol) oracles holochain ipfs torrent-p2p )*</sub>
 ## 3. WEB DEVELOPMENT[🗝️](#3)
- 
-
+<br> 
+[DYOR](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) *It's like rummaging through the garbage dump. In the middle of the garbage you can find out also something useful*
 <br> 
 
 
