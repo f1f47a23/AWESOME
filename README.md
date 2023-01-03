@@ -410,7 +410,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
       - TusharPardhe/xpt-backend[🧱](https://github.com/TusharPardhe/xpt-backend)
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon)[▶️](https://www.youtube.com/@nftoupon650) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
-    - moerphous[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*🚧 Create Buy or Sell NFTs*</sub>
+    - moerphous <sup>🚧</sup>[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*Create Buy or Sell NFTs*</sub>
     - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
   - []()
   - ***`more defi dex`***[👇](#2-xrpdexamm)
@@ -502,7 +502,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
       - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
       - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
       - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
-      - *hooks-store* 🚧
+      - *hooks-store* <sup>🚧</sup>
     - forum blog newsletter
       - amendments[🧱](https://github.com/XRPLF/rippled/pull/4225)
       - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
