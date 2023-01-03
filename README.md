@@ -175,9 +175,9 @@
 
 <br><br>
 
-### - xrp-paper-wallet account keypairs ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) <sub>*application of asymmetric/public-key cryptography*</sub>
+### - xrp-paper-wallet account keypairs ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) <sub>*application of asymmetric-public-key cryptography*</sub>
 
-    - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
+  - wietse/xrpl-accountlib[🧱](https://github.com/WietseWind/xrpl-accountlib) <sub>*account helper: family seed mnemonic passphrase*</sub>
     - Secret Numbers <sup>*XLS-12d[🗃️](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-12)[👨](https://github.com/XRPLF/XRPL-Standards/issues/15)*</sup> <sub>*Derive XRPL account keypairs based on 8x 6 digits*</sub>
       - wietse/xrpl-secret-numbers[🧱](https://github.com/WietseWind/xrpl-secret-numbers)
       - wietse/secret-numbers-to-family-seed[🧱](https://github.com/WietseWind/secret-numbers-to-family-seed)[🌎](https://secret-numbers-to-family-seed.xumm.dev/)
