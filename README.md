@@ -358,7 +358,8 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
   - []()
 
 
-<br>
+<br><br>
+
 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🕳🤹&width=800&height=70)](https://github.com/Akshay090/svg-banners)
@@ -565,6 +566,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   
   
 
+<br><br>
 
 
 ******
@@ -833,7 +835,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 
-  
+<br><br>
+
   
 <br>
 
@@ -885,10 +888,13 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+<br><br>
 
 ******
 
 ## `3.2 TYPESCRIPT` [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org) [⭐](https://github.com/stars/f1f47a23/lists/awesome-typescript) [📚](https://github.com/topics/typescript)<br>
+
+<br><br>
 
 ### - overall
 
@@ -910,11 +916,14 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+<br><br>
 
 
 ******
 
 ## `3.3 JAVASCRIPT ECMASCRIPT` [⭐](https://github.com/stars/f1f47a23/lists/awesome-javascript) [📚](https://github.com/topics/javascript)<br>
+
+<br><br>
 
 ### - misc
 
@@ -946,6 +955,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
   
 
+<br><br>
 
 
 ******
@@ -1002,6 +1012,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - ***`crypto algorithms`***[☝️](#1-xrpalg)
   - []()
 
+<br><br>
 
 ### - misc
 
@@ -1018,11 +1029,14 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+<br><br>
 
 
 ******
 
 ## `3.5 SYSTEMS, TOOLS and SECURITY` [⭐](https://github.com/stars/f1f47a23/lists/awesome-systems-tools-security)<br>
+
+<br><br>
 
 ### - Linux [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
@@ -1034,6 +1048,8 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - sirredbeard/Awesome-WSL[😎](https://github.com/sirredbeard/Awesome-WSL)
     - WillPower3309/awesome-dotfiles[😎](https://github.com/WillPower3309/awesome-dotfiles)
   - []()
+
+<br><br>
 
 ### - Security and Hacking
 
@@ -1052,6 +1068,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+<br><br>
+
+
 ### - Misc
 
   - awesome 😎
@@ -1067,6 +1086,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - []()
 
 
+<br><br>
+
+
 ******
 
 <br>
@@ -1075,6 +1097,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
 
 <br><br>
+
 <sup>*`🗳️`*</sup>
 
 
