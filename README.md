@@ -709,7 +709,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - solidity designed by inexperienced geeks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
     - PoS & PoW are centralized consensus mechanisms[☕](https://imgflip.com/i/75spwa)[🖼](https://imgur.com/a/YceVrBu)[▶️](https://www.youtube.com/shorts/r-qukd0sYk0)[▶️](https://youtu.be/lP63dTY_7j0)
     - why sharding won't work[▶️](https://youtu.be/b8DYrqX0fng)
-    - why at least 90% of cryptoes are nothing more than toys for fu@#cking morons retarded imb@#eciles? [▶️](https://youtu.be/2f9PDS11AME)[▶️](https://youtu.be/naupFdWYabg)
+    - why at least 90% of cryptoes are nothing more than toys for fu@#cking morons retarded imb@#eciles? [🖼](https://imgflip.com/i/76g0tm)[▶️](https://youtu.be/2f9PDS11AME)[▶️](https://youtu.be/naupFdWYabg)
   - []()
   - awesome😎
     - Zfinix/awesome-dart-web3[😎](https://github.com/Zfinix/awesome-dart-web3)
