@@ -496,7 +496,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ###### <sub>*2-xrphook*</sub>🚪
 
 
-### - xrpl-hooks-v2<sup>✔️</sup> 🪝 <sup>*`🐞 testing`*</sup> *Layer1-native-bespoke-lite-smart-contracts*  
+### - xrpl-hooks-v2 🪝 <sup>*`🐞 testing`*</sup> *Layer1-native-bespoke-lite-smart-contracts*  
 
   - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
   - **richard/xrpl.js**[🌵](https://github.com/RichardAH/xrpl.js)[🧱](https://github.com/XRPLF/xrpl.js)
@@ -532,7 +532,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 <br><br>
   
   
-### - **Evernode-smart-contracts**<sup>✔️</sup> <sup>`EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+### - **Evernode-smart-contracts** <sup>`EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
   - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
   - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
   - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
