@@ -6,9 +6,9 @@
 
 <br> 
 
-[DYOR](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) *It's like rummaging through the garbage dump. U can also find something useful inside*
+[DYOR](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/) <sub>*It's like rummaging through the garbage dump. U can also find something useful inside*</sub>
 
-*below is everything I found*
+<sub>*below is everything I found*</sub>
 
 <br> 
 
