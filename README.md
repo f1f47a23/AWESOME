@@ -494,58 +494,68 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 <br><br>
 
 ###### <sub>*2-xrphook*</sub>🚪
-### - xrpl-smart-contracts
 
-  - xrpl-hooks-v2<sup>✔️</sup> 🪝 <sup>*`🐞 testing`*</sup> *Layer1-native-bespoke-lite-smart-contracts*  
-    - main
-      - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
-      - **richard/xrpl.js**[🌵](https://github.com/RichardAH/xrpl.js)[🧱](https://github.com/XRPLF/xrpl.js)
-      - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
-      - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
-      - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
-      - *hooks-store* <sup>🚧</sup>
-    - forum blog newsletter
-      - amendments[🧱](https://github.com/XRPLF/rippled/pull/4225)
-      - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
-      - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
-      - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
-    - tools
-      - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
-      - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
-      - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
-      - XRPLF/hook-cleaner-c <sup>C</sup>[🧱](https://github.com/XRPLF/hook-cleaner-c) <sub>*removes unwanted exports and functions from a wasm binary*</sub>
-      - XRPLF/xrpl-hooks-compiler[🧱](https://github.com/XRPLF/xrpl-hooks-compiler)
-      - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
-      - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
-      - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
-      - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
-    - applications
-      - Evernode-smart-contracts<sup>✔️ EVR</sup> ***`below`*** 👇
-    - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
-    - ***`wasm & c references`***[👇](#--wasm)
+
+### - xrpl-hooks-v2<sup>✔️</sup> 🪝 <sup>*`🐞 testing`*</sup> *Layer1-native-bespoke-lite-smart-contracts*  
+
+  - **XRPL-Labs/xrpld-hooks**[🌵](https://github.com/XRPL-Labs/xrpld-hooks)[🧱](https://github.com/XRPLF/rippled)
+  - **richard/xrpl.js**[🌵](https://github.com/RichardAH/xrpl.js)[🧱](https://github.com/XRPLF/xrpl.js)
+  - hooks.xrpl.org[{✘}](https://hooks.xrpl.org/)
+  - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
+  - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
+  - *hooks-store* <sup>🚧</sup>
   - []()
-  - **Evernode-smart-contracts**<sup>✔️</sup> <sup>`EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
-      - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
-        - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk) <sub>*libraries and tools required to develop and deploy HotPocket smart contracts on Evernode*</sub>
-          - <sup>C nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract)[🧱](https://github.com/EvernodeXRPL/hp-c-contract) <sub>*Hot Pocket contract library*</sub>
-            - examples <sup>C js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract/tree/main/example)[🧱](https://github.com/EvernodeXRPL/hp-c-contract/blob/main/example_contract.c)
-          - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-js-client) <sub>*Hot Pocket client library*</sub>
-          - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client) <sub>*client library for evernode*</sub>
-            - examples<sup>js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client/tree/main/test)
-        - <sup>C</sup>[🧱](https://github.com/EvernodeXRPL/evernode-hook) <sub>*hook*</sub>
-        - /evm-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract) ***`solidity`***[👇](#--solidity)
-        - <sup>reactjs</sup>[🧱](https://github.com/EvernodeXRPL/evernode-dashboard) <sub>*Evernode host dashboard web app*</sub>
-      - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
-      - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
-      - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) wojake[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
-      - samples and applications <sup>✔️ EVR</sup>
-        - /example-calculator-contract <sup>js</sup>[🧱](https://github.com/EvernodeXRPL/example-calculator-contract)
-        - /evernode-bootstrap-contract <sup>c++</sup>[🧱](https://github.com/EvernodeXRPL/evernode-bootstrap-contract)
-        - wojake/evernode-samples[🧱](https://github.com/wojake/evernode-samples)
-          - lathanbritz oracles⬡[🧱](https://github.com/lathanbritz)
-            - [🧱](https://github.com/lathanbritz/mycontract)<sup>nodejs js</sup>[🧱](https://github.com/wojake/evernode-samples/tree/main/NodeJS/PriceOracle/mycontract)
-            - ***`other oracles⬡`***[☝️](#2-xrpdexamm) 
-        - Udith-Gayan/Decentralized-Hotel-Booking-System<sup>✔️</sup>[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
+  - forum blog newsletter
+    - amendments[🧱](https://github.com/XRPLF/rippled/pull/4225)
+    - wietse/hooked[🌎](https://dev.to/t/xrplhooks/)
+    - XRPLF/hooks forum[👨](https://github.com/XRPLF/Hooks/discussions)
+    - XRPL-Labs/xrpld-hooks issues[👨](https://github.com/XRPL-Labs/xrpld-hooks/issues)forum[👨](https://github.com/XRPL-Labs/xrpld-hooks/discussions)
+  - []()
+  - tools
+    - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
+    - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
+    - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
+    - XRPLF/hook-cleaner-c <sup>C</sup>[🧱](https://github.com/XRPLF/hook-cleaner-c) <sub>*removes unwanted exports and functions from a wasm binary*</sub>
+    - XRPLF/xrpl-hooks-compiler[🧱](https://github.com/XRPLF/xrpl-hooks-compiler)
+    - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
+    - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
+    - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
+    - muzam1l/gist-hooks-examples[🧱](https://gist.github.com/muzam1l)
+  - []()
+  - applications
+    - Evernode-smart-contracts<sup>✔️ EVR</sup> ***`below`*** 👇
+  - ***`more xrpl tools`***[☝️](#1-xrpalg)<sup>*2*</sup>
+  - ***`wasm & c references`***[👇](#--wasm)
+  - []()
+  
+  
+<br><br>
+  
+  
+### - **Evernode-smart-contracts**<sup>✔️</sup> <sup>`EVR token on xrpl`</sup> <sub>*Layer2 Smart Contracts on the XRPL*</sub>
+  - [🌎](https://evernode.wordpress.com/)[🧱](https://github.com/EvernodeXRPL)
+  - [📝](https://twitter.com/scotty2ten/status/1606569583934312448)[📝](https://www.thedefistandard.com/xrp-ledger/evernode/)
+  - [▶️](https://youtu.be/2whDJqqbM3k)[▶️](https://youtu.be/UPFbSiSzHQU)[▶️](https://youtu.be/BkezvyGkqJg)[▶️](https://youtu.be/SM9HG9VxUl8)[▶️](https://youtu.be/Ck7OhkcVq-g)
+  - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) wojake[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
+  - []()
+  - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk) <sub>*libraries and tools required to develop and deploy HotPocket smart contracts on Evernode*</sub>
+    - <sup>C nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract)[🧱](https://github.com/EvernodeXRPL/hp-c-contract) <sub>*Hot Pocket contract library*</sub>
+      - examples <sup>C js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract/tree/main/example)[🧱](https://github.com/EvernodeXRPL/hp-c-contract/blob/main/example_contract.c)
+    - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-js-client) <sub>*Hot Pocket client library*</sub>
+    - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client) <sub>*client library for evernode*</sub>
+      - examples<sup>js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client/tree/main/test)
+    - <sup>C</sup>[🧱](https://github.com/EvernodeXRPL/evernode-hook) <sub>*hook*</sub>
+    - /evm-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract) ***`solidity`***[👇](#--solidity)
+    - <sup>reactjs</sup>[🧱](https://github.com/EvernodeXRPL/evernode-dashboard) <sub>*Evernode host dashboard web app*</sub>
+  - []()
+  - samples and applications <sup>✔️ EVR</sup>
+    - /example-calculator-contract <sup>js</sup>[🧱](https://github.com/EvernodeXRPL/example-calculator-contract)
+    - /evernode-bootstrap-contract <sup>c++</sup>[🧱](https://github.com/EvernodeXRPL/evernode-bootstrap-contract)
+    - wojake/evernode-samples[🧱](https://github.com/wojake/evernode-samples)
+      - lathanbritz oracles⬡[🧱](https://github.com/lathanbritz)
+        - [🧱](https://github.com/lathanbritz/mycontract)<sup>nodejs js</sup>[🧱](https://github.com/wojake/evernode-samples/tree/main/NodeJS/PriceOracle/mycontract)
+        - ***`other oracles⬡`***[☝️](#2-xrpdexamm) 
+    - Udith-Gayan/Decentralized-Hotel-Booking-System<sup>✔️</sup>[🧱](https://github.com/Udith-Gayan/Decentralized-Hotel-Booking-System)[▶️](https://youtu.be/WBh4wAScGvg)
   - []()
 
 
