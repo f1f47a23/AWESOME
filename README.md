@@ -565,6 +565,10 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 ### - flare network<sup>✔️</sup> <sup>`FLR native token`</sup>
 
   - [🌐](https://flare.network/)[📖](https://docs.flare.network/)[📖](https://docs.flare.network/dev/)[🗃️](https://github.com/flare-foundation/docs)[🐦](https://twitter.com/FlareNetworks)
+  - explorers
+    - mainnet[🌐](https://flare-explorer.flare.network/)
+    - songbird <sup>SGB</sup>[🌐](https://songbird-explorer.flare.network/)
+    - coston[🌐](https://coston-explorer.flare.network/)coston2[🌐](https://coston2-explorer.flare.network/)
   - DYOR
     - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)
   - []()
