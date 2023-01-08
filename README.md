@@ -577,6 +577,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - ftso.au[🌐](https://www.ftso.au/)[📖](https://www.ftso.au/blog/)[📖](https://www.ftso.au/getting-started.html)[📖](https://www.ftso.au/flare-academy/2022/06/27/the-block-explorer-guide-flare-academy.html) <sub>*Flare Time Series Oracle
 Signal Provider*</sub>
     - channels[▶️](https://www.youtube.com/@Flare_Networks)[▶️](https://www.youtube.com/@Flare_Community)
+    - ***`main tutorials and samples`***[☝️](#--main)
   - []()
 
 
