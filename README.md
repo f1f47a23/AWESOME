@@ -342,7 +342,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
     - sologenic/sologenic-xrpl-stream-js[🧱](https://github.com/sologenic/sologenic-xrpl-stream-js)
-    - covecredit/xrpl-cli <sup>python 🚧</sup>[🧱](https://github.com/covecredit/xrpl-cli) <sub>*Command line utilities for working with the XRPL*</sub>
+    - covecredit/xrpl-cli <sup>py 🚧</sup>[🧱](https://github.com/covecredit/xrpl-cli) <sub>*Command line utilities for working with the XRPL*</sub>
   - []()
   - ***`nft/tokens/dex/defi services`***[👇](#2-xrpnft)
   - []()
@@ -442,9 +442,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - XRPL-Labs/XRP-Price-Aggregator<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRP-Price-Aggregator)[📖](https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087) <sub>*Fetches XRP-USD prices from multiple data sources*</sub>
     - XRPL-Labs/XRPL-Persist-Price-Oracle⬡<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) <sub>*Oracle Persist XRP-USD prices on the xrpl*</sub>
     - XRPL-Labs/Orderbook<sup>✔️</sup>[🧱](https://github.com/XRPL-Labs/XRPL-Orderbook-Reader) <sub>*Parse XRPL Order Book results into effective liquidity based exchange prices*</sub>
-    - yyolk/xrpl-price-persist-oracle⬡<sup>✔️</sup> <sup>python</sup>[🧱](https://github.com/yyolk/xrpl-price-persist-oracle)[🧱](https://github.com/yyolk/xrpl-price-persist-oracle-metrics)
+    - yyolk/xrpl-price-persist-oracle⬡<sup>✔️</sup> <sup>py</sup>[🧱](https://github.com/yyolk/xrpl-price-persist-oracle)[🧱](https://github.com/yyolk/xrpl-price-persist-oracle-metrics)
     - lathanbritz/XRP-Oracles⬡[🧱](https://github.com/lathanbritz/XRP-Oracles)[🧱](https://github.com/lathanbritz/three-oracles)
-    - hammertoe/dexter <sup>python</sup>[🧱](https://github.com/hammertoe/dexter)
+    - hammertoe/dexter <sup>py</sup>[🧱](https://github.com/hammertoe/dexter)
     - xdex[🌎](https://xdex.com/)
     - XPmarket <sup>*tokens*</sup>[🌎](https://xpmarket.com/) [{§}](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
     - onthedex[🌎](https://onthedex.live/)
