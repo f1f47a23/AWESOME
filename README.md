@@ -570,7 +570,13 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - songbird <sup>SGB</sup>[🌐](https://songbird-explorer.flare.network/)
     - coston[🌐](https://coston-explorer.flare.network/)coston2[🌐](https://coston2-explorer.flare.network/)
   - DYOR
-    - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)
+    - [📝](https://www.xrpchat.com/topic/40931-serious-doubts-on-layercake-protocol-on-flare/)[📝](https://academy.binance.com/en/articles/what-is-spark-flr-and-the-flare-network)[▶️](https://youtu.be/-bMGWE6dJiw)
+    - metamask[▶️](https://youtu.be/Kin9OOm-1tE)[▶️](https://youtu.be/vcrXYVFdahg)
+    - ethereum[📝](https://blockchain-devs.io/category/flare-network/)
+  - academy
+    - ftso.au[🌐](https://www.ftso.au/)[📖](https://www.ftso.au/blog/)[📖](https://www.ftso.au/getting-started.html)[📖](https://www.ftso.au/flare-academy/2022/06/27/the-block-explorer-guide-flare-academy.html) <sub>*Flare Time Series Oracle
+Signal Provider*</sub>
+    - channels[▶️](https://www.youtube.com/@Flare_Networks)[▶️](https://www.youtube.com/@Flare_Community)
   - []()
 
 
