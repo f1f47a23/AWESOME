@@ -566,7 +566,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 
   - [🌐](https://flare.network/)[📖](https://docs.flare.network/)[📖](https://docs.flare.network/dev/)
   - [🗃️](https://github.com/flare-foundation/docs)[🧰](https://github.com/flare-foundation)[🧰](https://gitlab.com/flarenetwork/)[🐦](https://twitter.com/FlareNetworks)
-    - ***`dev prerequisites: hardhat remix metamask javascript ethers.js chainlink evm-web3`***[👇](#2-sol) 
+    - ***`dev prerequisites: hardhat remix metamask javascript ethers.js chainlink-oracle-net evm-web3`***[👇](#2-sol) 
   - explorers
     - mainnet[🌐](https://flare-explorer.flare.network/)
     - songbird canary network<sup>SGB</sup>[🌐](https://songbird-explorer.flare.network/) <sub>*real fire testing*</sub>
