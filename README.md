@@ -121,7 +121,7 @@
 
   - API/library for interacting with the XRP Ledger
     - **XRPLF/xrpl.js**<sup>✔️</sup> <sup>js/ts nodejs/browser</sup>[🧱](https://github.com/XRPLF/xrpl.js)releases[🧱](https://github.com/XRPLF/xrpl.js/releases) <sub>*API for interacting with the XRP Ledger*</sub>
-      - XRPLF/xrpl-py <sup>py xrpl-1.0</sup>[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sup>xrpl-1.7</sup>[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) <sup>xrpl-2.0</sup>[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [§](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
+      - XRPLF/xrpl-py <sup>py xrpl-1.0</sup>[🧱](https://github.com/XRPLF/xrpl-py)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/)[🌎](https://xrpl-py.readthedocs.io/en/v1.0.0/source/xrpl.utils.html) <sup>xrpl-1.7</sup>[🌎](https://xrpl-py.readthedocs.io/en/v1.7.0/) <sup>xrpl-2.0</sup>[🧱](https://github.com/XRPLF/xrpl-py/tree/xrpl-py-2.0) [🌎](https://xrpl-py.readthedocs.io/en/stable/) [{§}](https://xrpl.org/blog/2022/introducing-xrpl-py-2.0.0beta.html)
       - XRPLF/xrpl4j <sup>java xrpl-2.5</sup>[🧱](https://github.com/XRPLF/xrpl4j)
     - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
     - N3TC4T/python-xrpl-websocket <sup>py</sup>[🧱](https://github.com/N3TC4T/python-xrpl-websocket)
@@ -286,7 +286,7 @@
     - XRPL-Labs/XUMM-SDK <sup>C#</sup>[🧱](https://github.com/XRPL-Labs/XUMM.NET.SDK)<sup>py</sup>[🧱](https://github.com/XRPL-Labs/xumm-sdk-py)<sup>php</sup>[🧱](https://github.com/XRPL-Labs/XUMM-SDK-PHP)
     - XRPL-Labs/XUMM-Issue-Tracker[🧱](https://github.com/XRPL-Labs/XUMM-Issue-Tracker)
   - []()
-  - gemwallet<sup>✔️</sup> <sup>Chrome Ext</sup>[🌎](https://gemwallet.app/) [§](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[▶️](https://www.youtube.com/@gemwallet3862) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
+  - gemwallet<sup>✔️</sup> <sup>Chrome Ext</sup>[🌎](https://gemwallet.app/) [{§}](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[▶️](https://www.youtube.com/@gemwallet3862) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
     - gemwallet[🧱](https://github.com/GemWallet/gemwallet-extension) <sub>*extension*</sub>
     - web3-auth-starter[🧱](https://github.com/GemWallet/web3-auth-starter) <sub>*template*</sub>
     - FlorianBouron/gemwallet-store-demo[🧱](https://github.com/FlorianBouron/gemwallet-store-demo) <sub>*Online store demo accepting XRP payments using gemwallet*</sub>
@@ -403,7 +403,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - TheBetterMint[🌎](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
     - mwni/xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌎](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
     - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
-    - nftmaster.com[🌎](https://nftmaster.com/) [§](https://xrpl.org/blog/2022/nftmaster.html) <sub>**</sub>
+    - nftmaster.com[🌎](https://nftmaster.com/) [{§}](https://xrpl.org/blog/2022/nftmaster.html) <sub>**</sub>
     - XPT
       - xptxrpl[🌎](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website) <sub>*XRPL Portfolio Tracker account info*</sub>
       - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
@@ -446,7 +446,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - lathanbritz/XRP-Oracles⬡[🧱](https://github.com/lathanbritz/XRP-Oracles)[🧱](https://github.com/lathanbritz/three-oracles)
     - hammertoe/dexter <sup>python</sup>[🧱](https://github.com/hammertoe/dexter)
     - xdex[🌎](https://xdex.com/)
-    - XPmarket <sup>*tokens*</sup>[🌎](https://xpmarket.com/) [§](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
+    - XPmarket <sup>*tokens*</sup>[🌎](https://xpmarket.com/) [{§}](https://xrpl.org/blog/2022/xpmarket.html) <sub>*Web3 tools built for XRP Ledger*</sub>
     - onthedex[🌎](https://onthedex.live/)
     - sologenic dex & nft[🌎](https://sologenic.org/bridge?network=mainnet)[🌎](https://sologenic.org/) <sub>*Connect your private wallet, Trade Digital Assets
 or Mint NFTs on a Decentralized Ecosystem*</sub> 
@@ -454,9 +454,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - xrpl.to *launch*[🌎](https://xrpl.to/)
     - xrplcoins<sup>✔️</sup>[🌎](https://xrplcoins.com/dex)
     - onxrp.com <sup>*ecosystem*</sup>[🌎](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
-    - stably.io[🌎](https://www.stably.io/) [§](https://xrpl.org/blog/2023/stably.html) <sub>*...*</sub>
-    - radynamics/Iso20022 <sup>java</sup>[🧱](https://github.com/radynamics/CryptoIso20022Interop) [§](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
-    - runziggurat/[🧱](https://github.com/runziggurat) [§](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
+    - stably.io[🌎](https://www.stably.io/) [{§}](https://xrpl.org/blog/2023/stably.html) <sub>*...*</sub>
+    - radynamics/Iso20022 <sup>java</sup>[🧱](https://github.com/radynamics/CryptoIso20022Interop) [{§}](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
+    - runziggurat/[🧱](https://github.com/runziggurat) [{§}](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
   - []()
   - ***`ethereum defi dex oracles⬡`***[👇](#--web3-defi-dex)
