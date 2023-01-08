@@ -562,7 +562,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
 <br><br>
 
 
-### - flare network<sup>✔️</sup> <sup>`FLR native token`</sup>
+### - flare network<sup>✔️</sup> <sup>`FLR native token`</sup> <sub>*EVM Layer1 smart contracts*</sub>
 
   - [🌐](https://flare.network/)[📖](https://docs.flare.network/)[📖](https://docs.flare.network/dev/)
   - [🗃️](https://github.com/flare-foundation/docs)[🧰](https://github.com/flare-foundation)[🧰](https://gitlab.com/flarenetwork/)[🐦](https://twitter.com/FlareNetworks)
