@@ -74,7 +74,7 @@
 
 <br><br>
 
-####### <sub>*1-rippled*</sub>🚪
+###### <sub>*1-rippled*</sub>🚪
 ### - xrpl servers [{✘}](https://xrpl.org/xrpl-servers.html)
 
   - rippled server daemon
