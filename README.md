@@ -394,6 +394,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
   - XLS-20d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/46)[{✘}](https://xrpl.org/known-amendments.html#nonfungibletokensv1_1)[🌎](https://xrpscan.com/amendment/32A122F1352A4C7B3A6D790362CC34749C5E57FCE896377BFDC6CCD14F6CD627)
     - bithomp-xls20-explorer[🌎](https://xls20.bithomp.com/)[🚰](https://xls20.bithomp.com/faucet/)
+  - XLS-24d[👨](https://github.com/XRPLF/XRPL-Standards/discussions/69) <sub>*Metadata Structure for XLS-20d NFTs*</sub>
   - xrpl.org/tokens[{✘}](https://xrpl.org/tokens.html)
     - xrpl.org/non-fungible-tokens[{✘}](https://xrpl.org/non-fungible-tokens.html)
     - tutorials
@@ -413,6 +414,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - moerphous <sup>🚧</sup>[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*Create Buy or Sell NFTs*</sub>
     - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
     - xrp.cafe[🌎](https://xrpcafe.github.io/)[🌎](https://www.xrplive.com/) <sup>ipfs js</sup>[🧱](https://github.com/xrpcafe/xls20-iou-minting)[🧱](https://github.com/xrpcafe/xls20-iou-minting-backend)[🧱](https://github.com/xrpcafe/xrpl-bulk-minting)[🌎](https://nft.storage/) <sub>*NFT marketplace*</sub>
+      - docs.opensea.io/[📖](https://docs.opensea.io/docs/metadata-standards) <sub>*How to add rich metadata to your ERC721*</sub>
       - ajkagy/ <sup>js c# sol</sup>[🧱](https://github.com/ajkagy/xls20-bridge-validator)[🧱](https://github.com/ajkagy/xls20-bridge-master)[🧱](https://github.com/ajkagy/xls20-bridge-webapp)[🧱](https://github.com/ajkagy/xls20-bridge-proxy)[🧱](https://github.com/ajkagy/xls20-bridge) <sub>*XLS20 bridge*</sub>
       
   - []()
@@ -726,6 +728,7 @@ Signal Provider*</sub>
   - []()
   - tokens NFT
     - erc20 erc721 erc1155[▶️](https://youtu.be/69BU3XQwD1M)[📖](https://solidity-by-example.org/app/erc20)[📖](https://solidity-by-example.org/app/erc721/)[📖](https://www.blockchain-council.org/ethereum/erc20-vs-erc721/)[▶️](https://www.youtube.com/watch?v=gwn1rVDuGL0&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=53)[▶️](https://www.youtube.com/watch?v=9PBq9HfBUDY&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=73)[▶️](https://www.youtube.com/watch?v=g3IKJnInY4k&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=63)[▶️](https://www.youtube.com/watch?v=HTm-1JtI0fA&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=44)[▶️](https://www.youtube.com/watch?v=KZbKJGJshtM&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=56)
+    - opensea.io/[🌐](https://opensea.io/)[📖](https://docs.opensea.io/) <sub>*NFT marketplace + developer platform*</sub>
   - []()
   - DEX AMM
     - solidity-by-example<sup>✔️</sup> AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)
