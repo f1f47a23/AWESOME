@@ -416,7 +416,9 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xrp.cafe[🌎](https://xrpcafe.github.io/)[🌎](https://www.xrplive.com/) <sup>ipfs js</sup>[🧱](https://github.com/xrpcafe/xls20-iou-minting)[🧱](https://github.com/xrpcafe/xls20-iou-minting-backend)[🧱](https://github.com/xrpcafe/xrpl-bulk-minting)[🌎](https://nft.storage/) <sub>*NFT marketplace*</sub>
       - docs.opensea.io/[📖](https://docs.opensea.io/docs/metadata-standards) <sub>*How to add rich metadata to your ERC721*</sub>
       - ajkagy/ <sup>js c# sol</sup>[🧱](https://github.com/ajkagy/xls20-bridge-validator)[🧱](https://github.com/ajkagy/xls20-bridge-master)[🧱](https://github.com/ajkagy/xls20-bridge-webapp)[🧱](https://github.com/ajkagy/xls20-bridge-proxy)[🧱](https://github.com/ajkagy/xls20-bridge) <sub>*XLS20 bridge*</sub>
-      
+      - XRP NFT attendance
+        - JustAnotherDevv/[🧱](https://github.com/JustAnotherDevv/Attendify_XRPL)[🧱](https://github.com/JustAnotherDevv/XRPledgerAttendance)[🌎](https://devpost.com/software/xrp-nft-attendence)[🌎](https://xrplnft.devpost.com/)
+        - spicycheeto/[🧱](https://github.com/spicycheeto/XRPL-NFT-Proof-of-Attendance-Infrastructure)
   - []()
   - ***`more defi dex`***[👇](#2-xrpdexamm)
   - ***`also EVM defi dex`***[👇](#--web3-defi-dex)
