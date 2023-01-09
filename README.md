@@ -412,7 +412,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous <sup>🚧</sup>[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*Create Buy or Sell NFTs*</sub>
     - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
-    - xrp.cafe[🌎](https://xrpcafe.github.io/)[🌎](https://www.xrplive.com/) <sup>ipfs</sup>[🌎](https://nft.storage/) <sup>js</sup>[🧱](https://github.com/xrpcafe/xls20-iou-minting)[🧱](https://github.com/xrpcafe/xls20-iou-minting-backend)[🧱](https://github.com/xrpcafe/xrpl-bulk-minting) <sub>*NFT marketplace*</sub>
+    - xrp.cafe[🌎](https://xrpcafe.github.io/)[🌎](https://www.xrplive.com/) <sup>ipfs js</sup>[🧱](https://github.com/xrpcafe/xls20-iou-minting)[🧱](https://github.com/xrpcafe/xls20-iou-minting-backend)[🧱](https://github.com/xrpcafe/xrpl-bulk-minting)[🌎](https://nft.storage/) <sub>*NFT marketplace*</sub>
       - ajkagy/ <sup>js c# sol</sup>[🧱](https://github.com/ajkagy/xls20-bridge-validator)[🧱](https://github.com/ajkagy/xls20-bridge-master)[🧱](https://github.com/ajkagy/xls20-bridge-webapp)[🧱](https://github.com/ajkagy/xls20-bridge-proxy)[🧱](https://github.com/ajkagy/xls20-bridge) <sub>*XLS20 bridge*</sub>
       
   - []()
