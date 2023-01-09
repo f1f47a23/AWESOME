@@ -603,6 +603,7 @@ Signal Provider*</sub>
 
 ******
 ###### <sub>*2-sol*</sub>🚪
+###### <sub>*2-evmweb3*</sub>🚪
 ## `2.2 EVM WEB3` ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) [⭐](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [📚](https://github.com/topics/ethereum)<br>
 *` Smart-Contracts Dapps Solidity`*
 
@@ -634,6 +635,7 @@ Signal Provider*</sub>
   
   
 ###### <sub>*2-ethwal*</sub>🚪
+###### <sub>*2-evmwal*</sub>🚪
 ### - ethereum self custodial wallets 👛
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [⚠️](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
 
@@ -654,6 +656,7 @@ Signal Provider*</sub>
 
 <br><br>
 
+###### <sub>*2-evmsol*</sub>🚪
 ### - solidity
 
   - main
@@ -716,6 +719,7 @@ Signal Provider*</sub>
 
 <br><br>
 
+###### <sub>*2-evmdefidex*</sub>🚪
 ### - web3 defi dex
 
   - learning resources
@@ -772,6 +776,7 @@ Signal Provider*</sub>
 <br><br>
 
 ###### <sub>*2-link*</sub>🚪
+###### <sub>*2-evmora*</sub>🚪
 ### - chainlink <sup>`⬡ LINK token: true oracle gas`</sup> <sub>*decentralized-oracle-net*</sub>
 
   - main
