@@ -419,6 +419,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
       
   - []()
   - ***`more defi dex`***[👇](#2-xrpdexamm)
+  - ***`also EVM defi dex`***[👇](#--web3-defi-dex)
   - []()
 
 
@@ -464,7 +465,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - runziggurat/[🧱](https://github.com/runziggurat) [{§}](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
   - []()
-  - ***`ethereum defi dex oracles⬡`***[👇](#--web3-defi-dex)
+  - ***`EVM defi dex oracles⬡`***[👇](#--web3-defi-dex)
   - []()
 
 
@@ -728,7 +729,7 @@ Signal Provider*</sub>
   - []()
   - tokens NFT
     - erc20 erc721 erc1155[▶️](https://youtu.be/69BU3XQwD1M)[📖](https://solidity-by-example.org/app/erc20)[📖](https://solidity-by-example.org/app/erc721/)[📖](https://www.blockchain-council.org/ethereum/erc20-vs-erc721/)[▶️](https://www.youtube.com/watch?v=gwn1rVDuGL0&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=53)[▶️](https://www.youtube.com/watch?v=9PBq9HfBUDY&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=73)[▶️](https://www.youtube.com/watch?v=g3IKJnInY4k&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=63)[▶️](https://www.youtube.com/watch?v=HTm-1JtI0fA&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=44)[▶️](https://www.youtube.com/watch?v=KZbKJGJshtM&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=56)
-    - opensea.io/[🌐](https://opensea.io/)[📖](https://docs.opensea.io/) <sub>*NFT marketplace + developer platform*</sub>
+    - opensea.io/[🌐](https://opensea.io/)[📖](https://docs.opensea.io/)[📝](https://en.wikipedia.org/wiki/OpenSea) <sub>*NFT marketplace + developer platform*</sub>
   - []()
   - DEX AMM
     - solidity-by-example<sup>✔️</sup> AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)
