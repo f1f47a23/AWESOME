@@ -512,6 +512,7 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - xrpl-hooks-docs[📖](https://xrpl-hooks.readme.io/)
   - xrpl-hooks-ide[{✘}](https://hooks-builder.xrpl.org/develop)
   - *hooks-store* <sup>🚧</sup>
+  - XRPL-Labs/hookscript <sup>🚧</sup>[🧱](https://github.com/XRPL-Labs/hookscript) <sub>*subset of typescript*</sub>
   - []()
   - forum blog newsletter
     - amendments[🧱](https://github.com/XRPLF/rippled/pull/4225)
