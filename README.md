@@ -46,7 +46,6 @@
     - xrpl-grants[🌎](https://xrplgrants.org/) <sub>*$$$ support the development of new software projects $$$*</sub>
   - awesome xrpl 😎
      - yyolk/[😎](https://github.com/yyolk/awesome-xrpl) vhpoet/[😎](https://github.com/vhpoet/awesome-ripple) TusharPardhe/[😎](https://github.com/TusharPardhe/xrpl-cheat-sheet) f1f47a23/[😎](https://github.com/f1f47a23/AWESOME)
-  - [DYOR](https://www.reddit.com/r/sciencememes/comments/xr5qrf/fuck_around_and_find_out/)
   - []()
   - **forums bulletins news updates**
     - **XRPLF/XLS-#.#d**[👨](https://github.com/XRPLF/XRPL-Standards/discussions)[🧱](https://github.com/XRPLF/XRPL-Standards) amendments [{✘}](https://xrpl.org/known-amendments.html)[🌎](https://xrpscan.com/amendments) <sub>*Xrp Ledger Standards / drafts*</sub>
