@@ -746,7 +746,7 @@ Signal Provider*</sub>
     - nft legal issues[▶️](https://youtu.be/YQ_xWvX1n9g)[▶️](https://youtu.be/C6aeL83z_9Y)[▶️](https://youtu.be/_1PSvqho8UE)[▶️](https://youtu.be/Buq9xosvxX0)[▶️](https://youtu.be/msHRy-3WOaA)
     - solidity designed by inexperienced geeks[🤮](https://github.com/f1f47a23/AWESOME/blob/main/docs/solidity-eth/why-solidity-sucks.md)
     - PoS & PoW are centralized consensus mechanisms[☕](https://imgflip.com/i/75spwa)[🖼](https://imgur.com/a/YceVrBu)[▶️](https://www.youtube.com/shorts/r-qukd0sYk0)[▶️](https://youtu.be/lP63dTY_7j0)
-    - why sharding won't work[▶️](https://youtu.be/b8DYrqX0fng)
+    - why sharding won't work[▶️](https://youtu.be/b8DYrqX0fng)[📝](https://coingeek.com/sharding-as-a-blockchain-scaling-solution-doesnt-work/)[📝](https://medium.com/nearprotocol/unsolved-problems-in-blockchain-sharding-2327d6517f43)[📝](https://www.crypto-news-flash.com/why-sharding-wont-solve-all-ethereums-scalability-woes/)
     - why at least 99.9999999% of cryptoes are nothing more than toys for fu@#cking morons retarded imb@#eciles? [🖼](https://imgflip.com/i/76g0tm)[▶️](https://youtu.be/2f9PDS11AME)[▶️](https://youtu.be/naupFdWYabg)[▶️](https://youtu.be/SRFRCAQX-XA)
   - []()
   - awesome😎
