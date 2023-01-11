@@ -1006,6 +1006,11 @@ Signal Provider*</sub>
 
 <br><br>
 
+### - webdev academy
+   - [▶️](https://www.youtube.com/@TraversyMedia)[▶️](https://www.youtube.com/@NetNinja)[▶️](https://www.youtube.com/@academind)[▶️](https://www.youtube.com/@WebDevSimplified)[▶️](https://www.youtube.com/@Fireship) 🔥 [▶️](https://www.youtube.com/@javascriptmastery)[▶️](https://www.youtube.com/@CleverProgrammer)[▶️](https://www.youtube.com/@CSDojo)[▶️](https://www.youtube.com/@AniaKubow)[▶️](https://www.youtube.com/@JoshuaFluke1) 🔥 [▶️](https://www.youtube.com/@developedbyed)[▶️](https://www.youtube.com/@learncodeacademy)[▶️](https://www.youtube.com/@GoogleDevelopers)[▶️](https://www.youtube.com/@HiteshChoudharydotcom)[▶️](https://www.youtube.com/@TheCodingTrain) 🔥 [▶️](https://www.youtube.com/@jsconf_)[▶️](https://www.youtube.com/@Telusko)[▶️](https://www.youtube.com/@LearnWebCode)[▶️](https://www.youtube.com/@ProgrammerZamanNow)[▶️]() 🔥 [▶️]()[▶️]()[▶️]()[▶️]()[▶️]() 🔥 [▶️]()[▶️]()[▶️]()[▶️]()[▶️]() 🔥 [🌐]()
+
+
+
 ### - nodejs
 
   - awesome 😎
