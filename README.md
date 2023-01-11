@@ -273,7 +273,7 @@
 <br><br>
 
 
-### - XRP self custodial wallets<sup>👛</sup>
+### - XRP self custodial wallets<sup>[👛](https://giphy.com/gifs/season-12-the-simpsons-12x4-3orifdO6eKr9YBdOBq)</sup>
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [🦺](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
 
   - xumm.app<sup>✔️</sup> <sup>React-Native iOS Android</sup>[🌎](https://xumm.app/) 
@@ -290,7 +290,7 @@
     - web3-auth-starter[🧱](https://github.com/GemWallet/web3-auth-starter) <sub>*template*</sub>
     - FlorianBouron/gemwallet-store-demo[🧱](https://github.com/FlorianBouron/gemwallet-store-demo) <sub>*Online store demo accepting XRP payments using gemwallet*</sub>
   - []()
-  - sologenic wallet <sup>Mac app store</sup>[🌎](https://apps.apple.com/ca/app/solo-wallet/id1497396455)[🧱](https://github.com/sologenic/sologenic-expo-wallet)[🧱](https://github.com/sologenic/solo-wallet-tx-delivery)
+  - sologenic wallet <sup>mac app store</sup>[🌎](https://apps.apple.com/ca/app/solo-wallet/id1497396455)[🧱](https://github.com/sologenic/sologenic-expo-wallet)[🧱](https://github.com/sologenic/solo-wallet-tx-delivery)
   - multiverse-wallet <sup>Chrome Ext</sup>[🌎](https://multiverse-wallet.vercel.app/)[📖](https://multiverse-wallet.vercel.app/docs/developers/introduction)[🧱](https://github.com/multiverse-wallet/multiverse-wallet) <sub>*A browser extension based wallet for the XRPL*</sub>
   - LedgerHQ/app-xrp[🧱](https://github.com/LedgerHQ/app-xrp) <sub>*Ripple wallet application for Ledger Blue and Nano S*</sub>
   - merlinepedra/XRPL-PYTHON-WALLET[🧱](https://github.com/merlinepedra/XRPL-PYTHON-WALLET)[🧱](https://github.com/merlinepedra25/XRPL-PYTHON-WALLET)
@@ -335,7 +335,7 @@
     - xpring-eng/[🧱](https://github.com/orgs/xpring-eng) <sub>*RippleX Engineering*</sub>
       - xpring-eng/testnet-faucet[🧱](https://github.com/xpring-eng/testnet-faucet)
     - XRPL Composer[🌎](https://graph.trustline.co/) <sub>*Create visualize and validate complex payment paths on xrpl*</sub>
-    - Platonenkov/XRPL.DataRippleService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)[👇](#2-xrpnft) <sub>*XRPL data.ripple.com API*</sub> 
+    - Platonenkov/XRPL.DataRippleService <sup>c#</sup>[🧱](https://github.com/Platonenkov/XRPL.DataRippleService)[🧱](https://github.com/Platonenkov/xrpl.CSharp)[📖](https://api.xrpldata.com/docs/)[👇](#2-xrpnft) <sub>*XRPL data.ripple.com API*</sub> 
     - talentchain[🌎](https://www.talentchain.io/)[🧱](https://github.com/TalentChainXRPL/xrpl-lib) <sub>*platform for self-monetization.
 It enables “Talents” - creators or makers, to launch their own token*</sub>
     - xdvlabs/[🧱](https://github.com/orgs/xdvlabs/repositories)
@@ -413,7 +413,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - AmitMirgal/nftoupon[🧱](https://github.com/AmitMirgal/nftoupon)[▶️](https://www.youtube.com/@nftoupon650) <sub>*Widget to generate the NFTs*</sub>
     - ledhed2222/nft_hands_on[🧱](https://github.com/ledhed2222/nft_hands_on) <sub>*NFT demo for presentations*</sub>
     - moerphous <sup>🚧</sup>[🌎](https://moerphous.netlify.app/)[🧱](https://github.com/moerphous/moerphous)[🧱](https://github.com/moerphous/moerphous-server) <sub>*Create Buy or Sell NFTs*</sub>
-    - Platonenkov/XRPL.TrustlineService <sup>C#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
+    - Platonenkov/XRPL.TrustlineService <sup>c#</sup>[🧱](https://github.com/Platonenkov/XRPL.TrustlineService)[☝️](#1-xrpsrvc) <sub>*XRPL trustline service*</sub>
     - xrp.cafe[🌎](https://xrpcafe.github.io/)[🌎](https://www.xrplive.com/) <sup>ipfs js</sup>[🧱](https://github.com/xrpcafe/xrpl-bulk-offers)[🧱](https://github.com/xrpcafe/xrpl-bulk-minting)[🌎](https://nft.storage/) <sub>*NFT marketplace*</sub>
       - docs.opensea.io/[📖](https://docs.opensea.io/docs/metadata-standards) <sub>*How to add rich metadata to your ERC721*</sub>
       - ajkagy/ <sup>js c# sol</sup>[🧱](https://github.com/ajkagy/xls20-bridge-validator)[🧱](https://github.com/ajkagy/xls20-bridge-master)[🧱](https://github.com/ajkagy/xls20-bridge-webapp)[🧱](https://github.com/ajkagy/xls20-bridge-proxy)[🧱](https://github.com/ajkagy/xls20-bridge) <sub>*XLS20 bridge*</sub>
@@ -524,9 +524,9 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - betanet[{✘}](https://hooks-testnet-v2-explorer.xrpl-labs.com/)[🚰](https://hooks-testnet-v2.xrpl-labs.com/)
     - bithomp-beta-explorer[🌎](https://beta.bithomp.com/)[🚰](https://beta.bithomp.com/faucet/)
     - bithomp-hooks-explorer[🌎](https://hooks.bithomp.com/)[🚰](https://hooks.bithomp.com/faucet/)
-    - XRPLF/hook-cleaner-c <sup>C</sup>[🧱](https://github.com/XRPLF/hook-cleaner-c) <sub>*removes unwanted exports and functions from a wasm binary*</sub>
+    - XRPLF/hook-cleaner-c <sup>c</sup>[🧱](https://github.com/XRPLF/hook-cleaner-c) <sub>*removes unwanted exports and functions from a wasm binary*</sub>
     - XRPLF/xrpl-hooks-compiler[🧱](https://github.com/XRPLF/xrpl-hooks-compiler)
-    - XRPLF/hook-macros <sup>C</sup>[🧱](https://github.com/XRPLF/hook-macros)
+    - XRPLF/hook-macros <sup>c</sup>[🧱](https://github.com/XRPLF/hook-macros)
     - richard/xrpl-hookon-calculator[🧱](https://github.com/RichardAH/xrpl-hookon-calculator)
     - richard/xrpl-hooks-faucet[🧱](https://github.com/RichardAH/hooks-faucet)
     - richard/xrpl-keylet-tools[🧱](https://github.com/RichardAH/xrpl-keylet-tools)[🌎](https://richardah.github.io/xrpl-keylet-tools/)
@@ -549,13 +549,13 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
   - xrpchat[👨](https://www.xrpchat.com/topic/39667-introduction-to-evernode/)[👨](https://www.xrpchat.com/clubs/82-evernode/)[👨](https://www.xrpchat.com/search/?q=evernode) reddit[👨](https://www.reddit.com/r/Evernode/) [🐦](https://twitter.com/EvernodeXRPL) wojake[🧱](https://github.com/wojake)[🐦](https://twitter.com/woj4ke)
   - []()
   - sdk and tutorial[🧱](https://github.com/EvernodeXRPL/evernode-sdk) <sub>*libraries and tools required to develop and deploy HotPocket smart contracts on Evernode*</sub>
-    - <sup>C nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract)[🧱](https://github.com/EvernodeXRPL/hp-c-contract) <sub>*Hot Pocket contract library*</sub>
+    - <sup>c nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract)[🧱](https://github.com/EvernodeXRPL/hp-c-contract) <sub>*Hot Pocket contract library*</sub>
       - examples <sup>C js</sup>[🧱](https://github.com/EvernodeXRPL/hp-nodejs-contract/tree/main/example)[🧱](https://github.com/EvernodeXRPL/hp-c-contract/blob/main/example_contract.c)
     - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/hp-js-client) <sub>*Hot Pocket client library*</sub>
     - <sup>nodejs js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client) <sub>*client library for evernode*</sub>
       - examples<sup>js</sup>[🧱](https://github.com/EvernodeXRPL/evernode-js-client/tree/main/test)
-    - <sup>C</sup>[🧱](https://github.com/EvernodeXRPL/evernode-hook) <sub>*hook*</sub>
-    - /evm-contract <sup>C++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract) ***`solidity`***[👇](#--solidity)
+    - <sup>c</sup>[🧱](https://github.com/EvernodeXRPL/evernode-hook) <sub>*hook*</sub>
+    - /evm-contract <sup>c++</sup>[🧱](https://github.com/EvernodeXRPL/evm-contract) ***`solidity`***[👇](#--solidity)
     - <sup>reactjs</sup>[🧱](https://github.com/EvernodeXRPL/evernode-dashboard) <sub>*Evernode host dashboard web app*</sub>
   - []()
   - samples and applications <sup>✔️ EVR</sup>
@@ -640,7 +640,7 @@ Signal Provider*</sub>
   
 ###### <sub>*2-ethwal*</sub>🚪
 ###### <sub>*2-evmwal*</sub>🚪
-### - ethereum self custodial wallets<sup>👛</sup>
+### - ethereum self custodial wallets<sup>[👛](https://giphy.com/gifs/season-12-the-simpsons-12x4-3orifdO6eKr9YBdOBq)</sup>
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [🦺](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
 
   - metamask<sup>✔️</sup>+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
