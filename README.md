@@ -274,7 +274,7 @@
 
 
 ### - XRP self custodial wallets 👛
-[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [⚠️](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
+[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [🦺](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
 
   - xumm.app<sup>✔️</sup> <sup>React-Native iOS Android</sup>[🌎](https://xumm.app/) 
     - xumm 4 developers[📖](https://xumm.readme.io/)[🔨](https://apps.xumm.dev/)[▶️](https://www.youtube.com/channel/UCKQvUwtPjNUtkaIsYC34vHA/videos)[👨](https://xumm.readme.io/discuss)[👨](https://xrpl-labs.canny.io/)
@@ -639,7 +639,7 @@ Signal Provider*</sub>
 ###### <sub>*2-ethwal*</sub>🚪
 ###### <sub>*2-evmwal*</sub>🚪
 ### - ethereum self custodial wallets 👛
-[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [⚠️](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
+[⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [🦺](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
 
   - metamask<sup>✔️</sup>+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
     - metamask tutorials[▶️](https://youtu.be/ZW0vsBrYNuI)[▶️](https://youtu.be/tw-tQD0jztE)[▶️](https://youtu.be/OsRIHlr0_Iw)[▶️](https://youtu.be/byWul4xOBx0)
