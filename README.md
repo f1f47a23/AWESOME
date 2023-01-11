@@ -77,8 +77,8 @@
 ### - xrpl servers [{✘}](https://xrpl.org/xrpl-servers.html)
 
   - rippled server daemon
-    - **XRPLF/rippled**<sup>✔️ C++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
-     - Rippled Source Code Guide <sup>*v1.5 xrpintel*</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp)  
+    - **XRPLF/rippled**<sup>✔️ c++ linux/mac/windows</sup>[🧱](https://github.com/XRPLF/rippled)[{✘}](https://xrplf.github.io/rippled/) <sub>*Rippled Server Software for the XRP Ledger*</sub>
+     - Rippled Source Code Guide <sup>v1.5 xrpintel</sup>[🌎](https://xrpintel.com/source)[📁](https://github.com/f1f47a23/AWESOME/tree/main/docs/xrp)  
   - []()
   - rippled servers nodes
     - validators[🌎](https://xrpscan.com/validators)
@@ -97,18 +97,18 @@
       - richard/memo-pow-benchmark[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/memo-pow-benchmark)
       - richard/peer-connection[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/peer-connection)
       - richard/validator-address-tool[🧱](https://github.com/RichardAH/xrpl-tools/tree/master/validator-address-tool)
-    - richard/xrpl-fetch-unl <sup>*js*</sup>[🧱](https://github.com/RichardAH/xrpl-fetch-unl)
+    - richard/xrpl-fetch-unl <sup>js</sup>[🧱](https://github.com/RichardAH/xrpl-fetch-unl)
     - ripple/tx-reporter[🧱](https://github.com/ripple/tx-reporter)
-    - ripple/validator-history-service <sup>*js/ts*</sup>[🧱](https://github.com/ripple/validator-history-service)
-    - ripple/validator-keys-tool <sup>*C++*</sup>[🧱](https://github.com/ripple/validator-keys-tool) <sub>*Generate master and ephemeral rippled validator keys*</sub>
-    - ripple/validator-domain-verifier <sup>*js*</sup>[🧱](https://github.com/ripple/validator-domain-verifier)
+    - ripple/validator-history-service <sup>js/ts</sup>[🧱](https://github.com/ripple/validator-history-service)
+    - ripple/validator-keys-tool <sup>c++</sup>[🧱](https://github.com/ripple/validator-keys-tool) <sub>*Generate master and ephemeral rippled validator keys*</sub>
+    - ripple/validator-domain-verifier <sup>js</sup>[🧱](https://github.com/ripple/validator-domain-verifier)
     - ripple/rippledmon[🧱](https://github.com/ripple/rippledmon)
-    - ripple/ripple-libpp <sup>*C++*</sup>[🧱](https://github.com/ripple/ripple-libpp) <sub>*Standalone RCL-compatible transaction signing and serialization library*</sub>
-    - xpring-eng/xrpl-validator-domains <sup>*js/ts*</sup>[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
-    - xpring-eng/rippled-network-crawler <sup>*js*</sup>[🧱](https://github.com/xpring-eng/rippled-network-crawler)
+    - ripple/ripple-libpp <sup>c++</sup>[🧱](https://github.com/ripple/ripple-libpp) <sub>*Standalone RCL-compatible transaction signing and serialization library*</sub>
+    - xpring-eng/xrpl-validator-domains <sup>js/ts</sup>[🧱](https://github.com/xpring-eng/xrpl-validator-domains)
+    - xpring-eng/rippled-network-crawler <sup>js</sup>[🧱](https://github.com/xpring-eng/rippled-network-crawler)
     - ***`more xrpl tools`***[👇](#1-xrpdevtool)<sup>*1*</sup>
   - []()
-  - clio server<sup>✔️</sup> <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
+  - clio server<sup>c++</sup> <sup>*`📡 research`*</sup>[{✘}](https://xrpl.org/blog/2022/introducing-clio.html)[{✘}](https://xrpl.org/the-clio-server.html)[{✘}](https://xrpl.org/manage-the-clio-server.html)[🧱](https://github.com/XRPLF/clio)[🧱](https://github.com/XRPLF/clio-packages) <sub>*can help reduce the load on rippled servers running in p2p mode*</sub>  
   - []()
 
 
@@ -125,11 +125,11 @@
     - XRPL-Labs/xrpl-client[🧱](https://github.com/XRPL-Labs/xrpl-client) <sub>*Connect to the XRP Ledger using WebSockets*</sub>
     - N3TC4T/python-xrpl-websocket <sup>py</sup>[🧱](https://github.com/N3TC4T/python-xrpl-websocket)
     - Transia-RnD/[🧱](https://github.com/Transia-RnD/)
-      - Transia-RnD/XrplCSharp <sup>C#</sup>[🧱](https://github.com/Transia-RnD/XrplCSharp) <sub>*Library to interact with the XRP Ledger*</sub>
-      - Transia-RnD/xrpl.csharp.unity <sup>C# unity</sup>[🧱](https://github.com/Transia-RnD/xrpl.csharp.unity) <sub>*Unity Package to interact with the XRP Ledger*</sub>
-      - Transia-RnD/XRPLSwift <sup>Swift Linux</sup>[🧱](https://github.com/Transia-RnD/XRPLSwift) <sub>*Library to interact with the XRP Ledger*</sub>
-    - chriswill/RippleDotNet <sup>C#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
-    - AlexanderBuzz/xrpl-php <sup>PHP</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
+      - Transia-RnD/XrplCSharp <sup>c#</sup>[🧱](https://github.com/Transia-RnD/XrplCSharp) <sub>*Library to interact with the XRP Ledger*</sub>
+      - Transia-RnD/xrpl.csharp.unity <sup>c# unity</sup>[🧱](https://github.com/Transia-RnD/xrpl.csharp.unity) <sub>*Unity Package to interact with the XRP Ledger*</sub>
+      - Transia-RnD/XRPLSwift <sup>swift Linux</sup>[🧱](https://github.com/Transia-RnD/XRPLSwift) <sub>*Library to interact with the XRP Ledger*</sub>
+    - chriswill/RippleDotNet <sup>c#</sup>[🧱](https://github.com/chriswill/RippleDotNet) <sub>*Ripple WebSocket APIs*</sub>
+    - AlexanderBuzz/xrpl-php <sup>php</sup>[🧱](https://github.com/AlexanderBuzz/xrpl-php) <sub>*Library to interact with XRP Ledger*</sub>
   - []()
   - account and transactions tools and examples
     - xrpl-tools<sup>✔️</sup>[{✘}](https://xrpl.org/dev-tools.html)
@@ -282,7 +282,7 @@
     - XRPL-Labs/XUMM-App[🧱](https://github.com/XRPL-Labs/XUMM-App) 
     - XRPL-Labs/Xumm-Universal-SDK <sup>js/ts</sup>[🧱](https://github.com/XRPL-Labs/Xumm-Universal-SDK) <sub>*One SDK to rule them all. Universal CLI, Browser, xApp SDK*</sub>
       - XRPL-Labs/XUMM-SDK <sup>js/ts</sup>[🧱](https://github.com/XRPL-Labs/XUMM-SDK)[🧱](https://github.com/XRPL-Labs/xApp-SDK)[🧱](https://github.com/XRPL-Labs/XummPkce)
-    - XRPL-Labs/XUMM-SDK <sup>C#</sup>[🧱](https://github.com/XRPL-Labs/XUMM.NET.SDK)<sup>py</sup>[🧱](https://github.com/XRPL-Labs/xumm-sdk-py)<sup>php</sup>[🧱](https://github.com/XRPL-Labs/XUMM-SDK-PHP)
+    - XRPL-Labs/XUMM-SDK <sup>c#</sup>[🧱](https://github.com/XRPL-Labs/XUMM.NET.SDK)<sup>py</sup>[🧱](https://github.com/XRPL-Labs/xumm-sdk-py)<sup>php</sup>[🧱](https://github.com/XRPL-Labs/XUMM-SDK-PHP)
     - XRPL-Labs/XUMM-Issue-Tracker[🧱](https://github.com/XRPL-Labs/XUMM-Issue-Tracker)
   - []()
   - gemwallet<sup>✔️</sup> <sup>Chrome Ext</sup>[🌎](https://gemwallet.app/) [{§}](https://xrpl.org/blog/2022/gemwallet.html) [📖](https://gemwallet.app/docs/user-guide/introduction)[▶️](https://www.youtube.com/@gemwallet3862) <sub>*GemWallet brings the XRPL payments to your web browser*</sub>
