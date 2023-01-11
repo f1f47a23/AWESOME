@@ -273,7 +273,7 @@
 <br><br>
 
 
-### - XRP self custodial wallets 👛
+### - XRP self custodial wallets<sup>👛</sup>
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [🦺](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
 
   - xumm.app<sup>✔️</sup> <sup>React-Native iOS Android</sup>[🌎](https://xumm.app/) 
@@ -638,7 +638,7 @@ Signal Provider*</sub>
   
 ###### <sub>*2-ethwal*</sub>🚪
 ###### <sub>*2-evmwal*</sub>🚪
-### - ethereum self custodial wallets 👛
+### - ethereum self custodial wallets<sup>👛</sup>
 [⚠️](https://cointelegraph.com/news/only-1-of-people-can-handle-crypto-self-custody-right-now-binance-ceo) <sub>*Only 1% of people can handle crypto self-custody*</sub> [🦺](https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429)
 
   - metamask<sup>✔️</sup>+snaps[🦊](https://metamask.io/) <sub>*tokens NFT dapps*</sub>
