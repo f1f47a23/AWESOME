@@ -489,12 +489,13 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - ***`metamask+snaps`***[👇](#2-ethwal)
     - ***`ethereum smart contracts`***[👇](#--solidity)
   - []()
-  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)[🧱](https://github.com/seelabs/xbridge_witness)[🧱](https://github.com/XRPLF/rippled/pull/4292)
+  - witness sidechains[🌎](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)
+    - seelabs/xbridge_witness[🧱](https://github.com/seelabs/xbridge_witness)
+    - XRPLF/rippled/pull/4292[🧱](https://github.com/XRPLF/rippled/pull/4292)
   - []()
-  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)[🧱](https://github.com/xpring-eng/sidechain-launch-kit)[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
-  - []()
-  - other sidechains 
+  - federated sidechains[🌎](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)[🌎](https://dev.to/ripplexdev/ripplex-releases-engineering-preview-of-proposed-federated-sidechains-system-3ncp)[{✘}](https://xrpl.org/federated-sidechains.html)[▶️](https://youtu.be/NhH4LM8NxgY)[▶️](https://youtu.be/2UNoeJ3oOSQ)[▶️](https://youtu.be/QewtMvmolcw)
     - xpring-eng/sidechain-launch-kit <sup>py</sup>[🧱](https://github.com/xpring-eng/sidechain-launch-kit)
+    - rippled/docs/sidechain[🧱](https://github.com/XRPLF/rippled/tree/sidechain/docs/sidechain)
   - []()
 
 
@@ -687,7 +688,7 @@ Signal Provider*</sub>
     - tintinweb/smart-contract-sanctuary-ethereum[🧰](https://github.com/tintinweb/smart-contract-sanctuary-ethereum)[🧰](https://github.com/tintinweb/smart-contract-sanctuary)
     - thirdweb-dev/contracts[🧰](https://github.com/thirdweb-dev/contracts)
     - []()
-    - ethereum/evmone<sup>✔️</sup> <sup>C++</sup>[🧰](https://github.com/ethereum/evmone)[📝](https://morioh.com/p/e8a434b44310) <sub>*Fast Ethereum Virtual Machine implementation*</sub>
+    - ethereum/evmone<sup>✔️</sup> <sup>c++</sup>[🧰](https://github.com/ethereum/evmone)[📝](https://morioh.com/p/e8a434b44310) <sub>*Fast Ethereum Virtual Machine implementation*</sub>
       - ethereum/evmc api[🧰](https://github.com/ethereum/evmc)[📖](https://evmc.ethereum.org/)
       - chfast/intx[🧰](https://github.com/chfast/intx) <sub>*extended precision integer library*</sub>
       - chfast/ethash[🧰](https://github.com/chfast/ethash) <sub>*implementation of Ethash, the Ethereum Proof of Work algorithm*</sub>
