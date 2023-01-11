@@ -342,6 +342,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - nguyenvanhoang26041994/xrplwhale-alert[🧱](https://github.com/nguyenvanhoang26041994/xrplwhale-alert)
     - sologenic/sologenic-xrpl-stream-js[🧱](https://github.com/sologenic/sologenic-xrpl-stream-js)
     - covecredit/xrpl-cli <sup>py 🚧</sup>[🧱](https://github.com/covecredit/xrpl-cli) <sub>*Command line utilities for working with the XRPL*</sub>
+    - runziggurat/ <sup>rust 🚧</sup>[🧱](https://github.com/runziggurat) [{§}](https://xrpl.org/blog/2022/ziggurat.html) <sub>*provides multiple blockchain networks with multiple layers of stability*</sub>
   - []()
   - ***`nft/tokens/dex/defi services`***[👇](#2-xrpnft)
   - []()
@@ -463,7 +464,6 @@ or Mint NFTs on a Decentralized Ecosystem*</sub>
     - onxrp.com <sup>*ecosystem*</sup>[🌎](https://onxrp.com/about/)[📖](https://onxrp.com/wp-content/uploads/2022/04/onxrp_whitepaper_1.1-2.pdf)
     - stably.io[🌎](https://www.stably.io/) [{§}](https://xrpl.org/blog/2023/stably.html) <sub>*...*</sub>
     - radynamics/Iso20022 <sup>java</sup>[🧱](https://github.com/radynamics/CryptoIso20022Interop) [{§}](https://xrpl.org/blog/2022/cryptoiso20022interop.html) <sub>*Accounting Systems ISO20022 interoperability*</sub>
-    - runziggurat/[🧱](https://github.com/runziggurat) [{§}](https://xrpl.org/blog/2022/ziggurat.html) <sub>*🚧provides multiple blockchain networks with multiple layers of stability*</sub>
     - checksum[🧱](https://github.com/checksumso/) <sub>*open-source platform to manage checking, invoicing, and payroll for institutions and corporate accounts*</sub>
   - []()
   - ***`EVM defi dex oracles⬡`***[👇](#--web3-defi-dex)
