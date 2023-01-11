@@ -343,7 +343,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - sologenic/sologenic-xrpl-stream-js[🧱](https://github.com/sologenic/sologenic-xrpl-stream-js)
     - covecredit/xrpl-cli <sup>py 🚧</sup>[🧱](https://github.com/covecredit/xrpl-cli) <sub>*Command line utilities for working with the XRPL*</sub>
     - runziggurat/ <sup>rust 🚧</sup>[🧱](https://github.com/runziggurat) [{§}](https://xrpl.org/blog/2022/ziggurat.html) <sub>*provides multiple blockchain networks with multiple layers of stability*</sub>
-       - <sub>*ZCASH ALGORAND XRPL*</sub>
+       - <sub>*`ZCASH ALGORAND XRPL`*</sub>
   - []()
   - ***`nft/tokens/dex/defi services`***[👇](#2-xrpnft)
   - []()
