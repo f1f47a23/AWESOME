@@ -404,7 +404,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
     - TheBetterMint[🌎](https://thebettermint.vercel.app/)[🧱](https://github.com/thebettermint) <sub>*open-source B2B platform that can enable NFT functionality for your business*</sub>
     - mwni/xrplmeta[🧱](https://github.com/Mwni/xrplmeta)[🌎](https://xrplmeta.org/) <sub>*The API for Asset Metadata on the XRP Ledger*</sub>
     - x-Tokenize/[🧱](https://github.com/x-Tokenize) <sub>*Building tools to interact with the #XRPL*</sub>
-    - nftmaster.com[🌎](https://nftmaster.com/) [{§}](https://xrpl.org/blog/2022/nftmaster.html) <sub>**</sub>
+    - nftmaster.com[🌎](https://nftmaster.com/) [{§}](https://xrpl.org/blog/2022/nftmaster.html) <sub>*...*</sub>
     - XPT
       - xptxrpl[🌎](https://xptxrpl.com/)[🧱](https://github.com/TusharPardhe/xpt-website) <sub>*XRPL Portfolio Tracker account info*</sub>
       - TusharPardhe/XPT-Extension[🧱](https://github.com/TusharPardhe/XPT-Extension)
