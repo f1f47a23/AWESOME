@@ -377,7 +377,7 @@ It enables “Talents” - creators or makers, to launch their own token*</sub>
 
 ******
 
-## `2.1 XRPL WEB3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐]()<br>
+## `2.1 XRPL WEB3` ![image](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) [⭐](https://imgur.com/a/cGsRd6x)<br>
 
 <br><br>
 
