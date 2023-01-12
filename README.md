@@ -742,7 +742,7 @@ Signal Provider*</sub>
   - DEX AMM
     - solidity-by-example<sup>✔️</sup> AMM[📖](https://solidity-by-example.org/defi/constant-sum-amm/)[📖](https://solidity-by-example.org/defi/constant-product-amm/)[📖](https://solidity-by-example.org/defi/stable-swap-amm)[▶️](https://www.youtube.com/watch?v=a56XeddkOtA&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=28)[▶️](https://www.youtube.com/watch?v=bppm8CjW3_o&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=29)[▶️](https://www.youtube.com/watch?v=-JhgcqvyYeM&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=38)[▶️](https://www.youtube.com/watch?v=Luff_OGvYtI&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=39)[▶️](https://www.youtube.com/watch?v=QNPyFs8Wybk&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=40)[▶️](https://www.youtube.com/watch?v=JSZbvmyi_LE&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=44)
   - []()
-  - why web3 sucks 🤮
+  - why web3 sucks [🤮](https://imgflip.com/memegenerator/228097860/Jim-Halpert-Explains)
     - life-itself/web3[🧰](https://github.com/life-itself/web3)[🌐](https://web3.lifeitself.org/) <sub>*critique of crypto web3*</sub>
     - is web3 🐂💩?[▶️](https://youtu.be/AGsllEF7w_g)[▶️](https://youtu.be/hDc4AI_gjxw)
     - nft legal issues[▶️](https://youtu.be/YQ_xWvX1n9g)[▶️](https://youtu.be/C6aeL83z_9Y)[▶️](https://youtu.be/_1PSvqho8UE)[▶️](https://youtu.be/Buq9xosvxX0)[▶️](https://youtu.be/msHRy-3WOaA)
